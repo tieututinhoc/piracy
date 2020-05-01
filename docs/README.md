@@ -222,7 +222,7 @@
 -   [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) - Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
 -   [Authorama](https://www.authorama.com/) - This public domain book site has a wide variety of ebooks for free, by Lewis Carroll, Emerson, Kafka, and more.
 -   [AvaxHome](https://avxhm.se/) - Movies, eBooks & more.
-    - [Mirror](https://avxhome.in/ebooks) 
+    -   [Mirror](https://avxhome.in/ebooks)
 -   [Baen](http://www.baen.com/catalog/category/view/s/free-library/) - You can download ebooks for HTML, RTF, Microsoft Reader and for Palm, Psion, and Window CE.
 -   [Bartleby](http://www.bartleby.com/ebook/) - While Bartleby charges for some titles, it has a free ebook store here.
 -   [Bibliomania](http://www.bibliomania.com/) - You will find over 2,000 classic texts from bibliomania, plus study guides, reference material and more.
@@ -257,9 +257,9 @@
 -   [KnowFree](http://knowfree.tradepub.com/) - Access free research, white papers, reports, case studies, magazines, and eBooks.
 -   [LeanPub](https://leanpub.com/) - eBooks on programming languages such as JavaScript, C#, PHP or Ruby and guidebooks.
 -   [LibGen](http://gen.lib.rus.ec/) - The website has now an app which lets you search their database and download the books via their desktop app.
-    - [Mirror 1](http://gen.lib.rus.ec/)
-    - [Mirror 2](https://libgen.pw/)
-    - [mirror 3](http://libgen.is/) 
+    -   [Mirror 1](http://gen.lib.rus.ec/)
+    -   [Mirror 2](https://libgen.pw/)
+    -   [mirror 3](http://libgen.is/)
 -   [LibriVox](https://librivox.org/) - Yet another pplatform that offers a free download of audiobooks all over the world.
 -   [ManyBooks](http://manybooks.net/) - You can conduct an advanced search, type in a title or author, browse categories or select books by language, from Finnish to Bulgarian to Catalan to Swedish.
 -   [Myanonamouse](http://www.myanonamouse.net/login.php?returnto=%2F) - Over 2 million torrents.
@@ -320,7 +320,7 @@
 -   [eLearning](https://www.torontopubliclibrary.ca) - Cisco, Mango, HSTalks and other eBook courses for free.
 -   [ForCoder.su](https://forcoder.su/) - Coding related courses and tutorials.
 -   [FreeCourseLab](https://freecourselab.com/) - Download Paid Udemy Courses Free.
-    - [Mirror](https://www.freecoursesonline.me/)
+    -   [Mirror](https://www.freecoursesonline.me/)
 -   [FreeCourseSite.com](https://freecoursesite.com/) - Provides Udemy courses for free.
 -   [freecoursesite.us](https://freecoursesite.us/) - Download All Udemy Paid Courses And Tutorials Free.
 -   [FreeCourses](http://freecoursesite.com/) - Alternative to freetutorials.us, provides similar service.
@@ -550,6 +550,9 @@
 
 ### Streaming Movies and TV shows
 
+-   [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player.
+    -   [Streamlink-Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
+    -   [Streamlink-Portable](https://github.com/streamlink/streamlink-portable) - A portable version of Streamlink for Windows
 -   [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/a2csq0/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman.
 -   [r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) - Reddit, random streaming sites.
 -   [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) - Alternate subreddit curated by /u/nbatman.
@@ -618,8 +621,8 @@
 -   [Fembed](https://fembed.com/)
 -   [Filmxy](https://www.filmxy.one/)
 -   [Goldesel.to](https://goldesel.to/) - You can ignore the Google Safe Bbrowsing warning. Movies, TV shows & more since over 15 years.
--   [HD Europix](https://europixhd.net/) 
-    - [Mirror](https://topeuropix.net/)
+-   [HD Europix](https://europixhd.net/)
+    -   [Mirror](https://topeuropix.net/)
 -   [KatmovieHD](https://katmoviehd.nl/) - Movies, TV Shows & sharing group.
 -   [LeonFlix](https://leonflix.net/)
 -   [OpenloadMovies.ac](https://openloadmovies.ac/)
@@ -949,6 +952,8 @@
 -   [The Ultimate Noob Guide for Hacking your Nintendo Switch](https://guide.sdsetup.com/) - Want to hack your Nintendo Switch but do not know where to start? Just follow this guide!.
 -   [For anyone looking for the actual classic Warcraft 3 installers (not Battle.net launcher nor Reforged)](https://www.removeddit.com/r/Piracy/comments/ewdlnd/for_anyone_looking_for_the_actual_classic/)
 -   [Playing Resident Evil Outbreak File#1 and File#2 Online Again! YES!](https://www.removeddit.com/r/residentevil/comments/5x99m9/playing_resident_evil_outbreak_file1_and_file2/)
+-   [List of DRM-free games](https://steam.fandom.com/wiki/List_of_DRM-free_games) - A list of games and software available on Steam that do not have DRM.
+-   [The Big List of DRM-Free Games on Steam](https://www.pcgamingwiki.com/wiki/The_Big_List_of_DRM-Free_Games_on_Steam) - List all games on Steam which are DRM-free.
 -   [GOD scraped URLs](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view) - All DDL links for games listed on the now-dead GoodOldDownloads site.
 -   [Free GOG PC Games](http://freegogpcgames.com/) - Magnet links site to download games from GOG.
 -   [cs.rin.ru](https://cs.rin.ru/) - Popular gaming piracy forum.
@@ -1181,7 +1186,6 @@
 -   [DODI](http://dodi-repacks.site/) - Similar like fit-girl repacks, known and trusted by thousend of peoples around the world.
 -   [ElAmigos Games](https://www.elamigos-games.com/) - Premium links to cracked PC games.
 -   [Emulator.Games](https://emulator.games/) - Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
--   [FitGirl Repacks](http://fitgirl-repacks.site/) - Popular DDL and torrent site for game repacks.
 -   [Kaoskrew](http://kaoskrew.org/) - Repacks from popular repacker SKIDROW, CPY, Razor1911, PLAZA etc.
 -   [Kapital Sin](http://www.kapitalsin.com/forum/)
 -   [NitroBlog](https://nblog.org/) - Plenty of ISOs, ROMs & repacks.
@@ -1428,6 +1432,8 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 -   [libre.io](https://boards.libre.io) - (requires login) - A small forum with some exclusive apps & games.
 -   [Mobilism Forum](https://forum.mobilism.org/index.php) - Large forum of mobile apps and books.
 -   [How to deGoogle LineageOS in 2019](https://old.reddit.com/r/privacy/comments/cldrym/how_to_degoogle_lineageos_in_2019/)
+-   [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download free Android applications directly from the Google Play Store.
+-   [Raccoon](https://raccoon.onyxbits.de/) - Java based APK Downloader which uses a fake Google Account (API Key) - to download free Android apps.
 
 ### Alternative app stores
 
@@ -1443,7 +1449,6 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 -   [RexDL](https://rexdl.com/) - Similar like RevDL, download free Android apps & games.
 -   [IndexOutOfBounds Store](https://store.ioob.pw/) - Streaming apps including Liveflix, PopFlix, SeriesDroid S2, and AnimeDroid S2.
 -   [Aurora OSS](https://gitlab.com/AuroraOSS/AuroraStore) - An open-source alternative for the Google Play Store.
--   [AuroraDroid](https://gitlab.com/AuroraOSS/auroradroid) - Aurora Droid is an unofficial, FOSS client for F-Droid.
 
 ### Mirrors and Mods
 
@@ -1862,10 +1867,11 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 ## Browser Extensions
 
+-   [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean.
+-   [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
 -   [Decentraleyes](https://decentraleyes.org/) - Protects against tracking with a local CDN (Content Delivery Network) - emulation.
 -   [Privacy Badger](https://www.eff.org/privacybadger) - Privacy Badger blocks spying ads and invisible trackers.
 -   [HTTPS Everywhere](https://www.eff.org/https-everywhere) - HTTPS Everywhere is a Firefox, Chrome, and Opera extension that encrypts your communications with many major websites, making your browsing more secure.
--   [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean.
 -   [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) - Just another adblocker based on uBlock Origin.
 -   [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/) - An anti-Adblock defuser for Nano Adblocker and uBlock Origin.
 -   [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) - The world's most popular userscript manager.
@@ -1882,6 +1888,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Reddit Enhancement Suite](http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
 -   [Browser Plugs](https://www.browserplugs.com/) - A Chrome "all-in-one" anti-fingerprinting protection extensions.
 -   [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Alters some JS APIs to prevent fingerprinting.
+-   [Canvas Fingerprint Blocker](https://github.com/joue-quroi/canvas-fingerprint-blocker) - Block HTML canvas element from being used for fingerprinting purposes.
 -   [Chameleon](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/) - Spoof your Firefox browser profile. Includes a few privacy enhancing options.
 -   [ClearURLs](https://gitlab.com/KevinRoebert/ClearUrls) - Remove tracking fields from URLs.
 -   [CSS Exfil Protection](https://github.com/mlgualtieri/CSS-Exfil-Protection) - Fixes several holes regarding [CSS manipulation](https://www.mike-gualtieri.com/css-exfil-vulnerability-tester)
@@ -1937,6 +1944,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Local YouTube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Download YouTube Videos without youtube-dl or external websites/tools.
 -   [Encrypt Discord Token](https://greasyfork.org/en/scripts/370576-encrypt-discord-token) - Encrypts your Discord token to prevent trojans from reading your localStorage files and finding your token. However, there are no guarantees that your account cannot get hacked.
 -   [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - Allows you to retrieve your user token for reference.
+-   [Youtube to Invidious](https://greasyfork.org/en/scripts/375264-youtube-to-invidious) - Scan page for Youtube embeds and urls and replace with Invidious.
 
 ### Userscript Managers
 
@@ -2148,7 +2156,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [A Simple Guide To A Better Ratio](https://www.removeddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) - A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 -   [Bravo List](https://www.bvlist.com/) - A public tracker directory.
 -   [Tracker Twitters](https://filenetworks.blogspot.com/2010/12/list-of-private-torrent-trackers.html) - List Of Private Torrent Trackers & BitTorrent News Accounts To Follow On Twitter.
--   [Trackers List](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
+-   [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
 -   [Root.yt](https://root.yt/) - Yet [another torrent proxy](https://www.reddit.com/r/Piracy/comments/fcq0v4/i_made_a_proxy_service_for_popular_sites_like_tpb/) - who aims to imrpvoe privacy and security by removing blacklisted domains.
 
 #### Private Trackers
@@ -2249,7 +2257,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [TorrentKing](https://torrentking.io/) - Torrentking is a popular movie torrent site.
 -   [Torrentz2](https://torrentz2.is/) - [(mirror)](https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
 -   [Torrents-csv.ml](https://torrents-csv.ml) - An open-source torrent search engine tracker for all sorts of torrents.
--   [Trackers list](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers which you can add in e.g. QB.
 -   [WebOas](https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
 -   [xbit.pw](http://xbit.pw/) - A Magnet site search engine.
 -   [YggTorrent](https://yggtorrent.ws/) - French tracker and search engine (has a download/upload ratio limitation).
@@ -2265,7 +2272,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Zone Annuaire](http://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
 -   [EZTV](https://eztv.io/) - EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
 -   [YTS](https://yts.am/) - Small-size HD movies from YIFY.
--   [trackerslist](https://github.com/ngosang/trackerslist) - An updated list of public BitTorrent trackers.
 -   [metal-tracker.com](http://en.metal-tracker.com/) - Heavy metal music tracker.
 -   [moviemagnet](http://moviemagnet.co/) - Verified torrents for movies.
 -   [HDSector](http://udush.com/) - Bollywood / Hindi / Hollywood HD Movies.
@@ -2561,32 +2567,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [FlixGrab](http://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
 -   [Netflix-proxy](https://github.com/ab77/netflix-proxy/) - Smart DNS proxy to bypass Netflix GeoIP restriction.
 
-### DDL Search Engines
-
--   [FileChef](http://filechef.com/) - Get direct download links for almost anything.
--   [Strixx](https://strixx.now.sh/) - Open Directory Search Tool.
--   [The Eye CGS Engine](https://cgs.the-eye.eu/)
--   [Musgle](http://www.musgle.com/) - Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results. Click on one of those results, and you will have a chance to directly download the song you are searching for - very smooth!.
--   [Jimmyr](http://www.jimmyr.com/mp3_search.php) - Yet abother Music search engine.
--   [lumpySoft.com](https://lumpysoft.com/) - A Google index search with predefined tags.
--   [Mattpalm.com](https://mattpalm.com/search/) - Get direct download links for almost anything.
--   [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) - Get direct download links for almost anything.
--   [wtfnzb](https://wtfnzb.pw/) - Open dir for Software.
--   [Abifog Open Directory Search Tool](https://opendirsearch.abifog.com/) - An open directory search tool.
--   [Crawli](https://crawli.net) - Searches for online/offline content.
--   [DDLSearch](http://ddlsearch.free.fr) - Meta search engine, the results are been displayed via Google search engine.
--   [filediva](http://www.filediva.com) - Yet another meta search engine.
--   [FilePursuit](https://filepursuit.com) - Meta search engine for Warez.
--   [Rapidlinks](https://rapidlinks.org) - (RU) - Russian search engine for various sharehoster.
--   [Alluc](https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters and file-hosters.
--   [IPLIVE](https://iplive.club/) - DDL search engine.
--   [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts like OpenLoad.
--   [ololo](https://ololo.to/) - A video streaming link search engine.
--   [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
--   [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
--   [Anonembed](http://anonembed.xyz/) - Search Engine for Openload,Streamango,Rapidvideo, Google Drive, Google photos, Verystream & more.
--   [FilesLoop](https://www.filesloop.com/) - Search and download torrents and files from various file hosting like Uploaded etc.
-
 ### Direct Download Streaming
 
 -   [Catchvideo.net](https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
@@ -2708,20 +2688,16 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [up4pc](https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive and Mega.
 -   [CB01.uno](https://cb01.gallery/) - (`IT`) - Movies, TV Shows and Animes.
 
-### Premium Link Generators
+### File hosts
 
 -   [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) - frequent updates.
 -   [Real-Debrid](https://real-debrid.com/) - Real-Debrid is an unrestricted downloader that allows you to quickly download files hosted on the Internet or instantly stream them into an innovative web player.
--   [Premiumize](https://www.premiumize.me/) - Combine direct and secure access to.
-    premium services.
+-   [Premiumize](https://www.premiumize.me/) - Combine direct and secure access to premium services.
 -   [Premiumizer](https://github.com/piejanssens/premiumizer) - Premiumizer is a download management tool for premiumize.me cloud downloads.
 -   [OffCloud](https://offcloud.com/?=85a8b709) - A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
 -   [Reevown](https://reevown.com/) - A free download service with which you can perform premium downloads.
-
-### Premium Link Hosts
-
 -   [File sharing table](https://nafanz.github.io/) - Regularly updated table of information about file hosts.
--   [Mega](https://mega.nz/) - :star2:.
+-   [Mega](https://mega.nz/)
 -   [OpenLoad](https://openload.co/)
 -   [RapidGator](https://rapidgator.net/)
 -   [4shared](https://www.4shared.com/)
@@ -2731,6 +2707,9 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Zippyshare](https://www.zippyshare.com/)
 -   [NitroFlare](http://nitroflare.net/)
 -   [PutLocker](https://www5.putlockertv.to/)
+-   [Oboom](https://www.oboom.com/) - (_free/paid_) - Provides up to 50 GB free space, Swiss made!
+-   [Smoozed](https://www.smoozed.biz/) - Claims to be the biggest multihoster, encrypted files and fast up-downloads.
+-   [globalupload.io](https://globalupload.io/) - IPFS and hash based services foryour files, a multi hosting option is planned.
 
 ### Open Directories
 
@@ -2762,6 +2741,31 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Andesite](https://github.com/nektro/andesite) - Easily manage access to your open directory through OAuth2.
 -   [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner.
 
+### Open directory Search Engines
+
+-   [FilePursuit](https://filepursuit.com) - Meta search engine for Warez.
+-   [FileChef](http://filechef.com/) - Get direct download links for almost anything.
+-   [Strixx](https://strixx.now.sh/) - Open Directory Search Tool.
+-   [Musgle](http://www.musgle.com/) - Musgle in action just type a song title, or the artist name, or both in a search bar and hit 'Enter' - you will be redirected to the Google page with relevant search results. Click on one of those results, and you will have a chance to directly download the song you are searching for - very smooth!.
+-   [Jimmyr](http://www.jimmyr.com/mp3_search.php) - Yet abother Music search engine.
+-   [lumpySoft.com](https://lumpysoft.com/) - A Google index search with predefined tags.
+-   [Mattpalm.com](https://mattpalm.com/search/) - Get direct download links for almost anything.
+-   [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/) - Get direct download links for almost anything.
+-   [wtfnzb](https://wtfnzb.pw/) - Open dir for Software.
+-   [Abifog Open Directory Search Tool](https://opendirsearch.abifog.com/) - An open directory search tool.
+-   [Crawli](https://crawli.net) - Searches for online/offline content.
+-   [DDLSearch](http://ddlsearch.free.fr) - Meta search engine, the results are been displayed via Google search engine.
+-   [filediva](http://www.filediva.com) - Yet another meta search engine.
+-   [Rapidlinks](https://rapidlinks.org) - (RU) - Russian search engine for various sharehoster.
+-   [Alluc](https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters and file-hosters.
+-   [IPLIVE](https://iplive.club/) - DDL search engine.
+-   [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts like OpenLoad.
+-   [ololo](https://ololo.to/) - A video streaming link search engine.
+-   [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
+-   [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
+-   [Anonembed](http://anonembed.xyz/) - Search Engine for Openload,Streamango,Rapidvideo, Google Drive, Google photos, Verystream & more.
+-   [FilesLoop](https://www.filesloop.com/) - Search and download torrents and files from various file hosting like Uploaded etc.
+
 ## Google Team Drives
 
 -   [Create Free TeamDrive](https://ihaxk.com/2020/03/09/free-google-team-drive/) - Allows you to easily create a free Google Team Drive account.
@@ -2779,7 +2783,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 ## File Sharing
 
--   [1337x Win App](https://github.com/sakshatshinde/1337x_WinApp/) - & [Wrapper for FitGirl Repacks](https://github.com/sakshatshinde/Fitgirl_Repacks_WinApp/releases) - A simple 1337x windows app created using nativefier, basically a fan made 1337x tool for the official website.
 -   [AutoRclone](https://github.com/xyou365/AutoRclone/) - AutoRclone is a FOSS project that uses [rclone](https://rclone.org/), [folderclone](https://github.com/Spazzlo/folderclone) + service accounts to upload/copy resources to Google Team Drive.
 -   [File & Image Uploader](http://z-o-o-m.eu/) - The most comprehensive program to upload files and images to different file-/image-hoster.
 -   [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
@@ -3191,6 +3194,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [iNFekt](https://infekt.ws/) - A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 -   [NFForce](http://nfforce.temari.fr/) - Another NFO viewer.
 -   [How To Get Everything On Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv/) - Recovered Link to a post by /u/huldre99.
+-   [Mega.nz Search Engine](http://megasearch.co/) - A search engine for Mega.nz files.
 -   [TheTrove](https://thetrove.net/) - The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
 -   [serials](http://www.serials.ws/) - Serial keys for software that may or may not work.
 -   [scenerules](https://scenerules.org/) - NFOs with rules and guidelines for scene releasing standards.
@@ -3239,6 +3243,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [How to get free Rock Band 1, 2 & 3 DLC without RGH/JTAG](https://www.removeddit.com/r/Piracy/comments/d4lohq/how_to_get_free_rock_band_1_2_3_dlc_without/) - Get Rock Band 1-3 working on PS3 and Wii/U & Xbox 360 without the need of using RGH/JTAG.
 -   [How to get ti-nspire CX student software for free, even after the free trial.](https://old.reddit.com/r/Piracy/comments/d5e70k/how_to_get_tinspire_cx_student_software_for_free/)
 -   [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
+-   [IPFessay](https://gitlab.com/stavros/IPFessay) - An easy way to publish uncensorable essays on IPFS.
 
 ### Transloading or (stream) - sharing Services
 
@@ -3256,9 +3261,9 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [ProxySite.cc](https://proxysite.cc/) - Free web proxy site to bypass filters and unblock blocked websites anonymously.
     -   [Mirror](https://proxysite.site/)
     -   [for Videos](https://proxysite.video/)
--   [Unblocked](https://unblocked-pw.github.io/) - Proxy site for accessing your favourite blocked sites.
 -   [netflix-proxy](https://github.com/ab77/netflix-proxy/) - Smart DNS proxy to unblock Netflix streams.
 -   [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) - Helm (Kubernetes based) - collection of charts related to different Usenet services (sabnzbd, radarr, sonarr etc).
+-   [Unblocked](https://unblocked-pw.github.io/) - A Proxy site for accessing your favorite blocked sites.
 
 ### Misc Browser Extensions
 
@@ -3269,9 +3274,17 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Remote Torrent Adder](https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en) - Allows you to send torrent files from your browser to your remote or local Bittorrent client's web interface.
 -   [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) - Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
 -   [Save To The Wayback Machine](https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk) - Quickly save web pages to the Internet Archive's Wayback Machine.
--   [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Redesign your favorite websites with Stylus, an actively developed and community driven userstyles manager.
+-   [Stylus](https://github.com/openstyles/stylus/) - Redesign your favorite websites with Stylus, an actively developed and community driven userstyles manager.
 -   [Onion Browser Button](https://chrome.google.com/webstore/detail/onion-browser-button/fockhhgebmfjljjmjhbdgibcmofjbpca?hl=en)
     -   [source code](https://github.com/jeremy-jr-benthum/tor-button)
+-   [Save to the Wayback Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
+-   [Search by Image](https://github.com/dessant/search-by-image) - Enables you to initiate a reverse image search from the context menu or the browser toolbar, and supports more than 30 search engines.
+-   [Stream Recorder](https://www.hlsloader.com/) - Chrome Extension for downloading streaming videos.
+-   [2read](https://2read.net/) - Convert article in current tab to readable form and upload it to IPFS.
+-   [User-Agent Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable.
+-   [Simple Translate](https://github.com/sienori/simple-translate) - Quickly translate selected text on web page.
+-   [h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos.
+-   [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is a crowdsourced browser extension to skip sponsor segments in YouTube videos.
 
 ### File Renaming and Tagging
 
@@ -3323,11 +3336,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC.
 -   [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
 -   [weboas.is](http://weboas.is/) - Another website for pirates.
-
-### Proxy Sites
-
--   [Unblocked](https://unblocked-pw.github.io/) - A Proxy site for accessing your favorite blocked sites.
--   [ByPassed](https://bypassed.wtf/) - ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 
 ### File Sharing Tools
 
@@ -3457,8 +3465,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [File Hosting Wiki](https://filehostlist.miraheze.org/wiki/Main_Page) - This site aims to provide the most complete lists of premium link generators, torrent downloaders and more, with (possibly) - frequent updates.
 -   [Filebin](https://filebin.net/) - Convenient file sharing on the web, without registration. Simply upload files and share the URL. The files will expire automatically 1 week from now.
 -   [Free Premium Leeches](https://filehostlist.miraheze.org/wiki/Free_Premium_Leeches) - Search up for the website you want to download from and pick from a massive list.
--   [Small File sharing table](https://nafanz.github.io/filesharing.html) - Small File sharing table which shows maximum file limit, language etc.
--   [Small cloud storage table](https://nafanz.github.io/cloudstorage.html) - Small cloud storage table which shows maximum file limit, language etc.
+-   [Small cloud storage table](https://nafanz.github.io/) - Small File sharing and cloud storage table which shows maximum file limit, language etc.
 -   [Mega-Debrid](https://www.mega-debrid.eu/) - 207 Hosters supported.
 -   [Premiumize](https://www.premiumize.me/) - Combine direct and secure access to premium services.
 -   [Premium Link Generator](https://ww.premiumlinkgenerator.com/) - Over 26 hosts to choose from (needs paid account).
@@ -3499,18 +3506,16 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [BestOfLinks](http://bestoflinks.synology.me) - And old looking toplist.
 -   [BGTop](https://bgtop.net) - (BL) - Bulgarian toplist.
 -   [Cyonix](https://www.cyonix.to) - Underground toplist with over 70 entries.
--   [DDL Rank](https://ddlrank.com) - Toplist for forums, download-sites, warez blogs and sharehoster.
 -   [DirtyWarez Top Sites](https://dirtywarez.org) - Toplist for forums, download-sites, warez blogs and sharehoster.
 -   [LinkR](https://www.linkr.top/index.php) - A good looking toplist, gets regularily updates.
 -   [Nydus Toplist](https://top.nydus.org) - Yet another good looking toplist.
 -   [Querverweis](https://www.querverweis.net) - A big german toplist with lots of entries.
--   [RaidRush](https://toplist.raidrush.ws) - (Ger)- One of the oldest german toplist provider.
+-   [RaidRush](https://toplist.raidrush.ws) - (NFSW Ads)- One of the oldest german toplist provider.
 -   [Toplist Warez](https://www.toplist.cz/warez) - (PL) - Polish warez toplist.
 -   [Uscene](https://www.uscene.net/warez.html) - A small but fine warez toplist.
 
 ### Online Video Converter/Ripper
 
--   [MP3Juices.cc](https://www.mp3juices.cc/) - Offers free MP3 downloads.
 -   [2conv.com](https://2conv.com/) - Convert videos from YouTube in 1 click!.
 -   [Flvto.biz](https://www.flvto.biz) - YouTube Online Converter for Video/Music.
 -   [Facebook Down](https://www.fbdown.net/) - Facebook Video Downloader.

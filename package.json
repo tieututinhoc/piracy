@@ -2,6 +2,7 @@
     "name": "piracy",
     "description": "It's illegal cuz they can't tax you!",
     "scripts": {
+        "lint": "awesome-lint docs",
         "dev": "vuepress dev docs",
         "build": "vuepress build docs"
     },

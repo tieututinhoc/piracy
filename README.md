@@ -2,8 +2,6 @@
   <a href="https://piracy.now.sh"><img width="200" src="https://piracy.now.sh/logo.svg" alt="arrrr!"></a>
 </p>
 
-<!--lint disable list-item-indent list-item-indent no-heading-punctuation awesome-toc awesome-git-repo-age no-repeat-punctuation-->
-
 # Piracy
 
 This list is an attempt to add structure to the resources you need to get started on your pirate voyage.
@@ -17,6 +15,8 @@ The owner ([Maximous Black](https://maximousblk.github.io/)) of this website is 
 If you believe that your work is accessible on this list in a way that constitutes copyright infringement, you may [create a GitHub issue](https://github.com/maximousblk/piracy/issues/new) to notify us.
 
 ### Credits
+
+This list exists because of
 
 -   All [contributors](https://github.com/maximousblk/piracy/graphs/contributors).
 -   [CHEF-KOCH/Warez](https://github.com/CHEF-KOCH/Warez)
@@ -39,7 +39,6 @@ If you believe that your work is accessible on this list in a way that constitut
 -   [package-lock.json](docs/package-lock.json) - Lock file for package manager.
 -   [package.json](docs/package.json) - Package manager configurations.
 -   [README.md](README.md) - This file.
--   [unsorted.md](unsorted.md) - Residual links from merging the warez and awesome-piracy. These either don't belong in this list or will eventually be merged.
 
 ## Frequently asked questions?
 
@@ -63,7 +62,7 @@ You can also use the GitHub's search and search in the repository.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! (But read the [contribution guidelines](contributing.md) first)
 
 ## License
 

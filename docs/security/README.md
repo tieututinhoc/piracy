@@ -10,7 +10,9 @@
 -   [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) - PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) - versions.
 -   [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) - List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
 -   [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
--   [How to Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) - PDF from weboas.is which shows how you self-host Qquestionable" websites.
+-   [Am I Unique?](https://amiunique.org/) - Learn how identifiable you are on the Internet
+-   [Simplewall](https://www.henrypp.org/product/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
+-   [I know What You Download](https://iknowwhatyoudownload.com/) - Check for what internet knows about you download history.
 
 ## Email
 
@@ -18,8 +20,10 @@
 -   [Cock.li](https://cock.li/) - Yeah it's mail with cocks.
 -   [Tutanota](https://tutanota.com/) - Secure, open source email service.
 -   [Mailbox](https://mailbox.org/en/) - Mailbox.org fights for privacy eMails since years and is a big player when it comes to eMail.
--   [Posteo](https://posteo.de/) - Email green, secure, simple and ad-free!
 -   [EmailDrop](https://www.emaildrop.io/) - Emaildrop is a free disposable email provider.
+-   [Dismail](https://dismail.de/) - Dismail provides a reliable eMail service wich is cheap.
+-   [mailbox.org](https://mailbox.org/) - First of his kind, fully transparent eMail provider.
+-   [Posteo](https://posteo.de/) - A german eMail service which offers a transparent eMail service.
 
 ### Temporary
 
@@ -140,9 +144,7 @@
 -   [Outline by Alphabet](https://www.getoutline.org/) - Not a traditional VPN but it might work with Google Cloud, AWS & more.
 -   [PeerVPN](https://peervpn.net/) - PeerVPN is a software that builds virtual ethernet networks between multiple computers.
 -   [Pritunl](https://pritunl.com/) - Enterprise Distributed OpenVPN and IPsec Server.
--   [Shadowsocks](https://shadowsocks.org/) - Secure SOCKS proxy used in China for bypassing the Great Firewall.
 -   [SoftEther VPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software.
--   [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 -   [Tailscale](https://github.com/tailscale/tailscal) - Tailscale is a mesh VPN that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports.
 -   [tinc](https://tinc-vpn.org/) - Peer-to-peer VPN software with mesh routing.
 -   [vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole.
@@ -196,8 +198,6 @@
 -   [GnUNet](https://gnunet.org/) - GNUnet is a framework for secure peer-to-peer networking that does not use any centralized or otherwise trusted services.
 -   [Psiphon](https://www.psiphon.ca/) - Run your own server, invite your friends, build a community, provide free and unfiltered Internet access to the world.
 -   [Scuttlebutt](https://www.scuttlebutt.nz/) - A decentralised secure gossip platform that aims to harmonize four perspectives of life: Environment reflecting Technology reflecting Community reflecting Society.
--   [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
--   [kalitorify](https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS.
 
 ### P2P Networks
 
@@ -211,6 +211,11 @@
 ## Proxy
 
 -   [v2rayN](https://github.com/2dust/v2rayN) - A proxy wrapper for Android and Windows.
+-   [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.
+-   [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+-   [kalitorify](https://github.com/brainfucksec/kalitorify) - Transparent proxy through Tor for Kali Linux OS.
+-   [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - A flexible DNS proxy, with support for modern encrypted DNS protocols.
+-   [Simple DNSCrypt](https://simplednscrypt.org/) - A simple management tool to configure dnscrypt-proxy on windows based systems.
 
 ### Reverse Proxies
 
@@ -224,6 +229,8 @@
 
 ## Router Firewalls
 
+-   [OpenWRT](https://openwrt.org/) - The OpenWrt Project is a Linux operating system targeting embedded devices.
+-   [VyOS.io](https://www.vyos.io/) - VyOS is a Linux-based network operating system that provides software-based network routing, firewall, and VPN functionality.
 -   [GufW](http://gufw.org/)
 -   [FlatPak](https://www.flatpak.org/)
 -   [IPFire](https://www.ipfire.org)
@@ -271,7 +278,7 @@
 -   [WPD](http://wpd.app/) - The real privacy dashboard for Windows.
 -   [Hard_Configurator](http://hard-configurator.com/) - GUI to manage Software Restriction Policy (SRP) - and harden Windows.
 -   [hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools is a utility that disables a number of risky Windows features.
--   [MSGM ToolKit](http://www.majorgeeks.com/files/details/msmg_toolkit.html) - Free program to customize Windows similar like NTLite bu without a nice looking GUI.
+-   [MSGM ToolKit](http://www.majorgeeks.com/files/details/msmg_toolkit.html) - Free program to customize Windows similar like NTLite but without a nice looking GUI.
 -   [NTLite](http://www.ntlite.com/) - Paid program to remove integrated telemetry, integrate updates & more.
 -   [How to remove viruses and malware on your Windows PC](https://www.howtogeek.com/126911/what-to-do-if-you-get-a-virus-on-your-computer/) - Helpful HowToGeek article on cleaning out the pipes.
 
@@ -281,6 +288,25 @@
 -   [DNSFilter](https://f-droid.org/en/packages/dnsfilter.android/) - No-root ad-blocker and DNS changer.
 -   [Nebulo DNS](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen) - DNS Changer for DNS over HTTPS/TLS.
 -   [AdAway](https://adaway.org/) - An open-source ad blocker for Android using the hosts file. needs ROOT access.
+
+## Browsers
+
+-   [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - Google Chromium, sans integration with Google.
+    -   [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium.
+-   [Bromite](https://www.bromite.org/) - A Chromium fork with ad blocking and privacy enhancements.
+
+## Search Engines
+
+-   [SearX](https://searx.space/) - A free internet metasearch engine which aggregates results from more than 70 search services.
+-   [MetaGer](https://metager.de/) - Search engine made in Germany.
+-   [DavidWon.com](http://davidwon.com/) - An alternative search engine for Reddit, Google etc which comes with pre-defined tags to find some things faster.
+-   [Ecosia](https://www.ecosia.org/?c=en) - Ecosia's search results are provided by Bing and enhanced by the company's own algorithms to strip away tracking.
+-   [Search Encrypt](https://www.searchencrypt.com/) - The Privacy Based Search Engine.
+-   [Swisscows](https://swisscows.com/) - Private and secure Search engine made from Swiss.
+-   [Jive Search](https://jivesearch.com/) - A search engine that doesn't track you.
+-   [Yippy](https://yippy.com/) - Another private search engine and replacement for Google Search.
+-   [Qwant](https://lite.qwant.com/) - Yet another search engine.
+
 
 ## Antivirus
 
@@ -359,7 +385,7 @@
 
 ## Virtualisation
 
--   [FireJail](http://firejail.wordpress.com/download-2/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
+-   [FireJail](http://firejail.wordpress.com/) - Firejail is a SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.
 -   [FlatPak](http://flatpak.org/getting) - Standalone apps for Linux are here!
 -   [KVM](http://www.linux-kvm.org/page/Main_Page) - KVM (for Kernel-based Virtual Machine) - is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
 -   [Sandboxie](http://www.sandboxie.com/) - Install and run programs in a virtual sandbox (software based) - environment without writing to the hard drive itself.
@@ -370,7 +396,7 @@
 
 -   [AdBlock Radio](https://github.com/adblockradio/adblockradio) - Block ads on live radio streams and podcasts. Machine learning meets Shazam!
 -   [AdGuard](https://adguard.com/en/welcome.html) - Claims to be the worlds most advance ad-blocker.
--   [Filterlists](https://filterlists.com/) - Provides an overview of Ad blocking filters/projects.
+-   [Filterlists](https://filterlists.com/) - An  independent directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 -   [uBlock origin](https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
 -   [An Overview of Ad Blocking Technology](https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad-Blocker works.
 -   [Wikipedia's Website about Ad blocking](https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's info page about ad-blockers.
@@ -417,6 +443,9 @@
 -   [Pleroma](https://pleroma.social/) - Host your own social media.
 -   [social.privacytools.io](https://social.privacytools.io/about/) - Mastodon instance by PrivacyTools, a volunteer-run privacy centered collective.
 -   [Stream.io](https://Stream.io) - Tries to combine all social networks into one place (_currently beta_).
+-   [NextCloudTalk](https://nextcloud.com/talk/) - Basically, Hangouts via NextCloud.
+-   [Jitsi](https://jitsi.org/) - Decrentralized chat, eMail platform.
+-   [JMP.chat](https://jmp.chat/)
 
 ## Payment
 
@@ -453,8 +482,10 @@
 ## Domain Names
 
 -   [Domainr](https://domainr.com/) - Domainr allows you to find domain names and short URLs. Instantly check availability and register for all top-level domains.
--   [Njalla](https://njal.la/) - A privacy-aware domain registration service.
 -   [xip.io](http://xip.io/) - Magic domain name that provides wildcard DNS for any IP address.
+-   [Namecheap](https://www.namecheap.com/) - Namecheap accepts Bitcoin and offers domain registration, hosting, email, SSL certs, and a variety of other products.
+-   [Njalla](https://njal.la/) - Privacy-focused domain registration service based in Nevis.
+-   [OrangeWebsite](https://www.orangewebsite.com/) - Anonymous domain registration services and also accepts cryptocurrency payments, based in Iceland.
 
 ## Secure PasteBin alternatives
 
@@ -491,21 +522,8 @@
 -   [SecureImage](https://www.phpcaptcha.org/) - Yet another alternative to Google's reCAPTCHA system which is open source.
 -   [PrivacyPass](https://privacypass.github.io/team/) - A privacy-preserving and frustration-reducing alternative to CAPTCHAs which uses [Trust API](https://github.com/dvorak42/trust-token-api) - principles. A standalone API is planned.
 
-### Google Domains
 
--   [Namecheap](https://www.namecheap.com/) - Namecheap accepts Bitcoin and offers domain registration, hosting, email, SSL certs, and a variety of other products.
--   [Njalla](https://njal.la/) - Privacy-focused domain registration service based in Nevis.
--   [OrangeWebsite](https://www.orangewebsite.com/) - Anonymous domain registration services and also accepts cryptocurrency payments, based in Iceland.
 
-### Google Search
-
--   [SearX](https://github.com/asciimoo/searx/wiki/Searx-instances) - Open Source based search engine.
--   [MetaGer](https://metager.de/) - Search engine made in Germany.
-
-### Google Hangouts
-
--   [NextCloudTalk](https://nextcloud.com/talk/) - Basically, Hangouts via NextCloud.
--   [Jitsi](https://jitsi.org/) - Decrentralized chat, eMail platform.
 
 ### Google Analytics
 
@@ -517,11 +535,7 @@
 
 -   [JotForm](https://www.jotform.com/) - JotForm is a free online form builder.
 
-### Google GMail
 
--   [Dismail](https://dismail.de/) - Dismail provides a reliable eMail service wich is cheap.
--   [mailbox.org](https://mailbox.org/) - First of his kind, fully transparent eMail provider.
--   [Posteo](https://posteo.de/) - A german eMail service which offers a transparent eMail service.
 
 ### Google Docs + Sheets + Slides
 
@@ -549,13 +563,7 @@
 -   [Google WebFont Helper](https://google-webfonts-helper.herokuapp.com/fonts) - Allows you to download Google fonts, which then could be integrated via CSS into your website.
 -   [Font Squirrel](https://www.fontsquirrel.com/) - Yet another alternative, fully transparent to integrate webfonts into your website.
 
-### Google Play Store
 
--   [F-Droid](https://f-droid.org/) - F-Droid is a open source alternative to Google's Play Store.
--   [Aurora Store](https://f-droid.org/en/packages/com.aurora.store/) - Allows you the usage of Google Play Store but without lossing your privacy!
--   [Yalp Store](https://f-droid.org/packages/com.github.yeriomin.yalpstore/) - Similar like Aurora Store, both apps are foss.
--   [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download free Android applications directly from the Google Play Store.
--   [Raccoon](https://raccoon.onyxbits.de/) - Java based APK Downloader which uses a fake Google Account (API Key) - to download free Android apps.
 
 ### Google Earth
 
@@ -565,7 +573,4 @@
 
 -   [Projekt Leon-AI](https://github.com/leon-ai/leon) - A good alternative to Google's Home service.
 
-### Google Voice
 
--   [JMP.chat](https://jmp.chat/)
--   [Jitsi Meet - Free and open source online video chat](https://meet.jit.si/)
