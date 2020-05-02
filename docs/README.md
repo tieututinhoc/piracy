@@ -2943,14 +2943,14 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Orpheus](https://orpheus.network/) - Formerly known as Apollo.
 -   [p2p-network.net channel list](https://search.mibbit.com/channels/p2p-network) - List of all channels on the p2p-network.net IRC network.
 
-| Name | IRC Address | description |.
-| ---------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |.
-| Beast-XDCC | [`irc://irc.abjects.net/BEAST-XDCC`](irc://irc.abjects.net/BEAST-XDCC) - | One more XDCC source. |.
-| IRCHighway - ebooks | [`irc://irc.irchighway.net/ebooks`](irc://irc.irchighway.net/ebooks) - | A nice, friendly irc channel for trading ebooks. |.
-| Undernet - bookz | [`irc://irc.undernet.org/bookz`](irc://irc.undernet.org/bookz) - | For downloading ebooks (use `@search <book name>` for a list of available ebooks) - |.
-| Abandoned IRC - ZOMBIE WAREZ | [`irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ`](irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ) - | Zombie Warez channel for various software. |.
-| Moviegods | [`irc://irc.abjects.net/MOVIEGODS`](irc://irc.abjects.net/MOVIEGODS) - | XDCC file sharing network, join #mg-chat to continue downloading |.
-| The Source | [`irc://irc.scenep2p.net/THE.SOURCE`](irc://irc.scenep2p.net/THE.SOURCE) - | Another XDCC source |.
+| Name                         | IRC Address                                                                                | description                                                                         |
+| ---------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| Beast-XDCC                   | [`irc://irc.abjects.net/BEAST-XDCC`](irc://irc.abjects.net/BEAST-XDCC) -                   | One more XDCC source.                                                               |
+| IRCHighway - ebooks          | [`irc://irc.irchighway.net/ebooks`](irc://irc.irchighway.net/ebooks) -                     | A nice, friendly irc channel for trading ebooks.                                    |
+| Undernet - bookz             | [`irc://irc.undernet.org/bookz`](irc://irc.undernet.org/bookz) -                           | For downloading ebooks (use `@search <book name>` for a list of available ebooks) - |
+| Abandoned IRC - ZOMBIE WAREZ | [`irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ`](irc://irc.abandoned-irc.net/#ZOMBIE-WAREZ) - | Zombie Warez channel for various software.                                          |
+| Moviegods                    | [`irc://irc.abjects.net/MOVIEGODS`](irc://irc.abjects.net/MOVIEGODS) -                     | XDCC file sharing network, join #mg-chat to continue downloading                    |
+| The Source                   | [`irc://irc.scenep2p.net/THE.SOURCE`](irc://irc.scenep2p.net/THE.SOURCE) -                 | Another XDCC source                                                                 |
 
 ### IRC Search Engines
 
@@ -3201,7 +3201,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [SceneLinkList](https://www.scenelinklist.com/) - SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
 -   [TheWarezFolder](http://thewarezfolder.com/) - Fairly out of date categorised list of warez sites.
 -   [castnow](https://github.com/xat/castnow) - Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
--   [Grabber](https://grabber.co.in/) - Download stock images from Shutterstock.
 -   [The Pirate Society](https://thepiratesociety.org/forums/) - A mysterious members-only forum for pirates.
 -   [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) - Online video player for watching the new interactive episode of Black Mirror, "Bandersnatch".
 -   [Familienforum.biz](http://www.familienforum.biz/) - Sky cracking news, and other topics.
@@ -3221,7 +3220,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Everything](https://www.voidtools.com/) - Locate files and folders by name on Windows instantly.
 -   [TheRenamer.com](http://therenamer.com/) - Automatically organize, move, and rename downloaded TV shows and movies.
 -   [ShowRSS.info](http://showrss.info/) - Compile a list of TV shows that you follow and generate an RSS link that you can put in your torrent client to automatically download new episodes as they are released based on the quality that you want (480p, 720p, 1080p, REPACK, etc).
--   [firefox_bookmarkscraper.py](https://github.com/ZeroOne010101/firefox_bookmarkscraper.py) - Querys the html of all Firefox bookmarks in a specific folder for a keyword, and prints the url's of sites the keyword was found in.
 -   [Generate-HoustonLibrary-Codes](https://github.com/SharlSherif/Generate-HoustonLibrary-Codes) - A simple script to automate the process of getting a card number from Houstonlibrary.org in order to get free access to Lynda.com.
 -   [Unblocked](https://unblocked.mx/) - A service which links to official mirror websites or proxy your fav. warez website in case it was GeoIP blocked.
 -   [Unlimited Mega.nz-IDM-downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) - Download Mega.nz without any limits.
@@ -3258,9 +3256,8 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [AvoidCensorship](https://avoidcensorship.org/) - Unblock ThePirateBay (TPB).
 -   [ByPassed](https://bypassed.wtf/) - ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 -   [hola-proxy](https://github.com/Snawoot/hola-proxy) - A standalone Hola proxy client which allows access via residental proxies.
--   [ProxySite.cc](https://proxysite.cc/) - Free web proxy site to bypass filters and unblock blocked websites anonymously.
-    -   [Mirror](https://proxysite.site/)
-    -   [for Videos](https://proxysite.video/)
+-   [CroxyProxy](https://www.croxyproxy.com/) - Free web proxy site to bypass filters and unblock blocked websites anonymously.
+    -   [Mirror](https://www.croxyproxy.rocks/)
 -   [netflix-proxy](https://github.com/ab77/netflix-proxy/) - Smart DNS proxy to unblock Netflix streams.
 -   [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) - Helm (Kubernetes based) - collection of charts related to different Usenet services (sabnzbd, radarr, sonarr etc).
 -   [Unblocked](https://unblocked-pw.github.io/) - A Proxy site for accessing your favorite blocked sites.
@@ -3304,14 +3301,12 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 ### Pirate News, Blogs & Discussion Forums
 
 -   [NextWarez](https://nextwarez.com) - P2P topics & news page.
--   [Scenenotice.org](https://scenenotice.org) - Archive with over 1 GB of old Realeaser-Scene.
 -   [szeneBOX.org](https://www.szenebox.org) - (needs VPN) - Forum & News around the Scene.
 -   [Tarnkappe.info](https://tarnkappe.info) - News & Rumours, Blog & Forum.
 -   [/f/Piracy](https://raddle.me/f/Piracy) - Alternative to Reddit, Raddle forum.
 -   [r/privacy](https://www.removeddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
 -   [TechWorm](https://www.techworm.net) - Techworm is a Tech, Cyber-security news platform.
 -   [TorrentFreak](https://torrentfreak.com) - TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
--   [Tunny.to](https://tunny.to) - DDL.to & VUP.to Blog.
 -   [/v/piracy](https://voat.co/v/piracy) - Voat forum for piracy related discussions.
 
 ### PreDB Sites
@@ -3323,11 +3318,10 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [WarezBot](https://github.com/enzobes/WarezBot) - Discord bot for scene releases.
 -   [NSW Releases](http://nswdb.com/) - Nintendo Switch scene releases.
 -   [3DS Releases](http://3dsdb.com/) - Nintedo 3DS scene releases.
--   [NSWDBot](https://github.com/HunterKing/NSWDBot) - A discord bot for scraping NSWDB.com for "Scene" releases.
 
 ### Dashboards and Homepages
 
--   [Anonmasky](https://github.com/Anonmasky/anonmasky.github.io) - Anonmasky is a beautiful startpage for geeks out there. Clone of weboas.is.
+-   [weboas.is](http://weboas.is/) - Another website for pirates.
 -   [Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher.
 -   [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) - A fully responsive interface to manage all your favorite software on your Htpc.
 -   [iDashboard-PHP](https://github.com/causefx/iDashboard-PHP) - HTPC Dashboard to load website services, written in PHP (predecessor to Organizr).
@@ -3335,7 +3329,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Monitorr](https://github.com/Monitorr/Monitorr) - Self-hosted PHP-based web front platform that displays the status of any webapp or service in real time.
 -   [Muximux](https://github.com/mescon/Muximux) - A lightweight way to manage your HTPC.
 -   [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP.
--   [weboas.is](http://weboas.is/) - Another website for pirates.
 
 ### File Sharing Tools
 
@@ -3483,7 +3476,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [LinkSnappy](https://linksnappy.com/)
 -   [Mediafire](https://www.mediafire.com/)
 -   [Mega.nz](https://mega.nz/) - (_privacy concerns_).
--   [OpenLoad](https://openload.co/)
 -   [PutLocker](https://www5.putlockertv.to/)
 -   [RapidGator](https://rapidgator.net/)
 -   [Sendspace](https://www.sendspace.com/)
