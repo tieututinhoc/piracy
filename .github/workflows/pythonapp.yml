@@ -27,7 +27,3 @@ jobs:
         archivenow --ia https://piracy.now.sh/laws/
         archivenow --ia https://piracy.now.sh/dead/
         archivenow --ia https://maximousblk.github.io/piracy/
-    - name: Check For broken links
-      run: |
-        python check_links.py
-        
