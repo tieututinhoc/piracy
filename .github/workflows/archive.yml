@@ -1,7 +1,7 @@
 name: archive
 
 on:
-  deployment
+  deployment_status
 
 jobs:
   archive:
