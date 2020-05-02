@@ -1,7 +1,4 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
-
-name: Python application
+name: Archive website
 
 on:
   push:
@@ -24,8 +21,13 @@ jobs:
         pip install archivenow
     - name: Archive pages
       run: |
-        # stop the build if there are Python syntax errors or undefined names
-        archivenow --all https://piracy.now.sh/
+        archivenow --ia https://piracy.now.sh/
+        archivenow --ia https://piracy.now.sh/about/
+        archivenow --ia https://piracy.now.sh/security/
+        archivenow --ia https://piracy.now.sh/laws/
+        archivenow --ia https://piracy.now.sh/dead/
+        archivenow --ia https://maximousblk.github.io/piracy/
     - name: Check For broken links
       run: |
         python check_links.py
+        
