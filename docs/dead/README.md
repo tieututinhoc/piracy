@@ -1,3 +1,5 @@
+<!--lint disable list-item-indent match-punctuation emphasis-marker list-item-indent-->
+
 # Dead
 
 ::: tip Heads up!

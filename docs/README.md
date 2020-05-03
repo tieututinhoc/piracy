@@ -552,8 +552,8 @@
 ### Streaming Movies and TV shows
 
 -   [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player.
-    -   [Streamlink-Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink
-    -   [Streamlink-Portable](https://github.com/streamlink/streamlink-portable) - A portable version of Streamlink for Windows
+    -   [Streamlink-Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink.
+    -   [Streamlink-Portable](https://github.com/streamlink/streamlink-portable) - A portable version of Streamlink for Windows.
 -   [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/a2csq0/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman.
 -   [r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) - Reddit, random streaming sites.
 -   [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) - Alternate subreddit curated by /u/nbatman.
@@ -1957,7 +1957,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Local YouTube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Download YouTube Videos without youtube-dl or external websites/tools.
 -   [Encrypt Discord Token](https://greasyfork.org/en/scripts/370576-encrypt-discord-token) - Encrypts your Discord token to prevent trojans from reading your localStorage files and finding your token. However, there are no guarantees that your account cannot get hacked.
 -   [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - Allows you to retrieve your user token for reference.
--   [Youtube to Invidious](https://greasyfork.org/en/scripts/375264-youtube-to-invidious) - Scan page for Youtube embeds and urls and replace with Invidious.
+-   [YouTube to Invidious](https://greasyfork.org/en/scripts/375264-youtube-to-invidious) - Scan page for YouTube embeds and urls and replace with Invidious.
 
 ### Userscript Managers
 
@@ -3280,7 +3280,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 -   [Wikipedia's List of Web archiving initiatives](hhttps://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
 -   [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file.
--   [ArchiveBox](https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+-   [ArchiveBox](https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more.
 -   [monolith](https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
 -   [Local Website Archive](https://www.aignes.com/lwa.htm) - Paid software to Archive online documents to your PC.
 -   [httrack](https://www.httrack.com/) - Allows you to download a website to a local directory.
@@ -3415,7 +3415,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [y2mate.com](http://y2mate.com/) - Download Video and Audio from YouTube.
 -   [youtube-dl](http://ytdl-org.github.io/youtube-dl/index.html) - A command-line program to download videos from YouTube.com and a few more sites.
 -   [TheFrenchGhostys YouTube-DL Archivist Scripts](https://gitlab.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts) - The ultimate collection of scripts for YouTube-DL.
--   [YoutubeDownloader](https://github.com/ShimmyMySherbet/YoutubeDownloader) - A Music downloader with Spotify integration for automatic metadata application.
+-   [YouTubeDownloader](https://github.com/ShimmyMySherbet/YouTubeDownloader) - A Music downloader with Spotify integration for automatic metadata application.
 
 #### YouTube specific Browser Extensions
 

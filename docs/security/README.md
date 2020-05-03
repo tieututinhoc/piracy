@@ -10,7 +10,7 @@
 -   [How To Host "Questionable" Websites v4.0](https://weboas.is/media/host.pdf) - PDF from weboas.is. There are also [PNG](https://weboas.is/media/host.png), [PSD](https://weboas.is/media/host.psd), and [TXT](https://weboas.is/media/host.txt) - versions.
 -   [UK ISP Court Orders](http://www.ukispcourtorders.co.uk/) - List of websites recently taken down in the UK by the High Court. Use a VPN to access them, they must be pretty good!
 -   [Counterfeit and Piracy Watch List 2018](https://torrentfreak.com/images/tradoc_157564.pdf)
--   [Am I Unique?](https://amiunique.org/) - Learn how identifiable you are on the Internet
+-   [Am I Unique?](https://amiunique.org/) - Learn how identifiable you are on the Internet.
 -   [Simplewall](https://www.henrypp.org/product/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 -   [I know What You Download](https://iknowwhatyoudownload.com/) - Check for what internet knows about you download history.
 
