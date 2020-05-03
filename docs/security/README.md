@@ -307,7 +307,6 @@
 -   [Yippy](https://yippy.com/) - Another private search engine and replacement for Google Search.
 -   [Qwant](https://lite.qwant.com/) - Yet another search engine.
 
-
 ## Antivirus
 
 ::: tip Overall Strategy
@@ -396,7 +395,7 @@
 
 -   [AdBlock Radio](https://github.com/adblockradio/adblockradio) - Block ads on live radio streams and podcasts. Machine learning meets Shazam!
 -   [AdGuard](https://adguard.com/en/welcome.html) - Claims to be the worlds most advance ad-blocker.
--   [Filterlists](https://filterlists.com/) - An  independent directory of filter and host lists for advertisements, trackers, malware, and annoyances.
+-   [Filterlists](https://filterlists.com/) - An independent directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 -   [uBlock origin](https://github.com/gorhill/uBlock) - A fast and efficient Ad Blocker.
 -   [An Overview of Ad Blocking Technology](https://www.techotopia.com/index.php/An_Overview_of_Ad_Blocking_Technology) - Basically explains how an Ad-Blocker works.
 -   [Wikipedia's Website about Ad blocking](https://en.wikipedia.org/wiki/Ad_blocking) - Wikipedia's info page about ad-blockers.
@@ -415,7 +414,7 @@
 
 -   [mat2](https://pypi.org/project/mat2/) - mat2 cleans metadata.
 -   [CCleaner](hhttps://www.ccleaner.com/) - `Bundleware` - `Make sure CCLeaner is blocked via firewall` - It removes unused files from your system.
-    - [Winapp3.ini](https://github.com/MoscaDotTo/Winapp2/blob/master/Winapp3/Winapp3.ini)
+    -   [Winapp3.ini](https://github.com/MoscaDotTo/Winapp2/blob/master/Winapp3/Winapp3.ini)
 -   [Bleachbit](https://www.bleachbit.org/) - Unless CCleaner it works on all operating systems and is fully open source but comes with less "cleaning features".
 -   [ExifTool](https://exiftool.org/) - Most reliable photo exif cleaning tool.
 -   [Exiv2](https://www.exiv2.org/) - Exiv2 is a C++ library and a command line utility to manage image metadata.
@@ -446,6 +445,7 @@
 -   [NextCloudTalk](https://nextcloud.com/talk/) - Basically, Hangouts via NextCloud.
 -   [Jitsi](https://jitsi.org/) - Decrentralized chat, eMail platform.
 -   [JMP.chat](https://jmp.chat/)
+-   [Whereby](https://whereby.com/) - Anoher video calling app focused on privacy and usability.
 
 ## Payment
 
@@ -522,9 +522,6 @@
 -   [SecureImage](https://www.phpcaptcha.org/) - Yet another alternative to Google's reCAPTCHA system which is open source.
 -   [PrivacyPass](https://privacypass.github.io/team/) - A privacy-preserving and frustration-reducing alternative to CAPTCHAs which uses [Trust API](https://github.com/dvorak42/trust-token-api) - principles. A standalone API is planned.
 
-
-
-
 ### Google Analytics
 
 -   [Mamoto](https://matomo.org/) - Open source alternative to Google's Analytics.
@@ -534,8 +531,6 @@
 ### Google form builder
 
 -   [JotForm](https://www.jotform.com/) - JotForm is a free online form builder.
-
-
 
 ### Google Docs + Sheets + Slides
 
@@ -563,8 +558,6 @@
 -   [Google WebFont Helper](https://google-webfonts-helper.herokuapp.com/fonts) - Allows you to download Google fonts, which then could be integrated via CSS into your website.
 -   [Font Squirrel](https://www.fontsquirrel.com/) - Yet another alternative, fully transparent to integrate webfonts into your website.
 
-
-
 ### Google Earth
 
 -   [ArcGIS](https://www.arcgis.com/home/webmap/viewer.html) - A privacy friendly alternative to Google's Eath Service.
@@ -572,5 +565,3 @@
 ### Google Home
 
 -   [Projekt Leon-AI](https://github.com/leon-ai/leon) - A good alternative to Google's Home service.
-
-

@@ -13,7 +13,7 @@
 -   [Nyaa Pantsu](https://nyaa.net/) - No ads. Very similar to nyaa website.
     -   [Nyaa Pantsu Mirror](https://nyaa.pt/) - No ads. Very similar to nyaa website.
 -   [AnYme](https://github.com/zunjae/anYme) - Unofficial Anime App for MyAnimeList.
--   [r/KissCommunitySupport](https://old.reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
+-   [r/KissCommunitySupport](https://reddit.com/r/KissCommunitySupport) - Official Kiss Community subreddit.
 -   [anime-sharing](http://www.anime-sharing.com/forum/) - Forum for sharing anime.
 -   [AniDex](https://anidex.info) - Torrent tracker and indexer, primarily for English fansub groups of anime.
 -   [r/AnimePiracy BCSE Search](https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=) - A custom search engine for Anime content.
@@ -217,7 +217,7 @@
 -   [oznzb](https://www.oznzb.com) - Yet another ebook search engine.
 -   [PDFDrive](https://www.pdfdrive.com/) - PDF Drive is your search engine for PDF files.
 -   [Via Google Search](http://www.google.com/cse/home?cx=000661023013169144559:a1-kkiboeco) - Preset of indexed websites to search for comics.
--   [r/DHExchange](https://old.reddit.com/r/DHExchange/) - PDF/eBooks trading.
+-   [r/DHExchange](https://reddit.com/r/DHExchange/) - PDF/eBooks trading.
 -   [Amazon Free Kindle Books](https://www.amazon.com/b/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&node=2245146011&tag=freeblog022-20&linkId=BNRPUFVEMRQP2NRR) - Top free books for download.
 -   [Apprentice Alf's Blog](https://apprenticealf.wordpress.com/) - Everything you ever wanted to know about DRM and ebooks, but were afraid to ask.
 -   [Authorama](https://www.authorama.com/) - This public domain book site has a wide variety of ebooks for free, by Lewis Carroll, Emerson, Kafka, and more.
@@ -393,7 +393,7 @@
 -   [Podsnatch](https://github.com/robotmlg/podsnatch) - Simple podcast downloader. Contribute to robotmlg/podsnatch development by creating an account on GitHub.
 -   [How to use Chimera multi music downloader](https://anonym.to/https://www.youtube.com/watch?v=5y8rtsLw7Rc)
 -   [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) - Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free.
--   [Block Spotify Updates on macOS](https://donotupdatespotify.sh/) - A guide is avbl. [here](https://old.reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/)
+-   [Block Spotify Updates on macOS](https://donotupdatespotify.sh/) - A guide is avbl. [here](https://reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/)
 -   [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) - HowToGeek article on how to use TunesKit and Requiem.
 
 ### Album Art
@@ -502,6 +502,7 @@
 -   [iNFekt](https://infekt.ws/) - A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 -   [SceneLinkList](https://www.scenelinklist.com/) - SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
 -   [480MKV](https://480mkv.com) - Small size videos, movies and TV shows.
+-   [enx265](https://enx265.com/) - A mcommunity dedicated to upload only H265 encoded movies and TV shows.
 -   [TheTrove](https://thetrove.net/) - The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
 -   [fullmoviesandtv multireddit](https://www.removeddit.com/user/Wiggly_Poop/m/fullmoviesandtv/) - Multireddit of All of the below listed subreddits.
     -   [r/1080pMoviesOnline](https://www.removeddit.com/r/1080pMoviesOnline)
@@ -517,8 +518,8 @@
     -   [r/fulltvshowsonyoutube](https://www.removeddit.com/r/fulltvshowsonyoutube/)
 -   [at.my TV](http://at-my.tv/) - TV Calendar, TV Episode Guide, TV Show Listings.
 -   [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - A personalized calendar that tracks the shows you like/fav.
--   [Ustvgo](https://ustvgo.tv/) - Watch CBS, Comedy, Disney, Fox, HBO and many more online for free.
--   [Stagedork](http://stagedork.com/) - Boradway popular channels like Fox, HBO, Comedy.
+-   [Ustvgo](https://ustvgo.tv/) - Watch CBS, Comedy, Disney, Fox, HBO and many more.
+-   [stagedork](http://stagedork.com/) - Boradway popular channels like Fox, HBO, Comedy, etc.
 -   [Script Download Links](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
 -   [Script Slug](https://www.scriptslug.com/) - Browse hundreds of screenplays.
 -   [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android.
@@ -674,6 +675,7 @@
 -   [Wikiserie](https://www.wikiserie.biz/)
 -   [Dramaday](https://dramaday.net/) - A website dedicated to drama based movies and OST.
 -   [Enthus1ast](http://enthus1ast.com/) - Movie sharing community.
+-   [magellantv](https://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
 
 #### Streaming 720p
 
@@ -709,6 +711,8 @@
 -   [MovieZion](https://www.nicemoviezion.pro/)
 -   [Niter](https://niter-movies.com/)
 -   [pahe.in](https://pahe.in/) - Streams via Uptostream, Google Drive, Openload or Mega.
+    -   [Mirror](http://Pahe.me)
+    -   [Mirror](http://pahe.ph)
 -   [ProSpice](https://prospice.surge.sh/)
 -   [Send It](https://sendit.gg/)
 -   [SeriesFree](https://seriesfree.to/)
@@ -770,6 +774,7 @@
 -   [UHDMV.org](https://uhdmv.org/) - Download free, Ultra HD Bluray Movies, 4K Movies, HD Movies, Bluray Movies, REMUX, 2160p, 1080p, 720p, Free Ultra HD Movies.
 -   [Zamunda](https://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies.
 -   [VidFlix](https://vidflix.net/) - No ads, clean Movies and TV shows in high quality.
+-   [Tigole Release](https://tigolerelease.blogspot.com/) - HQ Movies, mostly 1080 and 4k.
 
 ### Big Media Libraries
 
@@ -801,6 +806,8 @@
 -   [Streaming Multireddit](https://www.removeddit.com/user/nbatman/m/streaming/) - Reddit, random streaming sites.
 -   [TorrentDownloads.me](https://www.torrentdownloads.me/) - It is a no-nonsense index that provides torrents to millions of users each month.
 -   [Viooz](https://vioozgo.org/) - (RU) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
+-   [MX Player](https://www.mxplayer.in/) - Movies and Databases regarding movies, tv series and other shows.
+-   [Rapid Moviez (RMZ)](https://rmz.cr/) - Movies and TV shows.
 
 ### Specialty Sites
 
@@ -1212,7 +1219,7 @@
 -   [3DSCIA.com](https://www.3dscia.com/) - DDL links for 3DS CIA files.
 -   [Ziperto](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) - DDL link site primarily for Nintendo games.
 -   [3DSISO](http://www.3dsiso.com/) - A community based ROM database.
--   [ByAlvRo's Collection - 1Fichier Mirror (132 TB various)](https://pastebin.com/79q1mdZm) - via [reddit](https://old.reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/)
+-   [ByAlvRo's Collection - 1Fichier Mirror (132 TB various)](https://pastebin.com/79q1mdZm) - via [reddit](https://reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/)
 -   [CoolRom](http://coolrom.com/) - Your #1 emulation choice.
 -   [Digiex](https://digiex.net/forums/) - A forum to share and talk about ROMs, Games & other console games.
 -   [Doperoms](https://www.doperoms.com/) - A huge collection with over 170,000 ROM files.
@@ -1222,7 +1229,7 @@
 -   [Old Games Finder](http://www.oldgamesfinder.com/) - Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
 -   [Retro Archive](https://anonym.to/https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Collection of all retro based ROM's.
 -   [ROM Center](https://anonym.to/https://docs.google.com/spreadsheets/d/17XOCs-KWKOwtxWwyTsAH887GlkJ7DcCMv6cL9FoMOKM/htmlview?usp=sharing&sle=true) - Newer games tracker, links and downloads via GDrive.
--   [Rom Links Megathread - 1Fichier, GDrive, Mega](https://old.reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) - Nintendo, Sony, Microsoft, Romsets, Arcade and other ROM collections.
+-   [Rom Links Megathread - 1Fichier, GDrive, Mega](https://reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) - Nintendo, Sony, Microsoft, Romsets, Arcade and other ROM collections.
 -   [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - Wiki page from gametechwiki.com with more links to ROM and ISO websites.
 -   [ROMNation](https://anonym.to/https://www.romnation.net/) - Lots of ROMs.
 -   [Romsmania](https://romsmania.cc/) - Another great ROMs collection with a decent UI to find stuff quick.
@@ -1319,7 +1326,7 @@
 -   [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-Crack-Adobe-CC-2019-2020-GenP-v2-4) - The latest working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows only).
 -   [Adobe CC 2019/2020 GenP - Universal Patch - Updated V 2.2](https://www.nsaneforums.com/topic/344869-adobe-cc-20192020-genp-universal-patch-updated-v-22/#comments)
 -   [Adobe CC 2018 - Full in-depth guide to installing and using any application (Windows)](http://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
--   [Adobe Photoshop CC 2019 - Full in-depth guide to installation and activation (Windows)](http://old.reddit.com/r/sjain_guides/comments/9q4u6r/adobe_photoshop_cc_2019_full_indepth_guide_to/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
+-   [Adobe Photoshop CC 2019 - Full in-depth guide to installation and activation (Windows)](http://reddit.com/r/sjain_guides/comments/9q4u6r/adobe_photoshop_cc_2019_full_indepth_guide_to/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
 -   [Adobe Zii 4.0.3](http://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) - Tool for patching and cracking Adobe CC applications.
 -   [gallery-dl](http://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
 -   [How to download paid fonts for free](http://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) - fonts online.
@@ -1330,7 +1337,7 @@
 -   [Get the Font](https://www.getthefont.com/) - Searches through GitHub for free fonts.
 -   [GFxtra](https://www.gfxtra.com/) - DDL-links for graphics, icons, 3D models, and more!.
 -   [GraphicEx](https://graphicex.com/) - Stock/vector graphics, PhotoShop/InDesign resources, fonts, and more.
--   [How to download paid Fonts for free](https://old.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find fonts online.
+-   [How to download paid Fonts for free](https://reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find fonts online.
 -   [Tomato.to](https://tomato.to/) - Supports Shutterstock, Gettyimages, Adobestock, Fotolia, Vectorstock, iStockphoto, PNGTree & PicFair.
 -   [Web4Sync](https://web4sync.com/) - Forum with DDL links catering to web development, graphics design, 3D animation, and photography.
 -   [CGPeers](https://www.cgpeers.com) - (needs login) - A big platform for not only graphics.
@@ -1431,7 +1438,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 -   [APKmb](https://apkmb.com/) - Download paid Apps & Android Games for free.
 -   [libre.io](https://boards.libre.io) - (requires login) - A small forum with some exclusive apps & games.
 -   [Mobilism Forum](https://forum.mobilism.org/index.php) - Large forum of mobile apps and books.
--   [How to deGoogle LineageOS in 2019](https://old.reddit.com/r/privacy/comments/cldrym/how_to_degoogle_lineageos_in_2019/)
+-   [How to deGoogle LineageOS in 2019](https://reddit.com/r/privacy/comments/cldrym/how_to_degoogle_lineageos_in_2019/)
 -   [PlaystoreDownloader](https://github.com/ClaudiuGeorgiu/PlaystoreDownloader) - A command line tool to download free Android applications directly from the Google Play Store.
 -   [Raccoon](https://raccoon.onyxbits.de/) - Java based APK Downloader which uses a fake Google Account (API Key) - to download free Android apps.
 
@@ -1508,9 +1515,9 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 -   [MediaBox HD](https://mediaboxhd.net/) - Provides tv shows, movies & more on Android + iOS.
 -   [Mega Shows](https://megashowsapk.com/) - Watch & Download your favorite movies and TV shows.
 -   [Mobdro](https://forum.mobilism.org/viewtopic.php?f=429&t=2720792&hilit=mobdro) - Mobdro constantly searches the web for the best free video streams and brings them to your- [RevTV](https://lotstv.com/) - (es-ES) - Live TV, Movies, TV Shows in Spanish.
--   [Streaming Apps Official Links / How to use Trakt & Real Debrid (self.TTVreborn)](https://old.reddit.com/r/TTVreborn/comments/9xxng0/streaming_apps_official_links_how_to_use_trakt/)
+-   [Streaming Apps Official Links / How to use Trakt & Real Debrid (self.TTVreborn)](https://reddit.com/r/TTVreborn/comments/9xxng0/streaming_apps_official_links_how_to_use_trakt/)
 -   [TeaTV](https://teatv.net/) - App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
--   [Terrarium TV Reborn sub reddit](https://old.reddit.com/r/TTVreborn) - A place to talk about streaming apps.
+-   [Terrarium TV Reborn sub reddit](https://reddit.com/r/TTVreborn) - A place to talk about streaming apps.
 -   [TVPato2](https://tvpato2.com/) - (es-ES) - Spanish Live TV App.
 -   [TVZion](https://zionapp.live/) - One app to stream them all.
     -   [r/TVZionApp](https://www.reddit.com/r/TVZionApp/)
@@ -1622,7 +1629,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 ### JailBreak
 
--   [r/jailbreak](https://old.reddit.com/r/jailbreak) - Subreddit for iOS side-loading and jailbreak related discussions.
+-   [r/jailbreak](https://reddit.com/r/jailbreak) - Subreddit for iOS side-loading and jailbreak related discussions.
 -   [checkm8](https://twitter.com/axi0mX/status/1177544174163263489) - Checkm8 is an iOS 13 Boot-exploit.
 -   [Checkra1n](https://checkra.in/) - Semi-tethered Jailbreak for iOS 12.3+.
 -   [EtasonATV](https://etasonatv.tihmstar.net/) - AppleTV jailbreak.
@@ -1905,7 +1912,13 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 -   [Buster](https://github.com/dessant/buster) - Captcha solver extension for humans.
 -   [Media Reaper](https://sasrip.cf/) - Privacy 1st, Audio & Video Download.
-    -   [Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/media-reaper/)
+
+-   [Stream Recorder](https://www.hlsloader.com/) - Allows you to save videos delivered through HLS (HTTP Live Streaming) in mp4 format.
+-   [Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/bacakpdjpomjaelpkpkabmedhkoongbi) - Video Downloader professional - the fastest and easiest way to download any video from any website.
+-   [Flash Video Downloader](https://chrome.google.com/webstore/detail/flash-video-downloader/aiimdkdngfcipjohbjenkahhlhccpdbc) - Chrome Download extension for videos and flash videos from 99% of websites.
+-   [Stream Video Downloader](https://chrome.google.com/webstore/detail/stream-video-downloader/imkngaibigegepnlckfcbecjoilcjbhf) - Video downloader that really works with Streaming websites. Download Mp4 and audio formats.
+-   [Video Downloader PLUS](https://chrome.google.com/webstore/detail/video-downloader-plus/fhplmmllnpjjlncfjpbbpjadoeijkogc) - Downloads most popular media types from ANY website.
+-   [Video DownloadHelper](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk) - The most complete Web video downloader ! The popular Video DownloadHelper Firefox extension is now available for Chrome.
 
 ## Userscripts
 
@@ -1922,7 +1935,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [anti-anti-copy](https://greasyfork.org/en/scripts/7197-anti-anti-copy) - Some websites prevent you from copying text, this script bypasses it.
 -   [Bypass paywalls for scientific documents](https://greasyfork.org/en/scripts/35521-bypass-paywalls-for-scientific-documents) - This script adds download buttons on Google Scholar, Scopus, and Web Of Science, which lead to sci-hub.tw.
 -   [Direct download from Google Play](https://greasyfork.org/en/scripts/33005-direct-download-from-google-play/) - Adds APKPure, APKMirror and Evozi download buttons to Google Play when browsing apps.
--   [Emuparadise ROMs:easy download](https://old.reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) - Make Emuparadise great again!.
+-   [Emuparadise ROMs:easy download](https://reddit.com/r/Piracy/comments/9zuu6p/emuparadise_roms_easy_download/) - Make Emuparadise great again!.
 -   [Mouseover Popup Image Viewer](https://greasyfork.org/scripts/404) - Shows images and videos behind links and thumbnails.
 -   [Various torrent links to Episodecalendar](https://greasyfork.org/en/scripts/27367-various-torrent-links-to-episodecalendar) - Adds various torrent links next to every episode in calendar, unwatched and season overview sections.
 -   [[TS] Citrus GFork](https://greasyfork.org/scripts/4336) - Adds bunch of GreasyFork hidden features.
@@ -1978,7 +1991,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Official Plex docker image.
 -   [timhaak/plex](https://github.com/timhaak/docker-plex) - Alternative Plex docker image.
 -   ["My (scripted) - solution to having a single Movies library for 4k and non-4k."](https://www.reddit.com/r/PleX/comments/afs8m9/my_scripted_solution_to_having_a_single_movies/) - Post by /u/spazatk.
--   ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://old.reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) - Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield.
+-   ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) - Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield.
 -   [Unlock the transcode or 'session' limit on nVidia consumer grade GPUs](http://slothtechtv.com/2018/09/unlock-the-transcode-or-session-limit-on-nvidia-consumer-grade-gpus) - Article describing how to bypass the artifical single-transcode limit.
 
 #### Plugins
@@ -2165,6 +2178,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) - Screenshot of a table from somewhere of private trackers and their sign-up requirements.
 -   [AcrossTheTasman](https://acrossthetasman.com/forum.php) - A tracker for movies, games and more.
 -   [AlphaRatio](https://alpharatio.cc) - (AR) - A good starter tracker with lots of freeleech content.
+-   [AvistaZ](https://avistaz.to/auth/register) - (EN) - AvistaZ (AsiaTorrents) is a Private Torrent Tracker for ASIAN MOVIES / TV / Docus.
 -   [AnimeBytes](https://animebytes.tv/) - (AB) - community centralized around Japanese media, including anime, manga, and music.
 -   [Audionews](https://audionews.org/) - (AN) - Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps etc) - Open signups on the 1st-2nd every month.
 -   [Awesome HD](https://awesome-hd.me/) - (AHD) - Awesome-HD is a private tracker for quality enthusiasts.
@@ -2324,7 +2338,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [TorrDroid](http://play.google.com/store/apps/details?id=intelligems.torrdroid&hl=en) - TorrDroid is a Android torrent client cum search engine that features a hassle free way of searching and downloading torrents.
 -   [Tornado](http://tornado-torrent.gitlab.io/) - Tornado is a modern web-first BitTorrent client designed with usability in mind.
 -   [Tribler](https://www.tribler.org/) - Tribler is a Bittorrent client with an integrated DHT and search engine. Tor-like onion routing and end-to-end encryption can be enabled to allow for anonymous downloads.
--   [Auto unRar](https://old.reddit.com/r/Piracy/comments/byemt3/auto_unrar_qbittorrent/) - or via [script](https://github.com/arfoll/unrarall).
+-   [Auto unRar](https://reddit.com/r/Piracy/comments/byemt3/auto_unrar_qbittorrent/) - or via [script](https://github.com/arfoll/unrarall).
 
 #### qBittorrent
 
@@ -2615,8 +2629,8 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Movieworld.to](http://movieworld.to/) - Another German site for movies.
 -   [DDL-Music](https://ddl-music.to/) - German site for music.
 -   [480mkv](http://480mkv.com/) - 480p DDL for TV Shows.
--   [r/FREEMEDIAFUCKYEAH/](https://old.reddit.com/r/FREEMEDIAFUCKYEAH/) - Animes, movies and more.
--   [r/DataHoarder/](https://old.reddit.com/r/DataHoarder/) - Share download links (similar to /r/opendirectories/).
+-   [r/FREEMEDIAFUCKYEAH/](https://reddit.com/r/FREEMEDIAFUCKYEAH/) - Animes, movies and more.
+-   [r/DataHoarder/](https://reddit.com/r/DataHoarder/) - Share download links (similar to /r/opendirectories/).
 -   [r/ZippyShare](https://www.removeddit.com/r/ZippyShare) - (Multi) - DL links hosted on ZippyShare (_blocked in the UK, Germany and other countries_).
 -   [Zippy Direct](https://zippy.direct/) - ZippyShare proxy.
 -   [0DayDown](https://www.0daydown.com/) - (CN/EN) - macOS, Music & other links (works with JDownloader).
@@ -2687,6 +2701,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [ZeroBoard](https://zeroboard.org/) - A board which provides Windows related stuff.
 -   [up4pc](https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive and Mega.
 -   [CB01.uno](https://cb01.gallery/) - (`IT`) - Movies, TV Shows and Animes.
+-   [Release BB](http://rlsbb.ru/) - (`RU/ENG`) - Daily Source of Awesome Stuff.
 
 ### File hosts
 
@@ -2730,7 +2745,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Panelshow.club](http://panelshow.club/) - Directory of panel show TV episodes from [r/panelshow](https://www.reddit.com/r/panelshow).
 -   [andesite](https://github.com/nektro/andesite) - Easily manage access to your open directory through OAuth2.
 -   [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories.
--   [r/MegaLinks4U](https://old.reddit.com/r/MegaLinks4U/) - Share megalinks, mostly used for porn.
+-   [r/MegaLinks4U](https://reddit.com/r/MegaLinks4U/) - Share megalinks, mostly used for porn.
 -   ["All resources I know related to Open Directories"](https://www.removeddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/) - Thorough post from /u/ElectroXexual.
 -   [r/opendirectories](https://www.removeddit.com/r/opendirectories) - Unprotected directories of pics, vids, music, software and otherwise interesting files.
 -   [36 GB of Flash Games](https://www.removeddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) - Posted by /u/blue*star*.
@@ -2998,6 +3013,13 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Telegram XP Bot](http://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
 -   [Telegram CrackWatch tracker Bot](http://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
 
+### Telegram Bridges
+
+-   [matterbridge](https://anonym.to/?https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
+-   [TediCross](https://anonym.to/?https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels.
+-   [teleirc](https://anonym.to/?https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
+-   [Transferbot](https://anonym.to/?https://github.com/corusm/Transferbot) - Bot that transfers Messages from Telegram to Discord and back.
+
 ### Telegram Piracy Discussion Channels
 
 -   [Telegram Channels](https://telegramchannels.me/channels) - A telegram channel indexer with over 1500 channels.
@@ -3144,6 +3166,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [@TeleWarez_Bot](https://t.me/TeleWarez_Bot) - Official bot from Warez-IR.com to share and get files.
 -   [@UploadBots](https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
 -   [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
+-   [@virus_total_scan_bot](https://t.me/virus_total_scan_bot) - Scan files and check it against VirusTotal. Does not work with Channels or Groups.
 
 #### Telegram Music downloader Bot
 
@@ -3248,9 +3271,10 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [GetGoogleSpreadshee​t](https://www.mathworks.com/matlabcentral/fileexchange/39915-getgooglespreadsheet) - Download a google spreadsheet as csv and import into a Matlab cell array.
 -   [Leech Premium](https://leechpremium.link/) - Premium leech service.
 -   [How to get free Rock Band 1, 2 & 3 DLC without RGH/JTAG](https://www.removeddit.com/r/Piracy/comments/d4lohq/how_to_get_free_rock_band_1_2_3_dlc_without/) - Get Rock Band 1-3 working on PS3 and Wii/U & Xbox 360 without the need of using RGH/JTAG.
--   [How to get ti-nspire CX student software for free, even after the free trial.](https://old.reddit.com/r/Piracy/comments/d5e70k/how_to_get_tinspire_cx_student_software_for_free/)
+-   [How to get ti-nspire CX student software for free, even after the free trial.](https://reddit.com/r/Piracy/comments/d5e70k/how_to_get_tinspire_cx_student_software_for_free/)
 -   [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 -   [IPFessay](https://gitlab.com/stavros/IPFessay) - An easy way to publish uncensorable essays on IPFS.
+-   [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS-Win is a minimal port of SSHFS to Windows.
 
 ### Website archiving tools
 
@@ -3294,7 +3318,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
     -   [source code](https://github.com/jeremy-jr-benthum/tor-button)
 -   [Save to the Wayback Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
 -   [Search by Image](https://github.com/dessant/search-by-image) - Enables you to initiate a reverse image search from the context menu or the browser toolbar, and supports more than 30 search engines.
--   [Stream Recorder](https://www.hlsloader.com/) - Chrome Extension for downloading streaming videos.
 -   [2read](https://2read.net/) - Convert article in current tab to readable form and upload it to IPFS.
 -   [User-Agent Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable.
 -   [Simple Translate](https://github.com/sienori/simple-translate) - Quickly translate selected text on web page.
@@ -3381,7 +3404,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 ### YouTube
 
--   [How to get yt premium for free](https://old.reddit.com/r/Piracy/comments/d6ltfc/so_here_is_how_to_get_yt_premium_for_free/) - A short tutorial on how you get YouTube Premium for free.
+-   [How to get yt premium for free](https://reddit.com/r/Piracy/comments/d6ltfc/so_here_is_how_to_get_yt_premium_for_free/) - A short tutorial on how you get YouTube Premium for free.
 -   [YouTube Cleaner](https://addons.mozilla.org/firefox/addon/youtube-cleaner/) - (Firefox) - YouTube cleaner offers the ability to block specific user defined channels.
 -   [QDownloader.net](http://qdownloader.net/youtube-video-downloader) - Download videos from YouTube in MP4, FLV, 3GP, and other formats.
 -   [FLVTO](https://www.flvto.biz/) - Another YouTube ripper website.
