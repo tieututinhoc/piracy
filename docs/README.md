@@ -3015,10 +3015,10 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 ### Telegram Bridges
 
--   [matterbridge](https://anonym.to/?https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
--   [TediCross](https://anonym.to/?https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels.
--   [teleirc](https://anonym.to/?https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
--   [Transferbot](https://anonym.to/?https://github.com/corusm/Transferbot) - Bot that transfers Messages from Telegram to Discord and back.
+-   [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
+-   [TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels.
+-   [teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
+-   [Transferbot](https://github.com/corusm/Transferbot) - Bot that transfers Messages from Telegram to Discord and back.
 
 ### Telegram Piracy Discussion Channels
 
@@ -3167,6 +3167,13 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [@UploadBots](https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
 -   [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 -   [@virus_total_scan_bot](https://t.me/virus_total_scan_bot) - Scan files and check it against VirusTotal. Does not work with Channels or Groups.
+
+#### Telegram eBook Bots
+- [@BookDownloadBot](https://t.me/BookDownloadBot)
+- [@getmediabot](https://t.me/getmediabot)
+- [@libgen_scihub_bot](https://t.me/libgen_scihub_bot)
+- [@libsan_bot](https://t.me/libsan_bot)
+- [@scihubot](https://t.me/scihubot)
 
 #### Telegram Music downloader Bot
 
