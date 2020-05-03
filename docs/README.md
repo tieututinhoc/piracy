@@ -2786,6 +2786,13 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Xtreambot](https://teamdrive.xtremebot.workers.dev/)
 -   [AlpacinoDump](https://dh.alpacinodump.cf/)
 
+### Team Drive Indexers
+
+-   [GDIndex](https://github.com/maple3142/GDIndex)
+-   [goindex](https://github.com/K-E-N-W-A-Y/goindex)
+-   [BhadooDriveIndex](https://github.com/ParveenBhadooOfficial/BhadooDriveIndex)
+-   [krat0si-ndex](https://github.com/420tushar/krat0si-ndex)
+
 ## File Sharing
 
 -   [AutoRclone](https://github.com/xyou365/AutoRclone/) - AutoRclone is a FOSS project that uses [rclone](https://rclone.org/), [folderclone](https://github.com/Spazzlo/folderclone) + service accounts to upload/copy resources to Google Team Drive.
