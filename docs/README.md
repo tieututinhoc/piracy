@@ -2773,13 +2773,18 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [GDIndex](https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
 -   [TeamDrive Software for Win, Linux, Android and iOS](https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
 -   [Get Free Google Shared Drive](http://leon.educationhost.cloud) - Create your own TeamDrive for free.
+-   [How to join LK Torrent TeamDrive](https://telegra.ph/How-to-Join-Kl-Torrent-TeamDrive-02-08)
+
+### Google Team Drives Groups and Discussions
+
 -   [HKTeamDrive Group](https://groups.google.com/d/forum/hkteamdrive1group)
 -   [TD-Automation](https://groups.google.com/d/forum/td-automation)
 -   [TeamDrive 0](https://groups.google.com/forum/m/#!forum/teamdrive0)
--   [How to join LK Torrent TeamDrive](https://telegra.ph/How-to-Join-Kl-Torrent-TeamDrive-02-08)
 -   [xtremecloud TeamDrive group](https://groups.google.com/d/forum/xtremecloud-tdgroup)
 -   [seedboxsl](https://groups.google.com/forum/embed/?place=forum/seedboxsl)
 -   [Hording](https://groups.google.com/d/forum/hoarding_mirror_group)
+-   [Xtreambot](https://teamdrive.xtremebot.workers.dev/)
+-   [AlpacinoDump](https://dh.alpacinodump.cf/)
 
 ## File Sharing
 
