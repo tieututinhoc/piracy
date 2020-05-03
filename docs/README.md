@@ -3123,26 +3123,79 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Raymond's Piracy Group](https://t.me/raymondfreesoftware) - A group of 7000+ pirates chatting.
 -   [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
 
-#### Telegram channels for Books and Magazines
+#### Telegram channels for eBooks
 
--   [@BookCafe](http://t.me/eBookCafe)
--   [@BooksBag](http://t.me/BooksBag)
--   [@BooksFree4U](http://t.me/BooksFree4U)
--   [@BooksLog](http://t.me/BooksLog)
--   [@booksmania](http://t.me/booksmania)
--   [@booksnow](http://t.me/booksnow)
--   [@bookz4u](http://t.me/bookz4u)
--   [@mfmixebooks](hhttp://t.me/mfmixebooks)
--   [@OxfordBookworms](http://t.me/OxfordBookworms)
--   [best_bookshelf](http://t.me/best_bookshelf)
--   [BOOK_HOUSE_INTERNATIONAL](http://t.me/BOOK_HOUSE_INTERNATIONAL)
--   [Books N All](https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
--   [BookThief](http://t.me/BooksThief)
--   [eBooks English](http://t.me/EbooksEnglish)
--   [Ebooks254](hhttp://t.me/Ebooks254)
 -   [List of eBook websites, channels & bots](https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
--   [SciHub](http://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!.
--   [The Hindu](https://t.me/The_Hindu1) - PDFs of every Indian newspaper every day.
+-   [@aadhyatmikbrahmand](https://t.me/aadhyatmikbrahmand)
+-   [@alejandriak](https://t.me/alejandriak)
+-   [@best_bookshelf](https://t.me/best_bookshelf)
+-   [@BOOK_HOUSE_INTERNATIONAL](https://t.me/BOOK_HOUSE_INTERNATIONAL)
+-   [@BookCafe](https://t.me/eBookCafe)
+-   [@bookclub7](https://t.me/bookclub7)
+-   [@Books N All](https://t.me/joinchat/EG43XkPhHFup2w7kTl44AA) - Request eBooks and audio books, as well as reviews in this group with ~3.5k members & generally a fast response time.
+-   [@BooksBag](https://t.me/BooksBag)
+-   [@BooksFree4U](https://t.me/BooksFree4U)
+-   [@BooksLog](https://t.me/BooksLog)
+-   [@booksmania](https://t.me/booksmania)
+-   [@booksnow](https://t.me/booksnow)
+-   [@BooksThief](https://t.me/BooksThief)
+-   [@BookThief](https://t.me/BooksThief)
+-   [@BookWizardTheNewest](https://t.me/BookWizardTheNewest)
+-   [@bookz4u](https://t.me/bookz4u)
+-   [@eBooks English](https://t.me/EbooksEnglish)
+-   [@Ebooks254](https://t.me/Ebooks254)
+-   [@eBooksOnly](https://t.me/eBooksOnly)
+-   [@Ebookz](https://t.me/Ebookz)
+-   [@EbookzCollection](https://t.me/EbookzCollection)
+-   [@EbookzGroup](https://t.me/EbookzGroup)
+-   [@english_audio](https://t.me/english_audio)
+-   [@EnochianMagick](https://t.me/EnochianMagick)
+-   [@freebook9](https://t.me/freebook9)
+-   [@GraphicAudio](https://t.me/GraphicAudio)
+-   [@HerbologyY](https://t.me/HerbologyY)
+-   [@hindupdf](https://t.me/hindupdf)
+-   [@HUBTree](https://t.me/HUBTree)
+-   [@HypnosisChatBooks](https://t.me/HypnosisChatBooks)
+-   [@librariesoftelegram](https://t.me/librariesoftelegram)
+-   [@libraryofdos](https://t.me/libraryofdos)
+-   [@LibraryofMagic](https://t.me/LibraryofMagic)
+-   [@librosocultismo](https://t.me/librosocultismo)
+-   [@magickaris](https://t.me/magickaris)
+-   [@MagickEbookz](https://t.me/MagickEbookz)
+-   [@magickmatters](https://t.me/magickmatters)
+-   [@magZtore](https://t.me/magZtore)
+-   [@mfmixebooks](https://t.me/mfmixebooks)
+-   [@MobiArchives](https://t.me/MobiArchives)
+-   [@novel_worlds](https://t.me/novel_worlds)
+-   [@novelbuk](https://t.me/novelbuk)
+-   [@OxfordBookworms](https://t.me/OxfordBookworms)
+-   [@PDFArchives](https://t.me/PDFArchives)
+-   [@PIT_PacktPubFreeLearning](https://t.me/PIT_PacktPubFreeLearning)
+-   [@ramanamaharishi](https://t.me/ramanamaharishi)
+-   [@s4n1t4t10n](https://t.me/s4n1t4t10n)
+-   [@sanskritsahitya](https://t.me/sanskritsahitya)
+-   [@sciencebooks1](https://t.me/sciencebooks1)
+-   [@SciHub](https://t.me/scihubot) - Similar to the original Sci-Hub website, sharing is caring!
+-   [@selfhelpbooklab](https://t.me/selfhelpbooklab)
+-   [@SelfHelpBooks4U](https://t.me/SelfHelpBooks4U)
+-   [@spiritualbooks](https://t.me/spiritualbooks)
+-   [@spiritualitybooks](https://t.me/spiritualitybooks)
+-   [@The Hindu](https://t.me/The_Hindu1) - PDFs of every Indian newspaper every day.
+-   [@vaidiclibrary](https://t.me/vaidiclibrary)
+-   [@vegancookbooks](https://t.me/vegancookbooks)
+-   [@vintageromance](https://t.me/vintageromance)
+-   [@WonderlandLibraryOfMagicBooks](https://t.me/WonderlandLibraryOfMagicBooks)
+-   [@yourlibraries](https://t.me/yourlibraries)
+-   [Blackhive](https://t.me/joinchat/AAAAAEV6rQontIWwNSDIbg)
+-   [Books](https://t.me/joinchat/AAAAAFTI64cvf4wKc1kxZw)
+-   [Deluxe Comics](https://t.me/joinchat/AAAAAEvekKwPN_OKq0RM_Q)
+-   [jhusbooks](https://t.me/joinchat/AAAAAEGe-ebJ--qN4LI3ng)
+-   [Libraries Arcana](https://t.me/joinchat/AAAAAE2_TmVfkdoTfP4TpA)
+-   [Library of Magi](https://t.me/joinchat/AAAAAErJl2k6YNIR9UM2vg)
+-   [Links](https://t.me/joinchat/AAAAAEaSHcI-kzAWWBZOJw)
+-   [Meditation](https://t.me/joinchat/AAAAAE9u9noQ7odN2Ds1rw)
+-   [Open Library](https://t.me/joinchat/AAAAAEUbZxqyCKxhZbf-PA)
+-   [WiLd's Occult Ebook Dump](https://t.me/joinchat/AAAAAE07WyxZNFu5tLrjVA)
 
 ### Telegram Bots
 
@@ -3169,11 +3222,12 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [@virus_total_scan_bot](https://t.me/virus_total_scan_bot) - Scan files and check it against VirusTotal. Does not work with Channels or Groups.
 
 #### Telegram eBook Bots
-- [@BookDownloadBot](https://t.me/BookDownloadBot)
-- [@getmediabot](https://t.me/getmediabot)
-- [@libgen_scihub_bot](https://t.me/libgen_scihub_bot)
-- [@libsan_bot](https://t.me/libsan_bot)
-- [@scihubot](https://t.me/scihubot)
+
+-   [@BookDownloadBot](https://t.me/BookDownloadBot)
+-   [@getmediabot](https://t.me/getmediabot)
+-   [@libgen_scihub_bot](https://t.me/libgen_scihub_bot)
+-   [@libsan_bot](https://t.me/libsan_bot)
+-   [@scihubot](https://t.me/scihubot)
 
 #### Telegram Music downloader Bot
 
