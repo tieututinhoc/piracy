@@ -348,6 +348,7 @@
 -   [DocuWiki-net](http://docuwiki.net/index.php?title=Main_Page) - DocuWiki.net serves as an index of documentary films on the Edonkey Network.
 -   [MVGroup](http://forums.mvgroup.org/) - A forum which shares documentaries via P2P.
 -   [whatwhat888 big list of documentary sites (streaming and download)](https://www.removeddit.com/r/Documentaries/comments/h9pu7/my_big_list_of_documentary_sites_streaming_and/) - An old post by /u/whatwhat888 that may still be useful.
+-   [Documentary Addict](https://documentaryaddict.com/) - A website which scrapes Youtube for documentaries.
 -   [iHaveNoTv](https://ihavenotv.com/) - Community managed documentary collection.
 
 ## Audiobooks
@@ -1885,7 +1886,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 -   [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) - A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 -   [NoScript](https://noscript.net/getit) - Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
--   [Burlesco](https://burles.co/en/) - Read the news without subscribing, bypass the paywall.
 -   [Universal Bypass](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj) - Universal Bypass automatically skips annoying link shorteners.
 -   [Violentmonkey](https://violentmonkey.github.io/) - An open-source userscript manager.
 -   [Anti-Paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
@@ -2547,6 +2547,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Xtreme Download Manager](http://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
 -   [wget - a noob's guide](https://the-eye.eu/public/Wget_Linux_Guide.pdf) - Beginner guide on how to use `wget`.
 -   [How to bypass Mega Quota limit via JDownloader 2](https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
+-   [FreeDownloadManager](https://www.freedownloadmanager.org/) - FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files.
 
 ### DDL Tools
 

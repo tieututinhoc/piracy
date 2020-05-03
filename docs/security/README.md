@@ -132,7 +132,7 @@
 ### Self-hosted
 
 -   [ZeroTier](https://www.zerotier.com) - Peer-to-peer multi-platform VPN.
--   [algo](https://github.com/trailofbits/algo) - Algo VPN is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN.
+-   [Algo VPN](https://github.com/trailofbits/algo) - A set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN.
 -   [Cloudron](https://cloudron.io/get.html) - A solution that allows anybody to create private clouds instantaneously.
 -   [DSVPN](https://github.com/jedisct1/dsvpn) - `Linux` - DSVPN is a dead simple VPN, designed to address the most common use case for using a VPN.
 -   [Mysterium Network](https://mysterium.network/) - Yet another self-hosted VPN.
