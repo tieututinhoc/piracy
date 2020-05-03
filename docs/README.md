@@ -3238,9 +3238,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Project Honey Pot](https://www.projecthoneypot.org/) - Online fraud & abuse tracker.
 -   [DarkNet Stats](https://dnstats.net/) - Monitors DarkNet Forums & Markets.
 -   [3DM Forum](https://bbs.3dmgame.com/) - `CN` - The official 3DMs page.
--   [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file.
--   [ArchiveBox](https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more.
--   [monolith](https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
 -   [Mwoffliner](https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) - to your local filesystem.
 -   [LinkSnappy](https://linksnappy.com/) - Aggregator to download from over 75 file hosters with one paid account only.
 -   [DVBKing](https://skystar-2.com/) - SkyStar, SoftCam Key ProgDVB Satellite Receiver Dish Network DirecTV HD TV.
@@ -3254,6 +3251,15 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [How to get ti-nspire CX student software for free, even after the free trial.](https://old.reddit.com/r/Piracy/comments/d5e70k/how_to_get_tinspire_cx_student_software_for_free/)
 -   [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 -   [IPFessay](https://gitlab.com/stavros/IPFessay) - An easy way to publish uncensorable essays on IPFS.
+
+### Website archiving tools
+
+-   [Wikipedia's List of Web archiving initiatives](hhttps://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
+-   [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file.
+-   [ArchiveBox](https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+-   [monolith](https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
+-   [Local Website Archive](https://www.aignes.com/lwa.htm) - Paid software to Archive online documents to your PC.
+-   [httrack](https://www.httrack.com/) - Allows you to download a website to a local directory.
 
 ### Transloading or (stream) - sharing Services
 
