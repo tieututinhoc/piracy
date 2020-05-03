@@ -1994,7 +1994,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) - Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield.
 -   [Unlock the transcode or 'session' limit on nVidia consumer grade GPUs](http://slothtechtv.com/2018/09/unlock-the-transcode-or-session-limit-on-nvidia-consumer-grade-gpus) - Article describing how to bypass the artifical single-transcode limit.
 
-#### Plugins
+#### Plex Plugins
 
 -   [Audiobooks.bundle](http://github.com/macr0dev/Audiobooks.bundle) - Plex metadata scraper for Audiobooks.
 -   [ExportTools.bundle](http://github.com/ukdtom/ExportTools.bundle) - Export Plex Library to a csv, xlsx or m3u8 file.
@@ -2015,7 +2015,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [TvplexendChannel.bundle](http://github.com/pgaubatz/TvplexendChannel.bundle) - A Tvheadend Channel Plugin for PLEX Media Server.
 -   [WebTools.bundle](http://github.com/ukdtom/WebTools.bundle) - A collection of several tools for Plex Media Server. Like the Unsupported AppStore (UAS).
 
-#### Requests
+#### Plex Requests
 
 -   [Ombi](http://ombi.io/) - Want a Movie or TV Show on Plex or Emby? Use Ombi!.
 -   [Plex Requests](http://plexrequests.8bits.ca/) - Simple automated way for users to request new content for Plex.
@@ -2023,7 +2023,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Mellow](https://github.com/v0idp/Mellow/) - Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3.
 -   [MediaButler](https://github.com/physk/MediaButler) - Discord bot for use with PleX and several other apps that work with it.
 
-#### Scripts and Tools
+#### Plex Scripts and Tools
 
 -   [goplaxt](https://github.com/XanderStrike/goplaxt/) - Full rewrite of the above, written in Go and deployable with Docker.
 -   [Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana for a frontend.
@@ -2053,27 +2053,27 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Python-PlexLibrary](https://github.com/adamgot/python-plexlibrary) - Python command line utility for creating and maintaining dynamic Plex libraries based on "recipes".
 -   [Transmogrify](https://github.com/Transmogrify-for-Plex/Transmogrify-for-Plex-chrome) - A Chrome extension that adds several features to the Plex/Web 2.0 client for Plex.
 
-#### Sharing
+#### Plex Sharing
 
 -   [r/plexshares](https://www.reddit.com/r/plexshares/) - A nice place to find Plex Media Server shares.
 -   [BaconFeet](https://baconfeet.com/) - "Bringing a difference in streaming to the masses." ([r/BaconFeet](https://www.reddit.com/r/BaconFeet/)).
 -   [Elysium](https://elysium.to/) - Plex media streaming service.
 
-#### Transcoding
+#### Plex Transcoding
 
 -   [nvidia-patch](https://github.com/keylase/nvidia-patch) - Unlock the transcode or 'session' limit on nVidia consumer grade GPUs.
 -   [kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster!.
 -   [Plex-Remote-Transcoder](https://github.com/wnielson/Plex-Remote-Transcoder) - A distributed transcoding backend for Plex.
 -   [UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder) - A remote transcoder for Plex Media Server.
 
-#### Logging and Metrics
+#### Plex Logging and Metrics
 
 -   [Plex-Data-Collector-For-InfluxDB](https://github.com/barrycarey/Plex-Data-Collector-For-InfluxDB) - Collects data about your Plex server and sends it to InfluxDB.
 -   [plexWatch](https://github.com/ljunkie/plexWatch) - Notify and Log watched content on a Plex Media Server.
 -   [Tautulli](https://tautulli.com/) - Tautulli is a 3rd party application that you can run alongside your Plex Media Server to monitor activity and track various statistics.
 -   [r/PlexACD](https://www.removeddit.com/r/PlexACD/) - Discussion about unlimited cloud storage for Plex libraries.
 
-#### Clients
+#### Plex Clients
 
 -   [go-plex-client](http://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client.
 -   [PlexConnect](http://github.com/iBaa/PlexConnect) - Unofficial Plex app for Apple TV devices.
@@ -3275,6 +3275,9 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 -   [IPFessay](https://gitlab.com/stavros/IPFessay) - An easy way to publish uncensorable essays on IPFS.
 -   [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS-Win is a minimal port of SSHFS to Windows.
+-   [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - A free and open source editor for video subtitles.
+-   [Shreddit](https://github.com/x89/Shreddit) - Removes your comment history on Reddit as deleting an account does not do so.
+-   [PowerDeleteSuite for Reddit](https://github.com/j0be/PowerDeleteSuite) - Delete all your reddit history.
 
 ### Website archiving tools
 
