@@ -8,8 +8,9 @@ actionLink: /
 footer: PIRACY IS STEALING
 ---
 
+<br/>
+
 <div align="center">
-  <a href="https://piracy.now.sh/"><img src="https://img.shields.io/badge/website-piracy.now.sh-3eaf7c?style=for-the-badge" alt="Website"></a>
   <a href="https://github.com/maximousblk/piracy"><img src="https://img.shields.io/github/stars/maximousblk/piracy?color=555&logo=github&style=for-the-badge" alt="GitHub stars"></a>
   <a href="https://twitter.com/intent/tweet?text=Head over to https://piracy.now.sh/ for amazing %23piracy links and resources!"><img src="https://img.shields.io/badge/-tweet%20about%20this-1da1f2?logoColor=fff&logo=twitter&labelColor=1da1f2&style=for-the-badge" alt="Tweet"></a>
 </div>
