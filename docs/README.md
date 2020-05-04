@@ -533,6 +533,7 @@
 - [The Encoding Guide](https://encoding-guide.neocities.org/) - In-depth guide on encoding video.
 - [How To Stream Movies, TV, Anime & Sports Online](https://www.removeddit.com/r/FREEMEDIAFUCKYEAH/comments/9q11kg/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman.
 - [Streaming pirated media in 2019 (seedbox + Sonarr + Plex)](https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Paying Money to Steal Movies & Music on the Internet.
+- [Episodes](https://github.com/guptachetan1997/Episodes) - Self Hosted TV show Episode tracker and recommender.
 
 ### Content Discovery
 
@@ -2958,14 +2959,19 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
   - [Slack notifications for autodl-irssi](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) - Guide by yours truly on enabling Slack notifications for autodl-irssi.
   - [autodl-curl-sonarr](https://github.com/Zymest/autodl-curl-sonarr) - Script to use as upload-command for autodl-irssi to post to Sonarr.
   - [mreg](https://github.com/Igglybuff/mreg) - Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
+- [mIRC](http://www.mirc.com/) - The original IRC client for Windows.
 - [HexChat](http://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it is completely free for both Windows and Unix-like systems.
 - [irssi](http://irssi.org/) - Your text mode chatting application since 1999.
-- [Kiwi IRC](http://kiwiirc.com/) - Popular web-based IRC client.
+- [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support.
 - [KVIrc](http://github.com/kvirc/KVIrc) - Yet another graphical IRC client.
-- [mIRC](http://www.mirc.com/) - The original IRC client for Windows.
 - [Shout](http://github.com/erming/shout) - The self-hosted web IRC client.
-- [TheLounge](http://hub.docker.com/r/linuxserver/thelounge/) - TheLounge (a fork of shoutIRC) - is a web IRC client that you host on your own server.
+- [The Lounge](http://hub.docker.com/r/linuxserver/thelounge/) - TheLounge (a fork of shoutIRC) - is a web IRC client that you host on your own server.
 - [weechat](http://github.com/weechat/weechat) - The extensible chat client.
+- [Convos](http://convos.by/) - Always online web IRC client.
+- [InspIRCd](https://www.inspircd.org/) - Modular IRC server written in C++ for Linux, BSD, Windows, and macOS.
+- [Dispatch](https://github.com/khlieng/dispatch) - Self-hosted web IRC client written in Go.
+- [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks.
+
 
 ### IRC Networks
 
