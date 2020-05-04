@@ -24,15 +24,15 @@ This list exists because of
 
 ## Frequently asked questions?
 
-#### Why was this even created?
+> Why was this even created?
 
 Research purposes... :wink:
 
-#### Is this a biased list?
+> Is this a biased list?
 
 Somewhat. I do not know everything about digital piracy and can be a little resistive while adding new links.
 
-#### Why can I only search for headers on the website?
+> Why can I only search for headers on the website?
 
 A full-text search function is planned.
 The website uses vuepress for easy maintainance and deployment.
