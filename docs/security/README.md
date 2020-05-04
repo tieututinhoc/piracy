@@ -472,7 +472,7 @@
 -   [Zcash](https://github.com/adityapk00/zecwallet-lite/releases/latest)
 -   [Liberapay](https://en.liberapay.com/)
 
-### Anonymous Cryptocurrency Exchanges (without KYC Verification!)
+### Anonymous Cryptocurrency Exchanges
 
 -   [Binance](https://www.binance.com/) - Hong Kong-based exchange.
 -   [Changelly](https://itunes.apple.com/us/app/stratis/id1250824734?mt=8) - (_iOS app_) - Cryptocurrency exchange service that allows for instant transfers from one cryptocurrency wallet to another across various cryptocurrencies.

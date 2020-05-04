@@ -2388,6 +2388,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 -   [Furk.net](https://www.furk.net/) - Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook.
 -   [Put.io automator](https://github.com/datashaman/putio-automator) - A suite of commands for managing torrents, transfers and files on Put.io.
 -   [Seedbox.io](https://seedbox.io/) - Provides 99,9% uptime, cheap and claims to have a good support.
+-   [Giga-Rapid.com](https://giga-rapid.com/gigaseedbox.php) - Shared 1Gbps seedboxes with massive storage & lots of addon applications.
 -   [SeedSync](https://github.com/ipsingh06/seedsync) - SeedSync is a GUI-configurable, LFTP-based file transfer and management program.
 -   [UltraSeedbox](https://ultraseedbox.com/) - Cheap Seedbox, fast and reliable.
 -   [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
