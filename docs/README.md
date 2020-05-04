@@ -518,7 +518,6 @@
   - [r/FullLengthFilms](https://www.removeddit.com/r/FullLengthFilms/)
   - [r/fullmovierequest](https://www.removeddit.com/r/fullmovierequest/)
   - [r/FullMoviesDailyMotion](https://www.removeddit.com/r/FullMoviesDailyMotion)
-  - [r/fullmoviesonopenload](https://www.removeddit.com/r/fullmoviesonopenload)
   - [r/Fullmoviesonvimeo](https://www.removeddit.com/r/Fullmoviesonvimeo/)
   - [r/fullmoviesonyoutube](https://www.removeddit.com/r/fullmoviesonyoutube/)
   - [r/fulltvshowsonvimeo](https://www.removeddit.com/r/fulltvshowsonvimeo/)
@@ -616,7 +615,6 @@
 - [eMule Island.ru](https://www2.emule-island.ru/) - (FR/RU) - Site de téléchargement gratuit, Telecharger des films complet, series, ebooks, spectacles, documentaires et bien plus, sur uptobox, 1fichier.
 - [libertyVF](https://ww1.libertyvf.org/)
 - [onemov](https://onemov.net/) - Online Full HD Movie Free.
-- [openloadmovies.net](https://openloadmovies.net/) - Reliable movie streaming site which uses OpenLoad.
 
 #### Streaming 1080p
 
@@ -633,7 +631,6 @@
   - [Mirror](https://topeuropix.net/)
 - [KatmovieHD](https://katmoviehd.nl/) - Movies, TV Shows & sharing group.
 - [LeonFlix](https://leonflix.net/)
-- [OpenloadMovies.ac](https://openloadmovies.ac/)
 - [MovieJagg](https://www.coolmoviejagg.pro/)
 - [MovieStreams](https://moviestreams.org/)
 - [OneMov](https://onemov.net/)
@@ -710,14 +707,14 @@
 - [ILoveToWatch](https://ilovetowatch.online/)
 - [IWannaWatch](https://www.iwannawatch.is/)
 - [Khaanflix](https://khaanflix.com/)
-- [MegaDDL](https://megaddl.co) - Various movies via Mega, 1Fitcher, Openload and other file-hoster.
+- [MegaDDL](https://megaddl.co) - Various movies via Mega, 1Fitcher and other file-hoster.
 - [Megadede](https://www.megadede.com/) - (SP) - Yet another spanish streaming site with TV shows and movies.
 - [Movidy](https://movidy.co/) - (SP) - Spanish streaming website for movies and TV series.
 - [MovieGlide](https://www.movieglide.com/)
 - [Movies24](https://movies24.top/)
 - [MovieZion](https://www.nicemoviezion.pro/)
 - [Niter](https://niter-movies.com/)
-- [pahe.in](https://pahe.in/) - Streams via Uptostream, Google Drive, Openload or Mega.
+- [pahe.in](https://pahe.in/) - Streams via Uptostream, Google Drive or Mega.
   - [Mirror](http://Pahe.me)
   - [Mirror](http://pahe.ph)
 - [ProSpice](https://prospice.surge.sh/)
@@ -851,35 +848,33 @@
 
 ### Third Party Hosts
 
-- [MovieZion](https://www.nicemoviezion.pro/) - Openload.
-- [Vmovee](https://vmovee.me/) - Openload (Many outdated/removed links, not updated).
-- [MovieJagg](https://www.coolmoviejagg.pro/) - Openload.
-- [IWannaWatch](https://www.iwannawatch.is/) - Openload, Streamango.
+- [Vmovee](https://vmovee.me/)
+- [MovieJagg](https://www.coolmoviejagg.pro/)
+- [IWannaWatch](https://www.iwannawatch.is/)
 - [UWatchFree](https://www.uwatchfree.tv/) - VidPlayer, ViDeoZa.
-- [Oakmovies](http://oakmovies.com/) - Openload, NT, NY, NW.
-- [Vexmovies](http://vexmovies.org/) - Openload, NY, NW, MC-2.
-- [Openloadmovie](https://openloadmovie.ws/) - Openload (some outdated links).
-- [cine.to](https://cine.to/) - Openload, Vivo, Streamcloud, Flashx, Streamango.
-- [cinebloom](https://www2.cinebloom.com) - Openload, Streamango.
-- [HDEUROPIX](https://topeuropix.net/) - Openload, Rapidvideo.
-- [openloadmovies.net](https://openloadmovies.net/) - OpenLoad.
-- [HD MOVIES](https://hdm.to/) - OpenLoad, Streamango, Streamcherry.
-- [VodLocker](https://vodlocker.tv/) - Openload, Streamango.
-- [StreamCouch](https://www2.streamcouch.com/) - Openload, Streamango.
-- [Qwemovies](https://www3.qwemovies.com/) - OpenLoad.
-- [movies2k](http://www.movie2k.st) - Openload, Streamango, Streamcloud, Rapidvideo, Upvid.
+- [Oakmovies](http://oakmovies.com/) - NT, NY, NW.
+- [Vexmovies](http://vexmovies.org/) - NY, NW, MC-2.
+- [cine.to](https://cine.to/) - Vivo, Streamcloud, Flashx.
+- [cinebloom](https://www2.cinebloom.com)
+- [HDEUROPIX](https://topeuropix.net/) - Rapidvideo.
+- [openloadmovies.net](https://openloadmovies.net/)
+- [HD MOVIES](https://hdm.to/) - Streamcherry.
+- [VodLocker](https://vodlocker.tv/)
+- [StreamCouch](https://www2.streamcouch.com/)
+- [Qwemovies](https://www3.qwemovies.com/)
+- [movies2k](http://www.movie2k.st) - Streamcloud, Rapidvideo, Upvid.
 - [xPau.se](http://xpau.se/) - Googledrive.
-- [Flixanity](https://flixanity.xyz/) - Openload, Streamango, hls.22x.cartoonhd.pw (subtitles).
-- [MegaShare](http://megashare9.su) - Openload.
-- [XMovies8](https://xmovies8.ru/) - Openload, FServer, PTServer.
-- [IceFilms](http://www.icefilms.info/) - Openload, FileUpload.
+- [Flixanity](https://flixanity.xyz/) - hls.22x.cartoonhd.pw (subtitles).
+- [MegaShare](http://megashare9.su)
+- [XMovies8](https://xmovies8.ru/) - FServer, PTServer.
+- [IceFilms](http://www.icefilms.info/) - FileUpload.
 - [FilmXY](https://www.filmxy.nl/) - RapidVideo, Vidoza, Uptostream (offers download links).
-- [1Movies](http://1movies.nl) - Openload, FServer.
-- [WatchFullMovie](http://watchfullmovie.co) - Openload.
-- [FMOVIES](https://www3.fmovies.to/) - Openload, MyCloud, RapidVideo, Streamango.
-- [WatchFree](https://watchfree.at/) - Openload, FServer.
-- [pahe.in](https://pahe.in/) - Uptostream, Google Drive, Openload, Mega.
-- [megaDDL](https://megaddl.co/) - Mega, Go4up, 1Fichier, NitroFlare, Openload.
+- [1Movies](http://1movies.nl) - FServer.
+- [WatchFullMovie](http://watchfullmovie.co)
+- [FMOVIES](https://www3.fmovies.to/) - MyCloud, RapidVideo.
+- [WatchFree](https://watchfree.at/) - FServer.
+- [pahe.in](https://pahe.in/) - Uptostream, Google Drive, Mega.
+- [megaDDL](https://megaddl.co/) - Mega, Go4up, 1Fichier, NitroFlare.
 
 ### Subtitles
 
@@ -993,7 +988,7 @@
 ### PC
 
 - [Bzinho Games](https://bzinhoneverdies.blogspot.com/) - Scene releases mirrors.
-- [CompucaliTV](https://www.compucalitv.com/juegos-pc) - (SP) - Games, Video & more via Mega, OpenLoad, & others).
+- [CompucaliTV](https://www.compucalitv.com/juegos-pc) - (SP) - Games, Video & more via Mega & others).
 - [CS.Rin.RU](https://cs.rin.ru) - NoStream Gaming Servers, Repacks & mods. (Tor Mirror: _csrinru3c2ownkep.onion/forum/_ + [[Userscript] CS.RIN.RU Enhanced](https://greasyfork.org/scripts/25713-cs-rin-ru-enhanced/code/CSRINRU%20Enhanced.user.js)) - [Blog](https://write.as/ress/).
 - [Firestorm](https://firestorm-servers.com/) - Games & more.
 - [GameCopyWorld](https://gamecopyworld.eu) - Provides cracks for Games.
@@ -1374,7 +1369,7 @@
 - [Balaton Sound aka per-fect](https://per-fect.nl) - Listen to music on the website or download top 100 playlists.
 - [Mp3va.com](https://www.mp3va.com/browse) - Free Music mostly MP3s.
 - [My Free MP3](https://my-free-mp3.net) - Search engine for MP3s, stream & download is possible.
-- [RnBXclusive](https://rnbxclusive.online) - (needs ad-blocker) - MP3s via OpenLoad & Co.
+- [RnBXclusive](https://rnbxclusive.online) - MP3s via various sources.
 - [RockBox](https://rawkbawx.rocks/) - A Metal music tracker.
 - [Plixid](https://plixid.com) - Seems to work together with NovaFile, own Facebook page and lots of music.
 - [trapadan](https://www.trapadan.com) - (needs ad-blocker) - Various music.
@@ -1934,7 +1929,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [AdsBypasser](https://adsbypasser.github.io/) - This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 - [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 - [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) - Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
-- [openload](https://greasyfork.org/en/scripts/17665-openload) - Remove anti-Adblock, ads, pop-ups, and timer waits, and show direct download link on OpenLoad.
 - [Bypass Google Sorry (reCAPTCHA)](https://greasyfork.org/en/scripts/33226-bypass-google-sorry-recaptcha) - Redirect Google reCAPTCHA to a new search window.
 - [MoreCAPTCHA](https://greasyfork.org/en/scripts/31088-morecaptcha) - Speeds up solving Google reCAPTCHA challenges by shortening transition effects and providing continuous selection ability.
 - [Remove fake TPB torrents](https://www.reddit.com/r/Piracy/comments/78aicx/i_wrote_a_small_script_that_automatically_hides/) - Script that automatically hides fake torrents on The Pirate Bay based on conditional logic.
@@ -2615,7 +2609,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 ### DDL Search Engines and Crawlers
 
 - [ololo](https://ololo.to/) - A video streaming link search engine.
-- [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts like OpenLoad.
+- [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts.
 - [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
 - [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, Usenet, and hoster indexes.
 - [Alluc](https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters, and file-hosters.
@@ -2669,7 +2663,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [FilmRls](https://filmrls.com/) - Movies, Series and TV Shows.
 - [filewarez.tv](https://filewarez.tv/) - Invite-only, hosts both Mega and Google Drive links for TV shows.
 - [FTP Mirrors](ftp://77.247.243.7/MS/Windows-10/) - Windows ISO Downloads Mirrors (ftp links not visible in GitHub's Markdown!).
-- [GLOAD.cc](https://gload.cc/) - Provides Zippyshare and Openload as download-friendly mirrors.
+- [GLOAD.cc](https://gload.cc/) - Provides Zippyshare as download-friendly mirrors.
 - [hdencode](https://hdencode.com/) - Videos/Movies in HD Quality.
 - [IceFilms.info](https://www.icefilms.info/) - Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more.
 - [Intercambios Virtuales](http://www.intercambiosvirtuales.org/) - Yet another software portal.
@@ -2723,7 +2717,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [Reevown](https://reevown.com/) - A free download service with which you can perform premium downloads.
 - [File sharing table](https://nafanz.github.io/) - Regularly updated table of information about file hosts.
 - [Mega](https://mega.nz/)
-- [OpenLoad](https://openload.co/)
 - [RapidGator](https://rapidgator.net/)
 - [4shared](https://www.4shared.com/)
 - [Mediafire](https://www.mediafire.com/)
@@ -2784,11 +2777,11 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [Rapidlinks](https://rapidlinks.org) - (RU) - Russian search engine for various sharehoster.
 - [Alluc](https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters and file-hosters.
 - [IPLIVE](https://iplive.club/) - DDL search engine.
-- [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts like OpenLoad.
+- [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts.
 - [ololo](https://ololo.to/) - A video streaming link search engine.
 - [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
 - [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
-- [Anonembed](http://anonembed.xyz/) - Search Engine for Openload,Streamango,Rapidvideo, Google Drive, Google photos, Verystream & more.
+- [Anonembed](http://anonembed.xyz/) - Search Engine for Rapidvideo, Google Drive, Google photos, Verystream & more.
 - [FilesLoop](https://www.filesloop.com/) - Search and download torrents and files from various file hosting like Uploaded etc.
 
 ## Google Team Drives
