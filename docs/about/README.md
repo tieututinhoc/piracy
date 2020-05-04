@@ -11,6 +11,7 @@ footer: PIRACY IS STEALING
 <br/>
 
 <div align="center">
+  <a href="https://web.archive.org/web/*/https://piracy.now.sh/"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/maximousblk/piracy/archive?label=Internet%20Archive&logo=github%20actions&logoColor=fff&style=for-the-badge"></a>
   <a href="https://github.com/maximousblk/piracy"><img src="https://img.shields.io/github/stars/maximousblk/piracy?color=555&logo=github&style=for-the-badge" alt="GitHub stars"></a>
   <a href="https://twitter.com/intent/tweet?text=Head over to https://piracy.now.sh/ for amazing %23piracy links and resources!"><img src="https://img.shields.io/badge/-tweet%20about%20this-1da1f2?logoColor=fff&logo=twitter&labelColor=1da1f2&style=for-the-badge" alt="Tweet"></a>
 </div>
