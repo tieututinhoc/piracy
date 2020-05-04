@@ -4,7 +4,7 @@
   <h2 align="center">It's illegal cuz they can't tax you!</h2>
 </div>
 
-[![TWEET](https://img.shields.io/badge/-tweet%20about%20this-1da1f2?logoColor=fff&logo=twitter&labelColor=1da1f2&style=for-the-badge)](https://twitter.com/intent/tweet?text=Head%20over%20to%20http%3A%2F%2Fpiracy.now.sh%2F%20for%20amazing%20%23piracy%20links%20and%20resources%21)
+[![TWEET](https://img.shields.io/badge/-tweet%20about%20this-1da1f2?logoColor=fff&logo=twitter&labelColor=1da1f2&style=for-the-badge)](https://twitter.com/intent/tweet?text=Head%20over%20to%20https%3A%2F%2Fpiracy.now.sh%2F%20for%20amazing%20%23piracy%20links%20and%20resources%21)
 
 This list is an attempt to add structure to the resources you need to get started on your pirate voyage.
 
