@@ -18,5 +18,16 @@
     "homepage": "https://piracy.now.sh/",
     "devDependencies": {
         "vuepress": "^1.4.1"
+    },
+    "prettier": {
+        "tabWidth": 4,
+        "overrides": [
+            {
+                "files": "*.md",
+                "options": {
+                    "tabWidth": 2
+                }
+            }
+        ]
     }
 }

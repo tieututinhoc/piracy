@@ -14,9 +14,9 @@ For discussion, feedback or if you come across dead links please head over to [i
 
 This list exists because of
 
--   All [contributors](https://github.com/maximousblk/piracy/graphs/contributors).
--   [CHEF-KOCH/Warez](https://github.com/CHEF-KOCH/Warez)
--   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
+- All [contributors](https://github.com/maximousblk/piracy/graphs/contributors).
+- [CHEF-KOCH/Warez](https://github.com/CHEF-KOCH/Warez)
+- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
 
 ## Frequently asked questions?
 
@@ -44,22 +44,22 @@ Contributions are welcome! (But read the [contribution guidelines](contributing.
 
 ## Project structure
 
--   [.github/workflows/archive.yml](.github/workflows/archive.yml) - Github Workflow to automatically archive the website after every update.
--   [docs/](docs/) - Main website Source code and lists.
-    -   [.vuepress/](docs/.vuepress/) - Vuepress configuration file and static assets.
-    -   [404/README.md](docs/404/README.md) - 404 page for the website.
-    -   [about/README.md](docs/about/README.md) - 404 page for the website.
-    -   [laws/README.md](docs/laws/README.md) - List of laws and restrictions regardind digital piracy.
-    -   [security/README.md](docs/security/README.md) - List of security related tools and assets.
-    -   [README.md](docs/README.md) - List of all digital piracy related tools and assets.
--   [.gitignore](.gitignore) - gitignore file.
--   [check_links.py](check_links.py) - A python file to find broken links.
--   [contributing.md](contributing.md) - Contribution guidelines.
--   [LICENSE](LICENSE) - License file.
--   [now.json](docs/now.json) - Configuration file for Vercels Now.
--   [package-lock.json](docs/package-lock.json) - Lock file for package manager.
--   [package.json](docs/package.json) - Package manager configurations.
--   [README.md](README.md) - This file.
+- [.github/workflows/archive.yml](.github/workflows/archive.yml) - Github Workflow to automatically archive the website after every update.
+- [docs/](docs/) - Main website Source code and lists.
+  - [.vuepress/](docs/.vuepress/) - Vuepress configuration file and static assets.
+  - [404/README.md](docs/404/README.md) - 404 page for the website.
+  - [about/README.md](docs/about/README.md) - 404 page for the website.
+  - [laws/README.md](docs/laws/README.md) - List of laws and restrictions regardind digital piracy.
+  - [security/README.md](docs/security/README.md) - List of security related tools and assets.
+  - [README.md](docs/README.md) - List of all digital piracy related tools and assets.
+- [.gitignore](.gitignore) - gitignore file.
+- [check_links.py](check_links.py) - A python file to find broken links.
+- [contributing.md](contributing.md) - Contribution guidelines.
+- [LICENSE](LICENSE) - License file.
+- [now.json](docs/now.json) - Configuration file for Vercels Now.
+- [package-lock.json](docs/package-lock.json) - Lock file for package manager.
+- [package.json](docs/package.json) - Package manager configurations.
+- [README.md](README.md) - This file.
 
 ## Disclaimer
 
