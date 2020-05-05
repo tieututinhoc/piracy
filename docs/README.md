@@ -555,6 +555,7 @@
 - [Flickmetrix](https://flickmetrix.com/) - Movie database search engine with disc/Netflix/Prime filtering.
 - [dvdsreleasedates.com](https://www.dvdsreleasedates.com/) - The latest info on new Blu-ray and DVD releases.
 - [Simkl](https://simkl.com/) - Movie and TV show scrobbler similar to Trakt.tv.
+- [tastedive.com/](https://tastedive.com/) - A recommendation engine that helps you explore music, movies, TV shows, books, authors, games, and podcasts
 
 ### Streaming Movies and TV shows
 
