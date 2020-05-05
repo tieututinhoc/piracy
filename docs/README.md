@@ -2264,7 +2264,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [SkyTorrents](https://www.skytorrents.lol/) - Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer.
 - [Streams.Now.SH](https://streams.now.sh/) - Similar quality & size like RARBG & [YTS](https://yts.mx).
 - [The Pirate Bay](https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places.
-  - [`piratebayztemzmv.onion`](piratebayztemzmv.onion) - Onion address.
+  - [`piratebayztemzmv.onion`](http://piratebayztemzmv.onion/) - Onion address.
   - [The Proxy Bay](https://proxybay.bz/) - Can't access The Pirate Bay? Try one of these proxy sites.
 - [Tor Lock](https://torlock.com/) - TorLock is a torrent site that offers verified torrent downloads.
 - [Torrent9](https://www.torrent9.ph/) - French torrent search engine.
