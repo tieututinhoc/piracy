@@ -1,11 +1,7 @@
 ---
-navbar: false
-sidebar: false
-editLink: false
+heroText: 404
+tagline: Page not found!
+actionText: Go Home →
+actionLink: /
+footer: PIRACY IS STEALING
 ---
-
-# 404
-
-> How did we get here?
-
-[Take me home.](/)
