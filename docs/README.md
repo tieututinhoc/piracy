@@ -1921,8 +1921,9 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [Stream Video Downloader](https://chrome.google.com/webstore/detail/stream-video-downloader/imkngaibigegepnlckfcbecjoilcjbhf) - Video downloader that really works with Streaming websites. Download Mp4 and audio formats.
 - [Video Downloader PLUS](https://chrome.google.com/webstore/detail/video-downloader-plus/fhplmmllnpjjlncfjpbbpjadoeijkogc) - Downloads most popular media types from ANY website.
 - [Video DownloadHelper](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk) - The most complete Web video downloader ! The popular Video DownloadHelper Firefox extension is now available for Chrome.
-- [Keyboard Privacy](https://anonym.to/?https://chrome.google.com/webstore/detail/keyboard-privacy/aoeboeflhhnobfjkafamelopfeojdohk) - Prevents behavioral profiling by randomizing the rate at which characters reach the DOM.
-- [AudioContext Fingerprint Defender](https://anonym.to/?hhttps://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en) - Defending against AudioContext fingerprinting by reporting a fake value.
+- [Keyboard Privacy](https://chrome.google.com/webstore/detail/keyboard-privacy/aoeboeflhhnobfjkafamelopfeojdohk) - Prevents behavioral profiling by randomizing the rate at which characters reach the DOM.
+- [AudioContext Fingerprint Defender](hhttps://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en) - Defending against AudioContext fingerprinting by reporting a fake value.
+- [Telegram Media Downloader](https://chrome.google.com/webstore/detail/telegram-media-downloader/ffhhcekaaamffjnapdckmnkllkmmpfnh) - Bypass the 1.5 GB download limit and scrape channels/groups.
 
 ## Userscripts
 
@@ -2190,7 +2191,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [Bibliotik](https://bibliotik.me/) - (BI) - Popular ebooks/audiobooks private tracker.
 - [Blutopia](https://blutopia.xyz) - (BLU) - Blutopia is a private tracker for HD movies (Blu-Ray) - and HD TV shows.
 - [CGPeers](https://www.cgpeers.com/) - (CGP) - CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
-- [Filelist](https://filelist.ro/) - (FL) - Large Romanian general tracker with mostly English content. No RAR files allowed. Scene torrents are unrared, and then allowed.
 - [GazelleGames](https://gazellegames.net/login.php) - (GGn) - Currently the largest private tracker for games.
 - [HD-Forever](https://hdf.world/) - (HD-F) - HD-Forever is a French private tracker for HD movies.
 - [HD-Space](https://hd-space.org/) - (HDS) - HD-Space is a private torrent tracker hosting HD movies, TV shows, and music torrents. A good tracker for beginners.
@@ -2505,7 +2505,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 #### Free Usenet Indexers
 
-- [6box](https://6box.me/) - A recently revived free Usenet indexing service with a generous API.
 - [BINZB](https://binzb.com) - Minimalistic indexer.
 - [Binsearch](https://www.binsearch.info/) - With this site you can search and browse binary Usenet newsgroups.
 - [FindNZB](https://findnzb.net) - One old indixer, the results are outdated and often offline.
@@ -3012,7 +3011,13 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
+- [Telegram proxy](https://telegram.ind.in/) - Telegram unblock proxy for countries with Telegram banned.
+    - [Telegram web](https://web.telegram.ind.in/)
+    - [Telegram APIs](core.telegram.ind.in)
+    - [Telegram news channel](l.telegram.ind.in/Telegram)
 
+- instantview.telegram.ind.in
+- translations.telegram.ind.in
 ### Telegram Tools & Scripts
 
 - [Be careful using bots on telegram](http://www.wired.com/story/telegram-bots-tls-encryption/) - Wired article about Telegram Bots and encryption.
