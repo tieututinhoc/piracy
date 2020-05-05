@@ -23,4 +23,9 @@ jobs:
                   archivenow --ia https://piracy.now.sh/security/
                   archivenow --ia https://piracy.now.sh/laws/
                   archivenow --ia https://piracy.now.sh/dead/
+                  archivenow --ia https://piracy.netlify.app/
+                  archivenow --ia https://piracy.netlify.app/about/
+                  archivenow --ia https://piracy.netlify.app/security/
+                  archivenow --ia https://piracy.netlify.app/laws/
+                  archivenow --ia https://piracy.netlify.app/dead/
                   archivenow --ia https://maximousblk.github.io/piracy/
