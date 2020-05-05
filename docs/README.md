@@ -2263,7 +2263,8 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [Shaanig](https://shaanig.se/) - Small-size HD TV episodes & movies.
 - [SkyTorrents](https://www.skytorrents.lol/) - Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer.
 - [Streams.Now.SH](https://streams.now.sh/) - Similar quality & size like RARBG & [YTS](https://yts.mx).
-- [The Pirate Bay](https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places. (**Be warned**: It mines coins in the background!) + Onion `piratebayztemzmv.onion`.
+- [The Pirate Bay](https://thepiratebay.org/) - A well-known torrent site which is somehow still running, blocked in most places.
+  - [`piratebayztemzmv.onion`](piratebayztemzmv.onion) - Onion address.
   - [The Proxy Bay](https://proxybay.bz/) - Can't access The Pirate Bay? Try one of these proxy sites.
 - [Tor Lock](https://torlock.com/) - TorLock is a torrent site that offers verified torrent downloads.
 - [Torrent9](https://www.torrent9.ph/) - French torrent search engine.
@@ -2540,17 +2541,23 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 ## Direct Downloads
 
 - [Zippyshare.sh](https://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
-- [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) - Use IDM forever without cracking.
-- [Ant Download Manager](http://antdownloadmanager.com/) - Ant Download Manager is similar like IDM (also paid).
-- [Internet Download Manager](http://www.internetdownloadmanager.com/) - One of the best shareware download manager for Windows.
-- [JDownloader2](http://www.jdownloader.org/home/index) - JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. The [Event Scripter Scripts](http://board.jdownloader.org/showthread.php?s=7b76a54fbe9589b2ed4ef0f82bde0f60&t=70525&page=37) - are a nice addition to "tweak" your JD with some scripts.
 - [Plowshare](http://github.com/mcrapet/plowshare) - Command-line tool & engine for managing sharing websites.
 - [pyLoad](http://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
 - [WFDownloader App](http://www.wfdownloader.xyz/) - Batch downloader ultility.
-- [Xtreme Download Manager](http://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
 - [wget - a noob's guide](https://the-eye.eu/public/Wget_Linux_Guide.pdf) - Beginner guide on how to use `wget`.
 - [How to bypass Mega Quota limit via JDownloader 2](https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
+
+### Download Managers
+
+- [JDownloader2](http://www.jdownloader.org/home/index) - JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be. The [Event Scripter Scripts](http://board.jdownloader.org/showthread.php?s=7b76a54fbe9589b2ed4ef0f82bde0f60&t=70525&page=37) - are a nice addition to "tweak" your JD with some scripts.
+- [Internet Download Manager](http://www.internetdownloadmanager.com/) - One of the best shareware download manager for Windows.
+  - [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) - Use IDM forever without cracking.
+  - [Mega.nz IDM Downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) - Unlimited downloading from Mega.nz with IDM.
+- [Ant Download Manager](http://antdownloadmanager.com/) - Ant Download Manager is similar like IDM (also paid).
+- [Xtreme Download Manager](http://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) - FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files.
+- [EagleGet](http://www.eagleget.com/) - EagleGet is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
+- [uGet](http://ugetdm.com/) - Open Source Download Manager.
 
 ### DDL Tools
 
@@ -2560,16 +2567,14 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [wget](http://www.gnu.org/software/wget/) - `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
   - [wget for Windows](http://eternallybored.org/misc/wget/) - A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.
 - [MEGAsync](http://mega.nz/sync) - Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
-- [Mega.nz IDM Downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) - Unlimited downloading from Mega.nz with IDM.
-- [MegaCrypt.js](http://github.com/JohnDeved/megacrypt.js) - MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
-- [megabasterd](http://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) - cross-platform MEGA downloader/uploader/streaming suite.
-- [megadown](https://github.com/tonikelope/megadown) - Bash script for download files from mega.nz and megacrypter.
-- [megatools](http://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
+  - [MegaCrypt.js](http://github.com/JohnDeved/megacrypt.js) - MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
+  - [megabasterd](http://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
+  - [megadown](https://github.com/tonikelope/megadown) - Bash script for download files from mega.nz and megacrypter.
+  - [megatools](http://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
 - [annie](http://github.com/iawia002/annie) - Fast, simple and clean video downloader.
 - [aria2](http://aria2.github.io/) - A lightweight multi-protocol & multi-source command-line download utility.
 - [axel](http://github.com/axel-download-accelerator/axel) - Light command line download accelerator.
 - [curl](http://en.wikipedia.org/wiki/CURL) - `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
-- [FilePursuit](http://filepursuit.com) - FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 - [get_iplayer](http://github.com/get-iplayer/get_iplayer) - A utility for downloading TV and radio programmes from BBC iPlayer.
 - [grayhatwarfare S3 bucket search](http://buckets.grayhatwarfare.com/) - Not likely to find much with this one but interesting nonetheless.
 - [Leonflix](http://leonflix.net/) - A multi-platform desktop app for finding movies and TV shows.
@@ -2580,7 +2585,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [rdcli](http://github.com/ston3o/rdcli) - The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid.
 - [ripme](http://github.com/RipMeApp/ripme) - A album/video downloader with support for over 80 sites.
 - [Swiss Transfer](http://www.swisstransfer.com/en) - Share Files up to 25GB.
-- [uGet](http://ugetdm.com/) - Open Source Download Manager.
 - [YouTube MP3 Rip](http://youtubemp3.rip/) - Download YouTube music videos as MP3 files without registration.
 - [FlixGrab](http://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
 - [Netflix-proxy](https://github.com/ab77/netflix-proxy/) - Smart DNS proxy to bypass Netflix GeoIP restriction.
@@ -2971,7 +2975,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [Dispatch](https://github.com/khlieng/dispatch) - Self-hosted web IRC client written in Go.
 - [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks.
 
-
 ### IRC Networks
 
 - [irc.p2p-network.net](https://p2p-network.net/) - P2P file sharing network.
@@ -3012,12 +3015,14 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 - [Telegram proxy](https://telegram.ind.in/) - Telegram unblock proxy for countries with Telegram banned.
-    - [Telegram web](https://web.telegram.ind.in/)
-    - [Telegram APIs](core.telegram.ind.in)
-    - [Telegram news channel](l.telegram.ind.in/Telegram)
+
+  - [Telegram web](https://web.telegram.ind.in/)
+  - [Telegram APIs](core.telegram.ind.in)
+  - [Telegram news channel](l.telegram.ind.in/Telegram)
 
 - instantview.telegram.ind.in
 - translations.telegram.ind.in
+
 ### Telegram Tools & Scripts
 
 - [Be careful using bots on telegram](http://www.wired.com/story/telegram-bots-tls-encryption/) - Wired article about Telegram Bots and encryption.
