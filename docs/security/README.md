@@ -218,171 +218,168 @@ Also be very carefull of scams. you can find the links to some scam sites on [`t
 
 #### Web Archive
 
-| clearnet/name                  | onion address                                                                                                                                      |
-| ------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Archive Today (archive.is)     | [`http://archivecaslytosk.onion/`](http://archivecaslytosk.onion/)                                                                                 |
-| Internet Archive (archive.org) | [`http://archivebyd3rzt3ehjpm4c3bjkyxv3hjleiytnvxcn7x32psn2kxcuid.onion/`](http://archivebyd3rzt3ehjpm4c3bjkyxv3hjleiytnvxcn7x32psn2kxcuid.onion/) |
+| clearnet/name                  | onion address                                                                                                                              |
+| ------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| Archive Today (archive.is)     | [`archivecaslytosk.onion`](http://archivecaslytosk.onion/)                                                                                 |
+| Internet Archive (archive.org) | [`archivebyd3rzt3ehjpm4c3bjkyxv3hjleiytnvxcn7x32psn2kxcuid.onion`](http://archivebyd3rzt3ehjpm4c3bjkyxv3hjleiytnvxcn7x32psn2kxcuid.onion/) |
 
 #### Filesharing
 
-| clearnet/name | onion address                                                                                                                                      |
-| ------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-| OnionShare    | [`http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/`](http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/) |
+| clearnet/name | onion address                                                                                                                              |
+| ------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| OnionShare    | [`lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion`](http://lldan5gahapx5k7iafb3s4ikijc4ni7gx5iywdflkba5y2ezyg6sjgyd.onion/) |
 
 #### Comics & eBooks
 
-| clearnet/name | onion address                                                                            |
-| ------------- | :--------------------------------------------------------------------------------------- |
-| Comic Books   | [`http://r6rfy5zlifbsiiym.onion/series/0021`](http://r6rfy5zlifbsiiym.onion/series/0021) |
-| Imperial      | [`http://xfmro77i3lixucja.onion/`](http://xfmro77i3lixucja.onion/)                       |
-| Z-Library     | [`http://2bu5puxp6afwjgql.onion/`](http://2bu5puxp6afwjgql.onion/)                       |
+| clearnet/name | onion address                                                                     |
+| ------------- | :-------------------------------------------------------------------------------- |
+| Comic Books   | [`r6rfy5zlifbsiiym.onion/series/0021`](http://r6rfy5zlifbsiiym.onion/series/0021) |
+| Imperial      | [`xfmro77i3lixucja.onion`](http://xfmro77i3lixucja.onion/)                        |
+| Z-Library     | [`2bu5puxp6afwjgql.onion`](http://2bu5puxp6afwjgql.onion/)                        |
 
 #### Security & Privacy Tools
 
-| clearnet/name         | onion address                                                                                                                                      |
-| --------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GNUPG                 | [`http://ic6au7wa3f6naxjq.onion/`](http://ic6au7wa3f6naxjq.onion/)                                                                                 |
-| OnionShare            | [`http://elx57ue5uyfplgva.onion/`](http://elx57ue5uyfplgva.onion/)                                                                                 |
-| OpenPGPKeysever       | [`http://pgpkeysximvxiazm.onion/`](http://pgpkeysximvxiazm.onion/)                                                                                 |
-| Privacytools.io       | [`http://privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/`](http://privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/) |
-| Privacy International | [`http://privacyintyqcroe.onion/`](http://privacyintyqcroe.onion/)                                                                                 |
-| Security in a Box     | [`http://bpo4ybbs2apk4sk4.onion/en/`](http://bpo4ybbs2apk4sk4.onion/en/)                                                                           |
-| Tor Project servers   | [`http://expyuzz4wqqyqhjn.onion/`](http://expyuzz4wqqyqhjn.onion/)                                                                                 |
-| Ooni                  | [`http://fqnqc7zix2wblwex.onion/`](http://fqnqc7zix2wblwex.onion/)                                                                                 |
-| Whonix                | [`http://kkkkkkkkkk63ava6.onion/wiki/The_World_Wide_Web_And_Your_Privacy`](http://kkkkkkkkkk63ava6.onion/wiki/The_World_Wide_Web_And_Your_Privacy) |
+| clearnet/name         | onion address                                                                                                                               |
+| --------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| GNUPG                 | [`ic6au7wa3f6naxjq.onion`](http://ic6au7wa3f6naxjq.onion/)                                                                                  |
+| OnionShare            | [`elx57ue5uyfplgva.onion`](http://elx57ue5uyfplgva.onion/)                                                                                  |
+| OpenPGPKeysever       | [`pgpkeysximvxiazm.onion`](http://pgpkeysximvxiazm.onion/)                                                                                  |
+| Privacytools.io       | [`privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion`](http://privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/)  |
+| Privacy International | [`privacyintyqcroe.onion`](http://privacyintyqcroe.onion/)                                                                                  |
+| Security in a Box     | [`bpo4ybbs2apk4sk4.onion/en`](http://bpo4ybbs2apk4sk4.onion/en/)                                                                            |
+| Tor Project servers   | [`expyuzz4wqqyqhjn.onion`](http://expyuzz4wqqyqhjn.onion/)                                                                                  |
+| Ooni                  | [`fqnqc7zix2wblwex.onion`](http://fqnqc7zix2wblwex.onion/)                                                                                  |
+| Whonix                | [`kkkkkkkkkk63ava6.onion/wiki/The_World_Wide_Web_And_Your_Privacy`](http://kkkkkkkkkk63ava6.onion/wiki/The_World_Wide_Web_And_Your_Privacy) |
 
 #### Search Engines
 
-| clearnet/name | onion address                                                      |
-| ------------- | :----------------------------------------------------------------- |
-| DuckDuckGo    | [`http://3g2upl4pq6kufc4m.onion/`](http://3g2upl4pq6kufc4m.onion/) |
-| SearX         | [`http://ulrn6sryqaifefld.onion/`](http://ulrn6sryqaifefld.onion/) |
+| clearnet/name | onion address                                              |
+| ------------- | :--------------------------------------------------------- |
+| DuckDuckGo    | [`3g2upl4pq6kufc4m.onion`](http://3g2upl4pq6kufc4m.onion/) |
+| SearX         | [`ulrn6sryqaifefld.onion`](http://ulrn6sryqaifefld.onion/) |
 
 ##### Tor Network Search Engines
 
-| clearnet/name | onion address                                                      |
-| ------------- | :----------------------------------------------------------------- |
-| Candle        | [`http://gjobqjj7wyczbqie.onion/`](http://gjobqjj7wyczbqie.onion/) |
-| Grams         | [`http://grams7ebnju7gwjl.onion/`](http://grams7ebnju7gwjl.onion/) |
-| Haystack      | [`http://haystakvxad7wbk5.onion/`](http://haystakvxad7wbk5.onion/) |
-| Not Evil      | [`http://hss3uro2hsxfogfq.onion/`](http://hss3uro2hsxfogfq.onion/) |
-| Tor Onionland | [`http://3bbaaaccczcbdddz.onion/`](http://3bbaaaccczcbdddz.onion/) |
+| clearnet/name | onion address                                              |
+| ------------- | :--------------------------------------------------------- |
+| Candle        | [`gjobqjj7wyczbqie.onion`](http://gjobqjj7wyczbqie.onion/) |
+| Grams         | [`grams7ebnju7gwjl.onion`](http://grams7ebnju7gwjl.onion/) |
+| Haystack      | [`haystakvxad7wbk5.onion`](http://haystakvxad7wbk5.onion/) |
+| Not Evil      | [`hss3uro2hsxfogfq.onion`](http://hss3uro2hsxfogfq.onion/) |
+| Tor Onionland | [`3bbaaaccczcbdddz.onion`](http://3bbaaaccczcbdddz.onion/) |
 
 #### Hosting
 
-| clearnet/name    | onion address                                                          |
-| ---------------- | :--------------------------------------------------------------------- |
-| 0xacab.org       | vivmyccb3jdb7yij. onion                                                |
-| Ablative Hosting | http://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/ |
-| Black Cloud      | http://bcloud2suoza3ybr.onion/                                         |
-| Cloudflare       | http://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/ |
-| Daniel Uploads   | http://filesto37i2x5dea.onion/                                         |
-| dhosting         | http://dhosting4okcs22v.onion/                                         |
-| Image Hosting    | http://twlba5j7oo5g4kj5.onion/                                         |
-| Kowloon          | http://kowloon5aibdbege.onion/                                         |
-| OnionContainers  | http://container656ovix.onion/                                         |
-| PopFiles         | http://popfilesxuru7lsr.onion/                                         |
-| Riseup Etherpad  | http://5jp7xtmox6jyoqd5.onion/                                         |
+| clearnet/name    | onion address                                                                                                                              |
+| ---------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| Ablative Hosting | [`hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion`](http://hzwjmjimhr7bdmfv2doll4upibt5ojjmpo3pbp5ctwcg37n3hyk7qzid.onion/) |
+| Black Cloud      | [`bcloud2suoza3ybr.onion`](http://bcloud2suoza3ybr.onion/)                                                                                 |
+| Cloudflare       | [`dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion`](http://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/) |
+| Daniel Uploads   | [`filesto37i2x5dea.onion`](http://filesto37i2x5dea.onion/)                                                                                 |
+| dhosting         | [`dhosting4okcs22v.onion`](http://dhosting4okcs22v.onion/)                                                                                 |
+| Image Hosting    | [`twlba5j7oo5g4kj5.onion`](http://twlba5j7oo5g4kj5.onion/)                                                                                 |
+| Kowloon          | [`kowloon5aibdbege.onion`](http://kowloon5aibdbege.onion/)                                                                                 |
+| OnionContainers  | [`container656ovix.onion`](http://container656ovix.onion/)                                                                                 |
+| PopFiles         | [`popfilesxuru7lsr.onion`](http://popfilesxuru7lsr.onion/)                                                                                 |
+| Riseup Etherpad  | [`5jp7xtmox6jyoqd5.onion`](http://5jp7xtmox6jyoqd5.onion/)                                                                                 |
 
 #### Bitcoin
 
-| clearnet/name | onion address                  |
-| ------------- | :----------------------------- |
-| Bitblender    | http://bitblendervrfkzr.onion/ |
-| BitCloak      | http://bitcloak43blmhmn.onion/ |
-| Blockchain    | http://blockchainbdgpzk.onion/ |
-| CryptoMixer   | http://cryptomixns23scr.onion/ |
-| PrivCoin      | http://tr5ods7ncr6eznny.onion/ |
+| clearnet/name | onion address                                              |
+| ------------- | :--------------------------------------------------------- |
+| Bitblender    | [`bitblendervrfkzr.onion`](http://bitblendervrfkzr.onion/) |
+| BitCloak      | [`bitcloak43blmhmn.onion`](http://bitcloak43blmhmn.onion/) |
+| Blockchain    | [`blockchainbdgpzk.onion`](http://blockchainbdgpzk.onion/) |
+| CryptoMixer   | [`cryptomixns23scr.onion`](http://cryptomixns23scr.onion/) |
+| PrivCoin      | [`tr5ods7ncr6eznny.onion`](http://tr5ods7ncr6eznny.onion/) |
 
 #### eMail Services
 
-| clearnet/name     | onion address                                                                        |
-| ----------------- | :----------------------------------------------------------------------------------- |
-| danwin1210        | http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion/mail/index.php |
-| ProtonMail.com    | http://protonirockerxow.onion                                                        |
-| Confidant         | http://cwu7eglxcabwttzf.onion/                                                       |
-| Cock.li           | http://cockmailwwfvrtqj.onion/                                                       |
-| Cock.li (Webmail) | http://mail.cockmailwwfvrtqj.onion/                                                  |
-| Daniel Email      | http://tt3j2x4k5ycaa5zt.onion/mail/                                                  |
-| Mailpile          | http://clgs64523yi2bkhz.onion/                                                       |
-| OnionMail         | http://en.onionmail.info/                                                            |
-| Systemli          | http://h2qkxasmmqdmyiov.onion/                                                       |
-| Paranoid          | http://paranoid.email/                                                               |
-| bitmessage.ch     | http://bitmailendavkbec.onion/                                                       |
-| Riseup            | http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/               |
-| Mail2Tor          | http://mail2tor2zyjdctd.onion/                                                       |
-| SecMail           | http://secmailw453j7piv.onion/                                                       |
-| CTemplar          | http://ctemplar42u6fulx.onion/                                                       |
-| TorBox            | http://torbox3uiot6wchz.onion/                                                       |
-| SCRYPTMail        | http://scryptmail.com/                                                               |
+| clearnet/name     | onion address                                                                                                                                                           |
+| ----------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| danwin1210        | [`danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion/mail/index.php`](http://danielas3rtn54uwmofdo3x2bsdifr47huasnmbgqzfrec5ubupvtpid.onion/mail/index.php) |
+| ProtonMail.com    | [`protonirockerxow.onion`](http://protonirockerxow.onion)                                                                                                               |
+| Confidant         | [`cwu7eglxcabwttzf.onion`](http://cwu7eglxcabwttzf.onion/)                                                                                                              |
+| Cock.li           | [`cockmailwwfvrtqj.onion`](http://cockmailwwfvrtqj.onion/)                                                                                                              |
+| Cock.li (Webmail) | [`mail.cockmailwwfvrtqj.onion`](http://mail.cockmailwwfvrtqj.onion/)                                                                                                    |
+| Daniel Email      | [`tt3j2x4k5ycaa5zt.onion/mail`](http://tt3j2x4k5ycaa5zt.onion/mail/)                                                                                                    |
+| Mailpile          | [`clgs64523yi2bkhz.onion`](http://clgs64523yi2bkhz.onion/)                                                                                                              |
+| OnionMail         | [`en.onionmail.info`](http://en.onionmail.info/)                                                                                                                        |
+| Systemli          | [`h2qkxasmmqdmyiov.onion`](http://h2qkxasmmqdmyiov.onion/)                                                                                                              |
+| Paranoid          | [`paranoid.email`](http://paranoid.email/)                                                                                                                              |
+| bitmessage.ch     | [`bitmailendavkbec.onion`](http://bitmailendavkbec.onion/)                                                                                                              |
+| Riseup            | [`vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion`](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/)                              |
+| Mail2Tor          | [`mail2tor2zyjdctd.onion`](http://mail2tor2zyjdctd.onion/)                                                                                                              |
+| SecMail           | [`secmailw453j7piv.onion`](http://secmailw453j7piv.onion/)                                                                                                              |
+| CTemplar          | [`ctemplar42u6fulx.onion`](http://ctemplar42u6fulx.onion/)                                                                                                              |
+| TorBox            | [`torbox3uiot6wchz.onion`](http://torbox3uiot6wchz.onion/)                                                                                                              |
+| SCRYPTMail        | [`scryptmail.com`](http://scryptmail.com/)                                                                                                                              |
 
 ##### Paid eMail services
 
-| clearnet/name | onion address                                                                           |
-| ------------- | :-------------------------------------------------------------------------------------- |
-| Elude         | http://eludemaillhqfkh5.onion/                                                          |
-| RayServers    | http://nmf6cg7tiyqlhsg3.onion/                                                          |
-| Mailbox       | http://userforum-en.mailbox.org/knowledge-base/article/the-tor-exit-node-of-mailbox-org |
-| Mail City     | http://eozm6j6i4mmme2p5.onion/                                                          |
+| clearnet/name | onion address                                              |
+| ------------- | :--------------------------------------------------------- |
+| Elude         | [`eludemaillhqfkh5.onion`](http://eludemaillhqfkh5.onion/) |
+| RayServers    | [`nmf6cg7tiyqlhsg3.onion`](http://nmf6cg7tiyqlhsg3.onion/) |
+| Mail City     | [`eozm6j6i4mmme2p5.onion`](http://eozm6j6i4mmme2p5.onion/) |
 
 ##### Temp eMail services
 
-| clearnet/name   | onion address                  |
-| --------------- | :----------------------------- |
-| GuerrillaMail   | http://grrmailb3fxpjbwm.onion/ |
-| TempMailAddress | http://tempmailaddress.com/    |
+| clearnet/name   | onion address                                              |
+| --------------- | :--------------------------------------------------------- |
+| GuerrillaMail   | [`grrmailb3fxpjbwm.onion`](http://grrmailb3fxpjbwm.onion/) |
+| TempMailAddress | [`tempmailaddress.com`](http://tempmailaddress.com/)       |
 
 #### Code/Text sharing
 
-| clearnet/name      | onion address                                                                                                                     |
-| ------------------ | :-------------------------------------------------------------------------------------------------------------------------------- |
-| DeepPaste          | http://4m6omb3gmrmnwzxi.onion/                                                                                                    |
-| Felixx             | http://felixxxboni3mk4a.onion/felixxx.php?page=pastebin                                                                           |
-| Riseup Paste       | http://6zc6sejeho3fwrd4.onion/                                                                                                    |
-| Pasta              | http://pastagdsp33j7aoq.onion/                                                                                                    |
-| Stronghold Paste   | http://nzxj65x32vh2fkhk.onion/                                                                                                    |
-| Zerobin            | http://zerobinqmdqd236y.onion/                                                                                                    |
-| Riseup Onion Index | http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services |
+| clearnet/name      | onion address                                                                                                                                                                                                                                                     |
+| ------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| DeepPaste          | [`4m6omb3gmrmnwzxi.onion`](http://4m6omb3gmrmnwzxi.onion/)                                                                                                                                                                                                        |
+| Felixx             | [`felixxxboni3mk4a.onion/felixxx.php?page=pastebin`](http://felixxxboni3mk4a.onion/felixxx.php?page=pastebin)                                                                                                                                                     |
+| Riseup Paste       | [`6zc6sejeho3fwrd4.onion`](http://6zc6sejeho3fwrd4.onion/)                                                                                                                                                                                                        |
+| Pasta              | [`pastagdsp33j7aoq.onion`](http://pastagdsp33j7aoq.onion/)                                                                                                                                                                                                        |
+| Stronghold Paste   | [`nzxj65x32vh2fkhk.onion`](http://nzxj65x32vh2fkhk.onion/)                                                                                                                                                                                                        |
+| Zerobin            | [`zerobinqmdqd236y.onion`](http://zerobinqmdqd236y.onion/)                                                                                                                                                                                                        |
+| Riseup Onion Index | [`vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services`](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor#riseups-tor-onion-services) |
 
 #### Onion Directories
 
-| clearnet/name   | onion address                         |
-| --------------- | :------------------------------------ |
-| CB3ROB          | http://cb3robuo3hobodw6.onion/        |
-| Daniel's onions | http://onionsnjajzkhm5g.onion/        |
-| Fresh Onions    | http://zlal32teyptf4tvi.onion/        |
-| onionsoup       | http://soupkso3la22ltl3.onion/        |
-| UnderDir        | http://underdj5ziov3ic7.onion/        |
-| VisiTOR         | http://visitorfi5kl7q7i.onion/search/ |
+| clearnet/name   | onion address                                                            |
+| --------------- | :----------------------------------------------------------------------- |
+| CB3ROB          | [`cb3robuo3hobodw6.onion`](http://cb3robuo3hobodw6.onion/)               |
+| Daniel's onions | [`onionsnjajzkhm5g.onion`](http://onionsnjajzkhm5g.onion/)               |
+| Fresh Onions    | [`zlal32teyptf4tvi.onion`](http://zlal32teyptf4tvi.onion/)               |
+| onionsoup       | [`soupkso3la22ltl3.onion`](http://soupkso3la22ltl3.onion/)               |
+| UnderDir        | [`underdj5ziov3ic7.onion`](http://underdj5ziov3ic7.onion/)               |
+| VisiTOR         | [`visitorfi5kl7q7i.onion/search`](http://visitorfi5kl7q7i.onion/search/) |
 
 #### Software
 
-| clearnet/name                                                      | onion address                                         |
-| ------------------------------------------------------------------ | :---------------------------------------------------- |
-| The Nowhere Server (restored from backup after FH)                 | http://2gxxzwnj52jutais.onion/                        |
-| The Pirate Bay – Torrents                                          | http://jntlesnev5o7zysa.onion/                        |
-| The Pirate Bay – Torrents (official .onion)                        | http://uj3wazyk5u4hnvtk.onion/                        |
-| DoxBin                                                             | http://doxbindtelxceher.onion/                        |
-| Pony at Noisebridge                                                | http://2ygbaoezjdmacnro.onion/                        |
-| Imperial Library of Trantor                                        | http://xfmro77i3lixucja.onion/                        |
-| Jotunbane’s Reading Club                                           | http://c3jemx2ube5v5zpg.onion/                        |
-| HackBB – Hacking & cracking forum                                  | http://jv7aqstbyhd5hqki.onion                         |
-| Read only access to the Freenet FMS forums via the Anonet Webproxy | xdagknwjc7aaytzh. onion/20/http/1.4.7.9/forummain.htm |
+| clearnet/name                                      | onion address                                              |
+| -------------------------------------------------- | :--------------------------------------------------------- |
+| The Nowhere Server (restored from backup after FH) | [`2gxxzwnj52jutais.onion`](http://2gxxzwnj52jutais.onion/) |
+| The Pirate Bay – Torrents                          | [`jntlesnev5o7zysa.onion`](http://jntlesnev5o7zysa.onion/) |
+| The Pirate Bay – Torrents (official .onion)        | [`uj3wazyk5u4hnvtk.onion`](http://uj3wazyk5u4hnvtk.onion/) |
+| DoxBin                                             | [`doxbindtelxceher.onion`](http://doxbindtelxceher.onion/) |
+| Pony at Noisebridge                                | [`2ygbaoezjdmacnro.onion`](http://2ygbaoezjdmacnro.onion/) |
+| Imperial Library of Trantor                        | [`xfmro77i3lixucja.onion`](http://xfmro77i3lixucja.onion/) |
+| Jotunbane’s Reading Club                           | [`c3jemx2ube5v5zpg.onion`](http://c3jemx2ube5v5zpg.onion/) |
+| HackBB – Hacking & cracking forum                  | [`jv7aqstbyhd5hqki.onion`](http://jv7aqstbyhd5hqki.onion/) |
 
 #### eBooks
 
-| clearnet/name                                        | onion address                  |
-| ---------------------------------------------------- | :----------------------------- |
-| Tor Library – library of books and other media files | http://am4wuhz3zifexz5u.onion/ |
-| Various eBooks                                       | http://xfmro77i3lixucja.onion/ |
+| clearnet/name  | onion address                                              |
+| -------------- | :--------------------------------------------------------- |
+| Tor Library    | [`am4wuhz3zifexz5u.onion`](http://am4wuhz3zifexz5u.onion/) |
+| Various eBooks | [`xfmro77i3lixucja.onion`](http://xfmro77i3lixucja.onion/) |
 
 #### Music
 
-| clearnet/name                                    | onion address                  |
-| ------------------------------------------------ | :----------------------------- |
-| Music Downloads                                  | http://wuvdsbmbwyjzsgei.onion/ |
-| Speedcore Music                                  | http://lolicore75rq3tm5.onion/ |
-| 20th Century Western Music Recordings and Scores | http://vt27twhtksyvjrky.onion/ |
+| clearnet/name                                    | onion address                                              |
+| ------------------------------------------------ | :--------------------------------------------------------- |
+| Music Downloads                                  | [`wuvdsbmbwyjzsgei.onion`](http://wuvdsbmbwyjzsgei.onion/) |
+| Speedcore Music                                  | [`lolicore75rq3tm5.onion`](http://lolicore75rq3tm5.onion/) |
+| 20th Century Western Music Recordings and Scores | [`vt27twhtksyvjrky.onion`](http://vt27twhtksyvjrky.onion/) |
 
 ##### Tor bridges
 
