@@ -2232,7 +2232,9 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 #### Public Trackers
 
 - [1337x](https://1337x.to/) - 1337x is a torrent site that offers verified torrent downloads.
+  - [1337x.gd](https://1337x.gd/) - Mirror.
   - [1337](https://1337.root.yt/) - Ad-Free and clean version of 1337x.
+  - [1337x-forum.eu](https://www.1337x-forum.eu/) - Official 1337x Forum.
 - [7torrents](https://www.7torrents.cc/) - Privacy-focused DHT search engine without any ads.
 - [Bthub.Me](https://www.bthub.me/) - (CN) - Movies, Docus & more for your chinese friends.
 - [BTDB](https://btdb.to/) - Large BitTorrent DHT search engine.
