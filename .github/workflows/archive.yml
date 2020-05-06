@@ -29,3 +29,5 @@ jobs:
                   archivenow --ia https://piracy.netlify.app/laws/
                   archivenow --ia https://piracy.netlify.app/dead/
                   archivenow --ia https://maximousblk.github.io/piracy/
+            - name: Fortune Cookie
+              uses: vincetse/fortune-cookie-action@v4
