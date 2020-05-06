@@ -2535,7 +2535,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 - [Zippyshare.sh](https://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
 - [Plowshare](http://github.com/mcrapet/plowshare) - Command-line tool & engine for managing sharing websites.
-- [pyLoad](http://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
+- [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to.
 - [WFDownloader App](http://www.wfdownloader.xyz/) - Batch downloader ultility.
 - [wget - a noob's guide](https://the-eye.eu/public/Wget_Linux_Guide.pdf) - Beginner guide on how to use `wget`.
 - [How to bypass Mega Quota limit via JDownloader 2](https://github.com/CHEF-KOCH/JDownloader-2-Mega-Quota-Bypass)
