@@ -62,6 +62,7 @@ For personal use only. Publishing & sharing it is always illegal!
 - Columbia
 - Czech Republic
 - Denmark
+  - [Denmark Blocked 141 Pirate Sites in 2019 But Pirates Are Bypassing The System](https://torrentfreak.com/denmark-blocked-141-pirate-sites-in-2019-but-pirates-are-bypassing-the-system-200503/)
 - Egypt
 - Greece
 - India
@@ -77,6 +78,8 @@ For personal use only. Publishing & sharing it is always illegal!
 - Slovenia
 - South Korea
 - Uruguay
+- Norge
+- Sverige
 
 ### Countries where torrenting copyright material is highly illegal
 
