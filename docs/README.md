@@ -3582,7 +3582,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [Sigil](https://github.com/Sigil-Ebook) - [Sigil](https://sigil-ebook.com/) - is a multi-platform EPUB ebook editor.
 - [MangaDLR](http://cylonu87.blogspot.com/p/mangadlr.html) - Contains ads (use with ad-blocker) - Yet another Manga reader for Desktop systems.
 - [Neko](http://github.com/CarlosEsco/Neko) - Free, open source, unofficial MangaDex reader forked from Tachiyomi.
-- [tachiyomi](http://github.com/inorichi/tachiyomi) - Free and open source manga reader for Android.
+- [Mango](https://github.com/hkalexling/Mango) - Manga server and web reader with a built-in MangaDex downloader.
 
 ### Shell Script Development Tools
 
