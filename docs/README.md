@@ -3566,7 +3566,11 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 - [Abacci eBooks](http://www.abacci.com/msreader/default.aspx) - All the books here are for Microsoft Reader.
 - [Amazon Kindle](http://www.amazon.com/Kindle-Amazons-Original-Wireless-generation/dp/B000FI73MA) - Learn about, shop, and discover titles for the Kindle here.
-- [Calibre](http://calibre-ebook.com/) - An open source eBook Management Tool.
+- [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients.
+  - [BicBucStriim](http://projekte.textmulch.de/bicbucstriim/) - Provides web-based access to your Calibre Library's e-book collection.
+  - [Calibre Web](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
+  - [COPS](https://blog.slucas.fr/en/oss/calibre-opds-php-server) - Lightweight e-book server alternative to Calibre content server or Calibre2OPDS.
+  - [The Epube](https://tt-rss.org/the-epube) - Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre.
 - [E-book Reader Matrix](http://wiki.mobileread.com/wiki/E-book_Reader_Matrix) - This wiki makes it easy to compare ebook reader sizes, battery life, supported formats, and other qualifications.
 - [E-book readers at a glance](http://www.wired.com/gadgetlab/2007/11/e-book-readers/) - This guide reviews and compares the new, cool readers.
 - [eBook Reader Review](http://ebook-reader-review.toptenreviews.com/) - TopTenReviews lists reader reviews from 2009.
