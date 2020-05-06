@@ -185,6 +185,14 @@
 - [KissManga](http://kissmanga.com/)
 - [KissComic](http://readcomiconline.to/)
 
+### Comics and Manga Automation
+
+- [The Free Manga Downloader (FMD)](https://github.com/riderkick/FMD) - The Free Manga Downloader is a free open source application written in Object Pascal for managing and downloading manga from various websites.
+- [n1mo/manga](https://github.com/n1mo/manga) - A open source mangareader.net downloader written in python.
+- [mangadex-dl](https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org.
+- [HakuNeko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & macOS.
+- [Mylar](http://github.com/evilhero/mylar) - An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents.
+
 ## Books and Magazines
 
 - [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
@@ -284,6 +292,7 @@
 - [Amosqu's custom Google search](https://cse.google.com/cse%3Fcx=011394183039475424659:5bfyqg89ers)
 - [Awakening Intuition](http://www.awakening-intuition.com/ebooks.html)
 - [WiLd's Occult Ebook Sources](https://justpaste.it/WiLdOccultEbooks) - Constantly updated eBook source for direct downloads, eBook source pages, tracker and magnets regarding eBook stuff.
+- [LazyLibrarian](http://gitlab.com/LazyLibrarian/LazyLibrarian) - LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
 
 ## Academic papers and Textbooks
 
@@ -403,12 +412,12 @@
 - [Block Spotify Updates on macOS](https://donotupdatespotify.sh/) - A guide is avbl. [here](https://reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/)
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) - HowToGeek article on how to use TunesKit and Requiem.
 
-### Album Art
+### Music and podcasts Album Art
 
 - [Album Art Downloader](https://sourceforge.net/projects/album-art/) - Find and update their album art for their music collection.
 - [newalbum.club](https://newalbum.club/) - Search and download free music & album arts. No account required!.
 
-### Streaming
+### Music and podcasts Streaming
 
 - [datmusic](https://datmusic.xyz/) - Search engine with a clean UI for streaming music in your browser.
 - [GoSong](https://gosong.unblocked.gdn/) - Streamable MP3s.
@@ -421,7 +430,7 @@
 - [mp3.li](http://mp3li.unblckd.club) - Another MP3 streaming site.
 - [slider.kz](http://slider.kz/) - Quirky and fast music streaming site.
 
-### Downloading
+### Music and podcasts Downloading
 
 - [Spotify™ & Deezer™ Music Downloader](https://chrome.google.com/webstore/detail/spotify-deezer-music-down/pocmgnhmjgjghodelfkhbjaoidmbadpo/related)
 - [Deezloader](http://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) - Tool for downloading music from Deezer.
@@ -446,7 +455,7 @@
 - [Chimera](https://notabug.org/Aesir/chimera) - Supports: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Limited Support) - and works across almost every OS.
 - [RedSea](https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived.
 
-### Library Manager
+### Music and podcasts Library Manager
 
 - [Beets](https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks.
 - [Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) - Windows users only!.
@@ -489,6 +498,17 @@
 - [scddlr.com](https://www.scddlr.com/) - SoundCloud To Mp3 Converter Online.
 - [Local SoundCloud Downloader](hhttps://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) - Download SoundCloud without external service.
 - [kawai-scripts/soundcloud-downloader](https://greasyfork.org/de/scripts/396057-kawai-scripts-soundcloud-downloader)
+
+### Music and Podcast Automation
+
+- [Athame](https://github.com/fuzzybabybunny/Athame) - An extensible music download tool written in C#.
+- [Chimera](https://notabug.org/Aesir/chimera) - Download music from Deezer, Tidal, Qobuz, Napster, Spotify (sourced from Tidal or Deezer), Google Play Music, SoundCloud.
+- [Headphones](http://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
+- [Lidarr](http://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+- [betanin](https://github.com/sentriz/betanin/) - Music organization man-in-the-middle of your torrent client and music player, based on beets.io, similar to Sonarr and Radarr.
+- [Ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk.
+- [Qo-DL](https://github.com/vvaidy/Qo-DL) - Tool written in Python to download MP3s & FLACs from Qobuz.
+  - [Qo-DL-Reborn](https://github.com/badumbass/Qo-DL-Reborn) - Tool written in Python to download streamable tracks from Qobuz.
 
 ## Movies and TV shows
 
@@ -881,6 +901,19 @@
 - [Subscene](https://subscene.com/) - Quality Subtitles for Movies.
 - [WonderfulSubs](https://www.wonderfulsubs.com/) - The best place on the web for all things Anime!.
 
+#### Subtitles Automation
+
+- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) - Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
+- [Bazarr](http://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+- [HorribleSubs Bulkd Download](http://anonembed.xyz/horriblesubs/) - 9anime bulk subs download website.
+- [JustDubs](http://ww5.justdubs.me/) - Watch English Dubbed Anime And Movies For Free Online.
+- [SubScenes](http://subscene.com/) - Subtitle Scene, provdes subtitles and tools.
+- [WonderfulSubs](http://www.wonderfulsubs.com/) - Subs and dubs, no ads, still in beta stage.
+- [autosub](http://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition.
+- [vlsub](http://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
+- [subsync](http://github.com/smacke/subsync) - Automatically synchronize subtitles with video.
+- [Sublight.me](http://sublight.me/) - Automatically batch download subtitles in a monitored folder.
+
 ### Ripping, Transcoding, Converting, Encoding
 
 - [DVD Decrypter](http://dvddecrypter.org.uk/) - The original unofficial DVD Decrypter mirror since June 7th, 2005.
@@ -891,6 +924,26 @@
 - [MakeMKV](https://www.makemkv.com/) - MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
 - [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library.
 - [The Encoding Guide](https://encoding-guide.neocities.org/) - An in-depth guide on video encoding.
+
+### Movies and TV Shows Automation
+
+- [Radarr](http://radarr.video/) - A fork of Sonarr to work with movies ala Couchpotato.
+- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) - Syncs two Radarr servers through web API.
+- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and BitTorrent users.
+- [Pulsarr](http://github.com/roboticsound/Pulsarr) - Browser extension for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+- [traktarr](http://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+- [Medusa](http://pymedusa.com/) - Automatic Video Library Manager for TV Shows.
+- [SickBeard](http://sickbeard.com/) - The ultimate PVR application that searches for and manages your TV shows.
+- [SickChill](http://sickchill.github.io/) - An automatic Video Library Manager for TV Shows.
+- [SickGear](http://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
+- [SickRage](http://github.com/SiCKRAGE/SiCKRAGE) - Automatic Video Library Manager for TV Shows.
+- [TV Overlord](http://www.tvoverlord.com/) - TV Overlord is a semi automatic command line tool to download and manage TV shows from newsgroups or Bittorent.
+- [TVShows 2](http://tvshowsapp.com/) - TVShows is the easiest way to download your favorite shows automatically in your Mac.
+- [CouchPotato](http://couchpota.to/) - Download movies automatically, easily and in the best quality as soon as they are available.
+- [Watcher](http://github.com/nosmokingbandit/Watcher3) - Watcher is an automated movie NZB & Torrent searcher and snatcher.
+- [Snahp tool](http://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
+- [Nefarious](http://lardbit.github.io/nefarious/) - Nefarious is a web application that helps you download movies and TV shows.
+- [MacGuffin](http://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases.
 
 ## Sports
 
@@ -1812,72 +1865,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [[Guide] Bypassing paywalls on iOS apps](https://zero-day.io/bypassing-paywalls-on-ios-apps/) - Bypassing paywalls on iOS apps.
 - [Get Around Paywalls with Incognito Mode](https://lifehacker.com/get-around-paywalls-with-incognito-mode-1679310015) - Tutorial how to get around a Paywall with Incognito Mode.
 - [How to Get Around Newspaper Paywalls in 2019](https://medium.com/black-edge-consulting/how-to-bypass-virtually-every-news-paywall-705602c4c2ce?source=linkShare-ccf1b677570b-1549597061&_branch_match_id=638842629899229780) - How to bypass newspaper paywalls and access the WSJ, NYT, Washington Post, Business Insider, Financial Times for free.
-
-## Automation
-
-- [Awesome Uploader](http://github.com/grm34/awesome-uploader) - Warez scene mass uploader.
-- [Bonarr](http://github.com/klassicstudios/Bonarr) - A fork of Radarr to work with porn.
-- [CloudBox](http://cloudbox.works/) - An All-In-One, Cloud Centric & Media Server Solution.
-- [FlexGet](http://flexget.com/) - FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
-- [LazyLibrarian](http://gitlab.com/LazyLibrarian/LazyLibrarian) - LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
-- [MacGuffin](http://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases.
-- [Massivedl](http://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
-- [Multiup](http://multiup.org/) - Website which allows you to upload files to several different file hosting websites.
-- [Mylar](http://github.com/evilhero/mylar) - An automated Comic Book downloader (cbr/cbz) - for use with SABnzbd, NZBGet and torrents.
-- [Nefarious](http://lardbit.github.io/nefarious/) - Nefarious is a web application that helps you download movies and TV shows.
-- [Piracy and automation, an overview](http://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) - Guide by /u/JukeCity101 on how to improve your experience pirating with automation tools.
-- [Pulsarr](http://github.com/roboticsound/Pulsarr) - Browser extension (currently Chrome & Firefox) - for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
-- [Ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk.
-- [SickRage](http://www.sickrage.ca/) - Automatic Video Library Manager for TV Shows.
-- [Snahp tool](http://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
-- [traktarr](http://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
-- [Qo-DL-Reborn](https://github.com/Sorrow446/Qo-DL-Reborn) - Tool written in Python to download streamable tracks from Qobuz.
-
-### Manga Automation
-
-- [The Free Manga Downloader (FMD)](https://github.com/riderkick/FMD) - The Free Manga Downloader is a free open source application written in Object Pascal for managing and downloading manga from various websites.
-- [n1mo/manga](https://github.com/n1mo/manga) - A open source mangareader.net downloader written in python.
-- [mangadex-dl](https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org.
-- [HakuNeko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & macOS.
-
-### Music Automation
-
-- [Athame](https://github.com/fuzzybabybunny/Athame) - An extensible music download tool written in C#.
-- [Chimera](https://notabug.org/Aesir/chimera) - Download music from Deezer, Tidal, Qobuz, Napster, Spotify (sourced from Tidal or Deezer), Google Play Music, SoundCloud.
-- [Headphones](http://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
-- [Lidarr](http://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-- [betanin](https://github.com/sentriz/betanin/) - Music organization man-in-the-middle of your torrent client and music player, based on beets.io, similar to Sonarr and Radarr.
-
-### TV Shows Automation
-
-- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and BitTorrent users.
-- [Medusa](http://pymedusa.com/) - Automatic Video Library Manager for TV Shows.
-- [SickBeard](http://sickbeard.com/) - The ultimate PVR application that searches for and manages your TV shows.
-- [SickChill](http://sickchill.github.io/) - An automatic Video Library Manager for TV Shows.
-- [SickGear](http://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
-- [SickRage](http://github.com/SiCKRAGE/SiCKRAGE) - Automatic Video Library Manager for TV Shows.
-- [TV Overlord](http://www.tvoverlord.com/) - TV Overlord is a semi automatic command line tool to download and manage TV shows from newsgroups or Bittorent.
-- [TVShows 2](http://tvshowsapp.com/) - TVShows is the easiest way to download your favorite shows automatically in your Mac.
-
-### Movie Automation
-
-- [Radarr](http://radarr.video/) - A fork of Sonarr to work with movies ala Couchpotato.
-- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) - Syncs two Radarr servers through web API.
-- [CouchPotato](http://couchpota.to/) - Download movies automatically, easily and in the best quality as soon as they are available.
-- [Watcher](http://github.com/nosmokingbandit/Watcher3) - Watcher is an automated movie NZB & Torrent searcher and snatcher.
-
-### Subtitles Automation
-
-- [nzb-subliminal](https://github.com/caronc/nzb-subliminal) - Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
-- [Bazarr](http://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
-- [HorribleSubs Bulkd Download](http://anonembed.xyz/horriblesubs/) - 9anime bulk subs download website.
-- [JustDubs](http://ww5.justdubs.me/) - Watch English Dubbed Anime And Movies For Free Online.
-- [SubScenes](http://subscene.com/) - Subtitle Scene, provdes subtitles and tools.
-- [WonderfulSubs](http://www.wonderfulsubs.com/) - Subs and dubs, no ads, still in beta stage.
-- [autosub](http://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition.
-- [vlsub](http://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
-- [subsync](http://github.com/smacke/subsync) - Automatically synchronize subtitles with video.
-- [Sublight.me](http://sublight.me/) - Automatically batch download subtitles in a monitored folder.
 
 ## Browser Extensions
 
@@ -3418,6 +3405,12 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - A free and open source editor for video subtitles.
 - [Shreddit](https://github.com/x89/Shreddit) - Removes your comment history on Reddit as deleting an account does not do so.
 - [PowerDeleteSuite for Reddit](https://github.com/j0be/PowerDeleteSuite) - Delete all your reddit history.
+- [Awesome Uploader](http://github.com/grm34/awesome-uploader) - Warez scene mass uploader.
+- [Bonarr](http://github.com/klassicstudios/Bonarr) - A fork of Radarr to work with porn.
+- [CloudBox](http://cloudbox.works/) - An All-In-One, Cloud Centric & Media Server Solution.
+- [FlexGet](http://flexget.com/) - FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
+- [Massivedl](http://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
+- [Piracy and automation, an overview](http://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) - Guide by u/JukeCity101 on how to improve your experience pirating with automation tools.
 
 ### Website archiving tools
 
