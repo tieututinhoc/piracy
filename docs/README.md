@@ -3558,6 +3558,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [youtube-dl](http://ytdl-org.github.io/youtube-dl/index.html) - A command-line program to download videos from YouTube.com and a few more sites.
 - [TheFrenchGhostys YouTube-DL Archivist Scripts](https://gitlab.com/TheFrenchGhosty/TheFrenchGhostys-YouTube-DL-Archivist-Scripts) - The ultimate collection of scripts for YouTube-DL.
 - [YouTubeDownloader](https://github.com/ShimmyMySherbet/YouTubeDownloader) - A Music downloader with Spotify integration for automatic metadata application.
+- [Alltube](http://www.alltubedownload.net) - Web interface for youtube-dl, a program to download videos and audio from more than 100 websites.
 
 #### YouTube specific Browser Extensions
 
@@ -3565,7 +3566,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [YouTube Skip intro (Chrome)](https://chrome.google.com/webstore/detail/youtube-skip-intro/pkfnooichbjhhoajcoffiggbckfbflbg) - Define the intro time to skip it each time you play a video on YouTube helpful when you watching a series or any many episodes shows.
 - [YouTube: Age Verification Bypass](https://greasyfork.org/scripts/375525) - Watch restricted videos without having to log in.
 - [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) - Redirects YouTube and Twitter to their alternative ads-free, privacy-friendly, interfaces.
-  <!-- -   [SponsorBlock - Sponsorship Blocker for YouTube] - Easily skip YouTube video sponsors. When you visit a YouTube video, the extension will check the database for reported sponsors and automatically skip known sponsors. You can also report sponsors in videos. Compared to uBlock it actually does hide sponsor based in-video ads. -->.
 
 ### eBook Readers
 
