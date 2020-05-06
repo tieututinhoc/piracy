@@ -446,13 +446,6 @@
 - [Chimera](https://notabug.org/Aesir/chimera) - Supports: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Limited Support) - and works across almost every OS.
 - [RedSea](https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived.
 
-### Automation
-
-- [Athame](https://github.com/fuzzybabybunny/Athame) - An extensible music download tool written in C#.
-- [Chimera](https://notabug.org/Aesir/chimera) - Download music from Deezer, Tidal, Qobuz, Napster, Spotify (sourced from Tidal or Deezer), Google Play Music, SoundCloud.
-- [Headphones](http://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
-- [Lidarr](http://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-
 ### Library Manager
 
 - [Beets](https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks.
@@ -1846,6 +1839,14 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [n1mo/manga](https://github.com/n1mo/manga) - A open source mangareader.net downloader written in python.
 - [mangadex-dl](https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org.
 - [HakuNeko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & macOS.
+
+### Music Automation
+
+- [Athame](https://github.com/fuzzybabybunny/Athame) - An extensible music download tool written in C#.
+- [Chimera](https://notabug.org/Aesir/chimera) - Download music from Deezer, Tidal, Qobuz, Napster, Spotify (sourced from Tidal or Deezer), Google Play Music, SoundCloud.
+- [Headphones](http://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
+- [Lidarr](http://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+- [betanin](https://github.com/sentriz/betanin/) - Music organization man-in-the-middle of your torrent client and music player, based on beets.io, similar to Sonarr and Radarr.
 
 ### TV Shows Automation
 
