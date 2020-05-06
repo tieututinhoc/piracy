@@ -50,6 +50,7 @@ For personal use only. Publishing & sharing it is always illegal!
 - Poland
 - Spain
 - Switzerland
+    - [5/MAY/20 - US Removes Switzerland From ‘Pirate WatchList’](https://torrentfreak.com/us-removes-switzerland-from-pirate-watchlist-200550/)
 
 ### Countries where both downloading & sharing is illegal
 
