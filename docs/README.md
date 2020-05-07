@@ -900,6 +900,7 @@
 - [RenameThemSubs](https://github.com/Eshaan7/RenameThemSubs) - Rename subtitles files according to TV show names found in a directory.
 - [Subscene](https://subscene.com/) - Quality Subtitles for Movies.
 - [WonderfulSubs](https://www.wonderfulsubs.com/) - The best place on the web for all things Anime!.
+- [CCExtractor](https://www.ccextractor.org/) - A tool that analyzes video files and produces independent subtitle files from the closed captions data.
 
 #### Subtitles Automation
 
