@@ -15,6 +15,9 @@ permalink: /security
 - [Am I Unique?](https://amiunique.org/) - Learn how identifiable you are on the Internet.
 - [Simplewall](https://www.henrypp.org/product/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 - [I know What You Download](https://iknowwhatyoudownload.com/) - Check for what internet knows about you download history.
+- [Anon.to](https://anon.to/) - URL shortener to de-referer or null-referer your links.
+- [Privacy.com](https://privacy.com/) - Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
+- [Project Honey Pot](https://www.projecthoneypot.org/) - Online fraud & abuse tracker.
 
 ## Email
 

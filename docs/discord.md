@@ -43,3 +43,4 @@ permalink: /discord
 - [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) - A lightweight Discord client mod.
 - [Quarrel](https://github.com/UWPCommunity/Quarrel) - A UWP discord client for Windows 10.
 - [PowerCord](https://github.com/powercord-org/powercord) - A lightweight discordapp client mod focused on simplicity and performance.
+- [Ripcord](https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).

@@ -51,7 +51,7 @@ permalink: /direct-downloads
 - [Swiss Transfer](http://www.swisstransfer.com/en) - Share Files up to 25GB.
 - [YouTube MP3 Rip](http://youtubemp3.rip/) - Download YouTube music videos as MP3 files without registration.
 - [FlixGrab](http://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
-- [Netflix-proxy](https://github.com/ab77/netflix-proxy/) - Smart DNS proxy to bypass Netflix GeoIP restriction.
+- [Massivedl](http://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
 
 ## Direct Download Streaming
 
@@ -84,6 +84,11 @@ permalink: /direct-downloads
 - [OD-Database](https://od-db.the-eye.eu/) - Database of searchable open directories curated by The-Eye.eu.
 - [IPLIVE](https://iplive.club/) - DDL search engine.
 - [SoftArchive](https://sanet.st/full/) - SoftArchive or SA is a scene release website, more known for new releases of software, games, music, movies, and eBooks.
+- [ololo](https://ololo.to/) - A video streaming link search engine.
+- [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
+- [Anonembed](http://anonembed.xyz/) - Search Engine for Rapidvideo, Google Drive, Google photos, Verystream & more.
+- [FilesLoop](https://www.filesloop.com/) - Search and download torrents and files from various file hosting like Uploaded etc.
+- [Rapidlinks](https://rapidlinks.org) - (RU) - Russian search engine for various sharehoster.
 
 ## DDL Link Sites
 
@@ -242,12 +247,6 @@ permalink: /direct-downloads
 - [Crawli](https://crawli.net) - Searches for online/offline content.
 - [DDLSearch](http://ddlsearch.free.fr) - Meta search engine, the results are been displayed via Google search engine.
 - [filediva](http://www.filediva.com) - Yet another meta search engine.
-- [Rapidlinks](https://rapidlinks.org) - (RU) - Russian search engine for various sharehoster.
 - [Alluc](https://w1.alluc.uno/) - Search engine with over 80 million streaming-links from over 700 VOD services, video hosters and file-hosters.
 - [IPLIVE](https://iplive.club/) - DDL search engine.
-- [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts.
-- [ololo](https://ololo.to/) - A video streaming link search engine.
-- [Orion](https://orionoid.com/) - Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, usenet, and hoster indexes.
 - [VideoSpider](https://videospider.in/) - VideoSpider crawls various websites and search engines to find movie and TV episode streaming links.
-- [Anonembed](http://anonembed.xyz/) - Search Engine for Rapidvideo, Google Drive, Google photos, Verystream & more.
-- [FilesLoop](https://www.filesloop.com/) - Search and download torrents and files from various file hosting like Uploaded etc.

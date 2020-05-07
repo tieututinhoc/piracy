@@ -62,7 +62,8 @@ permalink: /software
 
 - [MiniDL.org](https://minidl.org) - Provides cracks for Windows and macOS.
 - [Serialreactor](https://www.serialreactor.com) - Looking for serials?.
-- [Serials](http://serialz.cracks.me.uk) - (insecue) - Yet another serials page.
+- [Serials](http://www.serials.ws/) - Serial keys for software that may or may not work.
+- [Serialz](http://serialz.cracks.me.uk) - (insecue) - Yet another serials page.
 - [SerialShack](http://www.serialshack.com) - One of the oldest serial websites which are still online.
 - [Smart Serials](https://www.smartserials.com) - (needs VPN) - Forum + serials.
 

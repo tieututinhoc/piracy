@@ -40,3 +40,4 @@ permalink: /courses-and-tutorials
 - [skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Download courses from Skillshare.com, works on all platforms!.
 - [Haxnode](https://haxnode.com/) - Replacement for TutsGalaxy, learn HTML5 and CSS3 fundamentals.
 - [BookFlare](https://bookflare.org/) - Replacement for TutsGalaxy, learn HTML5 and CSS3 fundamentals.
+- [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.

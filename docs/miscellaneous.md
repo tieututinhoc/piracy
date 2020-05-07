@@ -5,29 +5,20 @@ permalink: /miscellaneous
 # Miscellaneous
 
 - [xBrowserSync](https://github.com/xbrowsersync/app) - An open source alternative to Mozilla's, Google's, Vivalid's integrated sync feature, it does work on all platforms.
-- [r/freefolk](https://www.reddit.com/r/freefolk) - Streams for new episodes of Game of Thrones.
 - [r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) - Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen.
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
-- [Pi-hole](https://pi-hole.net/) - Pi-hole is a Linux network-level advertisement and internet tracker blocking application which acts as a DNS sinkhole.
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
-- [Anon.to](https://anon.to/) - URL shortener to de-referer or null-referer your links.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) - Table of common movie release types, their labels, and descriptions.
-- [Privacy.com](https://privacy.com/) - Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
 - [/f/Piracy](https://raddle.me/f/Piracy) - Raddle forum for Piracy.
 - [/s/piracy](https://saidit.net/s/piracy) - Saidit forum for Piracy - unofficially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators.
 - [/v/piracy](https://voat.co/v/piracy) - Voat forum for Piracy - another potential fallback option for /r/Piracy.
-- [2019 Oscar DVD Screeners](https://whereyouwatch.com/articles/here-are-the-2019-oscar-dvd-screeners/) - List of DVD screeners for 2019's Oscars.
 - [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) - Post by /u/idoideas listing all available DVDSCR releases for 2019.
 - [iNFekt](https://infekt.ws/) - A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [NFForce](http://nfforce.temari.fr/) - Another NFO viewer.
 - [How To Get Everything On Netflix](https://www.removeddit.com/r/NetflixViaVPN/comments/4z5fiq/how_to_get_everything_on_netflix_not_only_the_us/d6t00gv/) - Recovered Link to a post by /u/huldre99.
-- [Mega.nz Search Engine](http://megasearch.co/) - A search engine for Mega.nz files.
-- [TheTrove](https://thetrove.net/) - The Trove is a non-profit website dedicated to content archival and long-term preservation of RPGs.
-- [serials](http://www.serials.ws/) - Serial keys for software that may or may not work.
 - [scenerules](https://scenerules.org/) - NFOs with rules and guidelines for scene releasing standards.
 - [SceneLinkList](https://www.scenelinklist.com/) - SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
 - [TheWarezFolder](http://thewarezfolder.com/) - Fairly out of date categorised list of warez sites.
-- [castnow](https://github.com/xat/castnow) - Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
 - [The Pirate Society](https://thepiratesociety.org/forums/) - A mysterious members-only forum for pirates.
 - [Bandersnatch Interactive Player](https://mehotkhan.github.io/BandersnatchInteractive/) - Online video player for watching the new interactive episode of Black Mirror, "Bandersnatch".
 - [Familienforum.biz](http://www.familienforum.biz/) - Sky cracking news, and other topics.
@@ -37,7 +28,6 @@ permalink: /miscellaneous
 - [Archive of r/Piracy subreddit 2019-03-19](https://ourproject.org/forum/forum.php?thread_id=44721&forum_id=4917&group_id=2645) - An archive of all gilded /r/Piracy comments and threads.
 - [PiracyArchive](https://github.com/nid666/PiracyArchive) - A complete backup of the Reddit /r/Piracy subreddit.
 - [List of warez groups](https://en.wikipedia.org/wiki/List_of_warez_groups) - Wikipedia's list of warez groups and individuals.
-- [netflix-proxy](https://github.com/ab77/netflix-proxy/) - Smart DNS proxy to watch Netflix out-of-region.
 - [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) - A collection of Helm (Kubernetes) - charts related to different Usenet services (sabnzbd, radarr, sonarr.).
 - [Outline](https://outline.com/) - Designed to remove ads, comments, and other junk from news articles but conveniently also bypasses paywalls.
 - [Universal Bypass (for shortner links)](https://universal-bypass.org/)
@@ -48,32 +38,26 @@ permalink: /miscellaneous
 - [TheRenamer.com](http://therenamer.com/) - Automatically organize, move, and rename downloaded TV shows and movies.
 - [ShowRSS.info](http://showrss.info/) - Compile a list of TV shows that you follow and generate an RSS link that you can put in your torrent client to automatically download new episodes as they are released based on the quality that you want (480p, 720p, 1080p, REPACK, etc).
 - [Generate-HoustonLibrary-Codes](https://github.com/SharlSherif/Generate-HoustonLibrary-Codes) - A simple script to automate the process of getting a card number from Houstonlibrary.org in order to get free access to Lynda.com.
-- [Unblocked](https://unblocked.mx/) - A service which links to official mirror websites or proxy your fav. warez website in case it was GeoIP blocked.
-- [Unlimited Mega.nz-IDM-downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) - Download Mega.nz without any limits.
-- [Project Honey Pot](https://www.projecthoneypot.org/) - Online fraud & abuse tracker.
+- [Unblocked](https://unblockit.me/) - A service which links to official mirror websites or proxy your fav. warez website in case it was GeoIP blocked.
 - [DarkNet Stats](https://dnstats.net/) - Monitors DarkNet Forums & Markets.
-- [3DM Forum](https://bbs.3dmgame.com/) - `CN` - The official 3DMs page.
-- [Mwoffliner](https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) - to your local filesystem.
+- [3DM games](https://3dmgame.com/) - The official 3DMs page.
+- [3DM Forum](https://bbs.3dmgame.com/) - The 3DM forum.
+- [Mwoffliner](https://github.com/openzim/mwoffliner) - Scrape any online Mediawiki motorised wiki (like Wikipedia) to your local filesystem.
 - [LinkSnappy](https://linksnappy.com/) - Aggregator to download from over 75 file hosters with one paid account only.
 - [DVBKing](https://skystar-2.com/) - SkyStar, SoftCam Key ProgDVB Satellite Receiver Dish Network DirecTV HD TV.
 - [Radio Garden](http://radio.garden) - Free Radio stations.
 - [Removeddit](https://www.removeddit.com/about/) - Display removed (by mods) - and deleted (by users) - comments/threads from Reddit.
-- [Ripcord](https://cancel.fm/ripcord/) - A closed source no tracking or analytics Discord client (without electron framework part).
-- [Anon.to](https://anon.to/) - URL shortener to de-referer or null-referer your links.
 - [GetGoogleSpreadshee​t](https://www.mathworks.com/matlabcentral/fileexchange/39915-getgooglespreadsheet) - Download a google spreadsheet as csv and import into a Matlab cell array.
 - [Leech Premium](https://leechpremium.link/) - Premium leech service.
 - [How to get free Rock Band 1, 2 & 3 DLC without RGH/JTAG](https://www.removeddit.com/r/Piracy/comments/d4lohq/how_to_get_free_rock_band_1_2_3_dlc_without/) - Get Rock Band 1-3 working on PS3 and Wii/U & Xbox 360 without the need of using RGH/JTAG.
 - [How to get ti-nspire CX student software for free, even after the free trial.](https://reddit.com/r/Piracy/comments/d5e70k/how_to_get_tinspire_cx_student_software_for_free/)
-- [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - An easy way to publish uncensorable essays on IPFS.
 - [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS-Win is a minimal port of SSHFS to Windows.
 - [Shreddit](https://github.com/x89/Shreddit) - Removes your comment history on Reddit as deleting an account does not do so.
 - [PowerDeleteSuite for Reddit](https://github.com/j0be/PowerDeleteSuite) - Delete all your reddit history.
 - [Awesome Uploader](http://github.com/grm34/awesome-uploader) - Warez scene mass uploader.
 - [Bonarr](http://github.com/klassicstudios/Bonarr) - A fork of Radarr to work with porn.
-- [CloudBox](http://cloudbox.works/) - An All-In-One, Cloud Centric & Media Server Solution.
 - [FlexGet](http://flexget.com/) - FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
-- [Massivedl](http://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
 - [Piracy and automation, an overview](http://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) - Guide by u/JukeCity101 on how to improve your experience pirating with automation tools.
 
 ## Website archiving tools
