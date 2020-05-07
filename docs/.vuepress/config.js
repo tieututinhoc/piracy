@@ -89,7 +89,7 @@ module.exports = {
             ["/dead", "Dead"]
         ],
         sidebarDepth: 2,
-        displayAllHeaders: true,
+        // displayAllHeaders: true,
         lastUpdated: true,
         repo: "maximousblk/piracy",
         repoLabel: "GitHub",
