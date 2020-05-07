@@ -901,6 +901,7 @@
 - [Subscene](https://subscene.com/) - Quality Subtitles for Movies.
 - [WonderfulSubs](https://www.wonderfulsubs.com/) - The best place on the web for all things Anime!.
 - [CCExtractor](https://www.ccextractor.org/) - A tool that analyzes video files and produces independent subtitle files from the closed captions data.
+- [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - A free and open source editor for video subtitles.
 
 #### Subtitles Automation
 
@@ -3403,7 +3404,6 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 - [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - An easy way to publish uncensorable essays on IPFS.
 - [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS-Win is a minimal port of SSHFS to Windows.
-- [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - A free and open source editor for video subtitles.
 - [Shreddit](https://github.com/x89/Shreddit) - Removes your comment history on Reddit as deleting an account does not do so.
 - [PowerDeleteSuite for Reddit](https://github.com/j0be/PowerDeleteSuite) - Delete all your reddit history.
 - [Awesome Uploader](http://github.com/grm34/awesome-uploader) - Warez scene mass uploader.
