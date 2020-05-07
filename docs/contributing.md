@@ -1,3 +1,7 @@
+---
+permalink: /contributing
+---
+
 # Contribution Guidelines
 
 Ensure your pull request adheres to the following guidelines:
@@ -5,8 +9,8 @@ Ensure your pull request adheres to the following guidelines:
 - Include a description of the link you're adding if possible.
 - If you're adding a new header, ensure you give it a unique name.
 - Do NOT add direct links to copyright protected material.
-- Links to Dead of Malware containing websites are unacceptable.
-- [Explicit content](https://help.github.com/en/github/site-policy/github-terms-of-service) is not accepted.
+- Links to Dead or Malware containing websites are unacceptable.
+- Links to websites with [explicit content](https://help.github.com/en/github/site-policy/github-terms-of-service) are not accepted.
 
 ## Updating your PR
 

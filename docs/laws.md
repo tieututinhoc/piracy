@@ -1,8 +1,8 @@
-<!--lint disable match-punctuation emphasis-marker-->
+---
+permalink: /laws
+---
 
 # Laws
-
-## Liability for Contents
 
 - [Burn, drown, or smash your phone: Forensics can extract data anyway](https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway/)
 - [A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)
@@ -50,7 +50,7 @@ For personal use only. Publishing & sharing it is always illegal!
 - Poland
 - Spain
 - Switzerland
-    - [5/MAY/20 - US Removes Switzerland From ‘Pirate WatchList’](https://torrentfreak.com/us-removes-switzerland-from-pirate-watchlist-200550/)
+  - [5/MAY/20 - US Removes Switzerland From ‘Pirate WatchList’](https://torrentfreak.com/us-removes-switzerland-from-pirate-watchlist-200550/)
 
 ### Countries where both downloading & sharing is illegal
 

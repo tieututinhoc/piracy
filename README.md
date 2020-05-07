@@ -15,14 +15,6 @@ This list is an attempt to add structure to the resources you need to get starte
 
 For discussion, feedback or if you come across dead links please head over to [issues](https://github.com/maximousblk/piracy/issues/) section of the [GitHub repository](https://github.com/maximousblk/piracy).
 
-## Credits
-
-This list exists because of
-
-- All [contributors](https://github.com/maximousblk/piracy/graphs/contributors).
-- [CHEF-KOCH/Warez](https://github.com/CHEF-KOCH/Warez)
-- [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
-
 ## Frequently asked questions?
 
 > Why was this even created?
@@ -45,21 +37,14 @@ You can also use the GitHub's search and search in the repository.
 
 ## Contribute
 
-Contributions are welcome! (But read the [contribution guidelines](contributing.md) first)
+Contributions are welcome! (But read the [contribution guidelines](docs/contributing.md) first)
 
 ## Project structure
 
-- [.github/workflows/archive.yml](.github/workflows/archive.yml) - Github Workflow to automatically archive the website after every update.
+- [.github/](.github/) - Github Workflow files.
 - [docs/](docs/) - Main website Source code and lists.
-  - [.vuepress/](docs/.vuepress/) - Vuepress configuration file and static assets.
-  - [404/README.md](docs/404/README.md) - 404 page for the website.
-  - [about/README.md](docs/about/README.md) - 404 page for the website.
-  - [laws/README.md](docs/laws/README.md) - List of laws and restrictions regardind digital piracy.
-  - [security/README.md](docs/security/README.md) - List of security related tools and assets.
-  - [README.md](docs/README.md) - List of all digital piracy related tools and assets.
+- [_config.yml](LICENSE) - Config file for github pages.
 - [.gitignore](.gitignore) - gitignore file.
-- [check_links.py](check_links.py) - A python file to find broken links.
-- [contributing.md](contributing.md) - Contribution guidelines.
 - [LICENSE](LICENSE) - License file.
 - [now.json](docs/now.json) - Configuration file for Vercels Now.
 - [package-lock.json](docs/package-lock.json) - Lock file for package manager.

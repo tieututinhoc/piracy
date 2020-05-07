@@ -1,4 +1,6 @@
-<!--lint disable match-punctuation emphasis-marker-->
+---
+permalink: /dead
+---
 
 # Dead
 

@@ -1,0 +1,83 @@
+---
+permalink: /comics-manga-and-light-novels
+---
+
+# Comics, Manga and Light novels
+
+- [Armaell Library](http://armaell-library.net/) - Free, fansubs and no ads.
+- [Baka Tsuki](https://www.baka-tsuki.org/) - Free, multilangual, no ads.
+- [RektNovelCompilations](https://rektnovelcompilations.wordpress.com/) - Free, fansubs, bannerads (Currently has many dead links).
+- [henkanepubs](https://henkanepubs.wordpress.com/) - Free, fansubs, bannerads, every download has a redirrect to adfly.
+- [NovelPlanet](ttps://novelplanet.com/) - Free, english, bannerads.
+- [NovelPlanet](https://novelplanet.com/) - Free and english novels.
+- [manga_downloader](https://github.com/LLostVayne/manga_downloader) - Python scraper that will download mangas from mangareader.net.
+- [The Free Manga Downloader (FMD)](https://github.com/riderkick/FMD) - Free Manga Downloader is a free open source application written in Object Pascal for managing and downloading manga from various websites.
+- [Tachiyomi](https://github.com/inorichi/tachiyomi) - Tachiyomi is a free and open source manga reader for Android.
+- [MangaZone](http://mangazoneapp.com/) - A manga reader app.
+- [Kindle Comic Converter](https://kcc.iosphe.re/) - Comic and manga converter for ebook readers.
+- [readcomiconline.to](https://readcomiconline.to/) - Manga and comics uploaded daily.
+- [Comic Extra](https://www.comicextra.com/) - Daily comic uploads, clean UI.
+- [GetComics](https://getcomics.info/) - Started as an alternative to get comics, particularly US-based comics by DC and Marvel.
+  - [Omnibus](https://github.com/fireshaper/Omnibus) - Search for and download comics that are added to GetComics.info easily.
+- [Gazee!](https://github.com/hubbcaps/gazee) - `discontinued` A WebApp Comic Reader for your favorite digital comics.
+- [Comix-Load](https://comix-load.in/) - DDL links for comic books and manga in English and German.
+- [MangaDex](https://www.mangadex.org/) - MangaDex is an online manga reader that caters to all languages.
+- [KissManga](http://kissmanga.com/) - Another manga website.
+- [r/manga](https://www.reddit.com/r/manga) - Everything and anything manga! (manhwa is okay too!).
+- [Madokami](https://manga.madokami.al/) - Requires sign-up (currently closed), see archive.org mirrors below.
+  - [Madokami 0-E](https://archive.org/download/Madokami.Manga.0-E) - Download manga titles named 0 to E.
+  - [Madokami F-K](https://archive.org/download/Madokami.Manga.F-K) - Download manga titles named F to K.
+  - [Madokami L-Q](https://archive.org/download/Madokami.Manga.L-Q) - Download manga titles named L to Q.
+  - [Madokami R-Z](https://archive.org/download/Madokami.Manga.R-Z) - Download manga titles named R to Z.
+  - [Madokami novels, raws and artbooks](https://archive.org/download/Madokami.NotManga) - Download novels, manga raws and artbooks.
+- [NineAnime](https://www.nineanime.com/) - Updated/Active Manga Site.
+- [HakuNeko](https://github.com/manga-download/hakuneko) - A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, a folder with images, epub).
+- [ComicPunch.net](https://comicpunch.net/) - Formerly ReadComicsOnline.net.
+- [ReadComicsOnline](http://readcomicsonline.ru/) - Russian version of old ReadComicsOnline.
+- [Mangareader.net](https://www.mangareader.net) - Read your favorite manga scans and scanlations online at Manga Reader.
+- [Mangadoom](http://mangadoom.co/) - Read free manga online!.
+- [Manga Park](http://mangapark.me/) - Alternative to KissManga.
+- [Mangago](http://www.mangago.me/) - Read manga online for free!.
+- [Readmng](https://www.readmng.com/) - Read free manga online!.
+- [Manga Life](https://manga4life.com/) - Read free manga online!.
+- [r/animepiracy wiki](https://www.removeddit.com/r/animepiracy/wiki/index) - Lists for sourcing Anime streaming sites, manga sites, and more.
+- [r/animepiracy](https://www.removeddit.com/r/animepiracy) - This sub is about streaming and torrent websites for anime.
+- [r/sjain_guides](https://www.removeddit.com/r/sjain_guides/) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more.
+- [9Anime Downloader](https://anonembed.xyz/9anime/) - Download Full Seasons from 9anime.
+- [Animes.so](https://www.animes.so) - (needs registration to see content) - Downloads, DL-Links for all sorts of Animes.
+- [Alternatives to Kiss websites](https://www.removeddit.com/r/KissCartoon/wiki/alternatives) - Wiki page of r/KissCartoon with lots of anime sites.
+- [AniDex](https://anidex.info) - Torrent tracker and indexer, primarily for English fansub groups of anime.
+- [AniLinkz](https://anilinkz.to/) - Large database of streaming anime episodes.
+- [Anime Kaizoku](https://www2.animekaizoku.com/) - Up to 1080p DDL links, mostly delivered via Google Drive.
+- [Anime Kayo](https://animekayo.com/) - 1080p DDL links, mostly delivered via Google Drive.
+- [Anime Twist](https://twist.moe/) - An anime direct streaming site with a decent UI and video player.
+- [animEncodes](https://www.animencodes.com/) - Anime sharing page.
+- [Anime-Loards.org](ttps://www.anime-loads.org) - Anime sharing page.
+- [AnimeOut](https://www.animeout.xyz/) - Over 1000's of Encoded Anime with DDL links.
+- [GoGo Anime](https://www3.gogoanime.in/) - Popular website for watching anime.
+- [Dognzb.cr](https://dognzb.cr/login) - DogNZB exists since 2013 and is one of the biggest and popular NZB indexer.
+- [Hi10 Anime](https://hi10anime.com/) - High Quality 10-bit Anime Encodes.
+- [HorribleSubs](https://horriblesubs.info/) - Download anime via torrent files, magnet links, XDCC, and premium link hosts.
+- [Monimo](https://monimoapp.netlify.com/) - Netflix like web app for watching animes.
+- [Nyaa](https://nyaa.si/) - BitTorrent software for cats [(Repo)](https://github.com/nyaadevs/nyaa)
+- [NyaaPantsu](https://nyaa.pantsu.cat/) - Primarily Anime torrents but includes an open directory of DDL links too.
+- [Series9](https://www2.series9.io/) - Search engine for movies and tv shows (incl. animes).
+- [SittingonClouds](https://www.sittingonclouds.net/) - Game- & Anime-Soundtracks.
+- [Anime OST Packages](http://koe.anime-sharing.com/Packlist/) - Provides anime soundtracks and series.
+- [Anime OST search](https://themes.moe/) - A search engine for anime stuff.
+- [Mangaseeonline](https://angaseeonline.net) - Typically uploads official scans.
+- [Mangabat](https://mangabat.com/) - Read Manga Online for free.
+- [Animeheaven.eu](http://animeheaven.eu/) - Read Manga Online for free.
+- [AnimeVibe Lite v3](https://animevibe.tv/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
+- [GoGo Anime](https://gogoanimes.co/) - Subs and dubs, many ads, many player alternatives.
+- [Kissasian](http://kissasian.sh) - Provides HQ animes and material around animes (subs/dubs etc).
+- [KissManga](http://kissmanga.com/)
+- [KissComic](http://readcomiconline.to/)
+
+## Comics and Manga Automation
+
+- [The Free Manga Downloader (FMD)](https://github.com/riderkick/FMD) - The Free Manga Downloader is a free open source application written in Object Pascal for managing and downloading manga from various websites.
+- [n1mo/manga](https://github.com/n1mo/manga) - A open source mangareader.net downloader written in python.
+- [mangadex-dl](https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org.
+- [HakuNeko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & macOS.
+- [Mylar](http://github.com/evilhero/mylar) - An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents.

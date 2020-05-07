@@ -16,7 +16,6 @@
         "gatsby"
     ],
     "scripts": {
-        "lint": "awesome-lint docs",
         "dev": "vuepress dev docs",
         "build": "vuepress build docs"
     },
