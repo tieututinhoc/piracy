@@ -461,6 +461,18 @@
 - [Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) - Windows users only!.
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - A solid cross-platform music tagger.
 - [MusicBee](https://getmusicbee.com/) - Easy peasy organize your music library.
+- [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
+
+### Music and Podcast Automation
+
+- [Athame](https://github.com/fuzzybabybunny/Athame) - An extensible music download tool written in C#.
+- [Chimera](https://notabug.org/Aesir/chimera) - Download music from Deezer, Tidal, Qobuz, Napster, Spotify (sourced from Tidal or Deezer), Google Play Music, SoundCloud.
+- [Headphones](http://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
+- [Lidarr](http://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+- [betanin](https://github.com/sentriz/betanin/) - Music organization man-in-the-middle of your torrent client and music player, based on beets.io, similar to Sonarr and Radarr.
+- [Ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk.
+- [Qo-DL](https://github.com/vvaidy/Qo-DL) - Tool written in Python to download MP3s & FLACs from Qobuz.
+  - [Qo-DL-Reborn](https://github.com/badumbass/Qo-DL-Reborn) - Tool written in Python to download streamable tracks from Qobuz.
 
 ### Spotify
 
@@ -498,17 +510,6 @@
 - [scddlr.com](https://www.scddlr.com/) - SoundCloud To Mp3 Converter Online.
 - [Local SoundCloud Downloader](hhttps://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) - Download SoundCloud without external service.
 - [kawai-scripts/soundcloud-downloader](https://greasyfork.org/de/scripts/396057-kawai-scripts-soundcloud-downloader)
-
-### Music and Podcast Automation
-
-- [Athame](https://github.com/fuzzybabybunny/Athame) - An extensible music download tool written in C#.
-- [Chimera](https://notabug.org/Aesir/chimera) - Download music from Deezer, Tidal, Qobuz, Napster, Spotify (sourced from Tidal or Deezer), Google Play Music, SoundCloud.
-- [Headphones](http://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
-- [Lidarr](http://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
-- [betanin](https://github.com/sentriz/betanin/) - Music organization man-in-the-middle of your torrent client and music player, based on beets.io, similar to Sonarr and Radarr.
-- [Ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk.
-- [Qo-DL](https://github.com/vvaidy/Qo-DL) - Tool written in Python to download MP3s & FLACs from Qobuz.
-  - [Qo-DL-Reborn](https://github.com/badumbass/Qo-DL-Reborn) - Tool written in Python to download streamable tracks from Qobuz.
 
 ## Movies and TV shows
 
@@ -1873,6 +1874,7 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 ## Browser Extensions
 
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [Add-Art](https://add-art.org/) - Replaces ads with art.
 - [uMatrix](https://github.com/gorhill/uMatrix) - Point and click matrix to filter net requests according to source, destination and type.
 - [Decentraleyes](https://decentraleyes.org/) - Protects against tracking with a local CDN (Content Delivery Network) - emulation.
 - [Privacy Badger](https://www.eff.org/privacybadger) - Privacy Badger blocks spying ads and invisible trackers.
