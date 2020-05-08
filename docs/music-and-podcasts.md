@@ -91,7 +91,6 @@ permalink: /music-and-podcasts
 - [Headphones](http://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
 - [Lidarr](http://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [betanin](https://github.com/sentriz/betanin/) - Music organization man-in-the-middle of your torrent client and music player, based on beets.io, similar to Sonarr and Radarr.
-- [Ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk.
 - [Qo-DL](https://github.com/vvaidy/Qo-DL) - Tool written in Python to download MP3s & FLACs from Qobuz.
   - [Qo-DL-Reborn](https://github.com/badumbass/Qo-DL-Reborn) - Tool written in Python to download streamable tracks from Qobuz.
 

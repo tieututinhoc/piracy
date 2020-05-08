@@ -37,6 +37,7 @@ permalink: /direct-downloads
   - [megatools](http://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
 - [annie](http://github.com/iawia002/annie) - Fast, simple and clean video downloader.
 - [aria2](http://aria2.github.io/) - A lightweight multi-protocol & multi-source command-line download utility.
+- [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
 - [axel](http://github.com/axel-download-accelerator/axel) - Light command line download accelerator.
 - [curl](http://en.wikipedia.org/wiki/CURL) - `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 - [get_iplayer](http://github.com/get-iplayer/get_iplayer) - A utility for downloading TV and radio programmes from BBC iPlayer.
