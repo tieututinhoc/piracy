@@ -88,18 +88,16 @@ permalink: /games
 - [Darksoftware Forum](https://forum.darksoftware.net/forums/) - Number #1 forum for Playstation hacking topics.
 - [Download Game PS3](https://downloadgameps3.com/) - Download game PS3, PS4, RPCS3, PC for free.
 - [PS3iso](http://www.ps3iso.net/) - Free PS3 games downloadable via filecrypt.cc.
-- [Ziperto](https://www.ziperto.com/) - Nintendo, PC, Playstation and Emulator based games via GDrive & other hosters.
 
 ### 3DS
 
 - [3DS Decrypter utility](https://github.com/matiffeder/stuff) - Decrypt 3DS files.
-- [3dscia](https://www.3dscia.com/) - Nintendo 3ds CIA files.
-- [GDrive](https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd) - EN/US based ROMs.
-- [GDrive](https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5) - All regions collection.
-- [GDrive](https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3)
-- [MEga.nz](https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) - DS Best of Collection.
-- [Mega.nz](https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) - 3DS Virtual Console.
-- [ziperto.com](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) - 3DS CIA collection.
+- [3dscia](https://www.3dscia.to/) - Nintendo 3ds CIA files.
+- [GDrive 1](https://drive.google.com/drive/folders/1hXkQlsTk5dOAZyHP8WfCLl-adyEK24Dd) - EN/US based ROMs.
+- [GDrive 2](https://drive.google.com/drive/folders/1lkJxXiakRmtUASb9fUoWOhuWe7TXUyV5) - All regions collection.
+- [GDrive 3](https://drive.google.com/drive/folders/1VsRg8wZ2R_r_lRN89dKopQsTVN6EvRU3)
+- [Mega.nz 1](https://mega.nz/#F!33AhDa4T!awOqr7lhZYFgjXoMMu6_8w) - DS Best of Collection.
+- [Mega.nz 2](https://mega.nz/#F!yLBiwApZ!JlecejkP1KK8jZujzHUbwQ) - 3DS Virtual Console.
 - [3DS-Paradise](https://3ds-paradise.com/) - One of the biggest 3DS forums in france.
 
 ### Mame Games
@@ -257,25 +255,14 @@ permalink: /games
 
 ## ROMs
 
-- [Romsmania](https://romsmania.cc/) - Good ROMs collection with a decent UI.
-- [Doperoms](https://www.doperoms.com/) - Huge collection with over 170,000 ROM files. PS3 included.
 - [Vimm's Lair](https://vimm.net/?p=vault) - Large collection of ROMs.
-- [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - Wiki page from gametechwiki.com with more links.
-- [Romulation.net](https://www.romulation.net/) - Collection of ~28,000 console game ROMs.
 - [The Eye ROMs](http://the-eye.eu/public/rom/) - Open directory of ROMs from The Eye.
-- [myabandonware](https://www.myabandonware.com/) - More than 14000 old games to download for free!.
-- [Old Games Finder](http://www.oldgamesfinder.com/) - Old Games Finder is an automated old game search engine. (avoid ISO Zone links, as that site is dead).
 - [The ROM Depot](https://theromdepot.com/roms/) - About 3TB of ROMs. You may need a VPN.
 - [Emulator.Games](https://emulator.games/) - Download or play ROMs on your PC, Mobile, Mac, iOS and Android devices.
 - ["A simple script for easily downloading emulator.games roms"](https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) - Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
-- [3DSISO](http://www.3dsiso.com/) - Nintendo 3DS ROMs downloads forum.
-- [3DSCIA.com](https://www.3dscia.com/) - DDL links for 3DS CIA files.
-- [Ziperto](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) - DDL link site primarily for Nintendo games.
-- [3DSISO](http://www.3dsiso.com/) - A community based ROM database.
 - [ByAlvRo's Collection - 1Fichier Mirror (132 TB various)](https://pastebin.com/79q1mdZm) - via [reddit](https://reddit.com/r/DataHoarder/comments/bi4u7e/byalvro_is_retiring_so_his_entire_playstation/)
 - [CoolRom](http://coolrom.com/) - Your #1 emulation choice.
 - [Digiex](https://digiex.net/forums/) - A forum to share and talk about ROMs, Games & other console games.
-- [Doperoms](https://www.doperoms.com/) - A huge collection with over 170,000 ROM files.
 - [Emulanium](http://www.emulanium.com/) - Emulators, cheats & roms.
 - [myabandonware](https://www.myabandonware.com/) - More than 14,000 old games to download, for free!.
 - [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) - List of Xbox, Nintendo etc games.
@@ -287,8 +274,6 @@ permalink: /games
 - [ROMNation](https://anonym.to/https://www.romnation.net/) - Lots of ROMs.
 - [Romsmania](https://romsmania.cc/) - Another great ROMs collection with a decent UI to find stuff quick.
 - [Romulation.net](https://www.romulation.net/) - Collection of over ~28,000 console game ROMs.
-- [The ROM Depot](https://theromdepot.com/roms/) - Around 3 TB of ROMs (requires a VPN).
-- [Vimm's Lair](https://vimm.net/?p=vault) - Large collection of ROMs.
 - [WowroMs](https://wowroms.com/) - Various ROMs collection.
 - [Ziperto](https://www.ziperto.com/) - Nintendo 3ds CIA files, especially for JRPGs.
 - [xprism's BIOS collection](https://drive.google.com/drive/folders/1TXkO1RSpq4UlR9cTVa040bAaJH27Kfj1) - BIOS collection for Computers, Emulators, Consoles and "obscure consoles" via GDrive.
