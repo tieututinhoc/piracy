@@ -53,6 +53,7 @@ permalink: /direct-downloads
 - [YouTube MP3 Rip](http://youtubemp3.rip/) - Download YouTube music videos as MP3 files without registration.
 - [FlixGrab](http://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
 - [Massivedl](http://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
+- [instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 
 ## Direct Download Streaming
 
