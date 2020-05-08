@@ -6,7 +6,8 @@ permalink: /audiobooks
 
 - [The Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) - A few publicly accessible audiobooks hosted by The Eye.
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
-- [AudioBook Bay (ABB)](http://audiobookbayabb.com/) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
+- [AudioBookBay (ABB)](http://audiobookbayabb.com/) - Download unabridged audiobook for free or share your audio books, safe, fast and high quality.
+- [AudioBookBay.nl](http://audiobookbay.nl/) - Mirror.
 - [AudioBooks.Cloud](https://audiobooks.cloud/) - DDL links to a lot of audiobooks.
 - [AudiobookReviews](http://audiobookreviews.com/) - Yet another audiobook direct download site.
 - [BookFI](http://en.bookfi.net/) - The largest ebook library.

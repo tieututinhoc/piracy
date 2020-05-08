@@ -20,13 +20,9 @@ permalink: /telegram
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 - [Telegram proxy](https://telegram.ind.in/) - Telegram unblock proxy for countries with Telegram banned.
-
-  - [Telegram web](https://web.telegram.ind.in/)
-  - [Telegram APIs](core.telegram.ind.in)
-  - [Telegram news channel](l.telegram.ind.in/Telegram)
-
-- instantview.telegram.ind.in
-- translations.telegram.ind.in
+  - [Telegram web proxy ](https://web.telegram.ind.in/)
+  - [Telegram APIs proxy](core.telegram.ind.in)
+  - [Telegram news channel proxy](l.telegram.ind.in/Telegram)
 
 ## Telegram Tools & Scripts
 
@@ -168,7 +164,7 @@ permalink: /telegram
 - [@BookThief](https://t.me/BooksThief)
 - [@BookWizardTheNewest](https://t.me/BookWizardTheNewest)
 - [@bookz4u](https://t.me/bookz4u)
-- [@eBooks English](https://t.me/EbooksEnglish)
+- [@eBooksEnglish](https://t.me/EbooksEnglish)
 - [@Ebooks254](https://t.me/Ebooks254)
 - [@eBooksOnly](https://t.me/eBooksOnly)
 - [@Ebookz](https://t.me/Ebookz)
@@ -291,8 +287,7 @@ permalink: /telegram
 
 ### Telegram Music Bot
 
-[@music](https://t.me/music) - Music Search Bot.
-
+- [@music](https://t.me/music) - Music Search Bot.
 - [@spotdlrobot](https://t.me/spotdlrobot) - Simple bot to download Spotify Songs in High quality (_no FLAC!_). You can't invite the bot into Groups.
 - [ppmusicbot - Spotify playlist bot](https://github.com/kimmobrunfeldt/ppmusicbot) - Telegram bot which adds all linked Spotify track links to a shared playlist.
 - [@DeezloaderAn0n_bot](https://github.com/An0nimia/DeezloaderAn0n_bot) - Download songs from Deezer and if they are now avbl. in Deezer it downloads it from YouTube.

@@ -24,3 +24,4 @@ permalink: /academic-papers-and-textbook
 - [Guide for Finding Textbooks](https://www.removeddit.com/r/Piracy/comments/3i9y7n/guide_for_finding_textbooks/) - Extensive tutorial by /u/Amosqu.
 - [How To find and download ebooks & textbooks](https://opentrackers.org/downloading-ebooks-textbooks/) - A guide to help people find ebooks & textbooks (_updated September 10, 2017_).
 - [How to "rent" your textbooks for free from Amazon](https://www.removeddit.com/r/Piracy/comments/3ma9qe/guide_how_to_rent_your_textbooks_for_free_from/) - "Going to college? Living off top ramen for dinner? Let me show you have to "rent" your textbooks for free & for life!".
+- [voteforbrooke](https://anonym.to/?http://voteforbrooke.com) - (`insecure`) - Various eBooks including sci-fi and academic papers and books.
