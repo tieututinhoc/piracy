@@ -102,3 +102,8 @@ permalink: /books-and-magazines
 - [Awakening Intuition](http://www.awakening-intuition.com/ebooks.html)
 - [WiLd's Occult Ebook Sources](https://justpaste.it/WiLdOccultEbooks) - Constantly updated eBook source for direct downloads, eBook source pages, tracker and magnets regarding eBook stuff.
 - [LazyLibrarian](http://gitlab.com/LazyLibrarian/LazyLibrarian) - LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.
+- [ahhdw](http://ahhdw.com) - A place for scientific eBooks.
+- [ebookbb](http://ebookbb.com) - Yet another place for various eBooks including scientific eBooks.
+- [Hpaudiobooks.club](http://hpaudiobooks.club)
+- [Scrdownloader](http://scrdownloader.com/) - Download .pdf documents and books from Scribd
+- [xfmro77i3lixucja](http://xfmro77i3lixucja.tor2web.xyz)
