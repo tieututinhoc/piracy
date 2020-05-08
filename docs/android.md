@@ -127,9 +127,9 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 
 ## Download Manegers
 
-- [Ponydroid](https://anonym.to/?https://play.google.com/store/apps/details?id=ponydroid.ponydroid) - Known and old Downloader for Android
-- [Advance Download Manager](https://anonym.to/?https://anonym.to/?https://play.google.com/store/apps/details?id=com.dv.adm) - Similar like Internet Download Manager for Desktop just for Android.
-- [IDM+](https://anonym.to/?https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - IDM+ is the fastest and most advanced download manager with Torrent download support.
+- [Ponydroid](https://play.google.com/store/apps/details?id=ponydroid.ponydroid) - Known and old Downloader for Android
+- [Advance Download Manager](https://play.google.com/store/apps/details?id=com.dv.adm) - Similar like Internet Download Manager for Desktop just for Android.
+- [IDM+](https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - IDM+ is the fastest and most advanced download manager with Torrent download support.
 
 ## Tools
 

@@ -21,6 +21,10 @@ permalink: /cartoons-and-anime
 - [Hi10Anime](https://hi10anime.com/) - High Quality 10-bit Animes.
 - [Anime Kaizoku](https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
 - [Shana Project](https://www.anirena.com/) - Anime torrent side, no ads.
+- [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - You need [ZeroNet](https://zeronet.io/) to see the "website".
+- [Erai-Raws](https://www.erai-raws.info/) - Provides similar service like HorribleSubs.
+- [Beatrice](https://beatrice-raws.org/) - Raw Anime BD rips.
+- [Shanaproject](https://www.shanaproject.com/) - Automate your anime downloads.
 
 ## Cantoons and Anime streaming
 
