@@ -221,6 +221,18 @@ Also be very carefull of scams. you can find the links to some scam sites on [`t
 
 :::
 
+::: tip
+
+Just replace .onion with .onion.ws or any other domain made available by volounteers [Tor2web](https://www.tor2web.org/) operators.
+
+Example: `http://archivecaslytosk.onion/ => http://archivecaslytosk.onion.ws/`
+
+This connects you with Tor2web, which then talks to the onion service via Tor and relays the response back to you.
+
+**WARNING**: Tor2web only protects publishers, _not readers_. As a reader installing Tor Browser will give you much greater anonymity than using Tor2web. Using Tor2web trades off security for convenience and usability.
+
+:::
+
 #### Web Archive
 
 | clearnet/name                  | onion address                                                                                                                              |
@@ -247,7 +259,6 @@ Also be very carefull of scams. you can find the links to some scam sites on [`t
 | clearnet/name         | onion address                                                                                                                               |
 | --------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
 | GNUPG                 | [`ic6au7wa3f6naxjq.onion`](http://ic6au7wa3f6naxjq.onion/)                                                                                  |
-| OnionShare            | [`elx57ue5uyfplgva.onion`](http://elx57ue5uyfplgva.onion/)                                                                                  |
 | OpenPGPKeysever       | [`pgpkeysximvxiazm.onion`](http://pgpkeysximvxiazm.onion/)                                                                                  |
 | Privacytools.io       | [`privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion`](http://privacy2zbidut4m4jyj3ksdqidzkw3uoip2vhvhbvwxbqux5xy5obyd.onion/)  |
 | Privacy International | [`privacyintyqcroe.onion`](http://privacyintyqcroe.onion/)                                                                                  |
