@@ -41,3 +41,4 @@ permalink: /courses-and-tutorials
 - [Haxnode](https://haxnode.com/) - Replacement for TutsGalaxy, learn HTML5 and CSS3 fundamentals.
 - [BookFlare](https://bookflare.org/) - Replacement for TutsGalaxy, learn HTML5 and CSS3 fundamentals.
 - [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
+- [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
