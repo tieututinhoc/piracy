@@ -125,6 +125,12 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [Trireme for Deluge](https://f-droid.org/en/packages/org.deluge.trireme/) - A Deluge thin client for Android. Written in Flutter.
 - [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - Lightweight & powerful BitTorrent app.
 
+## Download Manegers
+
+- [Ponydroid](https://anonym.to/?https://play.google.com/store/apps/details?id=ponydroid.ponydroid) - Known and old Downloader for Android
+- [Advance Download Manager](https://anonym.to/?https://anonym.to/?https://play.google.com/store/apps/details?id=com.dv.adm) - Similar like Internet Download Manager for Desktop just for Android.
+- [IDM+](https://anonym.to/?https://play.google.com/store/apps/details?id=idm.internet.download.manager.plus) - IDM+ is the fastest and most advanced download manager with Torrent download support.
+
 ## Tools
 
 - [LuckyPatcher](https://www.luckypatchers.com/download/) - Patch applications, remove ads and install a modded Google Play Store to bypass Google's license verification.
@@ -136,7 +142,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [Perfect Player](https://play.google.com/store/apps/details?id=com.niklabs.pp) - Perfect Player is set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
 - [ProSmart](http://prosmart.by/) - -ProSmart is a russian site which provides several apks, mods and games.
 - [Trashbox](https://trashbox.ru/) - Trashbox is the russian Mobilism.
-- [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) - YouTube Music Player & Downloader.
+- [YMusic](https://ymusic.io/) - YouTube Music Player & Downloader.
 - [NewPipe](https://newpipe.schabi.org/) - The original YouTube experience without annoying ads and questionable permissions.
 - [nzb360](http://nzb360.com/) - nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
 - [Tautulli Remote](https://play.google.com/store/apps/details?id=com.williamcomartin.plexpyremote) - Mobile version of Tautilli for monitoring Plex on the go.
