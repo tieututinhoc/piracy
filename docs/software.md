@@ -22,7 +22,6 @@ permalink: /software
 - [CrackingPatching.com](https://crackingpatching.com/) - Cracked software for free!.
 - [DDGroupClub](http://ddgroupclub.win/) - (`RU`).
 - [Fost.Club](http://fost.club/) - (`RU`).
-- [Gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [KaranPC](https://karanpc.com) - Yet another community around Windows software.
 - [Nulled](https://www.nulled.to/) - Nulled is a cracking community where you can find links to cracked software.
 - [PiratBit](https://pb.wtf/) - (`RU`).
@@ -77,6 +76,5 @@ permalink: /software
 - [Adobe CC 2018 - Full in-depth guide to installing and using any application (Windows)](http://www.reddit.com/r/sjain_guides/comments/9g4t2u/adobe_cc_2018_full_indepth_guide_to_installing/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
 - [Adobe Photoshop CC 2019 - Full in-depth guide to installation and activation (Windows)](http://reddit.com/r/sjain_guides/comments/9q4u6r/adobe_photoshop_cc_2019_full_indepth_guide_to/) - A full in-depth guide to installing and cracking any application (Windows) - by sjain_guides.
 - [Adobe Zii 4.0.3](http://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) - Tool for patching and cracking Adobe CC applications.
-- [gallery-dl](http://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
 - [How to download paid fonts for free](http://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) - fonts online.
 - [Pirating Adobe CC for Dummies](http://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) - Detailed guide about pirating Adobe CC for Windows.

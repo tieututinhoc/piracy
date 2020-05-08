@@ -42,3 +42,4 @@ permalink: /courses-and-tutorials
 - [BookFlare](https://bookflare.org/) - Replacement for TutsGalaxy, learn HTML5 and CSS3 fundamentals.
 - [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
 - [coursera-dl](https://github.com/coursera-dl/coursera-dl) - Script for downloading Coursera.org videos and naming them.
+- [edx-dl](https://github.com/coursera-dl/edx-dl) - A simple tool to download video lectures from edx.org and other openedx sites.
