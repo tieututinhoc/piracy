@@ -18,13 +18,13 @@ permalink: /cartoons-and-anime
 - [HakuNeko](https://github.com/manga-download/hakuneko) - A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, folder with images, epub).
 - [YMP4](https://ymp4.download/) - Download videos from YouTube to mp4 & mp3 files, including from places like e.g. Crunchroll.
 - [animetosho](https://animetosho.org/) - AnimeTosho (AT) - is an automated service that mirrors torrents posted on Tokyo Tosho and Nyaa Torrents AniDex onto various file hosting services.
-- [Hi10Anime](https://hi10anime.com/) - High Quality 10-bit Animes.
 - [Anime Kaizoku](https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
 - [Shana Project](https://www.anirena.com/) - Anime torrent side, no ads.
 - [Play Anime](http://127.0.0.1:43110/1AnimePihDhcbVdK1nvnbSEtH4oKU8RAYG/) - You need [ZeroNet](https://zeronet.io/) to see the "website".
 - [Erai-Raws](https://www.erai-raws.info/) - Provides similar service like HorribleSubs.
 - [Beatrice](https://beatrice-raws.org/) - Raw Anime BD rips.
 - [Shanaproject](https://www.shanaproject.com/) - Automate your anime downloads.
+- [AnimeDL](https://archive.org/details/animedl4.0_202004) - Stream and download anime in VLC or MPC.
 
 ## Cantoons and Anime streaming
 
@@ -115,3 +115,6 @@ permalink: /cartoons-and-anime
 - [AnimeVibe](https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
 - [DarkAnime.stream](https://darkanime.stream/) - Subs, no ads, downloadable, some sources.
 - [anime-downloader](https://github.com/vn-ki/anime-downloader) - A simple but powerful anime downloader and streamer.
+- [TheHylia](https://anime.thehylia.com/) - TH's download section offers anime series with all their episodes for download in a very otherwise difficult to get AVI and MKV file forms.
+- [MegatronEncodes](https://www.megatronencodes.com/) - Provides HQ Animes.
+- [AnimK](https://animk.info/) - HQ, BDrips & more.
