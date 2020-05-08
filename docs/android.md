@@ -147,6 +147,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [Fildo](https://fildo.net/android/en/#) - Android music streaming app which fetches files from third party MP3 search engines.
 - [YouTube Vanced](https://vanced.app/) - Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
 - [AdAway](https://adaway.org/) - An open-source ad blocker for Android using the hosts file. It needs ROOT access.
+- [InstaGrapper](https://gitlab.com/AwaisKing/instagrabber) - A simple yet advanced Instagram post downloader that works with private acounts.
 
 ## MagisK Modules
 
