@@ -110,3 +110,4 @@ permalink: /cartoons-and-anime
 - [AniDex](https://anidex.info/) - Another anime torrent search engine. No ads/popups.
 - [AnimeVibe](https://animevibe.xyz/) - Subs and dubs, no ads, multiple sources, downloadable, funded by donations.
 - [DarkAnime.stream](https://darkanime.stream/) - Subs, no ads, downloadable, some sources.
+- [anime-downloader](https://github.com/vn-ki/anime-downloader) - A simple but powerful anime downloader and streamer.
