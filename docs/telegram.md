@@ -178,6 +178,7 @@ permalink: /telegram
 - [@hindupdf](https://t.me/hindupdf)
 - [@HUBTree](https://t.me/HUBTree)
 - [@HypnosisChatBooks](https://t.me/HypnosisChatBooks)
+- [@Javabooks](https://anonym.to/?https://t.me/javaebooks)
 - [@librariesoftelegram](https://t.me/librariesoftelegram)
 - [@libraryofdos](https://t.me/libraryofdos)
 - [@LibraryofMagic](https://t.me/LibraryofMagic)
