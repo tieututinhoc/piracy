@@ -122,6 +122,8 @@ permalink: /movies-and-tv-shows
 - [eMule Island.ru](https://www2.emule-island.ru/) - (FR/RU) - Site de téléchargement gratuit, Telecharger des films complet, series, ebooks, spectacles, documentaires et bien plus, sur uptobox, 1fichier.
 - [libertyVF](https://ww1.libertyvf.org/)
 - [onemov](https://onemov.net/) - Online Full HD Movie Free.
+- [YourPTFlixMovies](https://yourptflixmovies.com/) - A forum dedicated to share or talk about any streaming material.
+- [Movie-Forum](https://movie-forum.co/forum.php) - Forum to share stream links of movies and TV shows.
 
 ### Streaming 1080p
 
