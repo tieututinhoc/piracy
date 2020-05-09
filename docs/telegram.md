@@ -333,3 +333,4 @@ permalink: /telegram
 - [@Shieldy](https://t.me/shieldy_bot) - A zero-config Telegram bot that fights spam in chats.
 - [@vardast_bot](https://t.me/vardast_bot) - A zero-config Telegram bot that fights spam in chats.
 - [@assistChannel_bot](https://t.me/assistChannel_bot) - A zero-config Telegram bot that fights spam in chats.
+- [@AlbionRoBoT](https://t.me/AlbionRoBoT) - AlbionRoBoT is similar like GroupHelp with some more extra gimmicks.
