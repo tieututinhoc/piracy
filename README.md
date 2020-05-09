@@ -19,7 +19,6 @@ For discussion, feedback or if you come across dead links please head over to [i
 Repo mirror:
 
 - [maximousblk/piracy@gitlab](https://gitlab.com/maximousblk/piracy)
-- [maximousblk/piracy@bitbucket](https://bitbucket.org/maximousblk/piracy)
 
 Website mirror:
 
