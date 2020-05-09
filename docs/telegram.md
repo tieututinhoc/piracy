@@ -24,7 +24,7 @@ permalink: /telegram
   - [Telegram APIs proxy](core.telegram.ind.in)
   - [Telegram news channel proxy](l.telegram.ind.in/Telegram)
 
-## Telegram Tools & Scripts
+## Tools & Scripts
 
 - [Be careful using bots on telegram](http://www.wired.com/story/telegram-bots-tls-encryption/) - Wired article about Telegram Bots and encryption.
 - [Manybot](http://manybot.io/) - Create your own telegram bot without coding skills.
@@ -33,14 +33,15 @@ permalink: /telegram
 - [Telegram XP Bot](http://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
 - [Telegram CrackWatch tracker Bot](http://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
 
-## Telegram Bridges
+## Bridges
 
 - [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams and more with REST API (mattermost not required!)
 - [TediCross](https://github.com/TediCross/TediCross) - Bot which bridges Telegram chats with Discord channels.
 - [teleirc](https://github.com/RITlug/teleirc) - Go implementation of a Telegram <=> IRC bridge for use with any IRC channel and Telegram group.
 - [Transferbot](https://github.com/corusm/Transferbot) - Bot that transfers Messages from Telegram to Discord and back.
+- [Telegram to Discord Bridge](https://github.com/TediCross/TediCross) - Self-hosted bot to forward your Telegram messages to Discord.
 
-## Telegram Discussion Channels
+## Discussion Channels
 
 - [Telegram Channels](https://telegramchannels.me/channels) - A telegram channel indexer with over 1500 channels.
 - [@piratebazaar](https://t.me/piratebazaar) - Telegram Channel to request warez information, lists, software & more.
@@ -51,7 +52,7 @@ permalink: /telegram
 - [丂ㄥ乃ㄖㄒ丂 ✪ 丂乇乇 ᗪ 乃ㄖ乂](https://t.me/joinchat/IbIIb0Yga4pKYCOu7LajYg) - Seedbox fans have a home here.
 - [slbotsbugs](https://t.me/slbotsbugs) - TeamDrive, Bot discussion place.
 
-### Telegram channel for Login data
+### Channels for Login data
 
 - [@piratechannel](https://t.me/piratechannel) - Free Netflix, Spotify & Other Premium Accounts, Window & Other Software License Keys.
 - [esetkey_everyday](https://t.me/esetkey_everyday) - Get fresh Nod keys almost everyday.
@@ -59,13 +60,13 @@ permalink: /telegram
 - [radwan1998](https://t.me/radwan1998) - VPN and login data.
 - [vpnusername](https://t.me/vpnusername) - Free NordVPN leech account logins. Sometimes other VPN services too.
 
-### Telegram Cracking Channels
+### Cracking Channels
 
 - [Keygen Fortress](https://t.me/keygen_fortress) - Keygens and cracks only.
 - [King_of_cracking](https://t.me/king_0f_cracking) - Free daily cracking tools, proxies and more.
 - [The404Cracking](https://t.me/The404Cracking) - Claims to be the best cracking channel on Telegram.
 
-### Telegram channel for courses ant tutorials
+### Channels for courses ant tutorials
 
 - [@udemyfree4u](https://ttttt.me/udemyfree4u) - This Is The No. 1 Biggest Channel In Telegram Which Provides Paid Udemy Courses For Free, daily updated.
 - [Free Udemy Courses](https://t.me/Freecoursefinder) - We provide paid premium online courses for free!.
@@ -74,7 +75,7 @@ permalink: /telegram
 - [Udemy deals](https://telegram.me/udemydeals) - Free udemy courses.
 - [Tech_You](https://t.me/udemydeals) - Tutorials, Logins, Course and other stuff via Mega links.
 
-### Telegram channel for APK's
+### Channels for APK's
 
 - [@ModdedCentral](https://t.me/ModdedCentral) - Patched & modded android apps, updated regularly, 50+ shared daily. Request group currently closed.
 - [APK4free](https://t.me/Apk4Free) - Cracked Android apps.
@@ -83,12 +84,7 @@ permalink: /telegram
 - [InstaMod](https://t.me/instagram_mod) - Regularly updated & feature rich modified Instagram app (Android only).
 - [Premium APKs Only](https://t.me/apkpremiumonly) - Patched / modded android apps, updated daily.
 
-### Telegram channels for VPNs
-
-- [wbnet](https://t.me/wbnet) - Provide VPN logins, proxy logins and more.
-- [@vpnusername](https://t.me/vpnusername) - Free NordVPN leech account logins. Sometimes posts other VPN services too.
-
-### Telegram channels for Music
+### Channels for Music
 
 - [@DeezerMusicBot](https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
 - [@flacaudio](https://t.me/flacaudio) - `AR` - Arabish flac music.
@@ -114,7 +110,7 @@ permalink: /telegram
 - [Melodic Musics](https://t.me/MelodicMusics) - A large collection of music, downloadable within Telegram.
 - [Music Archive](https://t.me/MArchive) - A large collection of music, downloadable within Telegram.
 
-### Telegram channels for Movies & TV shows
+### Channels for Movies & TV shows
 
 - [@beyondHD](https://t.me/beyondHD) - HD movies shared from the community to the community.
 - [@iMediaShare](https://t.me/iMediaShare) - Provides links to Movies, TV shows, apps & and more.
@@ -130,7 +126,7 @@ permalink: /telegram
 - [TV Updates](https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!.
 - [Netflix_originals](https://t.me/Netflix_originals) - Daily new Netflix episodes.
 
-### Telegram channels for Software
+### Channels for Software
 
 - [@piracylinks](https://t.me/piracylinks) - A link sharing community.
 - [Adobe CRack channel](https://t.me/adobecracks) - A channel for all Adobe cracks.
@@ -145,7 +141,7 @@ permalink: /telegram
 - [Raymond's Piracy Group](https://t.me/raymondfreesoftware) - A group of 7000+ pirates chatting.
 - [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
 
-### Telegram channels for eBooks
+### Channels for eBooks
 
 - [List of eBook websites, channels & bots](https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
 - [@aadhyatmikbrahmand](https://t.me/aadhyatmikbrahmand)
@@ -220,23 +216,15 @@ permalink: /telegram
 - [Open Library](https://t.me/joinchat/AAAAAEUbZxqyCKxhZbf-PA)
 - [WiLd's Occult Ebook Dump](https://t.me/joinchat/AAAAAE07WyxZNFu5tLrjVA)
 
-## Telegram Bots
+## Bots
 
 - [Botlist](hhttps://botlist.co/) - A botlist for various messenger (including Telegram).
 - [@BotListBot](https://t.me/BotListBot) - The official bot for botlist.co to list bots in Telegram.
 - [telegram-list](https://github.com/goq/telegram-list/) - `RU` - GitHub overview list of useful Telgram Bots.
-- [@fakemailbot](https://t.me/fakemailbot) - Get fake emails as soon as new ones arrive.
-- [@DropmailBot](https://t.me/DropmailBot) - Get fake emails.
-- [@etlgr_bot](https://t.me/etlgr_bot) - Get fake emails.
-- [@GmailBot](https://t.me/GmailBot) - GMail mangement Bot.
-- [@smtpbot](https://t.me/smtpbot) - Get fake emails.
-- [@temp_mail_bot](https://t.me/temp_mail_bot) - Get fake emails.
 - [@Proytdlbot](https://t.me/Proytdlbot) - Simple bot to download YouTube Videos. You can't invite the bot into groups.
 - [Torrent Drive](https://t.me/torrentdrive_bot?do=open_link) - Gives you Google Drive link for the torrent files you send.
 - [@ToEmailBot](https://t.me/ToEmailBot) - Redirect all pictures and files to email. Send me one and get it to inbox 💌.
 - [@apkdl_bot](https://t.me/apkdl_bot) - Download latest version of any free android apps and games from apkdl.in.
-- [Telegram to Discord Bridge](https://github.com/TediCross/TediCross) - Self-hosted bot to forward your Telegram messages to Discord.
-- [@Calstars_Bot](https://t.me/Calstars_Bot) - A Token Tipping Bot.
 - [@filetobot](https://t.me/filetobot) - Stores your private files and arranges them by category. Send any file to the bot and it will be immediately added.
 - [@itorrentsearchbot](https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
 - [@LinkForFilebot](https://t.me/LinkForFilebot) - Link your audio, video or media files to a specific channel or group.
@@ -250,43 +238,22 @@ permalink: /telegram
 - [@virus_total_scan_bot](https://t.me/virus_total_scan_bot) - Scan files and check it against VirusTotal. Does not work with Channels or Groups.
 - [@apkdl_bot](https://t.me/apkdl_bot) - Download latest version of any free android app and game from apkdl.in.
 - [@GooglePlayDownloader_bot](https://t.me/GooglePlayDownloader_bot) - Download latest version of any free android app directly from Google Play Store.
-- [@Instasave_bot](https://t.me/Instasave_bot) - Save Instagram photos.
-- [@bing](https://t.me/bing) - Bing is search engine, this Bot let's you search for photos.
-- [@pic](https://t.me/pic)
-- [@imagesearchbot](https://t.me/imagesearchbot)
-- [@imagebot](https://t.me/imagebot)
-- [@ya](https://t.me/ya) - Internet search Bot.
-- [@QRCodesBot](https://t.me/QRCodesBot)
-- [@ShortUrlBot](https://t.me/ShortUrlBot)
-- [@shorturl_googl_bot](https://t.me/shorturl_googl_bot)
 - [@PlinkBot](https://t.me/PlinkBot)
-- [@whooisbot](https://t.me/whooisbot) - Get WHOIS information.
-- [@ipaboutbot](https://t.me/ipaboutbot) - Get IP information.
-- [@userinfobot](https://t.me/userinfobot) - Get User Infos.
-- [@ChannelIdBot](https://t.me/ChannelIdBot) - Get Channel Infos.
-- [@vajehyabbot](https://t.me/vajehyabbotvajehyabbot) - Get Channel Infos.
-- [@ReadmeBot](https://t.me/ReadmeBot)
 - [@SearchBazarBot](https://t.me/SearchBazarBot) - Search Bazar and get information.
 - [@DBazarBot](https://t.me/DBazarBot) - Download the app from Market Cafe
-- [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
-- [@video_dl_bot](https://t.me/video_dl_bot) - Download videos from YouTube.
-- [@youtube](https://t.me/youtube) - Search Videos on YouTube.
-- [@utubebot](https://t.me/utubebot) - Search and DL Videos on YouTube.
-- [@SaveVideoBot](https://t.me/SaveVideoBot) - Search and DL Videos on YouTube.
-- [@YoutubeConvertBot](https://t.me/YoutubeConvertBot) - Search and DL Videos on YouTube.
-- [@FBvidzBot](https://t.me/youtube) - Download Video From Facebook.
-- [@markdownrobot](https://t.me/markdownrobot)
-- [@HideItBot](https://t.me/HideItBot) - Hide Text in Chat.
+- [@MyTeleCloudBot](https://t.me/MyTeleCloudBot)
+- [@thesafebot](https://t.me/thesafebot)
+- [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Upload, files, videos and audio to Yandex Cloud.
 
-### Telegram eBook Bots
+### eBook Bots
 
+- [@libgen_scihub_bot](https://t.me/libgen_scihub_bot) - Search and download books and scientific articles. It combines databases of Library Genesis and Sci-Hub with facilities of morphology search. Also, it allows searching by DOI and MD5.
 - [@BookDownloadBot](https://t.me/BookDownloadBot)
 - [@getmediabot](https://t.me/getmediabot)
-- [@libgen_scihub_bot](https://t.me/libgen_scihub_bot)
 - [@libsan_bot](https://t.me/libsan_bot)
 - [@scihubot](https://t.me/scihubot)
 
-### Telegram Music Bot
+### Music Bots
 
 - [@music](https://t.me/music) - Music Search Bot.
 - [@spotdlrobot](https://t.me/spotdlrobot) - Simple bot to download Spotify Songs in High quality (_no FLAC!_). You can't invite the bot into Groups.
@@ -299,8 +266,9 @@ permalink: /telegram
 - [@id3bot](https://t.me/id3bot)
 - [@mp3toolsbot](https://t.me/mp3toolsbot)
 - [@iLyricsBot](https://t.me/iLyricsBot)
+- [@podcastly_bot](https://t.me/podcastly_bot) - Find and search podcasts.
 
-### Telegram Movies and TV Shows Bot
+### Movies and TV Shows Bots
 
 - [@utubebot](hhttps://t.me/utubebot) - Video Downloader with MP3 Conversion support.
 - [@imdb](https://t.me/scsht_bot) - This bot automatically works in all your chats and groups, no need to add it anywhere. Simply type @imdb in any chat.
@@ -313,15 +281,16 @@ permalink: /telegram
 - [@subtitlebot](https://t.me/subtitlebot)
 - [@SubYabBot](https://t.me/SubYabBot)
 - [@SubHunterBot](https://t.me/SubHunterBot)
+- [@SubLandBot](https://t.me/SubLandBot) - You can download subtitle files in Persian and English Language directly from subscene.com.
 
-### Telegram Google Drive Bots
+### Google Drive Bots
 
 - [@botxupdates](https://t.me/botxupdates) - Uploads files to your Google Drive. Just send file or direct download link.
 - [@gdriveupme_bot](https://github.com/aryanvikash/Google-Drive-Uploader)
 - [@GdriveXbot](https://t.me/GdriveXbot) - Uploads files to your Google Drive. Just send file or direct download link.
 - [@gduploadbot](https://t.me/gduploadbot) - Remote uploads a link/file and mirrors it to you.
 
-### Telegram Moderation Bot
+### Moderation Bots
 
 - [@BotFather](https://t.me/BotFather) - Create and maintain your own bots.
 - [@Combot](https://combot.org/) - Moderation, analytics, anti-spam, the best trigger system in Telegram and more.
@@ -334,3 +303,50 @@ permalink: /telegram
 - [@vardast_bot](https://t.me/vardast_bot) - A zero-config Telegram bot that fights spam in chats.
 - [@assistChannel_bot](https://t.me/assistChannel_bot) - A zero-config Telegram bot that fights spam in chats.
 - [@AlbionRoBoT](https://t.me/AlbionRoBoT) - AlbionRoBoT is similar like GroupHelp with some more extra gimmicks.
+- [Userge](https://github.com/UsergeTeam/Userge/) - Userge is a Powerful , Pluggable Telegram UserBot written in Python using Pyrogram.
+
+### Youtube Bots
+
+- [@YtbDownBot](https://t.me/YtbDownBot) - Ultimate bot for downloading media from most web sites.
+- [@video_dl_bot](https://t.me/video_dl_bot) - Download videos from YouTube.
+- [@youtube](https://t.me/youtube) - Search Videos on YouTube.
+- [@utubebot](https://t.me/utubebot) - Search and DL Videos on YouTube.
+- [@SaveVideoBot](https://t.me/SaveVideoBot) - Search and DL Videos on YouTube.
+- [@YoutubeConvertBot](https://t.me/YoutubeConvertBot) - Search and DL Videos on YouTube.
+
+### Social Media Bots
+
+- [@twittervid_bot](https://t.me/twittervid_bot) - Download Twitter videos.
+- [@FBvidzBot](https://t.me/youtube) - Download Video From Facebook.
+- [@Instasave_bot](https://t.me/Instasave_bot) - Save Instagram photos.
+
+### Temporary Email Bots
+
+- [@fakemailbot](https://t.me/fakemailbot) - Get fake emails as soon as new ones arrive.
+- [@DropmailBot](https://t.me/DropmailBot) - Get fake emails.
+- [@etlgr_bot](https://t.me/etlgr_bot) - Get fake emails.
+- [@smtpbot](https://t.me/smtpbot) - Get fake emails.
+- [@temp_mail_bot](https://t.me/temp_mail_bot) - Get fake emails.
+
+
+### Miscellaneous bots
+
+- [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
+- [@markdownrobot](https://t.me/markdownrobot)
+- [@HideItBot](https://t.me/HideItBot) - Hide Text in Chat.
+- [@bing](https://t.me/bing) - Bing is search engine, this Bot let's you search for photos.
+- [@pic](https://t.me/pic)
+- [@imagesearchbot](https://t.me/imagesearchbot)
+- [@imagebot](https://t.me/imagebot)
+- [@ya](https://t.me/ya) - Internet search Bot.
+- [@QRCodesBot](https://t.me/QRCodesBot)
+- [@ShortUrlBot](https://t.me/ShortUrlBot)
+- [@shorturl_googl_bot](https://t.me/shorturl_googl_bot)
+- [@whooisbot](https://t.me/whooisbot) - Get WHOIS information.
+- [@ipaboutbot](https://t.me/ipaboutbot) - Get IP information.
+- [@userinfobot](https://t.me/userinfobot) - Get User Infos.
+- [@ChannelIdBot](https://t.me/ChannelIdBot) - Get Channel Infos.
+- [@vajehyabbot](https://t.me/vajehyabbotvajehyabbot) - Get Channel Infos.
+- [@ReadmeBot](https://t.me/ReadmeBot)
+- [@GmailBot](https://t.me/GmailBot) - GMail mangement Bot.
+- [@Calstars_Bot](https://t.me/Calstars_Bot) - A Token Tipping Bot.
