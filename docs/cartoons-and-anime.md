@@ -101,7 +101,6 @@ permalink: /cartoons-and-anime
 - [Your-Anime](https://www.your-anime.com/) - Arabish animes dubbed.
 - [KimCartoon](https://kimcartoon.co/) - Large cartoon collection.
 - [TopCartoons](https://www.topcartoons.tv/) - Watch Online Cartoon Shows for Free. Best Episodes from Childhood Memories Hanna-Barbera, Warner Bros, Walt Disney and More.
-- [Toonova](http://www.toonova.net/) - You can watch cartoon online, free series and movies and in English.
 - [Supercartoons](https://www.supercartoons.net/) - Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!
 - [b98](https://www.b98.tv/) - Watch Free Classic Cartoons Online (Merrie Melodies, Looney Tunes, Bugs Bunny, Mickey Mouse, Tom and Jerry, Pink Panther and More...)
 
