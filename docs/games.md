@@ -144,8 +144,7 @@ permalink: /games
 
 ## Console Emulators
 
-### Multi-system emulators
-
+- [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS.
 - [higan](http://higan.byuu.org/) - Originally called "bsnes", the emulator supports Mega Drive, SNES, GBC & other systems.
 - [RetroArch](http://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API (supports multiple cores/systems).
 
