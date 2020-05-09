@@ -1,7 +1,3 @@
----
-permalink: /contributing
----
-
 # Contribution Guidelines
 
 Ensure your pull request adheres to the following guidelines:
