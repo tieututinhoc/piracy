@@ -32,6 +32,7 @@ permalink: /music-and-podcasts
 - [Get rid of Spotify ads](https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/) - Short guide on avoiding ads, banners, limited skips, and locked shuffle mode in Spotify Free.
 - [Block Spotify Updates on macOS](https://donotupdatespotify.sh/) - A guide is avbl. [here](https://reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/)
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) - HowToGeek article on how to use TunesKit and Requiem.
+- [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format. Comes with some pretty nifty features too.
 
 ## Music and podcasts Album Art
 
