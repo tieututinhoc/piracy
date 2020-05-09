@@ -18,5 +18,4 @@ This basically graveyard for all the dead links. None the links here are active 
 - [ProxySite.cc](https://web.archive.org/web/*/proxysite.cc/) - Free web proxy site to bypass filters and unblock blocked websites anonymously.
 - [firefox_bookmarkscraper.py](https://web.archive.org/web/*/github.com/ZeroOne010101/firefox_bookmarkscraper.py) - Querys the html of all Firefox bookmarks in a specific folder for a keyword, and prints the url's of sites the keyword was found in.
 - [Grabber](https://web.archive.org/web/*/grabber.co.in/) - Download stock images from Shutterstock.
-- [Filelist](https://web.archive.org/web/*/filelist.ro/) - (FL) - Large Romanian general tracker with mostly English content. No RAR files allowed. Scene torrents are unrared, and then allowed.
 - [6box](https://web.archive.org/web/*/6box.me/) - A recently revived free Usenet indexing service with a generous API.
