@@ -6,7 +6,6 @@
 
 <div align="center">
   <a href="https://web.archive.org/web/*/https://piracy.now.sh/"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/maximousblk/piracy/archive?label=Internet%20Archive&logo=github%20actions&logoColor=fff&style=for-the-badge"></a>
-  <a href="https://piracy.now.sh/"><img src="https://img.shields.io/badge/website-piracy.now.sh-3eaf7c?style=for-the-badge" alt="Website"></a>
   <a href="https://github.com/maximousblk/piracy"><img src="https://img.shields.io/github/stars/maximousblk/piracy?color=555&logo=github&style=for-the-badge" alt="GitHub stars"></a>
   <a href="https://twitter.com/intent/tweet?text=Head over to https://piracy.now.sh/ for amazing %23piracy links and resources!"><img src="https://img.shields.io/badge/-tweet%20about%20this-1da1f2?logoColor=fff&logo=twitter&labelColor=1da1f2&style=for-the-badge" alt="Tweet"></a>
 </div>
@@ -14,6 +13,18 @@
 This list is an attempt to add structure to the resources you need to get started on your pirate voyage.
 
 For discussion, feedback or if you come across dead links please head over to [issues](https://github.com/maximousblk/piracy/issues/) section of the [GitHub repository](https://github.com/maximousblk/piracy).
+
+## Mirrors
+
+Repo mirror:
+
+- [maximousblk/piracy@gitlab](https://gitlab.com/maximousblk/piracy)
+- [maximousblk/piracy@bitbucket](https://bitbucket.org/maximousblk/piracy)
+
+Website mirror:
+
+- [piracy.netlify.app](https://piracy.netlify.app/)
+- [piracy.on.fleek.co](https://piracy.on.fleek.co/)
 
 ## Frequently asked questions?
 
@@ -43,7 +54,7 @@ Contributions are welcome! (But read the [contribution guidelines](docs/contribu
 
 - [.github/](.github/) - Github Workflow files.
 - [docs/](docs/) - Main website Source code and lists.
-- [_config.yml](LICENSE) - Config file for github pages.
+- [\_config.yml](LICENSE) - Config file for github pages.
 - [.gitignore](.gitignore) - gitignore file.
 - [LICENSE](LICENSE) - License file.
 - [now.json](docs/now.json) - Configuration file for Vercels Now.
