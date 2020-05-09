@@ -6,14 +6,22 @@
 
 <div align="center">
   <a href="https://web.archive.org/web/*/https://piracy.now.sh/"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/maximousblk/piracy/archive?label=Internet%20Archive&logo=github%20actions&logoColor=fff&style=for-the-badge"></a>
-  <a href="https://piracy.now.sh/"><img src="https://img.shields.io/badge/website-piracy.now.sh-3eaf7c?style=for-the-badge" alt="Website"></a>
   <a href="https://github.com/maximousblk/piracy"><img src="https://img.shields.io/github/stars/maximousblk/piracy?color=555&logo=github&style=for-the-badge" alt="GitHub stars"></a>
   <a href="https://twitter.com/intent/tweet?text=Head over to https://piracy.now.sh/ for amazing %23piracy links and resources!"><img src="https://img.shields.io/badge/-tweet%20about%20this-1da1f2?logoColor=fff&logo=twitter&labelColor=1da1f2&style=for-the-badge" alt="Tweet"></a>
 </div>
 
 This list is an attempt to add structure to the resources you need to get started on your pirate voyage.
 
-For discussion, feedback or if you come across dead links please head over to [issues](https://github.com/maximousblk/piracy/issues/) section of the [GitHub repository](https://github.com/maximousblk/piracy).
+## Mirrors
+
+Repo mirror:
+
+- [maximousblk/piracy@gitlab](https://gitlab.com/maximousblk/piracy)
+
+Website mirror:
+
+- [piracy.netlify.app](https://piracy.netlify.app/)
+- [piracy.on.fleek.co](https://piracy.on.fleek.co/)
 
 ## Frequently asked questions?
 
@@ -30,12 +38,12 @@ Somewhat. I do not know everything about digital piracy and can be a little resi
 A full-text search function is planned.
 The website uses vuepress for easy maintainance and deployment.
 Vuepress currently only supports header search and algolia pluggin.
-I don't know how to integrate algolia in the current deployment cycle.
+I don't know how to integrate algolia in the current workflow.
 Any help regarding this will be much appreciated.
 
 ## Contribute
 
-Contributions are welcome! (But read the [contribution guidelines](contributing.md) first)
+Contributions are welcome! For discussion, feedback or if you come across dead links please head over to [issues](https://github.com/maximousblk/piracy/issues/) section of the [GitHub repository](https://github.com/maximousblk/piracy).
 
 ## Disclaimer
 

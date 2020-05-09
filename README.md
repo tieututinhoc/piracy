@@ -12,8 +12,6 @@
 
 This list is an attempt to add structure to the resources you need to get started on your pirate voyage.
 
-For discussion, feedback or if you come across dead links please head over to [issues](https://github.com/maximousblk/piracy/issues/) section of the [GitHub repository](https://github.com/maximousblk/piracy).
-
 ## Mirrors
 
 Repo mirror:
@@ -40,20 +38,22 @@ Somewhat. I do not know everything about digital piracy and can be a little resi
 A full-text search function is planned.
 The website uses vuepress for easy maintainance and deployment.
 Vuepress currently only supports header search and algolia pluggin.
-I don't know how to integrate algolia in the current deployment cycle.
+I don't know how to integrate algolia in the current workflow.
 Any help regarding this will be much appreciated.
 Untill then you will have to search via `Ctrl` + `F` or `Cmd` + `F`.
 You can also use the GitHub's search and search in the repository.
 
 ## Contribute
 
-Contributions are welcome! (But read the [contribution guidelines](docs/contributing.md) first)
+Contributions are welcome! Read the [contribution guidelines](contributing.md) to make sure nothing goes wrong.
+
+For discussion, feedback or if you come across dead links please head over to [issues](https://github.com/maximousblk/piracy/issues/) page.
 
 ## Project structure
 
 - [.github/](.github/) - Github Workflow files.
 - [docs/](docs/) - Main website Source code and lists.
-- [\_config.yml](LICENSE) - Config file for github pages.
+- [\_config.yml](_config.yml) - Config file for github pages.
 - [.gitignore](.gitignore) - gitignore file.
 - [LICENSE](LICENSE) - License file.
 - [now.json](docs/now.json) - Configuration file for Vercels Now.
