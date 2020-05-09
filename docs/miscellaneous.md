@@ -59,6 +59,7 @@ permalink: /miscellaneous
 - [Bonarr](http://github.com/klassicstudios/Bonarr) - A fork of Radarr to work with porn.
 - [FlexGet](http://flexget.com/) - FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [Piracy and automation, an overview](http://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) - Guide by u/JukeCity101 on how to improve your experience pirating with automation tools.
+- [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 
 ## Website archiving tools
 
@@ -122,6 +123,7 @@ permalink: /miscellaneous
 - [Metatogger](https://www.luminescence-software.org/en/metatogger.html) - Metatogger is the new generation of tag editor allowing you to rename, tag and easily sort your audio files.
 - [MP3TAG](https://www.mp3tag.de/en/) - Mp3tag is a powerful and easy-to-use tool to edit metadata of audio files.
 - [Picard](https://picard.musicbrainz.org/) - Picard is an open source cross-platform music tagger written in Python.
+- [Advanced Renamer](https://www.advancedrenamer.com/) - Advanced batch renaming program, with support for renaming based on GPS data from images, ID3 tags from music files, TV show data and regular expressions.
 
 ## Pirate News, Blogs & Discussion Forums
 
