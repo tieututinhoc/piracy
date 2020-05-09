@@ -1,7 +1,7 @@
 module.exports = {
     title: "Piracy",
     description: "It's illegal cuz they can't tax you!",
-    dest: "dist",
+    dest: "public",
     head: [
         ["link", { rel: "icon", href: "/favicon.ico" }],
         ["meta", { name: "theme-color", content: "#3eaf7c" }],
