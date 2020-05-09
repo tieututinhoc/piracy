@@ -36,6 +36,7 @@ permalink: /cartoons-and-anime
 - [AniLinkz](https://anilinkz.to/) - Large database of streaming anime episodes.
 - [KissCartoon.info](https://kisscartoon.info) - Another site for streaming cartoons with a huge catalog.
   - [KissCartoon.ac](https://kisscartoon.ac/) - Popular cartoon streaming site.
+    - [Kisscartoon.love](https://www1.kisscartoon.love/) - Kisscartoon alternatives website *made by fans*. Watch HQ cartoons online both cartoon movies and cartoon series online for free.
 - [KissAnime.nz](http://kissanime.nz/) - One of the best places for Animes.
   - [KissAnime.ru](http://kissanime.ru/) - (`RU`) - Official russian KissAnime community.
   - [Kissanime.ac](https://kissanime.ac/) - Large cartoon collection that uses RapidVideo.
@@ -97,8 +98,12 @@ permalink: /cartoons-and-anime
 - [NovelPlanet](http://novelplanet.com/)
 - [Tokyo Tosho](https://www.tokyotosho.info/) - Referral banner ads.
 - [TVBox](https://tvbox.unblocked.gdn/)
-- [Your-Anime](https://www.your-anime.com/) - (`AR`) - Arabish animes dubbed.
+- [Your-Anime](https://www.your-anime.com/) - Arabish animes dubbed.
 - [KimCartoon](https://kimcartoon.co/) - Large cartoon collection.
+- [TopCartoons](https://www.topcartoons.tv/) - Watch Online Cartoon Shows for Free. Best Episodes from Childhood Memories Hanna-Barbera, Warner Bros, Walt Disney and More.
+- [Toonova](http://www.toonova.net/) - You can watch cartoon online, free series and movies and in English.
+- [Supercartoons](https://www.supercartoons.net/) - Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!
+- [b98](https://www.b98.tv/) - Watch Free Classic Cartoons Online (Merrie Melodies, Looney Tunes, Bugs Bunny, Mickey Mouse, Tom and Jerry, Pink Panther and More...)
 
 ## Cantoons and Anime downloading
 
