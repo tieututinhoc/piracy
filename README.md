@@ -1,4 +1,4 @@
-<div hidden align="center">
+<div align="center">
   <a href="https://piracy.now.sh"><img width="200" src="https://piracy.now.sh/logo.svg" alt="arrrr!"></a>
   <h1 align="center">Piracy</h1>
   <h3 align="center">It's illegal cuz they can't tax you!</h3>
@@ -53,7 +53,6 @@ For discussion, feedback or if you come across dead links please head over to [i
 
 - [.github/](.github/) - Github Workflow files.
 - [docs/](docs/) - Main website Source code and lists.
-- [\_config.yml](_config.yml) - Config file for github pages.
 - [.gitignore](.gitignore) - gitignore file.
 - [LICENSE](LICENSE) - License file.
 - [now.json](docs/now.json) - Configuration file for Vercels Now.
