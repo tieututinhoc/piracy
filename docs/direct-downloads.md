@@ -116,7 +116,7 @@ tags:
 - [Napalm FTP Indexer](https://www.searchftps.net/) - NAPALM FTP Indexer lets you search and download files located on public FTP servers.
 - [pftp](https://www.pftp.de/) - Port-File-Transfer-Program not to muddle up with standard FTP which is quite different, it allows you to send and receive directories recursively and move the dirs.
 
-## DDL Engines and Crawlers
+## Search Engines and Crawlers
 
 - [ololo](https://ololo.to/) - A video streaming link search engine.
 - [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts.
