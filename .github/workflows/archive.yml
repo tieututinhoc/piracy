@@ -18,7 +18,6 @@ jobs:
                   python -m pip install archivenow
             - name: Archive pages
               run: |
-                  archivenow --ia https://maximousblk.github.io/piracy/
                   archivenow --ia https://piracy.now.sh/
                   archivenow --ia https://piracy.now.sh/security
                   archivenow --ia https://piracy.now.sh/laws
