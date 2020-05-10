@@ -14,16 +14,18 @@ This list is an attempt to add structure to the resources you need to get starte
 
 ## Mirrors
 
-Repo mirror:
+Repo mirrors:
 
+- [maximousblk/piracy@github](https://github.com/maximousblk/piracy) - official
 - [maximousblk/piracy@gitlab](https://gitlab.com/maximousblk/piracy)
 
-Website mirror:
+Website mirrors:
 
+- [piracy.now.sh](https://piracy.now.sh/) - official
 - [piracy.netlify.app](https://piracy.netlify.app/)
 - [piracy.on.fleek.co](https://piracy.on.fleek.co/)
 
-## Frequently asked questions?
+## FAQ
 
 > Why was this even created?
 
@@ -33,14 +35,14 @@ Research purposes... :wink:
 
 Somewhat. I do not know everything about digital piracy and can be a little resistive while adding new links.
 
-> Why can I only search for headers on the website?
+> Why can't I do a full text search on the website?
 
 A full-text search function is planned.
 The website uses vuepress for easy maintainance and deployment.
 Vuepress currently only supports header search and algolia pluggin.
 I don't know how to integrate algolia in the current workflow.
 Any help regarding this will be much appreciated.
-Untill then you will have to search via GitHub's repository search.
+Untill then you will have to search via GitHub or GitLab repository search.
 
 ## Contribute
 

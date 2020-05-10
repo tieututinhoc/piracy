@@ -34,8 +34,7 @@ jobs:
                   archivenow --ia https://piracy.now.sh/games
                   archivenow --ia https://piracy.now.sh/software
                   archivenow --ia https://piracy.now.sh/creative-assets
-                  archivenow --ia https://piracy.now.sh/nulled-scripts
-                  archivenow --ia https://piracy.now.sh/iptv-and-dvr
+                  archivenow --ia https://piracy.now.sh/iptv
                   archivenow --ia https://piracy.now.sh/android
                   archivenow --ia https://piracy.now.sh/ios
                   archivenow --ia https://piracy.now.sh/windows
@@ -47,10 +46,8 @@ jobs:
                   archivenow --ia https://piracy.now.sh/torrents
                   archivenow --ia https://piracy.now.sh/usenet
                   archivenow --ia https://piracy.now.sh/direct-downloads
-                  archivenow --ia https://piracy.now.sh/google-teamdrives
                   archivenow --ia https://piracy.now.sh/file-sharing
                   archivenow --ia https://piracy.now.sh/cloud-storage
-                  archivenow --ia https://piracy.now.sh/rapidleech
                   archivenow --ia https://piracy.now.sh/discord
                   archivenow --ia https://piracy.now.sh/irc
                   archivenow --ia https://piracy.now.sh/telegram
