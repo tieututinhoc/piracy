@@ -1,5 +1,14 @@
 ---
 permalink: /ios
+tags:
+  - iphone
+  - apple
+  - ipad
+  - phone
+  - mobile
+  - apps
+  - operating
+  - system
 ---
 
 # iOS

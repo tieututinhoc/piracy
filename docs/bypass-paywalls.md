@@ -1,5 +1,9 @@
 ---
 permalink: /bypass-paywalls
+tags:
+  - articles
+  - blogs
+  - news
 ---
 
 # Bypassing Paywalls

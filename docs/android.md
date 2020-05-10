@@ -1,5 +1,14 @@
 ---
 permalink: /android
+tags:
+  - root
+  - play store
+  - romote
+  - phone
+  - mobile
+  - apps
+  - operating
+  - system
 ---
 
 # Android

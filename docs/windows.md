@@ -1,5 +1,13 @@
 ---
 permalink: /windows
+tags:
+  - microsoft
+  - ltsc
+  - hwidgen
+  - kms
+  - iso
+  - operating
+  - system
 ---
 
 # Windows

@@ -1,5 +1,11 @@
 ---
 permalink: /browser-extensions
+tags:
+  - adblock
+  - ads
+  - chrome
+  - firefox
+  - privacy
 ---
 
 # Browser Extensions

@@ -1,5 +1,9 @@
 ---
 permalink: /games
+tags:
+  - crackwatch
+  - download
+  - play
 ---
 
 # Games

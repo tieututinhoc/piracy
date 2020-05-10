@@ -1,5 +1,7 @@
 ---
 permalink: /audiobooks
+tags:
+  - streaming
 ---
 
 # Audiobooks

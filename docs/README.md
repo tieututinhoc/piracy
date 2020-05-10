@@ -40,6 +40,7 @@ The website uses vuepress for easy maintainance and deployment.
 Vuepress currently only supports header search and algolia pluggin.
 I don't know how to integrate algolia in the current workflow.
 Any help regarding this will be much appreciated.
+Untill then you will have to search via GitHub's repository search.
 
 ## Contribute
 

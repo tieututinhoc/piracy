@@ -1,5 +1,11 @@
 ---
 permalink: /miscellaneous
+tags:
+  - tools
+  - scripts
+  - information
+  - scene
+  - warez
 ---
 
 # Miscellaneous

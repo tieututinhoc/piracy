@@ -1,5 +1,9 @@
 ---
 permalink: /direct-downloads
+tags:
+  - mega
+  - jdownloader
+  - index of
 ---
 
 # Direct Downloads
@@ -46,7 +50,6 @@ permalink: /direct-downloads
 - [Google Drive direct download link generator](http://maulvi.github.io/)
 - [netclix](http://github.com/ston3o/netclix) - A simple cli tool to get movie streaming premium links from VodLocker's API.
 - [Persepolis](http://persepolisdm.github.io/) - Front-end for aria2.
-- [RapidLeech](http://github.com/Th3-822/rapidleech) - A free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net and more than 127 others.
 - [rdcli](http://github.com/ston3o/rdcli) - The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid.
 - [ripme](http://github.com/RipMeApp/ripme) - A album/video downloader with support for over 80 sites.
 - [Swiss Transfer](http://www.swisstransfer.com/en) - Share Files up to 25GB.
@@ -55,7 +58,44 @@ permalink: /direct-downloads
 - [Massivedl](http://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
 - [instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 
-## Direct Download Streaming
+## RapidLeech
+
+- [RapidLeech](https://github.com/Th3-822/rapidleech) - Rapid Leech is a free server transfer script for use on various popular upload/download sites.
+- [a092devsxd.herokuapp](http://a092devsxd.herokuapp.com/)
+- [ahputuleech.herokuapp](http://ahputuleech.herokuapp.com)
+- [alterink](http://www.alterink.com)
+- [batleech.herokuapp](http://batleech.herokuapp.com)
+- [clouddebrid.herokuapp](http://clouddebrid.herokuapp.com)
+- [freeleecher](http://dl.freeleecher.ir:555/index.php)
+- [kempus87.freehost](http://kempus87.freehost.pl)
+- [leech.softaz](https://leech.softaz.net)
+- [leech13040.herokuapp](http://leech13040.herokuapp.com)
+- [leecher.needrp.](http://leecher.needrp.net)
+- [leechweb.herokuapp](http://leechweb.herokuapp.com)
+- [loverksleech.herokuapp](http://loverksleech.herokuapp.com)
+- [madahi313](https://madahi313.ir/leech/)
+- [maj8588.herokuapp](http://maj8588.herokuapp.com)
+- [oyrenci-sesi.info](http://oyrenci-sesi.info/leech)
+- [r3dliz4rdstorage.herokuapp](http://r3dliz4rdstorage.herokuapp.com)
+- [rapidleech-tr.herokuapp](http://rapidleech-tr.herokuapp.com)
+- [rapidleech.gq](https://rapidleech.gq/)
+- [restorage.herokuapp](http://restorage.herokuapp.com)
+- [sahilpatel.herokuapp](http://sahilpatel.herokuapp.com)
+- [Server029.altervista](http://www.server029.altervista.org)
+- [shabakehparvaresh](https://shabakehparvaresh.ir/index.php)
+- [simberia.prv.pl](http://simberia.prv.pl/index.php)
+- [ss-leech.herokuapp](http://ss-leech.herokuapp.com)
+- [sstuptoboxuc.herokuapp](http://sstuptoboxuc.herokuapp.com)
+- [thanhcavietnam](https://thanhcavietnam.org/DownHost/)
+- [tweetuleech.herokuapp](http://tweetuleech.herokuapp.com)
+- [ukstorage.herokuapp](http://ukstorage.herokuapp.com)
+- [vmaniac](http://vmaniac.com)
+- [web.avjie](https://web.avjie.com)
+- [xyhs.mad.buttobi.net](http://xyhs.mad.buttobi.net/index.php)
+- [yes-original.com](https://yes-original.com/home/rapidleech-master/index.php)
+- [zarni.herokuapp](http://zarni.herokuapp.com)
+
+## Streaming
 
 - [Catchvideo.net](https://catchvideo.net/) - Catchvideo.net is a free online website, which allows you to download a video url from YouTube, Facebook, Dailymotion, Vimeo and more.
 - [HDencode](https://hdencode.com/) - Download Movies and TV Shows - #1 Source for High Definition Releases.
@@ -76,7 +116,7 @@ permalink: /direct-downloads
 - [Napalm FTP Indexer](https://www.searchftps.net/) - NAPALM FTP Indexer lets you search and download files located on public FTP servers.
 - [pftp](https://www.pftp.de/) - Port-File-Transfer-Program not to muddle up with standard FTP which is quite different, it allows you to send and receive directories recursively and move the dirs.
 
-## DDL Search Engines and Crawlers
+## DDL Engines and Crawlers
 
 - [ololo](https://ololo.to/) - A video streaming link search engine.
 - [MegaSearch](http://megasearch.co) - Search engine for finding content hosted on Mega and other premium hosts.

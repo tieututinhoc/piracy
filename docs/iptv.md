@@ -1,8 +1,15 @@
 ---
-permalink: /iptv-and-dvr
+permalink: /iptv
+tags:
+  - streaming
+  - shows
+  - dvr
+  - digital
+  - video
+  - recording
 ---
 
-# IPTV and DVR
+# IPTV
 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
 - [fastocloud](https://github.com/fastogt/fastocloud) - IPTV/Video cloud admin panel for servers.

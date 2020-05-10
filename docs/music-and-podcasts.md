@@ -1,5 +1,11 @@
 ---
 permalink: /music-and-podcasts
+tags:
+  - mp3
+  - flac
+  - audio
+  - songs
+  - playlist
 ---
 
 # Music and podcasts
@@ -34,12 +40,12 @@ permalink: /music-and-podcasts
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) - HowToGeek article on how to use TunesKit and Requiem.
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format. Comes with some pretty nifty features too.
 
-## Music and podcasts Album Art
+## Album Art
 
 - [Album Art Downloader](https://sourceforge.net/projects/album-art/) - Find and update their album art for their music collection.
 - [newalbum.club](https://newalbum.club/) - Search and download free music & album arts. No account required!.
 
-## Music and podcasts Streaming
+## Streaming
 
 - [datmusic](https://datmusic.xyz/) - Search engine with a clean UI for streaming music in your browser.
 - [GoSong](https://gosong.unblocked.gdn/) - Streamable MP3s.
@@ -52,7 +58,7 @@ permalink: /music-and-podcasts
 - [mp3.li](http://mp3li.unblckd.club) - Another MP3 streaming site.
 - [slider.kz](http://slider.kz/) - Quirky and fast music streaming site.
 
-## Music and podcasts Downloading
+## Downloading
 
 - [Spotify™ & Deezer™ Music Downloader](https://chrome.google.com/webstore/detail/spotify-deezer-music-down/pocmgnhmjgjghodelfkhbjaoidmbadpo/related)
 - [Deezloader](http://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) - Tool for downloading music from Deezer.
@@ -77,7 +83,7 @@ permalink: /music-and-podcasts
 - [Chimera](https://notabug.org/Aesir/chimera) - Supports: Deezer, Tidal, Qobuz, Napster, GooglePlayMusic, Soundcloud (Limited Support) - and works across almost every OS.
 - [RedSea](https://github.com/redsudo/RedSea) - (Premium account required) - Music downloader for Tidal, revived.
 
-## Music and podcasts Library Manager
+## Library Manager
 
 - [Beets](https://github.com/beetbox/beets) - Beets is the media library management system for obsessive music geeks.
 - [Groove Music](https://www.microsoft.com/en-us/p/groove-music/9wzdncrfj3pt?activetab=pivot:overviewtab) - Windows users only!.
@@ -85,7 +91,7 @@ permalink: /music-and-podcasts
 - [MusicBee](https://getmusicbee.com/) - Easy peasy organize your music library.
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices.
 
-## Music and Podcast Automation
+## Automation
 
 - [Athame](https://github.com/fuzzybabybunny/Athame) - An extensible music download tool written in C#.
 - [Chimera](https://notabug.org/Aesir/chimera) - Download music from Deezer, Tidal, Qobuz, Napster, Spotify (sourced from Tidal or Deezer), Google Play Music, SoundCloud.

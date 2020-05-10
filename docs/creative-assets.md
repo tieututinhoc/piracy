@@ -1,5 +1,10 @@
 ---
 permalink: /creative-assets
+tags:
+  - fonts
+  - images
+  - graphics
+  - development
 ---
 
 # Creative assets

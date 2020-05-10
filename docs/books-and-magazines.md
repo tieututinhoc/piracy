@@ -1,5 +1,11 @@
 ---
 permalink: /books-and-magazines
+tags:
+  - pdf
+  - read
+  - library
+  - articles
+  - epub
 ---
 
 # Books and Magazines

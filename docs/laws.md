@@ -1,5 +1,12 @@
 ---
 permalink: /laws
+tags:
+  - government
+  - contries
+  - illegal
+  - ban
+  - rules
+  - court
 ---
 
 # Laws

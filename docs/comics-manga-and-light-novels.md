@@ -1,5 +1,10 @@
 ---
 permalink: /comics-manga-and-light-novels
+tags:
+  - books
+  - pdf
+  - epub
+  - online
 ---
 
 # Comics, Manga and Light novels

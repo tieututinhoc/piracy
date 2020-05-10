@@ -1,5 +1,11 @@
 ---
 permalink: /usenet
+tags:
+  - forum
+  - news
+  - board
+  - nzb
+  - discuss
 ---
 
 # Usenet
@@ -16,7 +22,7 @@ permalink: /usenet
 - [ngPost](https://github.com/mbruel/ngPost) - Command Line (or minimalist GUI) - usenet poster for binaries developped in C++/QT.
 - [A Quick Guide to Choosing a Usenet Provider](https://www.reddit.com/r/usenet/comments/a7ffm7/a_quick_guide_to_choosing_a_usenet_provider/) - Reddit post by /u/FlickFreak.
 
-## Usenet Forums
+## Forums
 
 - [Revenge of Usenet](https://revenge-of-usenet.com) - Forum for usenet related news, and download discussions.
 - [Brothers of Usenet](https://www.brothers-of-usenet.net) - The original board went down, so this is a mirror for the well known forum which discusses stuff around the scene.
@@ -26,7 +32,7 @@ permalink: /usenet
 - [SceneNzb.com](https://scenenzb.com) - (paid) - 3 NZD files per day are free.
 - [Sky of Usenet](https://sky-of-use.net) - Yet another german usenet forum.
 
-## Usenet Providers
+## Providers
 
 - [Usenet Express](http://usenetexpress.com/) - UsenetExpress is a powerful new tier-1 Usenet provider that offers strong security, a 10GB uplink per server and up to 150 streams for an excellent price.
 - [Eweka News](https://www.eweka.nl/) - Netherlands-based Usenet provider.
@@ -40,11 +46,11 @@ permalink: /usenet
 - [WorldSrc](https://worldsrc.org) - Movies, software, apps, games, music, and images available for fast direct download + torrents.
 - [XS News](https://greycoder.com/goto/xsnews) - European Usenet feed.
 
-## Usenet Indexers
+## Indexers
 
 - [r/Usenet wiki: indexers](https://www.reddit.com/r/Usenet/wiki/indexers) - Information about /r/Usenet's favourite indexing services.
 
-### Paid Usenet Indexers
+### Paid Indexers
 
 - [DOGnzb](https://dognzb.cr/login) - Invite-only NZB site (although they do have a [registration page](https://dognzb.cr/register) - at the moment).
 - [DrunkenSlug](https://drunkenslug.com/) - Popular NZB indexer with a free tier and decent retention.
@@ -53,7 +59,7 @@ permalink: /usenet
 - [NZBgeek](https://nzbgeek.info/) - Affordable Usenet indexer operating since 2014.
 - [omgwtfnzbs](https://omgwtfnzbs.me/login) - Invite-only NZB indexer with a funny name.
 
-### Free Usenet Indexers
+### Free Indexers
 
 - [BINZB](https://binzb.com) - Minimalistic indexer.
 - [Binsearch](https://www.binsearch.info/) - With this site you can search and browse binary Usenet newsgroups.
@@ -65,7 +71,7 @@ permalink: /usenet
 - [NewzLeech](https://www.newzleech.com/) - Newzleech is a Usenet file search engine.
 - [GingaDADDY](https://www.gingadaddy.com/) - Another popular free NZB indexer, requires sign-up.
 
-## Usenet Indexing Software
+## Indexing Software
 
 - [Momentum Plus](https://plus.momentum-client.com/) - Usenet-Newsreader and in the (near future) - indexer and collector for usenet files.
 - [nZEDb-deploy](https://github.com/PREngineer/nZEDb-deploy) - A collection of scripts to automate and simplify the deployment of a nZEDb Usenet Indexer using the new format of their GitHub repository.

@@ -1,5 +1,12 @@
 ---
 permalink: /telegram
+tags:
+  - chat
+  - community
+  - discuss
+  - forums
+  - bots
+  - encrypted
 ---
 
 # Telegram

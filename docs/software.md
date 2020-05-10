@@ -1,5 +1,13 @@
 ---
 permalink: /software
+tags:
+  - apps
+  - exe
+  - install
+  - crack
+  - plugins
+  - themes
+  - templates
 ---
 
 # Software
@@ -78,3 +86,15 @@ permalink: /software
 - [Adobe Zii 4.0.3](http://www.reddit.com/r/Piracy/comments/9v7tr6/adobe_zii_403_released_now_includes_incopy/) - Tool for patching and cracking Adobe CC applications.
 - [How to download paid fonts for free](http://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/) - Post by /u/Bebhio on how to use clever Google searches to find Adobe (and other) - fonts online.
 - [Pirating Adobe CC for Dummies](http://www.reddit.com/r/Piracy/comments/5f5uz7/pirating_adobe_cc_for_dummies/) - Detailed guide about pirating Adobe CC for Windows.
+
+## Nulled Scripts
+
+- [AIW.BZ](https://aiw.bz) - German forum for nulled scripts.
+- [BoardScriptz](https://boardscriptz.to/board) - One of the oldest boards around nulled forum scripts.
+- [Cracked-Scriptz](https://forum.cracked-scriptz.ru) - (needs VPN) - A Blog which is not always online, it provides info around nulled scripts.
+- [EScripts](https://www.escripts.club) - (anti-ad-blocker detection) - English forum for nulled forum software.
+- [Nulled.to](https://www.nulled.to) - The most popular forum around nulled scripts.
+- [ScriptZSector](https://scriptzsector.com) - One of the newcomer, but fast growing forum.
+- [ToolBase](https://www.toolbase.me/board) - Tools, scripts and forum discussions around nulled software.
+- [WSC-Scriptz](https://support.wsc-scriptz.org) - Sometimes online, mostly blocked by ISP, provides a lot info around the nulled scene.
+- [XenFiles.co](https://xenfiles.co) - Yet another german forum for nulled scripts.

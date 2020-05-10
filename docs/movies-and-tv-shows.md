@@ -1,5 +1,24 @@
 ---
 permalink: /movies-and-tv-shows
+tags:
+  - netflix
+  - hbo
+  - hulu
+  - amazon
+  - prime
+  - hotstar
+  - disney
+  - plus
+  - full
+  - hd
+  - download
+  - mkv
+  - srt
+  - mp4
+  - hdrip
+  - cam
+  - blueray
+  - remux
 ---
 
 # Movies and TV shows
@@ -62,7 +81,7 @@ permalink: /movies-and-tv-shows
 - [Simkl](https://simkl.com/) - Movie and TV show scrobbler similar to Trakt.tv.
 - [tastedive.com/](https://tastedive.com/) - A recommendation engine that helps you explore music, movies, TV shows, books, authors, games, and podcasts
 
-## Streaming Movies and TV shows
+## Streaming
 
 - [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player.
   - [Streamlink-Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink.
@@ -273,7 +292,7 @@ permalink: /movies-and-tv-shows
 - [rabb.it](https://rabb.it/) - Hang out and watching stuff with your friends online!.
 - [Discord Go Live](https://support.discordapp.com/hc/en-us/articles/360040816151-Share-your-screen-with-Go-Live-Screen-Share) - Share your screen with Go Live directly in Discord (up to 50 people).
 
-## HDR/4k TV shows and Movies
+## HDR/4k
 
 - [Fake or real 4k](https://4kmedia.org/real-or-fake-4k/) - Check if the website provides a real or upscaled release, list is updated monthly, a alternative is the [predb check](https://predb.me/?search=2160p+BluRay+x265)
 - [4k-hd.club](https://4k-hd.club/) - Premium site with the highest quality of 4K ULTRA HD Movies.
@@ -386,6 +405,37 @@ permalink: /movies-and-tv-shows
 - [pahe.in](https://pahe.in/) - Uptostream, Google Drive, Mega.
 - [megaDDL](https://megaddl.co/) - Mega, Go4up, 1Fichier, NitroFlare.
 
+## Ripping, Transcoding, Converting, Encoding
+
+- [DVD Decrypter](http://dvddecrypter.org.uk/) - The original unofficial DVD Decrypter mirror since June 7th, 2005.
+- [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) - The A.R.M. (Automatic Ripping Machine) - detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action.
+- [DVDFab](https://www.dvdfab.cn/) - DVD/Blu-ray ripping tool, alternative use AnyDVD HD.
+- [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
+- [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
+- [MakeMKV](https://www.makemkv.com/) - MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
+- [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library.
+- [The Encoding Guide](https://encoding-guide.neocities.org/) - An in-depth guide on video encoding.
+
+## Automation
+
+- [Radarr](http://radarr.video/) - A fork of Sonarr to work with movies ala Couchpotato.
+- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) - Syncs two Radarr servers through web API.
+- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and BitTorrent users.
+- [Pulsarr](http://github.com/roboticsound/Pulsarr) - Browser extension for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+- [traktarr](http://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+- [Medusa](http://pymedusa.com/) - Automatic Video Library Manager for TV Shows.
+- [SickBeard](http://sickbeard.com/) - The ultimate PVR application that searches for and manages your TV shows.
+- [SickChill](http://sickchill.github.io/) - An automatic Video Library Manager for TV Shows.
+- [SickGear](http://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
+- [SickRage](http://github.com/SiCKRAGE/SiCKRAGE) - Automatic Video Library Manager for TV Shows.
+- [TV Overlord](http://www.tvoverlord.com/) - TV Overlord is a semi automatic command line tool to download and manage TV shows from newsgroups or Bittorent.
+- [TVShows 2](http://tvshowsapp.com/) - TVShows is the easiest way to download your favorite shows automatically in your Mac.
+- [CouchPotato](http://couchpota.to/) - Download movies automatically, easily and in the best quality as soon as they are available.
+- [Watcher](http://github.com/nosmokingbandit/Watcher3) - Watcher is an automated movie NZB & Torrent searcher and snatcher.
+- [Snahp tool](http://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
+- [Nefarious](http://lardbit.github.io/nefarious/) - Nefarious is a web application that helps you download movies and TV shows.
+- [MacGuffin](http://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases.
+
 ## Subtitles
 
 - [ASS / SSA to SRT Subtitles Converter](https://sorz.github.io/asstosrt-wasm/) - Encode ASS/SRT files.
@@ -409,34 +459,3 @@ permalink: /movies-and-tv-shows
 - [vlsub](http://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
 - [subsync](http://github.com/smacke/subsync) - Automatically synchronize subtitles with video.
 - [Sublight.me](http://sublight.me/) - Automatically batch download subtitles in a monitored folder.
-
-## Ripping, Transcoding, Converting, Encoding
-
-- [DVD Decrypter](http://dvddecrypter.org.uk/) - The original unofficial DVD Decrypter mirror since June 7th, 2005.
-- [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine/) - The A.R.M. (Automatic Ripping Machine) - detects the insertion of an optical disc, identifies the type of media and autonomously performs the appropriate action.
-- [DVDFab](https://www.dvdfab.cn/) - DVD/Blu-ray ripping tool, alternative use AnyDVD HD.
-- [ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
-- [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
-- [MakeMKV](https://www.makemkv.com/) - MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
-- [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library.
-- [The Encoding Guide](https://encoding-guide.neocities.org/) - An in-depth guide on video encoding.
-
-## Movies and TV Shows Automation
-
-- [Radarr](http://radarr.video/) - A fork of Sonarr to work with movies ala Couchpotato.
-- [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) - Syncs two Radarr servers through web API.
-- [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and BitTorrent users.
-- [Pulsarr](http://github.com/roboticsound/Pulsarr) - Browser extension for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
-- [traktarr](http://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
-- [Medusa](http://pymedusa.com/) - Automatic Video Library Manager for TV Shows.
-- [SickBeard](http://sickbeard.com/) - The ultimate PVR application that searches for and manages your TV shows.
-- [SickChill](http://sickchill.github.io/) - An automatic Video Library Manager for TV Shows.
-- [SickGear](http://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
-- [SickRage](http://github.com/SiCKRAGE/SiCKRAGE) - Automatic Video Library Manager for TV Shows.
-- [TV Overlord](http://www.tvoverlord.com/) - TV Overlord is a semi automatic command line tool to download and manage TV shows from newsgroups or Bittorent.
-- [TVShows 2](http://tvshowsapp.com/) - TVShows is the easiest way to download your favorite shows automatically in your Mac.
-- [CouchPotato](http://couchpota.to/) - Download movies automatically, easily and in the best quality as soon as they are available.
-- [Watcher](http://github.com/nosmokingbandit/Watcher3) - Watcher is an automated movie NZB & Torrent searcher and snatcher.
-- [Snahp tool](http://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
-- [Nefarious](http://lardbit.github.io/nefarious/) - Nefarious is a web application that helps you download movies and TV shows.
-- [MacGuffin](http://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases.

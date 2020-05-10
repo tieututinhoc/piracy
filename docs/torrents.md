@@ -1,5 +1,18 @@
 ---
 permalink: /torrents
+tags:
+  - file
+  - charing
+  - movies
+  - tv
+  - shows
+  - anime
+  - p2p
+  - peer
+  - magnet
+  - pirate
+  - 1337
+  - seed
 ---
 
 # Torrents

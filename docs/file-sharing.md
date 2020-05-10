@@ -1,5 +1,11 @@
 ---
 permalink: /file-sharing
+tags:
+  - p2p
+  - peer
+  - upload
+  - download
+  - send
 ---
 
 # File Sharing
