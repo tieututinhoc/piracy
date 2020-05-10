@@ -18,42 +18,42 @@ jobs:
                   python -m pip install archivenow
             - name: Archive pages
               run: |
-                  archivenow --all https://piracy.now.sh/
-                  archivenow --all https://piracy.now.sh/security
-                  archivenow --all https://piracy.now.sh/laws
-                  archivenow --all https://piracy.now.sh/cartoons-and-anime
-                  archivenow --all https://piracy.now.sh/comics-manga-and-light-novels
-                  archivenow --all https://piracy.now.sh/books-and-magazines
-                  archivenow --all https://piracy.now.sh/academic-papers-and-textbook
-                  archivenow --all https://piracy.now.sh/courses-and-tutorials
-                  archivenow --all https://piracy.now.sh/documentaries
-                  archivenow --all https://piracy.now.sh/audiobooks
-                  archivenow --all https://piracy.now.sh/music-and-podcasts
-                  archivenow --all https://piracy.now.sh/movies-and-tv-shows
-                  archivenow --all https://piracy.now.sh/sports
-                  archivenow --all https://piracy.now.sh/games
-                  archivenow --all https://piracy.now.sh/software
-                  archivenow --all https://piracy.now.sh/creative-assets
-                  archivenow --all https://piracy.now.sh/nulled-scripts
-                  archivenow --all https://piracy.now.sh/iptv-and-dvr
-                  archivenow --all https://piracy.now.sh/android
-                  archivenow --all https://piracy.now.sh/ios
-                  archivenow --all https://piracy.now.sh/windows
-                  archivenow --all https://piracy.now.sh/macos
-                  archivenow --all https://piracy.now.sh/bypass-paywalls
-                  archivenow --all https://piracy.now.sh/browser-extensions
-                  archivenow --all https://piracy.now.sh/userscripts
-                  archivenow --all https://piracy.now.sh/media-centre-applications
-                  archivenow --all https://piracy.now.sh/torrents
-                  archivenow --all https://piracy.now.sh/usenet
-                  archivenow --all https://piracy.now.sh/direct-downloads
-                  archivenow --all https://piracy.now.sh/google-teamdrives
-                  archivenow --all https://piracy.now.sh/file-sharing
-                  archivenow --all https://piracy.now.sh/cloud-storage
-                  archivenow --all https://piracy.now.sh/rapidleech
-                  archivenow --all https://piracy.now.sh/discord
-                  archivenow --all https://piracy.now.sh/irc
-                  archivenow --all https://piracy.now.sh/telegram
-                  archivenow --all https://piracy.now.sh/dc-plus-plus
-                  archivenow --all https://piracy.now.sh/miscellaneous
-                  archivenow --all https://piracy.now.sh/dead
+                  archivenow --is --st --ia https://piracy.now.sh/
+                  archivenow --is --st --ia https://piracy.now.sh/security
+                  archivenow --is --st --ia https://piracy.now.sh/laws
+                  archivenow --is --st --ia https://piracy.now.sh/cartoons-and-anime
+                  archivenow --is --st --ia https://piracy.now.sh/comics-manga-and-light-novels
+                  archivenow --is --st --ia https://piracy.now.sh/books-and-magazines
+                  archivenow --is --st --ia https://piracy.now.sh/academic-papers-and-textbook
+                  archivenow --is --st --ia https://piracy.now.sh/courses-and-tutorials
+                  archivenow --is --st --ia https://piracy.now.sh/documentaries
+                  archivenow --is --st --ia https://piracy.now.sh/audiobooks
+                  archivenow --is --st --ia https://piracy.now.sh/music-and-podcasts
+                  archivenow --is --st --ia https://piracy.now.sh/movies-and-tv-shows
+                  archivenow --is --st --ia https://piracy.now.sh/sports
+                  archivenow --is --st --ia https://piracy.now.sh/games
+                  archivenow --is --st --ia https://piracy.now.sh/software
+                  archivenow --is --st --ia https://piracy.now.sh/creative-assets
+                  archivenow --is --st --ia https://piracy.now.sh/nulled-scripts
+                  archivenow --is --st --ia https://piracy.now.sh/iptv-and-dvr
+                  archivenow --is --st --ia https://piracy.now.sh/android
+                  archivenow --is --st --ia https://piracy.now.sh/ios
+                  archivenow --is --st --ia https://piracy.now.sh/windows
+                  archivenow --is --st --ia https://piracy.now.sh/macos
+                  archivenow --is --st --ia https://piracy.now.sh/bypass-paywalls
+                  archivenow --is --st --ia https://piracy.now.sh/browser-extensions
+                  archivenow --is --st --ia https://piracy.now.sh/userscripts
+                  archivenow --is --st --ia https://piracy.now.sh/media-centre-applications
+                  archivenow --is --st --ia https://piracy.now.sh/torrents
+                  archivenow --is --st --ia https://piracy.now.sh/usenet
+                  archivenow --is --st --ia https://piracy.now.sh/direct-downloads
+                  archivenow --is --st --ia https://piracy.now.sh/google-teamdrives
+                  archivenow --is --st --ia https://piracy.now.sh/file-sharing
+                  archivenow --is --st --ia https://piracy.now.sh/cloud-storage
+                  archivenow --is --st --ia https://piracy.now.sh/rapidleech
+                  archivenow --is --st --ia https://piracy.now.sh/discord
+                  archivenow --is --st --ia https://piracy.now.sh/irc
+                  archivenow --is --st --ia https://piracy.now.sh/telegram
+                  archivenow --is --st --ia https://piracy.now.sh/dc-plus-plus
+                  archivenow --is --st --ia https://piracy.now.sh/miscellaneous
+                  archivenow --is --st --ia https://piracy.now.sh/dead
