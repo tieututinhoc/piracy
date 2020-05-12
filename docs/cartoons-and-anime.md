@@ -105,7 +105,7 @@ tags:
 - [TopCartoons](https://www.topcartoons.tv/) - Watch Online Cartoon Shows for Free. Best Episodes from Childhood Memories Hanna-Barbera, Warner Bros, Walt Disney and More.
 - [Supercartoons](https://www.supercartoons.net/) - Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!
 - [b98](https://www.b98.tv/) - Watch Free Classic Cartoons Online (Merrie Melodies, Looney Tunes, Bugs Bunny, Mickey Mouse, Tom and Jerry, Pink Panther and More...)
-- [Full Episodes](https://anonym.to/?http://fullepisodes.biz/) - A alternative to WatchSeries.
+- [Full Episodes](http://fullepisodes.biz/) - A alternative to WatchSeries.
 
 ## Cantoons and Anime downloading
 

@@ -32,8 +32,8 @@ tags:
 - [airsonic](https://airsonic.github.io/) - Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - [streethiphop](https://www.streethiphop.org/) - Download free music.
 - [wi.to](https://www.wi.to/) - A freemium hoster for music files.
-- [CoreRadio](https://anonym.to/?http://coreradio.ru) - (`RU`) - Music in FLAC format & MP3s.
-- [Sophies Floorboard](https://anonym.to/?http://sophiesfloorboard.blogspot.co.uk) - MP3s and MU3's.
+- [CoreRadio](http://coreradio.ru) - (`RU`) - Music in FLAC format & MP3s.
+- [Sophies Floorboard](http://sophiesfloorboard.blogspot.co.uk) - MP3s and MU3's.
 - [PodcastBulkDownloader](https://github.com/cnovel/PodcastBulkDownloader) - Simple software for downloading podcasts. Contribute to cnovel/PodcastBulkDownloader development by creating an account on GitHub.
 - [Podsnatch](https://github.com/robotmlg/podsnatch) - Simple podcast downloader. Contribute to robotmlg/podsnatch development by creating an account on GitHub.
 - [How to use Chimera multi music downloader](https://anonym.to/https://www.youtube.com/watch?v=5y8rtsLw7Rc)

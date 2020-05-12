@@ -21,6 +21,7 @@ tags:
 - [Internet Download Manager](http://www.internetdownloadmanager.com/) - One of the best shareware download manager for Windows.
   - [idm-trial-reset](https://github.com/J2TeaM/idm-trial-reset) - Use IDM forever without cracking.
   - [Mega.nz IDM Downloader](https://github.com/CHEF-KOCH/Mega.nz-IDM-downloader) - Unlimited downloading from Mega.nz with IDM.
+- [pyIDM](https://github.com/pyIDM/PyIDM) - Python open source alternative to IDM (Internet Download Manager) with multi-connections, high speed engine, based on python, pycurl, youtube_dl, and pysimplegui.
 - [Ant Download Manager](http://antdownloadmanager.com/) - Ant Download Manager is similar like IDM (also paid).
 - [Xtreme Download Manager](http://sourceforge.net/projects/xdman/) - Open source alternative to IDM.
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) - FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files.

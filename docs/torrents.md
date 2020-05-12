@@ -195,7 +195,7 @@ tags:
 - [WorldWide Torrents](https://worldwidetorrents.me/) - Another public tracker with a reasonably nice UI.
 - [Rock Box](https://rawkbawx.rocks/) - Metal music tracker.
 - [Music Torrent](http://music-torrent.net) - General music tracker.
-- [Torrent Paradise](https://anonym.to/?https://torrent-paradise.ml/) - (`needs ad-blocker`) - A torrent site which does not offer much information appart from the title and seeders.
+- [Torrent Paradise](https://torrent-paradise.ml/) - (`needs ad-blocker`) - A torrent site which does not offer much information appart from the title and seeders.
 
 ## Tracker Proxies
 

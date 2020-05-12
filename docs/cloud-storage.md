@@ -32,7 +32,7 @@ tags:
 - [TeamDrive Software for Win, Linux, Android and iOS](https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
 - [Get Free Google Shared Drive](http://leon.educationhost.cloud) - Create your own TeamDrive for free.
 - [How to join LK Torrent TeamDrive](https://telegra.ph/How-to-Join-Kl-Torrent-TeamDrive-02-08)
-- [whatintheworld](https://anonym.to/?hhttps://whatintheworld.xyz/) - Search Team Drives resources.
+- [whatintheworld](hhttps://whatintheworld.xyz/) - Search Team Drives resources.
 
 ### Google Team Drives Groups and Discussions
 
@@ -44,7 +44,7 @@ tags:
 - [Hording](https://groups.google.com/d/forum/hoarding_mirror_group)
 - [Xtreambot](https://teamdrive.xtremebot.workers.dev/)
 - [AlpacinoDump](https://dh.alpacinodump.cf/)
-- [TUHOCTOEIC.EDU.VN](https://anonym.to/?https://driveteam.nguyenvanlong.blog/)
+- [TUHOCTOEIC.EDU.VN](https://driveteam.nguyenvanlong.blog/)
 
 ### Team Drive Indexers
 

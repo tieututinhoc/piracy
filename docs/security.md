@@ -165,7 +165,7 @@ tags:
 
 - [radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN.
 - [Mysterium Network](https://mysterium.network/vpn/) - Claims to be world’s 1st decentralized free VPN which uses OpenVPN & WireGuard.
-- [TachyonVpn](https://anonym.to/?https://github.com/tachyon-protocol/TachyonVpn) - A Decentralized VPN that is secured by Tachyon Protocol.
+- [TachyonVpn](https://github.com/tachyon-protocol/TachyonVpn) - A Decentralized VPN that is secured by Tachyon Protocol.
 
 ## VPS Hosting Providers
 

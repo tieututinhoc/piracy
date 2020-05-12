@@ -32,10 +32,10 @@ tags:
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) - A Steam emulator.
 - [GOD Games](https://god-games.com/) - GOD is alive.
 - [GOD Project](http://god.freevar.com) - A work in Progress Project which aims to reboot the old GOD project.
-- [Torminatorr.com](https://anonym.to/?https://www.forum.torrminatorr.com/viewforum.php?f=13) - Collection of GOG, scene, 0day Games.
-- [GOG Games](https://anonym.to/?http://gog-games.com) - GoG Games
-- [Gamestorrents](https://anonym.to/?http://gamestorrents.tv) - Provides various video games.
-- [r/PiratedGame](https://anonym.to/?https://www.reddit.com/r/PiratedGames/) - Pirated Games subreddit with discussions and links.
+- [Torminatorr.com](https://www.forum.torrminatorr.com/viewforum.php?f=13) - Collection of GOG, scene, 0day Games.
+- [GOG Games](http://gog-games.com) - GoG Games
+- [Gamestorrents](http://gamestorrents.tv) - Provides various video games.
+- [r/PiratedGame](https://www.reddit.com/r/PiratedGames/) - Pirated Games subreddit with discussions and links.
 
 ## Tools
 

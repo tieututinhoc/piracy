@@ -294,7 +294,7 @@ tags:
 - [LibGen & Sci-Hub torrent archive](http://libgen.lc/stat.php) - Entire collection via BitTorrent, a Reddit discussion can be found over [here](https://www.removeddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/).
 - [emuparadise-mirror](https://github.com/Mz49/emuparadise-mirror) - A Cloudflare worker script that mirrors EmuParadise and alters download pages to include a working link.
 - [mastamilanzipdownload.com](https://mastamilanzipdownload.com/) - ROMs and scripts.
-- [PiracySubreddit Backup (nightly backups)](https://anonym.to/?https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) - Backup of the Wiki from /r/Piracy.
+- [PiracySubreddit Backup (nightly backups)](https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) - Backup of the Wiki from /r/Piracy.
 
 ## Premium Link Generators
 
@@ -356,4 +356,4 @@ tags:
 - [Facebook Down](https://www.fbdown.net/) - Facebook Video Downloader.
 - [Online Video Converter](https://www.onlinevideoconverter.com/) - Free online video conversion tool.
 - [Twitter Video Downloader](http://twittervideodownloader.com/error) - Twitter Video Downloader.
-- [PornHub Video Downloader](https://anonym.to/?https://phdownloader.com/) - Download PornHub videos in best quality available.
+- [PornHub Video Downloader](https://phdownloader.com/) - Download PornHub videos in best quality available.

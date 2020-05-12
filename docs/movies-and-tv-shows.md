@@ -294,7 +294,7 @@ tags:
 
 - [Ustvgo](https://ustvgo.tv/) - Watch CBS, Comedy, Disney, Fox, HBO and many more.
 - [stagedork](http://stagedork.com/) - Boradway popular channels like Fox, HBO, Comedy, etc.
-- [Watchallyouwant](https://anonym.to/?https://watchallyouwant.com/western/) - Watch TV shows, movies, premium TV & more.
+- [Watchallyouwant](https://watchallyouwant.com/western/) - Watch TV shows, movies, premium TV & more.
 
 ## HDR/4k
 

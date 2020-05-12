@@ -63,7 +63,7 @@ tags:
 - [SuperPLEX](http://normantheidiot.neocities.org/superplex/) - A website dedicated to Plex plugins.
 - [TvplexendChannel.bundle](http://github.com/pgaubatz/TvplexendChannel.bundle) - A Tvheadend Channel Plugin for PLEX Media Server.
 - [WebTools.bundle](http://github.com/ukdtom/WebTools.bundle) - A collection of several tools for Plex Media Server. Like the Unsupported AppStore (UAS).
-- [SyncLounge](https://anonym.to/?https://synclounge.tv/) - Enjoy Plex with your friends. In Sync. Together.
+- [SyncLounge](https://synclounge.tv/) - Enjoy Plex with your friends. In Sync. Together.
 
 ### Plex Requests
 

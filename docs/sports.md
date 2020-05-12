@@ -69,5 +69,5 @@ tags:
 - [Send It](https://sendit.gg/) - Live stream listings for sports, news, gaming, and more.
 - [SportsHD](http://www.speedsports.me) - Variety of sports including college sports, clean design.
 - [720pStream](http://www.720pstream.me/) - Popular sports only, simple design.
-- [Your Sports](https://anonym.to/?http://yoursports.stream/live?v=ufc) - UFC, Football & other streams.
-- [Crackstreams](https://anonym.to/?http://crackstreams.com/) - XFL, MMA, Boxing, NBA & more.
+- [Your Sports](http://yoursports.stream/live?v=ufc) - UFC, Football & other streams.
+- [Crackstreams](http://crackstreams.com/) - XFL, MMA, Boxing, NBA & more.
