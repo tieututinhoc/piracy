@@ -48,8 +48,6 @@ tags:
   - [r/fulltvshowsonyoutube](https://www.removeddit.com/r/fulltvshowsonyoutube/)
 - [at.my TV](http://at-my.tv/) - TV Calendar, TV Episode Guide, TV Show Listings.
 - [DuckieTV](http://schizoduckie.github.io/DuckieTV/?from=duckie.tv&/) - A personalized calendar that tracks the shows you like/fav.
-- [Ustvgo](https://ustvgo.tv/) - Watch CBS, Comedy, Disney, Fox, HBO and many more.
-- [stagedork](http://stagedork.com/) - Boradway popular channels like Fox, HBO, Comedy, etc.
 - [Script Download Links](https://gointothestory.blcklst.com/script-download-links-9313356d361c?gi=3903aa2fdebf) - 100+ scripts made available by studios and production companies.
 - [Script Slug](https://www.scriptslug.com/) - Browse hundreds of screenplays.
 - [Springfield! Springfield!](https://www.springfieldspringfield.co.uk/) - Movie Transcript Database for iOS and Android.
@@ -292,6 +290,12 @@ tags:
 - [rabb.it](https://rabb.it/) - Hang out and watching stuff with your friends online!.
 - [Discord Go Live](https://support.discordapp.com/hc/en-us/articles/360040816151-Share-your-screen-with-Go-Live-Screen-Share) - Share your screen with Go Live directly in Discord (up to 50 people).
 
+### Paid TV Streaming
+
+- [Ustvgo](https://ustvgo.tv/) - Watch CBS, Comedy, Disney, Fox, HBO and many more.
+- [stagedork](http://stagedork.com/) - Boradway popular channels like Fox, HBO, Comedy, etc.
+- [Watchallyouwant](https://anonym.to/?https://watchallyouwant.com/western/) - Watch TV shows, movies, premium TV & more.
+
 ## HDR/4k
 
 - [Fake or real 4k](https://4kmedia.org/real-or-fake-4k/) - Check if the website provides a real or upscaled release, list is updated monthly, a alternative is the [predb check](https://predb.me/?search=2160p+BluRay+x265)
@@ -309,6 +313,7 @@ tags:
 - [Zamunda](https://zamunda.net/catalogs/) - (needs login) - HDR, 4 tv shows and movies.
 - [VidFlix](https://vidflix.net/) - No ads, clean Movies and TV shows in high quality.
 - [Tigole Release](https://tigolerelease.blogspot.com/) - HQ Movies, mostly 1080 and 4k.
+- [nima4k](https://nima4k.org) - A well-known platform for ducmentations, series & movies.
 
 ## Big Media Libraries
 
@@ -327,8 +332,7 @@ tags:
 - [FreeMoviez](https://freemoviesz.online/) - Watch free movies online.
 - [Los-Movies](http://los-movies.com/) - You can stream High Quality movies and cinema films without any redirection.
 - [M4UFree.TV](http://m4ufree.tv/) - Unique design, HD server with backup and additional hosts.
-- [Movie4k](https://movie4k.io/) - Yt another huge Movie/TV Library.
-- [nima4k](https://nima4k.org) - A well-known platform for ducmentations, series & movies.
+- [Movie4k](https://movie4k.io/) - Yet another huge Movie/TV Library.
 - [Primewire](http://www.primewire.is/) - Free Movies! Wow!.
 - [Putlocker.onl](https://www3.putlocker.onl/) - Watch movies and TV Series for free, watch series full episodes online free with HD quality on Putlocker.
 - [Putlockerfreely](https://putlockerfreely.online/) - Watch your favorite movies online free on Putlocker. Discover thousands of latest movies online.

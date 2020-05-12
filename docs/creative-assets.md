@@ -19,11 +19,13 @@ tags:
 - [PixelPro.io](https://pixelpro.io/) - Provides free (and paid) - graphics for streamers.
 - [GFXDomain](http://forum.gfxdomain.net/) - Forum for graphic design resources and software.
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image-galleries and -collections from several image hosting sites.
-- [Kvraudio](https://www.kvraudio.com/plugins/newest) - VST plugins.
+- [Kvraudio](https://anonym.to/?https://www.kvraudio.com/plugins/newest) - Provides plugins and VST's.
+- [VSTorrent](https://anonym.to/?http://vstorrent.org) - Provides VST based torrents.
 - [Dezoomify](https://ophir.alwaysdata.net/dezoomify/dezoomify.html) - & [Source](https://github.com/lovasoa/dezoomify/) - Download zoomable images.
 - [Downloader.la](https://downloader.la/) - Download pictures and videos from various platforms such as iStock, PicFair, Adobe Stock, alamy, shutterstock, LovePik, PicFair and other providers.
 - [MyImgur](http://myimgur.eden.fm/) - Most handy capture and uploader tool you'll ever find for Windows computers.
 - [DroidIris+](https://apkpure.com/en/droidiris-image-search/org.droidiris) - (Android) - Search and browse thousands of images online with this superb and smooth 3D gallery.
+- [GFX-Hub](https://anonym.to/?https://gfx-hub.net/) - Download GFX and other stuff.
 
 ## Audio
 

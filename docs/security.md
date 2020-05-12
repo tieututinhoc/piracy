@@ -165,6 +165,7 @@ tags:
 
 - [radvpn](https://github.com/mehrdadrad/radvpn) - Decentralized VPN.
 - [Mysterium Network](https://mysterium.network/vpn/) - Claims to be world’s 1st decentralized free VPN which uses OpenVPN & WireGuard.
+- [TachyonVpn](https://anonym.to/?https://github.com/tachyon-protocol/TachyonVpn) - A Decentralized VPN that is secured by Tachyon Protocol.
 
 ## VPS Hosting Providers
 
@@ -485,6 +486,14 @@ obfs4 93.217.197.170:5732 54B40AB7C7F0003FE10ED3C571955D202B52F9BD cert=h1LLrOlM
 - [Kad](https://en.wikipedia.org/wiki/Kad_network) - The Kad network is a peer-to-peer (P2P) - network that implements the Kademlia P2P overlay protocol.
 
 ## Proxy
+
+::: warning
+
+[Why You Shouldn’t Use a Free Proxy](https://www.vpnmentor.com/blog/why-you-shouldnt-use-free-proxies/) - VpnMentor
+[Proxy Services Are Not Safe. Try These Alternatives](https://www.wired.com/2015/07/proxy-services-totally-unsecure-alternatives/) - WIRED
+[HydraX.net ‘Google Drive Streaming Proxy’ Traffic Being Sent to ACE Anti-Piracy Coalition](https://torrentfreak.com/hydrax-net-google-drive-streaming-proxy-traffic-being-sent-to-ace-anti-piracy-coalition-200509/) - TorrentFreak
+
+:::
 
 - [v2rayN](https://github.com/2dust/v2rayN) - A proxy wrapper for Android and Windows.
 - [Shadowsocks](https://shadowsocks.org/) - A secure socks5 proxy, designed to protect your Internet traffic.

@@ -23,6 +23,7 @@ tags:
 - [redump.org](http://redump.org/) - Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
 - [Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) - A fork of Good Old Downloads' "GOG Games" hosted on Tor.
+    - [`goggamespc7v6z5e.onion`](goggamespc7v6z5e.onion) - Tor Mirror.
 - [Crackwatch](https://crackwatch.com/) - New video game crack releases are posted here.
   - [r/CrackWatch](https://reddit.com/r/CrackWatch/) - CrackWatch subreddit.
   - [Beginners Guide to Crack Watch](https://www.reddit.com/r/CrackWatch/comments/a7l141/crack_watch_beginners_guide_to_crack_watch/) - Reddit post by /u/EssenseOfMagic.
@@ -31,6 +32,10 @@ tags:
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) - A Steam emulator.
 - [GOD Games](https://god-games.com/) - GOD is alive.
 - [GOD Project](http://god.freevar.com) - A work in Progress Project which aims to reboot the old GOD project.
+- [Torminatorr.com](https://anonym.to/?https://www.forum.torrminatorr.com/viewforum.php?f=13) - Collection of GOG, scene, 0day Games.
+- [GOG Games](https://anonym.to/?http://gog-games.com) - GoG Games
+- [Gamestorrents](https://anonym.to/?http://gamestorrents.tv) - Provides various video games.
+- [r/PiratedGame](https://anonym.to/?https://www.reddit.com/r/PiratedGames/) - Pirated Games subreddit with discussions and links.
 
 ## Tools
 

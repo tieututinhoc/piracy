@@ -58,6 +58,7 @@ tags:
 - [evileaks](https://t.me/evileaks) - Evilleaks.su official Telegram channel.
 - [丂ㄥ乃ㄖㄒ丂 ✪ 丂乇乇 ᗪ 乃ㄖ乂](https://t.me/joinchat/IbIIb0Yga4pKYCOu7LajYg) - Seedbox fans have a home here.
 - [slbotsbugs](https://t.me/slbotsbugs) - TeamDrive, Bot discussion place.
+- [FontesPremiumGwD](https://anonym.to/?https://t.me/FontesPremiumGwD) - A channel to share premium fonts.
 
 ### Channels for Login data
 
@@ -274,7 +275,8 @@ tags:
 - [@mp3toolsbot](https://t.me/mp3toolsbot)
 - [@iLyricsBot](https://t.me/iLyricsBot)
 - [@podcastly_bot](https://t.me/podcastly_bot) - Find and search podcasts.
-
+- [@FlacStoreBot](https://anonym.to/?https://t.me/FlacStoreBot)
+- [Hindi-lossless](https://anonym.to/?hhttps://hindi-lossless.blogspot.com/) - Losssless (flac) Hindi Music.
 ### Movies and TV Shows Bots
 
 - [@utubebot](hhttps://t.me/utubebot) - Video Downloader with MP3 Conversion support.
@@ -296,6 +298,8 @@ tags:
 - [@gdriveupme_bot](https://github.com/aryanvikash/Google-Drive-Uploader)
 - [@GdriveXbot](https://t.me/GdriveXbot) - Uploads files to your Google Drive. Just send file or direct download link.
 - [@gduploadbot](https://t.me/gduploadbot) - Remote uploads a link/file and mirrors it to you.
+- [@Gdriveit_bot](https://anonym.to/?https://t.me/Gdriveit_bot) - The bot can upload files (Telegram files as well as URLs) to your Google Drive.
+- [@U2GD_Bot](https://anonym.to/?https://t.me/U2GD_Bot) - Upload URLs to Google Drive.
 
 ### Moderation Bots
 

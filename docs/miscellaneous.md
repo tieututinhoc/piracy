@@ -66,6 +66,8 @@ tags:
 - [FlexGet](http://flexget.com/) - FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [Piracy and automation, an overview](http://www.reddit.com/r/Piracy/comments/9ft4xx/piracy_and_automation_an_overview/) - Guide by u/JukeCity101 on how to improve your experience pirating with automation tools.
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
+- [Hide Fake Torrent on ThePirateBay](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo?hl=en) - Browser extension to Hide Fake Torrent on The PirateBay.
+- [The Pirate Bay Tweaks](https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks) - (based on [this script](https://greasyfork.org/scripts/21980)) - Userscript to detect fake TPB uploaders/torrents.
 
 ## Website archiving tools
 
@@ -291,7 +293,8 @@ tags:
 - [Microsoft Games Collection](http://web.archive.org/web/20190429144409/https://docs.google.com/spreadsheets/d/e/2PACX-1vRs56u1DiQy4EBB8rWrk1r-yvkYgatv9h0IbKKDh1HyPXueiaS06aVdovdF_nHe9SJrPwfkYRMif_mG/pubhtml)
 - [LibGen & Sci-Hub torrent archive](http://libgen.lc/stat.php) - Entire collection via BitTorrent, a Reddit discussion can be found over [here](https://www.removeddit.com/r/seedboxes/comments/e129yi/charitable_seeding_for_nonprofit_scientific/).
 - [emuparadise-mirror](https://github.com/Mz49/emuparadise-mirror) - A Cloudflare worker script that mirrors EmuParadise and alters download pages to include a working link.
-- <https://mastamilanzipdownload.com/> - ROMs and scripts.
+- [mastamilanzipdownload.com](https://mastamilanzipdownload.com/) - ROMs and scripts.
+- [PiracySubreddit Backup (nightly backups)](https://anonym.to/?https://notabug.org/TheChumBucket/PiracySubreddit/src/master/wiki) - Backup of the Wiki from /r/Piracy.
 
 ## Premium Link Generators
 
@@ -353,9 +356,4 @@ tags:
 - [Facebook Down](https://www.fbdown.net/) - Facebook Video Downloader.
 - [Online Video Converter](https://www.onlinevideoconverter.com/) - Free online video conversion tool.
 - [Twitter Video Downloader](http://twittervideodownloader.com/error) - Twitter Video Downloader.
-
-## Fake Torrents Detection
-
-- [Hide Fake Torrent on ThePirateBay](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo?hl=en) - Browser extension to Hide Fake Torrent on The PirateBay.
-- [Solid Torrents](https://solidtorrents.net/) - A torrent index search engine, which checks if the torrent has known "fake" seeders/leechers based on a predefined database.
-- [The Pirate Bay Tweaks](https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks) - (based on [this script](https://greasyfork.org/scripts/21980)) - Userscript to detect fake TPB uploaders/torrents.
+- [PornHub Video Downloader](https://anonym.to/?https://phdownloader.com/) - Download PornHub videos in best quality available.
