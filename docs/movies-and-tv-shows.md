@@ -84,7 +84,7 @@ tags:
 - [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player.
   - [Streamlink-Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink.
   - [Streamlink-Portable](https://github.com/streamlink/streamlink-portable) - A portable version of Streamlink for Windows.
-- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/a2csq0/how_to_stream_movies_tv_anime_sports_online/) - Huge list by /u/nbatman.
+- [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) - Huge list by u/nbatman
 - [r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) - Reddit, random streaming sites.
 - [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) - Alternate subreddit curated by /u/nbatman.
 - [YMovies](https://ymovies.tv/) - Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents).
