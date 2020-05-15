@@ -72,6 +72,7 @@ tags:
 
 ### Private Trackers
 
+- [How to get started with private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
 - [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) - List of private trackers.
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) - Screenshot of a table from somewhere of private trackers and their sign-up requirements.
 - [AcrossTheTasman](https://acrossthetasman.com/forum.php) - A tracker for movies, games and more.
@@ -135,7 +136,8 @@ tags:
 - [dlb.to](https://dlb.to/) - Indexer for various Warez websites and material.
 - [Darli](http://tracker.darli.net) - (HDS) - Our open torrent tracker is available for everyone. Use where necessary.
 - [DIGBT](https://www.digbt.org/) - DIGBT is a DHT torrent search engine.
-- [ETTV](https://www.ettvdl.com/) - ETTV is a torrent site specific for movie torrents.
+- [ETTV](https://www.ettv.tv/) - A torrent site specific for movie torrents.
+  - [ETTV.be](https://www.ettv.be/) - Mirror
 - [ExtraMovies](http://extramovies.casa/) - Small size Movies or up to 1080p.
 - [g4u](https://g4u.me/) - Movies, TV Shows & Games.
 - [GaOQing](https://gaoqing.fm/) - (CN _insecure_) - Porn, movies, tv-shows, documentations, you name it!.
@@ -302,6 +304,13 @@ tags:
 - [Seedbox Guide](https://seedboxgui.de/) - Comparison tool to help you find the best fitting Seedbox.
 - [swizzin](https://swizzin.ltd/) - A light, modular package management suite for media-oriented servers.
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) - Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
+- [Webtor](https://anonym.to/?https://webtor.io/) - Watch torrents online.
+- [JSTorrent](https://anonym.to/?https://www.jstorrent.com/) - Chrome WebTorrent Client.
+- [bitford](https://anonym.to/?https://github.com/astro/bitford) - Open Source WebTorrent Client for Chrome.
+- [Magnet Player](https://anonym.to/?https://ferrolho.github.io/magnet-player/) - Stream Torrents via Browser.
+- [zbigz](https://anonym.to/?https://zbigz.com/) - Anonymous file downloads.
+- [Torrents Time](https://anonym.to/?https://torrents-time.com/)
+- [TorrentSafe](https://anonym.to/?https://www.torrentsafe.com/)
 
 ### Web-based Cloud Seedboxes
 

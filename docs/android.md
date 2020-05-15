@@ -137,6 +137,8 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [Transdrone](https://play.google.com/store/apps/details?id=org.transdroid.lite) - Transdrone allows you to manage the torrents you run on your home server or seedbox.
 - [Trireme for Deluge](https://f-droid.org/en/packages/org.deluge.trireme/) - A Deluge thin client for Android. Written in Flutter.
 - [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - Lightweight & powerful BitTorrent app.
+- [iTorrent Search](https://play.google.com/store/apps/details?id=com.icodelife.itorrentsearch) - A torrent search engine with multiple torrent providers and beautiful ui.
+- [TorrSE](https://anonym.to/?https://seedboxs.me/) - Torrent Search Android app.
 
 ## Download Manegers
 

@@ -38,7 +38,7 @@ tags:
 - [PGBlitz.com](https://pgblitz.com/) - Deploy a Hastey Server through Docker & Ansible with local or Unlimited Google HD.
 - [PlexPi](http://plexpi.com/) - Plex Media Server for your Raspberry Pi 3.
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Official Plex docker image.
-    - [timhaak/plex](https://github.com/timhaak/docker-plex) - Alternative Plex docker image.
+  - [timhaak/plex](https://github.com/timhaak/docker-plex) - Alternative Plex docker image.
 - ["My (scripted) - solution to having a single Movies library for 4k and non-4k."](https://www.reddit.com/r/PleX/comments/afs8m9/my_scripted_solution_to_having_a_single_movies/) - Post by /u/spazatk.
 - ["I made my own Pseudo TV for Plex with Kodi and Nvidia Shield"](https://reddit.com/r/PleX/comments/awsvp9/i_made_my_own_pseudo_tv_for_plex_with_kodi_and/ehox9zf/) - Guide from /u/nads84 on how to make your own "live" TV channels with a Plex library, Kodi, and an NVIDIA Shield.
 - [Unlock the transcode or 'session' limit on nVidia consumer grade GPUs](http://slothtechtv.com/2018/09/unlock-the-transcode-or-session-limit-on-nvidia-consumer-grade-gpus) - Article describing how to bypass the artifical single-transcode limit.

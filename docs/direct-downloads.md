@@ -274,6 +274,8 @@ tags:
 - [The Holy Grail of Indexes](https://www.removeddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) - Posted by /u/shadow_hunter104.
 - [Andesite](https://github.com/nektro/andesite) - Easily manage access to your open directory through OAuth2.
 - [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner.
+- [Guide on searching for open directories](https://www.reddit.com/r/opendirectories/comments/933pzm/all_resources_i_know_related_to_open_directories/)
+- [AIOSearch Guide](https://www.reddit.com/r/Piracy/comments/fa81st/aio_search_guide/)
 
 ## Open directory Search Engines
 

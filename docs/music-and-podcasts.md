@@ -110,7 +110,8 @@ tags:
 - [EZBlocker](https://github.com/Xeroday/Spotify-Ad-Blocker/) - A Spotify Ad Blocker written in C# for Windows 7/8/10.
 - [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) - Modded APK with no ads.
 - [Downtify](https://github.com/Superhackman/downtify-premium) - Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
-- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) Video, audio & banner AdBlock/skip for Spotify
+- [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner AdBlock/skip for Spotify
+  - [master131/BlockTheSpot](https://anonym.to/?https://github.com/master131/BlockTheSpot) - Original outdated version.
 - [MuteSpotifyAds](https://github.com/simonmeusel/MuteSpotifyAds) - Mutes audio/video ads, however you still need to wait 30 sec.
 - [Spotifree](https://github.com/ArtemGordinsky/Spotifree) - An macOS app that automatically mutes ads on Spotify (not supported).
 - [Spotify Ad-Free](https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.

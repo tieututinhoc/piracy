@@ -23,6 +23,7 @@ tags:
 - [Comparison of file hosting services](https://en.wikipedia.org/wiki/Comparison_of_file_hosting_services) - This is a comparison of file hosting services that are currently active.
 - [Cloud storage table](https://nafanz.github.io/cloudstorage.html) - Regularly updated table of information about top cloud storage providers.
 - [CloudBox](http://cloudbox.works/) - An All-In-One, Cloud Centric & Media Server Solution.
+- [A python script to bypass the download limit of google drive files (w executable&source code)](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/)
 
 ## Google Team Drives
 

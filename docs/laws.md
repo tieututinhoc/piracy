@@ -11,6 +11,7 @@ tags:
 
 # Laws
 
+- [Senate Votes to Allow FBI to Look at Your Web Browsing History Without a Warrant](https://www.vice.com/en_us/article/jgxxvk/senate-votes-to-allow-fbi-to-look-at-your-web-browsing-history-without-a-warrant)
 - [Burn, drown, or smash your phone: Forensics can extract data anyway](https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway/)
 - [A new bill could punish web platforms for using end-to-end encryption](https://www.theverge.com/2020/1/31/21116788/earn-it-act-section-230-lindsey-graham-draft-bill-encryption)
 - [French court rules that Steam’s ban on reselling used games is contrary to European law](https://www.polygon.com/2019/9/19/20874384/french-court-steam-valve-used-games-eu-law)

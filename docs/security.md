@@ -22,6 +22,7 @@ tags:
 - [Anon.to](https://anon.to/) - URL shortener to de-referer or null-referer your links.
 - [Privacy.com](https://privacy.com/) - Privacy creates secure virtual cards and completes checkout forms for you, saving you time and money while masking your real card details.
 - [Project Honey Pot](https://www.projecthoneypot.org/) - Online fraud & abuse tracker.
+- [Protecting yourself from being caught pirating - Guide concerning copyright infringement complaints](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
 
 ## Email
 
@@ -117,6 +118,7 @@ tags:
 
 - [Blockchain-DNS.info](https://blockchain-dns.info/) - First step towards the uncensored Internet.
 - [NextDNS](https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
+- [NixNet DNS](https://anonym.to/?https://docs.nixnet.services/DNS)
 
 ## VPN
 

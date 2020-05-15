@@ -26,6 +26,7 @@ tags:
 - [MyImgur](http://myimgur.eden.fm/) - Most handy capture and uploader tool you'll ever find for Windows computers.
 - [DroidIris+](https://apkpure.com/en/droidiris-image-search/org.droidiris) - (Android) - Search and browse thousands of images online with this superb and smooth 3D gallery.
 - [GFX-Hub](https://gfx-hub.net/) - Download GFX and other stuff.
+- [How to get paid fonts for free](https://www.reddit.com/r/Piracy/comments/8tqfg6/how_to_download_paid_fonts_for_free/)
 
 ## Audio
 

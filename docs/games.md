@@ -23,7 +23,7 @@ tags:
 - [redump.org](http://redump.org/) - Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
 - [Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) - A fork of Good Old Downloads' "GOG Games" hosted on Tor.
-    - [`goggamespc7v6z5e.onion`](goggamespc7v6z5e.onion) - Tor Mirror.
+  - [`goggamespc7v6z5e.onion`](goggamespc7v6z5e.onion) - Tor Mirror.
 - [Crackwatch](https://crackwatch.com/) - New video game crack releases are posted here.
   - [r/CrackWatch](https://reddit.com/r/CrackWatch/) - CrackWatch subreddit.
   - [Beginners Guide to Crack Watch](https://www.reddit.com/r/CrackWatch/comments/a7l141/crack_watch_beginners_guide_to_crack_watch/) - Reddit post by /u/EssenseOfMagic.
@@ -36,6 +36,8 @@ tags:
 - [GOG Games](http://gog-games.com) - GoG Games
 - [Gamestorrents](http://gamestorrents.tv) - Provides various video games.
 - [r/PiratedGame](https://www.reddit.com/r/PiratedGames/) - Pirated Games subreddit with discussions and links.
+- [Otomi Games](https://otomi-games.com/)
+- [Kodi 18.6 + IAGL + RetroArch = Emulation Heaven](https://www.reddit.com/r/Piracy/comments/g4gb8t/kodi_186_iagl_retroarch_emulation_heaven/)
 
 ## Tools
 

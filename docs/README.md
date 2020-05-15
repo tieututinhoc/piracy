@@ -50,9 +50,9 @@ Contributions are welcome! For discussion, feedback or if you come across dead l
 
 ## Disclaimer
 
-The owner of this project ([Maximous Black](https://maximousblk.github.io/)) is not responsible for and in no way associated to any external links or their content! The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. I have no control over the nature, content and availability of other websites. If you dislike the information this website provides then please contact the corresponding website's owner/webmaster/hoster directly and fill a DMCA takedown request.
+All the information on this website is purely for informational purposes and is not intended to support copyright infringement. I, [Maximous Black](https://maximousblk.github.io/), the owner of this project is not responsible for and in no way associated to any external links or their content. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. I have no control over the nature, content and availability of other websites. If you dislike the information this website provides then please contact the corresponding website's owner/webmaster/hoster directly and fill a DMCA takedown request.
 
-If you believe that your work is accessible through this project in a way that constitutes copyright infringement, you may [create a GitHub issue](https://github.com/maximousblk/piracy/issues/new) to notify me.
+If you are a copyright owner or an agent thereof, and you believe that your work is accessible through this project in a way that constitutes copyright infringement, you may [create a GitHub issue](https://github.com/maximousblk/piracy/issues/new) to notify me.
 
 ## License
 

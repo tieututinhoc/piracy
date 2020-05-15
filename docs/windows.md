@@ -15,8 +15,6 @@ tags:
 - [AME](https://ameliorated.info/index.html) - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
 - [Krakatoa](https://krakatoa.www3.cz/) - Office, Windows, KMS and Key checkers.
 - [My Digital Life Forums](https://forums.mydigitallife.net/) - Windows topics, hotfixes & self-made tools.
-- [Pro Design Tools](https://prodesigntools.com) - Site focused on Adobe Development including cracked software and ebooks.
-- [ShareAppsCrack](https://shareappscrack.com/) - Website with a plethora of development tools and engineering focused software, including video tutorials, and some eBooks.
 - [Microsoft Build Overview](https://msbuilds.rg-adguard.net/) - A history of Windows build strings.
 - [PCBeta](https://bbs.pcbeta.com) - Windows ISOs, hotfixes and discussions.
 - [RCC](https://www.wilderssecurity.com/threads/rcc-check-your-systems-trusted-root-certificate-store.373819/) - RCC, check your system's trusted root certificate store.
@@ -30,6 +28,7 @@ tags:
 - [How to download and install Windows 10 LTSC](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Guide by /u/sq_skez. "Take everything we loved about Windows 7, add the under-the-hood improvements of Windows 8 and 10 but none of the marketing/cloud/phone app/user-tracking crap, and what do you get? Windows 10 Enterprise LTSC edition.".
 - [Windows 10 Digital License (HWID) - & KMS38 Generation](https://web.archive.org/web/20190114172332/https://www.reddit.com/r/s1ave77_library/comments/9o13fq/windows_10_digital_license_hwid_kms38_generation/) - Reddit guide by /u/s1ave77 with instructions on how to use HWID to activate various editions of Windows 10.
 - [How to SVF patch Windows 10](https://github.com/CHEF-KOCH/How-to-SVF-patch-Windows-10)
+- [How to install and activate Windows 10 - Includes LTSB/LTSC](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
 
 ## Hotfixes & Patches
 

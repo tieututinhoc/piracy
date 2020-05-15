@@ -11,21 +11,7 @@ tags:
 
 # Telegram
 
-- [Nekogram](https://github.com/Nekogram/Nekogram) - Telegram is a messaging app with a focus on speed and security. it is superfast, simple and free.
-- [Raymond's Piracy Group](https://t.me/raymondfreesoftware) - A group of 5000+ pirates chatting on Telegram. This group replaces the now-defunct piracy group which suicideboy used to run.
-- [Piracy Links Portal](https://t.me/PiracyLinks) - Official invite links portal for piracy groups & channels.
-- [piratebazaar](https://t.me/piratebazaar) - Curated list of piracy-related links.
-- [@itorrentsearchbot](https://t.me/itorrentsearchbot) - Search bot for finding torrent and magnet links on 1337x.to by keyword search.
-- [@vkmusic_bot](https://telegram.me/vkmusic_bot) - Find and download pretty much any song.
-- [@RickyChristanto](https://t.me/RickyChristanto) - Channel for movie releases, usually from YTS in MKV format.
-- [iMediaShare channel](https://t.me/iMediaShare) - Movies, TV shows, apps, and more.
-- [@movies_inc](https://t.me/movies_inc) - Another Telegram channel for downloading movies.
-- [@Qualitymovies](https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
-- [@MusicHuntersBot](https://t.me/MusicHuntersBot) - Another music downloader bot.
-- [@DeezerMusicBot](https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
-- [SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
-- [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
-- [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
+- [Nekogram](https://github.com/Nekogram/Nekogram) - Nekogram is an unofficial telegram app with a focus on speed and security. adds some extra features to official Telegram app.
 - [Telegram proxy](https://telegram.ind.in/) - Telegram unblock proxy for countries with Telegram banned.
   - [Telegram web proxy ](https://web.telegram.ind.in/)
   - [Telegram APIs proxy](core.telegram.ind.in)
@@ -52,15 +38,16 @@ tags:
 
 - [Telegram Channels](https://telegramchannels.me/channels) - A telegram channel indexer with over 1500 channels.
 - [@piratebazaar](https://t.me/piratebazaar) - Telegram Channel to request warez information, lists, software & more.
-- [Piracy • Main Discussion](https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion at Raymond's Piracy Group, but very inactive - use this group for that instance.
-- [Piracy • Off Topic Discussion](https://t.me/joinchat/Djvt9BVVrrjQ_D_6L9XZxQ) - Off Topic chat for Raymond's Piracy Telegram group.
 - [original313](hhttps://t.me/original313) - Gaming and Software based accounts for sale.
 - [evileaks](https://t.me/evileaks) - Evilleaks.su official Telegram channel.
 - [丂ㄥ乃ㄖㄒ丂 ✪ 丂乇乇 ᗪ 乃ㄖ乂](https://t.me/joinchat/IbIIb0Yga4pKYCOu7LajYg) - Seedbox fans have a home here.
 - [slbotsbugs](https://t.me/slbotsbugs) - TeamDrive, Bot discussion place.
 - [FontesPremiumGwD](https://t.me/FontesPremiumGwD) - A channel to share premium fonts.
+- [iMediaShare channel](https://t.me/iMediaShare) - Movies, TV shows, apps, and more.
+- [Piracy Links Portal](https://t.me/PiracyLinks) - Official invite links portal for piracy groups & channels.
+- [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
 
-### Channels for Login data
+### Accounts Channels
 
 - [@piratechannel](https://t.me/piratechannel) - Free Netflix, Spotify & Other Premium Accounts, Window & Other Software License Keys.
 - [esetkey_everyday](https://t.me/esetkey_everyday) - Get fresh Nod keys almost everyday.
@@ -74,7 +61,7 @@ tags:
 - [King_of_cracking](https://t.me/king_0f_cracking) - Free daily cracking tools, proxies and more.
 - [The404Cracking](https://t.me/The404Cracking) - Claims to be the best cracking channel on Telegram.
 
-### Channels for courses ant tutorials
+### courses ant tutorials Channels
 
 - [@udemyfree4u](https://ttttt.me/udemyfree4u) - This Is The No. 1 Biggest Channel In Telegram Which Provides Paid Udemy Courses For Free, daily updated.
 - [Free Udemy Courses](https://t.me/Freecoursefinder) - We provide paid premium online courses for free!.
@@ -83,7 +70,7 @@ tags:
 - [Udemy deals](https://telegram.me/udemydeals) - Free udemy courses.
 - [Tech_You](https://t.me/udemydeals) - Tutorials, Logins, Course and other stuff via Mega links.
 
-### Channels for APK's
+### APK Channels
 
 - [@ModdedCentral](https://t.me/ModdedCentral) - Patched & modded android apps, updated regularly, 50+ shared daily. Request group currently closed.
 - [APK4free](https://t.me/Apk4Free) - Cracked Android apps.
@@ -92,7 +79,7 @@ tags:
 - [InstaMod](https://t.me/instagram_mod) - Regularly updated & feature rich modified Instagram app (Android only).
 - [Premium APKs Only](https://t.me/apkpremiumonly) - Patched / modded android apps, updated daily.
 
-### Channels for Music
+### Music Channels
 
 - [@DeezerMusicBot](https://t.me/DeezerMusicBot) - Music bot which downloads tracks from Deezer.
 - [@flacaudio](https://t.me/flacaudio) - `AR` - Arabish flac music.
@@ -111,14 +98,14 @@ tags:
 - [@losslessmusicmenu](https://t.me/losslessmusicmenu) - `RU` - Russian music channel for quality music.
 - [@MusicHuntersBot](https://t.me/MusicHuntersBot) - Another large music downloader bot for Telegram.
 - [@musicshark](https://t.me/musicshark) - `RU` - Russian and other Flac Music.
-- [@SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
+- [@SMLoadrCommunity](https://t.me/SMLoadrCommunity) - Telegram community for SMLoadr.
 - [@The_Trimmer_bot](https://t.me/The_Trimmer_bot) - Send th bot a streamable link or telegram video and he cuts it.
 - [@vkmusic_bot](https://t.me/vkmusic_bot) - Find and download pretty much any song (uses vkmusic search engine).
 - [Full Music Albums](https://t.me/joinchat/AAAAAFkG6jV0RNRuY8eDnw) - A large collection of music albums, directly downloadable in Telegram, updated daily!.
 - [Melodic Musics](https://t.me/MelodicMusics) - A large collection of music, downloadable within Telegram.
 - [Music Archive](https://t.me/MArchive) - A large collection of music, downloadable within Telegram.
 
-### Channels for Movies & TV shows
+### Movies & TV shows Channels
 
 - [@beyondHD](https://t.me/beyondHD) - HD movies shared from the community to the community.
 - [@iMediaShare](https://t.me/iMediaShare) - Provides links to Movies, TV shows, apps & and more.
@@ -133,13 +120,12 @@ tags:
 - [hamil_movies](hhttps://t.me/hamil_movies) - CT movies Family provides links to movies directly in Telegram.
 - [TV Updates](https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!.
 - [Netflix_originals](https://t.me/Netflix_originals) - Daily new Netflix episodes.
+- [@movies_inc](https://t.me/movies_inc) - Another Telegram channel for downloading movies.
 
-### Channels for Software
+### Software Channels
 
-- [@piracylinks](https://t.me/piracylinks) - A link sharing community.
 - [Adobe CRack channel](https://t.me/adobecracks) - A channel for all Adobe cracks.
 - [AIOSetup](https://t.me/aiosetup) - Wide range of pre-cracked software, downloadable in Telegram.
-- [arezbank](https://t.me/piracylinks) - Channel for Windows software.
 - [candroidsoftware](https://t.me/candroidsoftware) - Freee APK's and software.
 - [CGPersia Downloads](https://t.me/CGPERS) - Free ripped courses from Udemy, Skillshare and other educational websites.
 - [crackedpcsoftwares](https://t.me/crackedpcsoftwares) - PC, mobile and other applications sharing.
@@ -147,9 +133,11 @@ tags:
 - [Keygen Fortress](https://t.me/keygen_fortress) - Wide range of keygens for various apps, downloadable in Telegram.
 - [Piracy Main](https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion, but very inactive - use this group for that instead.
 - [Raymond's Piracy Group](https://t.me/raymondfreesoftware) - A group of 7000+ pirates chatting.
+  - [Piracy • Main Discussion](https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion at Raymond's Piracy Group, but very inactive.
+  - [Piracy • Off Topic Discussion](https://t.me/joinchat/Djvt9BVVrrjQ_D_6L9XZxQ) - Off Topic chat for Raymond's Piracy Telegram group.
 - [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
 
-### Channels for eBooks
+### eBooks Channels
 
 - [List of eBook websites, channels & bots](https://t.me/raymondfreesoftware/166702) - Large collection of websites, bots and channels with a wide range of eBooks.
 - [@aadhyatmikbrahmand](https://t.me/aadhyatmikbrahmand)
@@ -165,7 +153,6 @@ tags:
 - [@booksmania](https://t.me/booksmania)
 - [@booksnow](https://t.me/booksnow)
 - [@BooksThief](https://t.me/BooksThief)
-- [@BookThief](https://t.me/BooksThief)
 - [@BookWizardTheNewest](https://t.me/BookWizardTheNewest)
 - [@bookz4u](https://t.me/bookz4u)
 - [@eBooksEnglish](https://t.me/EbooksEnglish)
@@ -223,6 +210,16 @@ tags:
 - [Meditation](https://t.me/joinchat/AAAAAE9u9noQ7odN2Ds1rw)
 - [Open Library](https://t.me/joinchat/AAAAAEUbZxqyCKxhZbf-PA)
 - [WiLd's Occult Ebook Dump](https://t.me/joinchat/AAAAAE07WyxZNFu5tLrjVA)
+- [Copy Left](https://anonym.to/?https://t.me/copy_left)
+
+### Miscellaneous channels
+
+- [AutoRcloneEng](https://anonym.to/?https://t.me/AutoRcloneEng) - The official Rclone Telegram channel.
+- [rclone](https://anonym.to/?https://t.me/rclone) - A rclone help discussion channel.
+- [Bhadoo Cloud](https://anonym.to/?https://t.me/joinchat/Hp0WEVNQfcef7IkU-zecAQ)
+- [Private TD Mirror Group](https://anonym.to/?https://t.me/joinchat/LT_wQUWEdqkOLTfLicynGg)
+- [Transloader](https://anonym.to/?https://t.me/transload) - Community to transload files and provide information which services to use.
+- [requestinggroup](https://anonym.to/?https://t.me/requestinggroup)
 
 ## Bots
 
@@ -230,11 +227,9 @@ tags:
 - [@BotListBot](https://t.me/BotListBot) - The official bot for botlist.co to list bots in Telegram.
 - [telegram-list](https://github.com/goq/telegram-list/) - `RU` - GitHub overview list of useful Telgram Bots.
 - [@Proytdlbot](https://t.me/Proytdlbot) - Simple bot to download YouTube Videos. You can't invite the bot into groups.
-- [Torrent Drive](https://t.me/torrentdrive_bot?do=open_link) - Gives you Google Drive link for the torrent files you send.
 - [@ToEmailBot](https://t.me/ToEmailBot) - Redirect all pictures and files to email. Send me one and get it to inbox 💌.
 - [@apkdl_bot](https://t.me/apkdl_bot) - Download latest version of any free android apps and games from apkdl.in.
 - [@filetobot](https://t.me/filetobot) - Stores your private files and arranges them by category. Send any file to the bot and it will be immediately added.
-- [@itorrentsearchbot](https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
 - [@LinkForFilebot](https://t.me/LinkForFilebot) - Link your audio, video or media files to a specific channel or group.
 - [@multi_purposebot](https://t.me/multi_purposebot) - Rename, get media links, and upload files. The bot has lots of features.
 - [@sltzbot](https://t.me/sltzbot) - A bot to seed torrents.
@@ -243,6 +238,7 @@ tags:
 - [@TeleWarez_Bot](https://t.me/TeleWarez_Bot) - Official bot from Warez-IR.com to share and get files.
 - [@UploadBots](https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
+- [python-aria-mirror-bot](https://anonym.to/?https://github.com/lzzy12/python-aria-mirror-bot/) - A telegram bot for all your mirror needs.
 - [@virus_total_scan_bot](https://t.me/virus_total_scan_bot) - Scan files and check it against VirusTotal. Does not work with Channels or Groups.
 - [@apkdl_bot](https://t.me/apkdl_bot) - Download latest version of any free android app and game from apkdl.in.
 - [@GooglePlayDownloader_bot](https://t.me/GooglePlayDownloader_bot) - Download latest version of any free android app directly from Google Play Store.
@@ -316,6 +312,7 @@ tags:
 - [@assistChannel_bot](https://t.me/assistChannel_bot) - A zero-config Telegram bot that fights spam in chats.
 - [@AlbionRoBoT](https://t.me/AlbionRoBoT) - AlbionRoBoT is similar like GroupHelp with some more extra gimmicks.
 - [Userge](https://github.com/UsergeTeam/Userge/) - Userge is a Powerful , Pluggable Telegram UserBot written in Python using Pyrogram.
+- [Butter Bot](https://anonym.to/?https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection.
 
 ### Youtube Bots
 
@@ -340,6 +337,18 @@ tags:
 - [@smtpbot](https://t.me/smtpbot) - Get fake emails.
 - [@temp_mail_bot](https://t.me/temp_mail_bot) - Get fake emails.
 
+### Torrent bots
+
+- [@itorrentsearchbot](https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
+- [@torrentdrive_bot](https://t.me/torrentdrive_bot) - Gives you Google Drive link for the torrent files you send.
+- [@torrent_drive](https://anonym.to/?https://t.me/torrent_drive) - Torrent to GDrive Bot.
+- [@kltorrent](https://anonym.to/?https://t.me/kltorrent)
+- [@XtremeCloud](https://anonym.to/?https://t.me/XtremeCloud/10)
+- [@torrdriveheaven](https://anonym.to/?https://t.me/torrdriveheaven)
+- [@torrentbcloud](https://anonym.to/?https://t.me/torrentbcloud)
+- [@seedboxSL](https://anonym.to/?https://t.me/seedboxSL)
+- [Torrent Leecher List](https://anonym.to/?http://torrentleecherlist.xyz/) - A simple list for torrent leecher in telegram.
+
 ### Miscellaneous bots
 
 - [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
@@ -361,3 +370,13 @@ tags:
 - [@ReadmeBot](https://t.me/ReadmeBot)
 - [@GmailBot](https://t.me/GmailBot) - GMail mangement Bot.
 - [@Calstars_Bot](https://t.me/Calstars_Bot) - A Token Tipping Bot.
+- [@lightzcloud](https://anonym.to/?https://t.me/lightzcloud)
+- [@torrenttodrivezone](https://anonym.to/?https://t.me/torrenttodrivezone)
+- [@publicdrive](https://anonym.to/?https://t.me/publicdrive)
+- [@ViperCloudOpen](https://anonym.to/?https://t.me/ViperCloudOpen)
+- [@vipercloud](https://anonym.to/?https://t.me/vipercloud)
+- [@MetaPublicLeech](https://anonym.to/?https://t.me/MetaPublicLeech)
+- [@RahiCloud](https://anonym.to/?https://t.me/RahiCloud)
+- [@APDSeedbox](https://anonym.to/?https://t.me/APDSeedbox)
+- [Rclone-Telegram-Bot](https://anonym.to/?https://github.com/Shubham0Rajput/Rclone-Telegram-Bot) - This is Rclone Bot in Telegram made for your ease.
+- [@LinkToFilesBot](https://anonym.to/?https://t.me/LinkToFilesBot) - Send any document to get a direct download link.

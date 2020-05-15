@@ -13,6 +13,7 @@ tags:
 - [Usenet](https://en.wikipedia.org/wiki/Usenet) - Usenet is a worldwide distributed discussion system available on computers.
 - [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) - A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.
 - [r/Usenet](https://www.reddit.com/r/Usenet) - A thriving community dedicated to helping users old and new understand and use Usenet.
+- [Getting started with usenet - /r/usenet wiki](https://www.reddit.com/r/usenet/wiki/index)
 - [r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) - Requests and offers for Usenet indexers.
 - [NZBLINK](https://nzblnk.info/) - The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
 - [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) - Table of applications for uploading content to Usenet.

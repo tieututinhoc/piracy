@@ -12,6 +12,11 @@ tags:
 
 # Software
 
+- [MIC028_Piracy Guide.indd - Microsoft (.PDF)](http://download.microsoft.com/documents/australia/PIRACY/PiracyGuide.pdf) - Microsoft's anti software piracy guide.
+- [What are the risks of using pirated Windows 10?](https://windowsreport.com/pirated-windows-10-risks/)
+- [Unofficial Reddit Guides to software piracy](https://reddit.guide/r/Piracy/) - A list with subreddits connected to software piracy, it also lists which community was banned from Reddit.
+- [How to download snahp zippy files without using your computer space and bandwidth!](https://telegra.ph/How-to-download-snahp-zippy-files-without-using-your-computer-space-and-bandwidth-08-25)
+- [Guide: Adobe Acrobat Pro Installation and Patching (Working 18-06-2019)](https://raddle.me/f/Piracy/81445/guide-adobe-acrobat-pro-installation-and-patching-working-18)
 - [r/piracy/wiki/tools](https://www.removeddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office + Adobe.
 - [nsane.down](https://www.nsanedown.com/) - A popular file-sharing forum focused on software.
 - [Appked](https://www.macbed.com/) - Mac application sharing site.
@@ -45,11 +50,9 @@ tags:
 - [UltraTrack](http://uraltrack.net/) - (`RU`) - A forum for various repacks and in general a good place for software discussions.
 - [Underver.se](https://underver.se/) - (`RU`).
 - [Uniondht](http://uniondht.org/) - (`RU`).
-- [MIC028_Piracy Guide.indd - Microsoft (.PDF)](http://download.microsoft.com/documents/australia/PIRACY/PiracyGuide.pdf) - Microsoft's anti software piracy guide.
-- [What are the risks of using pirated Windows 10?](https://windowsreport.com/pirated-windows-10-risks/)
-- [Unofficial Reddit Guides to software piracy](https://reddit.guide/r/Piracy/) - A list with subreddits connected to software piracy, it also lists which community was banned from Reddit.
-- [How to download snahp zippy files without using your computer space and bandwidth!](https://telegra.ph/How-to-download-snahp-zippy-files-without-using-your-computer-space-and-bandwidth-08-25)
-- [Guide: Adobe Acrobat Pro Installation and Patching (Working 18-06-2019)](https://raddle.me/f/Piracy/81445/guide-adobe-acrobat-pro-installation-and-patching-working-18)
+- [Digiboy](https://anonym.to/?https://www.digiboy.ir/) - (`AR`) - Provides Windows software, macOS and various other software related products.
+- [Pro Design Tools](https://prodesigntools.com) - Site focused on Adobe Development including cracked software and ebooks.
+- [ShareAppsCrack](https://shareappscrack.com/) - Website with a plethora of development tools and engineering focused software, including video tutorials, and some eBooks.
 
 ## Software Repacks
 

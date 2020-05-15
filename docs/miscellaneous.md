@@ -15,9 +15,7 @@ tags:
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) - Table of common movie release types, their labels, and descriptions.
-- [/f/Piracy](https://raddle.me/f/Piracy) - Raddle forum for Piracy.
-- [/s/piracy](https://saidit.net/s/piracy) - Saidit forum for Piracy - unofficially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators.
-- [/v/piracy](https://voat.co/v/piracy) - Voat forum for Piracy - another potential fallback option for /r/Piracy.
+- [h-gen](https://anonym.to/?https://www.h-gen.xyz/) - A website which offers a free service to get Accounts for various services, Minecraft, Origin etc.
 - [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) - Post by /u/idoideas listing all available DVDSCR releases for 2019.
 - [iNFekt](https://infekt.ws/) - A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [NFForce](http://nfforce.temari.fr/) - Another NFO viewer.
@@ -133,16 +131,17 @@ tags:
 - [Picard](https://picard.musicbrainz.org/) - Picard is an open source cross-platform music tagger written in Python.
 - [Advanced Renamer](https://www.advancedrenamer.com/) - Advanced batch renaming program, with support for renaming based on GPS data from images, ID3 tags from music files, TV show data and regular expressions.
 
-## Pirate News, Blogs & Discussion Forums
+## Piracy News & Forums
 
+- [r/privacy](https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
+  - [f/Piracy](https://raddle.me/f/Piracy) - Alternative to Reddit, Raddle forum.
+  - [v/piracy](https://voat.co/v/piracy) - Voat forum for piracy related discussions.
+  - [s/piracy](https://saidit.net/s/piracy) - Saidit forum for Piracy - unofficially the backup forum for /r/Piracy if/when it is banned by the Reddit moderators.
 - [NextWarez](https://nextwarez.com) - P2P topics & news page.
 - [szeneBOX.org](https://www.szenebox.org) - (needs VPN) - Forum & News around the Scene.
 - [Tarnkappe.info](https://tarnkappe.info) - News & Rumours, Blog & Forum.
-- [/f/Piracy](https://raddle.me/f/Piracy) - Alternative to Reddit, Raddle forum.
-- [r/privacy](https://www.removeddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
 - [TechWorm](https://www.techworm.net) - Techworm is a Tech, Cyber-security news platform.
 - [TorrentFreak](https://torrentfreak.com) - TorrentFreak is a publication dedicated to bringing the latest news about copyright, privacy, and everything related to filesharing.
-- [/v/piracy](https://voat.co/v/piracy) - Voat forum for piracy related discussions.
 
 ## PreDB Sites
 
