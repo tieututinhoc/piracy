@@ -475,5 +475,5 @@ tags:
 - [WonderfulSubs](http://www.wonderfulsubs.com/) - Subs and dubs, no ads, still in beta stage.
 - [autosub](http://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition.
 - [vlsub](http://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
-- [subsync](http://github.com/smacke/subsync) - Automatically synchronize subtitles with video.
+- [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [Sublight.me](http://sublight.me/) - Automatically batch download subtitles in a monitored folder.
