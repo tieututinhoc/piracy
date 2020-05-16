@@ -593,6 +593,7 @@ obfs4 93.217.197.170:5732 54B40AB7C7F0003FE10ED3C571955D202B52F9BD cert=h1LLrOlM
 - [Jive Search](https://jivesearch.com/) - A search engine that doesn't track you.
 - [Yippy](https://yippy.com/) - Another private search engine and replacement for Google Search.
 - [Qwant](https://lite.qwant.com/) - Yet another search engine.
+- [Librefox](https://librefox.org/) - Firefox with privacy enhancements.
 
 ## Antivirus
 
