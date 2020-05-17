@@ -1,5 +1,5 @@
 ---
-permalink: /file-sharing
+permalink: /file-sharing/
 tags:
   - p2p
   - peer

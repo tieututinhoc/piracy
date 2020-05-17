@@ -1,5 +1,5 @@
 ---
-permalink: /torrents
+permalink: /torrents/
 tags:
   - file
   - charing

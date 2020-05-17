@@ -1,5 +1,5 @@
 ---
-permalink: /bypass-paywalls
+permalink: /bypass-paywalls/
 tags:
   - articles
   - blogs

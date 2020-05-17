@@ -1,5 +1,5 @@
 ---
-permalink: /browser-extensions
+permalink: /browser-extensions/
 tags:
   - adblock
   - ads

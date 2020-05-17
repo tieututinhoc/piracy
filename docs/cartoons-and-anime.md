@@ -1,5 +1,5 @@
 ---
-permalink: /cartoons-and-anime
+permalink: /cartoons-and-anime/
 tags:
   - apps
 ---

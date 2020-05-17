@@ -1,5 +1,5 @@
 ---
-permalink: /android
+permalink: /android/
 tags:
   - root
   - play store

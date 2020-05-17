@@ -1,5 +1,5 @@
 ---
-permalink: /games
+permalink: /games/
 tags:
   - crackwatch
   - download

@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-permalink: /wiki/right-vpn
+permalink: /wiki/right-vpn/
 tags:
   - guide
   - help

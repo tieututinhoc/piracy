@@ -1,5 +1,5 @@
 ---
-permalink: /audiobooks
+permalink: /audiobooks/
 tags:
   - streaming
 ---

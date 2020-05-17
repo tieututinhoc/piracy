@@ -1,5 +1,5 @@
 ---
-permalink: /courses-and-tutorials
+permalink: /courses-and-tutorials/
 tags:
   - class
   - udemy

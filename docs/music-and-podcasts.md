@@ -1,5 +1,5 @@
 ---
-permalink: /music-and-podcasts
+permalink: /music-and-podcasts/
 tags:
   - mp3
   - flac

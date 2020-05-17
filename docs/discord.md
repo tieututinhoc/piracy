@@ -1,5 +1,5 @@
 ---
-permalink: /discord
+permalink: /discord/
 tags:
   - chat
   - community

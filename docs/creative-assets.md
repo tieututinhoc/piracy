@@ -1,5 +1,5 @@
 ---
-permalink: /creative-assets
+permalink: /creative-assets/
 tags:
   - fonts
   - images

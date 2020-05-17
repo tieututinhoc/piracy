@@ -1,5 +1,5 @@
 ---
-permalink: /iptv
+permalink: /iptv/
 tags:
   - streaming
   - shows

@@ -1,5 +1,5 @@
 ---
-permalink: /software
+permalink: /software/
 tags:
   - apps
   - exe

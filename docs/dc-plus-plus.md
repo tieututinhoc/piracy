@@ -1,5 +1,5 @@
 ---
-permalink: /dc-plus-plus
+permalink: /dc-plus-plus/
 tags:
   - p2p
   - peer

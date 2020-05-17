@@ -1,5 +1,5 @@
 ---
-permalink: /sports
+permalink: /sports/
 tags:
   - games
   - wwe

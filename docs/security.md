@@ -1,5 +1,5 @@
 ---
-permalink: /security
+permalink: /security/
 tags:
   - privacy
   - protection

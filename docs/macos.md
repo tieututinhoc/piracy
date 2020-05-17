@@ -1,5 +1,5 @@
 ---
-permalink: /macos
+permalink: /macos/
 tags:
   - osx
   - apple
