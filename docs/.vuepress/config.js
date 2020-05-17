@@ -45,6 +45,10 @@ module.exports = {
       { text: "Home", link: "/" },
       { text: "Wiki", link: "/wiki/" },
     ],
+    algolia: {
+      apiKey: '5470eae5ca52eb07867cedc3fdd33424',
+      indexName: 'maximousblk_piracy'
+    }
     searchMaxSuggestions: 10,
     searchPlaceholder: "Search...",
     sidebar: [
