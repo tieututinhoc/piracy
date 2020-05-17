@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-permalink: /wiki/movie-and-tv-release-names
+permalink: /wiki/movie-and-tv-release-names/
 tags:
   - naming
   - tags

@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-permalink: /wiki/why-seedbox
+permalink: /wiki/why-seedbox/
 tags:
   - guide
   - help

@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-permalink: /wiki/piracy-101
+permalink: /wiki/piracy-101/
 tags:
   - guide
   - help

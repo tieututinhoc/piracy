@@ -1,5 +1,5 @@
 ---
-permalink: /ios
+permalink: /ios/
 tags:
   - iphone
   - apple

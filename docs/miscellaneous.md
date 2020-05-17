@@ -1,5 +1,5 @@
 ---
-permalink: /miscellaneous
+permalink: /miscellaneous/
 tags:
   - tools
   - scripts

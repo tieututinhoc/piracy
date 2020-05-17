@@ -1,5 +1,5 @@
 ---
-permalink: /comics-manga-and-light-novels
+permalink: /comics-manga-and-light-novels/
 tags:
   - books
   - pdf

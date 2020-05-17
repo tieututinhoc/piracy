@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-permalink: /wiki/anonymity
+permalink: /wiki/anonymity/
 tags:
   - guide
   - help

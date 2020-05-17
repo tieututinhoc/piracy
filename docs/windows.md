@@ -1,5 +1,5 @@
 ---
-permalink: /windows
+permalink: /windows/
 tags:
   - microsoft
   - ltsc

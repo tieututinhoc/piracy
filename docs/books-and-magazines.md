@@ -1,5 +1,5 @@
 ---
-permalink: /books-and-magazines
+permalink: /books-and-magazines/
 tags:
   - pdf
   - read

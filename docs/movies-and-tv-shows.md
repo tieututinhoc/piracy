@@ -1,5 +1,5 @@
 ---
-permalink: /movies-and-tv-shows
+permalink: /movies-and-tv-shows/
 tags:
   - netflix
   - hbo

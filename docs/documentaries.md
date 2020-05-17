@@ -1,5 +1,5 @@
 ---
-permalink: /documentaries
+permalink: /documentaries/
 tags:
   - movies
   - streaming

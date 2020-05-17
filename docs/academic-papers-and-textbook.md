@@ -1,5 +1,5 @@
 ---
-permalink: /academic-papers-and-textbook
+permalink: /academic-papers-and-textbook/
 tags:
   - science
   - school

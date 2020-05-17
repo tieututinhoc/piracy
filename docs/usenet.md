@@ -1,5 +1,5 @@
 ---
-permalink: /usenet
+permalink: /usenet/
 tags:
   - forum
   - news

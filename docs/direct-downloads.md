@@ -1,5 +1,5 @@
 ---
-permalink: /direct-downloads
+permalink: /direct-downloads/
 tags:
   - mega
   - jdownloader

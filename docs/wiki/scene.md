@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-permalink: /wiki/scene
+permalink: /wiki/scene/
 tags:
   - guide
   - help

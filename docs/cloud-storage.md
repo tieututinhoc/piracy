@@ -1,5 +1,5 @@
 ---
-permalink: /cloud-storage
+permalink: /cloud-storage/
 tags:
   - drive
   - box

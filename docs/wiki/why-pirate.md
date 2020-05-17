@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-permalink: /wiki/why-pirate
+permalink: /wiki/why-pirate/
 tags:
   - guide
   - help

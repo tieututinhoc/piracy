@@ -1,5 +1,5 @@
 ---
-permalink: /laws
+permalink: /laws/
 tags:
   - government
   - contries

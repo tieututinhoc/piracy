@@ -1,5 +1,5 @@
 ---
-permalink: /telegram
+permalink: /telegram/
 tags:
   - chat
   - community

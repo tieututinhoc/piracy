@@ -1,5 +1,5 @@
 ---
-permalink: /media-centre-applications
+permalink: /media-centre-applications/
 tags:
   - streaming
   - hosting

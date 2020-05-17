@@ -1,5 +1,5 @@
 ---
-permalink: /userscripts
+permalink: /userscripts/
 tags:
   - browser
   - extentions

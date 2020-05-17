@@ -1,5 +1,5 @@
 ---
-permalink: /irc
+permalink: /irc/
 tags:
   - internet
   - relay

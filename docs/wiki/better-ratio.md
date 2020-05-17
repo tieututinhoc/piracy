@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-permalink: /wiki/better-ratio
+permalink: /wiki/better-ratio/
 tags:
   - guide
   - help

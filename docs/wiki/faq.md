@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-permalink: /wiki/faq
+permalink: /wiki/faq/
 tags:
   - guide
   - help
