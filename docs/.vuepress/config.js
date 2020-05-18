@@ -4,8 +4,6 @@ module.exports = {
     dest: "dist",
     head: [
         ["link", { rel: "icon", href: "/favicon.ico" }],
-        ["meta", { name: "theme-color", content: "#3eaf7c" }],
-        ["meta", { property: "theme-color", content: "#3eaf7c" }],
         ["meta", { property: "og:type", content: "website" }],
         ["meta", { property: "og:url", content: "https://piracy.now.sh/" }],
         ["meta", { property: "og:title", content: "Piracy" }],
@@ -41,10 +39,7 @@ module.exports = {
     ],
     themeConfig: {
         logo: "/logo.svg",
-        nav: [
-            { text: "Home", link: "/" },
-            { text: "Wiki", link: "/wiki/" }
-        ],
+        nav: [{ text: "Home", link: "/" }],
         algolia: {
             apiKey: "5470eae5ca52eb07867cedc3fdd33424",
             indexName: "maximousblk_piracy"
