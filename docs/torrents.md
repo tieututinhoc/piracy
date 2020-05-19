@@ -190,7 +190,7 @@ tags:
 - [Zone Annuaire](http://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
 - [EZTV](https://eztv.io/) - EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [YTS](https://yts.am/) - Small-size HD movies from YIFY.
-- [metal-tracker.com](http://en.metal-tracker.com/) - Heavy metal music tracker.
+- [Metal Tracker](http://en.metal-tracker.com/) - Heavy metal music tracker.
 - [moviemagnet](http://moviemagnet.co/) - Verified torrents for movies.
 - [HDSector](http://udush.com/) - Bollywood / Hindi / Hollywood HD Movies.
 - [Torlock](https://www.torlock.com/) - Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
@@ -198,6 +198,7 @@ tags:
 - [Rock Box](https://rawkbawx.rocks/) - Metal music tracker.
 - [Music Torrent](http://music-torrent.net) - General music tracker.
 - [Torrent Paradise](https://torrent-paradise.ml/) - (`needs ad-blocker`) - A torrent site which does not offer much information appart from the title and seeders.
+- [Redtopic](https://anonym.to/?https://git.fuwafuwa.moe/cairn/Redtopia) - Redtopia was a private music tracker that was shutdown. This repository contains torrents for downloading its content.
 
 ## Tracker Proxies
 

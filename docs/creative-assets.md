@@ -57,3 +57,10 @@ tags:
 - [MinimalFreaks](https://minimalfreaks.pw/) - As the website url tells, Minimal Music.
 - [Xoamoelmosh Blogspot](https://yoamoelmosh.blogspot.com/) - Hardcore, Metal & Beatdown etc.
 - [24Flac](https://24flac.net/) - FLAC Music including .CUE.
+- [Orpheus](https://anonym.to/?https://emetsbank.xyz/ops/) - Music Archive for mainly MP3 files.
+- [SongsLover](https://anonym.to/?https://songslover.cam/) - Blog around music, provides MP3s.
+- [FreshRemix](https://anonym.to/?http://freshremix.ru/) - A Blog about MP3s.
+- [NoData](https://anonym.to/?https://nodata.tv/) - Yet another Blog for MP3s.
+- [ccMixter](https://anonym.to/?https://ccmixter.org/) - DL Mp3s.
+- [dig ccMixter](https://anonym.to/?http://dig.ccmixter.org/dig) - Archive for MP3s.
+- [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Public Repositry for archiving music.

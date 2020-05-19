@@ -23,8 +23,8 @@ Website mirrors:
 
 - [piracy.now.sh](https://piracy.now.sh/) - official
 - [piracy.netlify.app](https://piracy.netlify.app/)
-- [piracy.on.fleek.co](https://piracy.on.fleek.co/)
 - [piracy.onrender.com](https://piracy.onrender.com/)
+- [piracy.on.fleek.co](https://piracy.on.fleek.co/)
 
 ## FAQ
 

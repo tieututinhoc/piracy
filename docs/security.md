@@ -113,6 +113,9 @@ tags:
 - [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/dns) - Another uncensored DNS servers.
 - [AppliedPrivacy](https://appliedprivacy.net/de/services/dns/) - A privacy conscious DNS service.
 - [NixNet](https://nixnet.xyz/dns/) - Uncensored DNS that doesn't keep logs.
+- [DNSCrypt](https://anonym.to/?https://www.dnscrypt.org/) - A protocol to improve DNS security.
+- [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
+- [YogaDNS](https://anonym.to/?https://yogadns.com/docs/) - YogaDNS automatically intercepts DNS requests at the system level and allows you to process them over user-defined DNS servers using modern protocols and flexible rules.
 
 ### Cloud based
 
@@ -290,6 +293,7 @@ This connects you with Tor2web, which then talks to the onion service via Tor an
 | Haystack      | [`haystakvxad7wbk5.onion`](http://haystakvxad7wbk5.onion/) |
 | Not Evil      | [`hss3uro2hsxfogfq.onion`](http://hss3uro2hsxfogfq.onion/) |
 | Tor Onionland | [`3bbaaaccczcbdddz.onion`](http://3bbaaaccczcbdddz.onion/) |
+| Tor Search    | [`kbhpodhnfxl3clb4.onion`](http://kbhpodhnfxl3clb4.onion/) |
 
 #### Hosting
 
@@ -404,7 +408,17 @@ This connects you with Tor2web, which then talks to the onion service via Tor an
 | Speedcore Music                                  | [`lolicore75rq3tm5.onion`](http://lolicore75rq3tm5.onion/) |
 | 20th Century Western Music Recordings and Scores | [`vt27twhtksyvjrky.onion`](http://vt27twhtksyvjrky.onion/) |
 
-##### Tor bridges
+#### Misc
+
+| clearnet/name      | onion address                                              |
+| ------------------ | :--------------------------------------------------------- |
+| The Hidden Wiki    | [`zqktlwi4fecvo6ri.onion`](http://zqktlwi4fecvo6ri.onion/) |
+| Is it up?          | [`nlmymchrmnlmbnii.onion`](http://nlmymchrmnlmbnii.onion/) |
+| Anonet Webproxy    | [`xdagknwjc7aaytzh.onion`](http://xdagknwjc7aaytzh.onion/) |
+| Gateway to Freenet | [`2vlqpcqpjlhmd5r2.onion`](http://2vlqpcqpjlhmd5r2.onion/) |
+| Tor links          | [`torlinkbgs6aabns.onion`](http://torlinkbgs6aabns.onion/) |
+
+#### Tor bridges
 
 ::: tip
 

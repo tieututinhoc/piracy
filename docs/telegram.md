@@ -25,6 +25,14 @@ tags:
 - [TelegramBotsList](http://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
 - [Telegram XP Bot](http://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
 - [Telegram CrackWatch tracker Bot](http://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
+- [chatter](https://anonym.to/?https://github.com/visualbasic6/chatter) - Internet monitoring osint telegram bot for windows.
+- [smart-tv-telegram](https://anonym.to/?https://github.com/andrew-ld/smart-tv-telegram) - Stream movies from telegram to smart tv over http using upnp and dlna (and chromecast).
+- [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
+- [python-aria-mirror-bot](https://anonym.to/?https://github.com/lzzy12/python-aria-mirror-bot/) - A telegram bot for all your mirror needs.
+- [ppmusicbot - Spotify playlist bot](https://github.com/kimmobrunfeldt/ppmusicbot) - Telegram bot which adds all linked Spotify track links to a shared playlist.
+- [Userge](https://github.com/UsergeTeam/Userge/) - Userge is a Powerful , Pluggable Telegram UserBot written in Python using Pyrogram.
+- [Butter Bot](https://anonym.to/?https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection.
+- [Rclone-Telegram-Bot](https://anonym.to/?https://github.com/Shubham0Rajput/Rclone-Telegram-Bot) - This is Rclone Bot in Telegram made for your ease.
 
 ## Bridges
 
@@ -237,8 +245,6 @@ tags:
 - [@teletransferxbot](https://t.me/teletransferxbot) - TeleTransferX (_currently not working due to lack of support from the community_) - down/uploader and search bot.
 - [@TeleWarez_Bot](https://t.me/TeleWarez_Bot) - Official bot from Warez-IR.com to share and get files.
 - [@UploadBots](https://t.me/UploadBots) - A bot which uploads your telegram file to a sharehoster.
-- [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
-- [python-aria-mirror-bot](https://anonym.to/?https://github.com/lzzy12/python-aria-mirror-bot/) - A telegram bot for all your mirror needs.
 - [@virus_total_scan_bot](https://t.me/virus_total_scan_bot) - Scan files and check it against VirusTotal. Does not work with Channels or Groups.
 - [@apkdl_bot](https://t.me/apkdl_bot) - Download latest version of any free android app and game from apkdl.in.
 - [@GooglePlayDownloader_bot](https://t.me/GooglePlayDownloader_bot) - Download latest version of any free android app directly from Google Play Store.
@@ -261,8 +267,7 @@ tags:
 
 - [@music](https://t.me/music) - Music Search Bot.
 - [@spotdlrobot](https://t.me/spotdlrobot) - Simple bot to download Spotify Songs in High quality (_no FLAC!_). You can't invite the bot into Groups.
-- [ppmusicbot - Spotify playlist bot](https://github.com/kimmobrunfeldt/ppmusicbot) - Telegram bot which adds all linked Spotify track links to a shared playlist.
-- [@DeezloaderAn0n_bot](https://github.com/An0nimia/DeezloaderAn0n_bot) - Download songs from Deezer and if they are now avbl. in Deezer it downloads it from YouTube.
+- [@DeezloaderAn0n_bot](https://github.com/An0nimia/DeezloaderAn0n_bot) - Download songs from Deezer and if they are not available in Deezer it downloads it from YouTube.
 - [@Soundclouddownloadbot](https://t.me/Soundclouddownloadbot) - Download SoundCloud files (music, no playlists) - from within Telegram. You can't invite the Bot into Groups.
 - [@MyMusicBot](https://t.me/MyMusicBot)
 - [@moozikestan_bot](https://t.me/moozikestan_bot)
@@ -272,7 +277,6 @@ tags:
 - [@iLyricsBot](https://t.me/iLyricsBot)
 - [@podcastly_bot](https://t.me/podcastly_bot) - Find and search podcasts.
 - [@FlacStoreBot](https://t.me/FlacStoreBot)
-- [Hindi-lossless](hhttps://hindi-lossless.blogspot.com/) - Losssless (flac) Hindi Music.
 
 ### Movies and TV Shows Bots
 
@@ -311,8 +315,6 @@ tags:
 - [@vardast_bot](https://t.me/vardast_bot) - A zero-config Telegram bot that fights spam in chats.
 - [@assistChannel_bot](https://t.me/assistChannel_bot) - A zero-config Telegram bot that fights spam in chats.
 - [@AlbionRoBoT](https://t.me/AlbionRoBoT) - AlbionRoBoT is similar like GroupHelp with some more extra gimmicks.
-- [Userge](https://github.com/UsergeTeam/Userge/) - Userge is a Powerful , Pluggable Telegram UserBot written in Python using Pyrogram.
-- [Butter Bot](https://anonym.to/?https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection.
 
 ### Youtube Bots
 
@@ -378,5 +380,4 @@ tags:
 - [@MetaPublicLeech](https://anonym.to/?https://t.me/MetaPublicLeech)
 - [@RahiCloud](https://anonym.to/?https://t.me/RahiCloud)
 - [@APDSeedbox](https://anonym.to/?https://t.me/APDSeedbox)
-- [Rclone-Telegram-Bot](https://anonym.to/?https://github.com/Shubham0Rajput/Rclone-Telegram-Bot) - This is Rclone Bot in Telegram made for your ease.
 - [@LinkToFilesBot](https://anonym.to/?https://t.me/LinkToFilesBot) - Send any document to get a direct download link.

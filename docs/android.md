@@ -98,7 +98,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [CKay TV](http://ckaytv.com/) - (needs ad-blocker) - Allows you to stream free videos from across the web directly on your Android and Firestick devices.
 - [CyberFlix 2.0](https://cybermedia.cloud/downloads) - A rebooted version from the original Cyberflix app, good for movies & tv episodes.
 - [Exousia](https://exousia.app) - Watch Live Tv & Movies, Sports.
-- [Fildo](https://fildo.net/android/en/) - Yet another Music streaming app.
+- [Fildo](https://fildo.net/android/en/#) - Android music streaming app which fetches files from third party MP3 search engines.
 - [Filmix](https://filmix.site) - Watch movies and TV shows using AndroidTV or mobile devices.
 - [Glaz TV](https://www.glaz.tv/) - (RU) - Online TV for Android devices.
 - [Kokotime](https://www.kokotime.tv/) - Kokotime is an addon-based, simple, free and elegantly designed app that will let you watch all your favorite media content in a unique and elegant user friendly design.
@@ -121,7 +121,6 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 
 - [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) - A decentralized, mostly server-based, peer-to-peer file sharing network + [Server Status](https://edk.peerates.net/servers/online-servers-list)
 - [FastTrack](https://en.wikipedia.org/wiki/FastTrack) - Protocol used by the Kazaa, Grokster, iMesh, and Morpheus file sharing programs.
-- [Fildo](https://fildo.net/android/en/#) - Android music streaming app which fetches files from third party MP3 search engines.
 - [Gnutella](https://en.wikipedia.org/wiki/Gnutella) - P2P network behind the popular LimeWire file sharing app.
 - [Kad](https://en.wikipedia.org/wiki/Kad_network) - The Kad network is a peer-to-peer (P2P) - network which implements the Kademlia P2P overlay protocol.
 - [Napster](https://en.wikipedia.org/wiki/Napster) - Peer-to-peer file sharing Internet service that emphasized sharing digital audio files, typically audio songs, encoded in MP3 format.
@@ -165,10 +164,10 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [Blokada](https://blokada.org) - Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware, and other annoyances.
 - [nzbUnity](https://nzbunity.dozenzb.com/) - iOS app for managing your favourite NZB applications.
 - [TiviMate IPTV player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - A popular Android app for watching IPTV on Android set-top boxes.
-- [Fildo](https://fildo.net/android/en/#) - Android music streaming app which fetches files from third party MP3 search engines.
 - [YouTube Vanced](https://vanced.app/) - Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
 - [AdAway](https://adaway.org/) - An open-source ad blocker for Android using the hosts file. It needs ROOT access.
 - [InstaGrapper](https://gitlab.com/AwaisKing/instagrabber) - A simple yet advanced Instagram post downloader that works with private acounts.
+- [Movie Updates](https://anonym.to/?https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
 
 ## MagisK Modules
 

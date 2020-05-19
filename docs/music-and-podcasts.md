@@ -41,6 +41,7 @@ tags:
 - [Block Spotify Updates on macOS](https://donotupdatespotify.sh/) - A guide is avbl. [here](https://reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/)
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) - HowToGeek article on how to use TunesKit and Requiem.
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format. Comes with some pretty nifty features too.
+- [Hindi-lossless](hhttps://hindi-lossless.blogspot.com/) - Losssless (flac) Hindi Music.
 
 ## Album Art
 
@@ -76,6 +77,7 @@ tags:
 - [VGMLoader](https://github.com/TheLastZombie/VGMLoader) - Tool for bulk downloading from KHInsider.
 - [Free MPS Download.net](https://free-mp3-download.net/) - Search engine with streamable samples and download links.
 - [chimera](https://notabug.org/Aesir/chimera) - Multiple source terminal-based music downloader with audio search engine.
+- [Plus Premieres](https://anonym.to/?https://www.pluspremieres.nz/) - iTunes M4A Music.
 
 ### Tidal
 
@@ -115,10 +117,9 @@ tags:
 - [MuteSpotifyAds](https://github.com/simonmeusel/MuteSpotifyAds) - Mutes audio/video ads, however you still need to wait 30 sec.
 - [Spotifree](https://github.com/ArtemGordinsky/Spotifree) - An macOS app that automatically mutes ads on Spotify (not supported).
 - [Spotify Ad-Free](https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.
-- [Spotify Downloader](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
+- [Spotdl](https://github.com/ritiek/spotify-downloader) - Download Spotify playlists with albumart and meta-tags.
 - [spotr](https://github.com/XDGFX/spotr) - Python app which converts Spotify playlist tracks to Deezer URLs.
 - [Spytify](https://jwallet.github.io/spy-spotify/) - Records Spotify without ads while it plays and includes media tags to the recorded files.
-- [XSPotify](https://github.com/meik97/XSpotify) - A modified Spotify client with DRM bypass.
 - [spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl. made in Node.js based on youtube-dl.
 
 ## iTunes

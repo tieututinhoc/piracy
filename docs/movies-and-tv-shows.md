@@ -287,6 +287,7 @@ tags:
 - [ask4movie](https://ask4movie.co/) - (`needs adblocker`) - Netflix like UI. Stream series and movies.
 - [Seriesvault](https://seriesvault.org/) - TV Series that we all love.
 - [O2TvSeries.CO](https://o2tvseries.co/) - Download & stream your all favorite Movies, TV Series and K-Dramas in High Quality.
+- [OK.ru](https://anonym.to/?https://ok.ru/videos/) - Legal and other videos, differnt quality, mostly 720p.
 
 ### Stream Sharing
 
