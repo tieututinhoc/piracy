@@ -63,12 +63,6 @@ tags:
 - [radwan1998](https://t.me/radwan1998) - VPN and login data.
 - [vpnusername](https://t.me/vpnusername) - Free NordVPN leech account logins. Sometimes other VPN services too.
 
-### Cracking Channels
-
-- [Keygen Fortress](https://t.me/keygen_fortress) - Keygens and cracks only.
-- [King_of_cracking](https://t.me/king_0f_cracking) - Free daily cracking tools, proxies and more.
-- [The404Cracking](https://t.me/The404Cracking) - Claims to be the best cracking channel on Telegram.
-
 ### courses ant tutorials Channels
 
 - [@udemyfree4u](https://ttttt.me/udemyfree4u) - This Is The No. 1 Biggest Channel In Telegram Which Provides Paid Udemy Courses For Free, daily updated.
@@ -77,6 +71,7 @@ tags:
 - [Free Udemy Courses](https://t.me/joinchat/AAAAAEOVydKcDYcTQPbvYg)
 - [Udemy deals](https://telegram.me/udemydeals) - Free udemy courses.
 - [Tech_You](https://t.me/udemydeals) - Tutorials, Logins, Course and other stuff via Mega links.
+- [udemydeals](https://anonym.to/?https://t.me/udemydeals) - Free udemy courses!
 
 ### APK Channels
 
@@ -144,6 +139,10 @@ tags:
   - [Piracy • Main Discussion](https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion at Raymond's Piracy Group, but very inactive.
   - [Piracy • Off Topic Discussion](https://t.me/joinchat/Djvt9BVVrrjQ_D_6L9XZxQ) - Off Topic chat for Raymond's Piracy Telegram group.
 - [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
+- [@premiere_pro](https://anonym.to/?https://telegram.me/premiere_pro)
+- [@Premiere](https://anonym.to/?https://telegram.me/Premiere)
+- [Windows_Software](https://anonym.to/?https://t.me/windows_softwares) - Windows software, cracked.
+- [computersoftwar](https://anonym.to/?https://t.me/computersoftwar/3690) - Various software, mainly for Windows.
 
 ### eBooks Channels
 
@@ -381,3 +380,4 @@ tags:
 - [@RahiCloud](https://anonym.to/?https://t.me/RahiCloud)
 - [@APDSeedbox](https://anonym.to/?https://t.me/APDSeedbox)
 - [@LinkToFilesBot](https://anonym.to/?https://t.me/LinkToFilesBot) - Send any document to get a direct download link.
+- [udemy_link_bot](https://anonym.to/?https://t.me/udemy_link_bot) - Send `/download <course_link>` to download.

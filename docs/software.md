@@ -53,6 +53,11 @@ tags:
 - [Digiboy](https://anonym.to/?https://www.digiboy.ir/) - (`AR`) - Provides Windows software, macOS and various other software related products.
 - [Pro Design Tools](https://prodesigntools.com) - Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) - Website with a plethora of development tools and engineering focused software, including video tutorials, and some eBooks.
+- [OnHaxCrack](https://anonym.to/?https://www.onhaxcrack.me) - A website dedicated to provide cracks for various types of Software.
+- [PirateCity](https://anonym.to/?https://www.piratecity.net) - Various Software releases.
+- [CrackHomes](https://anonym.to/?https://crackhomes.com) - Yet another release page.
+- [Ask4PC](https://anonym.to/?https://www.ask4pc.net) - Cracks for PC Software.
+- [ProFreeCrack](https://anonym.to/?hhttps://profreecrack.com) - Provides cracks for various programs.
 
 ## Software Repacks
 

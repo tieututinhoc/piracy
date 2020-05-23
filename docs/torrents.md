@@ -73,7 +73,7 @@ tags:
 ### Private Trackers
 
 - [How to get started with private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
-- [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) - List of private trackers.
+- [PTG tracker manifesto](https://pastebin.com/thLgSkNE) - List of private trackers.
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) - Screenshot of a table from somewhere of private trackers and their sign-up requirements.
 - [AcrossTheTasman](https://acrossthetasman.com/forum.php) - A tracker for movies, games and more.
 - [AlphaRatio](https://alpharatio.cc) - (AR) - A good starter tracker with lots of freeleech content.
@@ -114,14 +114,39 @@ tags:
 - [WorldOfP2P](https://worldofp2p.net) - (WOP) - Private tracker for Movies, TV and general P2P stuff.
 - [Bitspyder](http://bitspyder.net/) - (BS) - Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audiobooks.
 - [MySpleen](http://www.myspleen.org/login.php) - (MS) - MySpleen is a private tracker which specialises in comedy, animation, and TV series.
+- [xbytes](https://anonym.to/?http://www.xbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [HDBytes](https://anonym.to/?https://www.hdbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [Torrenteros](https://anonym.to/?http://www.torrenteros.net/signup.php) - (`ES`) - Spanish tracker for movies and TV shows.
+- [HDCity](https://anonym.to/?https://hdcity.li/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [HD-Spain](https://anonym.to/?https://www.hd-spain.com/) - (`ES`) - Spanish tracker for movies and TV shows.
 
 ### Semi-Private Trackers
 
-- [ArenaBG](https://arenabg.com/) - A Bulgarian tracker with an English translation available.
-- [NoNaMe Club](https://nnmclub.to/) - Russian semi-private tracker and forum.
-- [ruTracker](https://rutracker.org/forum/index.php) - RuTracker is a huge Russian torrent site with a thriving file-sharing community.
-- [MetalArea](https://metalarea.org/) - Russian tracker for obscure metal and dungeon synth.
-- [Zamunda.net](https://zamunda.net/) - A Bulgarian tracker with English and Russian translations available.
+- [ArenaBG](https://anonym.to/?https://arenabg.com/) - A Bulgarian tracker with an English translation available.
+- [NoNaMe Club](https://anonym.to/?https://nnmclub.to/) - (`RU`) - Russian semi-private tracker and forum.
+- [ruTracker](https://anonym.to/?https://rutracker.org/forum/index.php) - RuTracker is a huge Russian torrent site with a thriving file-sharing community.
+- [MetalArea](https://anonym.to/?https://metalarea.org/) - Russian tracker for obscure metal and dungeon synth.
+- [Zamunda.net](https://anonym.to/?https://zamunda.net/) - A Bulgarian tracker with English and Russian translations available.
+- [sktorrent](https://anonym.to/?https://sktorrent.org/)
+- [kaztorka](https://anonym.to/?https://kaztorka.org/) - (`RU`) - 0day & general
+- [Films.club](https://anonym.to/?https://films.club/) - (`RU`) - Russian Tracker for Movies and TV Shows.
+- [erzsebet](https://anonym.to/?https://erzsebet.org/) - (`RU`) - Russian adult torrent website
+- [extremlymtorrents](https://anonym.to/?https://extremlymtorrents.ws/) - General content, movies, tv series
+- [muziekfabriek](https://anonym.to/?https://www.muziekfabriek.org/) - (`DU`) - Semi-private Dutch torrent tracker for Dutch audio.
+- [dxp](https://anonym.to/?https://dxp.ru/) - (`RU`) - DXP.ru is a Rusian Semi-Private Torrent Tracker for MOVIES & TV.
+- [tribalmixes](https://anonym.to/?https://www.tribalmixes.com/signup.php) - TribalMixes is a ratioless Private Torrent Tracker for DJ MIXES.
+- [Torrent Explosiv](https://anonym.to/?https://torrent-explosiv.eu/) - (`Ger`) - German Tracker for various content.
+- [EniaHD](https://anonym.to/?https://eniahd.com/) - (`RU`) - Russian tracker for music, movies and tv shows.
+- [Underverse](https://anonym.to/?https://underverse.su/) - (`RU`)
+- [booktracker](https://anonym.to/?https://booktracker.org/) - (`RU`)
+- [Alexfilm](https://anonym.to/?https://alexfilm.cc/)
+- [Marine Tracke](https://anonym.to/?https://seatracker.ru/) - (`RU`)
+- [ScenePalace.info](https://anonym.to/?https://scenepalace.info/signup.php)
+- [torrents-local.xyz](https://anonym.to/?https://torrents-local.xyz/)
+- [toloka](https://anonym.to/?https://toloka.to/) - (`UR`) - Ukrainian Semi-private forum, requires registration to download.
+- [xktorrent](https://anonym.to/?https://xktorrent.com/) - (`FR`) - Movie/TV/General.
+- [ShareWood](https://anonym.to/?https://www.sharewood.tv/login) - (`FR`) - Movie/TV/General.
+- [aussierul](https://anonym.to/?https://aussierul.es/)
 
 ### Public Trackers
 

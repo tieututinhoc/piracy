@@ -58,6 +58,7 @@ tags:
 - [FlixGrab](http://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
 - [Massivedl](http://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
 - [instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- [drivedl](https://anonym.to/?https://github.com/architdate/drivedl) - Download files from Google Drive (inclusive of teamdrives, shared with me and my drive) concurrently.
 
 ## RapidLeech
 
