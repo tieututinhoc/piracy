@@ -64,12 +64,11 @@ tags:
 ## Downloading
 
 - [Spotify™ & Deezer™ Music Downloader](https://chrome.google.com/webstore/detail/spotify-deezer-music-down/pocmgnhmjgjghodelfkhbjaoidmbadpo/related)
-- [Deezloader](http://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) - Tool for downloading music from Deezer.
 - [Soulseek](http://www.soulseekqt.net/news/) - Soulseek is an ad-free, spyware free, just plain free file-sharing network for Windows, Mac, and Linux.
 - [irs](https://github.com/kepoorhampond/irs) - A music downloader that understands your metadata needs.
 - [SMLoadr](https://git.fuwafuwa.moe/SMLoadrDev/SMLoadr) - A streaming music downloader.
-- [Deezloader Remaster](https://www.reddit.com/r/DeezloadersIsBack/comments/9n3pf1/deezloader_alpha_latest_version_download10102018/) - Tool for downloading music from Deezer.
 - [Deezloader Remix](https://notabug.org/RemixDevs/DeezloaderRemix) - Another program with the same purpose, both based on the original, now defunct Deezloader.
+- [Deemix](https://deemix.app/) - A barebone deezer downloader library built from the ashes of Deezloader Remix.
 - [r/DeezloaderIsBack](https://www.reddit.com/r/DeezloadersIsBack) - Community supporting Deezloader.
 - [New Album Releases](http://newalbumreleases.net/) - Premium DDL links for full albums.
 - [Kingdom Leaks](https://kingdom-leaks.com/) - DDL links for album leaks.
