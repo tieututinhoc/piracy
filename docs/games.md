@@ -263,6 +263,7 @@ tags:
 - [Skidrow Repacks](https://skidrowrepacks.com/) - Repacks from popular repacker SKIDROW. Lots of anime stuff too!.
 - [Tapochek](http://tapochek.net/) - Official R.G Mechanics repacks can be found here.
 - [Xatab Repacks](https://xatab-repack.net) - (RU) - Russian game repacker, provides primarily torrents.
+- [Zorro](https://zorro.thebitbrine.com/) - Search engine for repacks from FitGirl, Xatab, Skidrow & more...
 
 ## ROMs
 
