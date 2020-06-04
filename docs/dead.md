@@ -19,3 +19,4 @@ This basically graveyard for all the dead links. None the links here are active 
 - [firefox_bookmarkscraper.py](https://web.archive.org/web/*/github.com/ZeroOne010101/firefox_bookmarkscraper.py) - Querys the html of all Firefox bookmarks in a specific folder for a keyword, and prints the url's of sites the keyword was found in.
 - [Grabber](https://web.archive.org/web/*/grabber.co.in/) - Download stock images from Shutterstock.
 - [6box](https://web.archive.org/web/*/6box.me/) - A recently revived free Usenet indexing service with a generous API.
+- [CracksNow](https://web.archive.org/web/*/cracksnow.com/) - Cracks for Android, Windows, and macOS applications.

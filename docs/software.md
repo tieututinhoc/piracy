@@ -20,7 +20,6 @@ tags:
 - [r/piracy/wiki/tools](https://www.removeddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office + Adobe.
 - [nsane.down](https://www.nsanedown.com/) - A popular file-sharing forum focused on software.
 - [Appked](https://www.macbed.com/) - Mac application sharing site.
-- [CracksNow](https://cracksnow.com/) - Cracks for Android, Windows, and macOS applications.
 - [/s/sjain_guides](https://saidit.net/s/sjain_guides) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more.
 - [My Digital Life Forums](https://forums.mydigitallife.net/) - Popular forum for modded/cracked software and apps.
 - [Pro Design Tools](https://prodesigntools.com) - Site focused on Adobe Development including cracked software and ebooks.
