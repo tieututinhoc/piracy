@@ -18,7 +18,7 @@ tags:
 - [PDF/Ebook trackers for college textbooks](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) - Old-but-still-useful list of ebook/textbook trackers, DDL sites and IRC communities.
 - [Z-Libary](https://b-ok.cc/) - A lot textbooks which hosts books directly.
 - [epdf](https://epdf.pub/) - Write a book, elevate your profile, build a business - Upload ideas and beginner tips to get you started.
-- [PDF/Ebook trackers for college textbooks](https://www.reddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) - Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities.
+- [PDF/Ebook trackers for college textbooks](https://www.removeddit.com/r/trackers/comments/hrgmv/tracker_with_pdfsebooks_of_college_textbooks/c1xrq44/) - Old-but-still-useful list of ebook/textbook trackers, DDL sites, and IRC communities.
 - [forcoder](https://forcoder.su/) - Ebooks & Elearning For Programming.
 - [Academic Torrents](http://academictorrents.com/) - A Community-Maintained Distributed Repository for researchers, by researchers.
 - [BookSC](http://booksc.org/) - The world's largest scientific articles store. 50,000,000+ articles for free.
