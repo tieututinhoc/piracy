@@ -1,9 +1,5 @@
 ---
 permalink: /documentaries/
-tags:
-  - movies
-  - streaming
-  - download
 ---
 
 # Documentaries

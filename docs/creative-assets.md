@@ -1,10 +1,5 @@
 ---
 permalink: /creative-assets/
-tags:
-  - fonts
-  - images
-  - graphics
-  - development
 ---
 
 # Creative assets
@@ -64,3 +59,4 @@ tags:
 - [ccMixter](https://anonym.to/?https://ccmixter.org/) - DL Mp3s.
 - [dig ccMixter](https://anonym.to/?http://dig.ccmixter.org/dig) - Archive for MP3s.
 - [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Public Repositry for archiving music.
+- [Videomaker free sound effects](https://anonym.to/?https://www.videomaker.com/downloads/free-sound-effects/)

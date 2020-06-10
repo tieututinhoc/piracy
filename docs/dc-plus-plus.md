@@ -1,12 +1,5 @@
 ---
 permalink: /dc-plus-plus/
-tags:
-  - p2p
-  - peer
-  - file
-  - sharing
-  - direct
-  - connect
 ---
 
 # DC++

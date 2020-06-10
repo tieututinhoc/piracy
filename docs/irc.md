@@ -1,14 +1,5 @@
 ---
 permalink: /irc/
-tags:
-  - internet
-  - relay
-  - chat
-  - community
-  - discuss
-  - forums
-  - p2p
-  - peer
 ---
 
 # IRC

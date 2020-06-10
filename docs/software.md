@@ -1,13 +1,5 @@
 ---
 permalink: /software/
-tags:
-  - apps
-  - exe
-  - install
-  - crack
-  - plugins
-  - themes
-  - templates
 ---
 
 # Software
@@ -57,6 +49,7 @@ tags:
 - [CrackHomes](https://anonym.to/?https://crackhomes.com) - Yet another release page.
 - [Ask4PC](https://anonym.to/?https://www.ask4pc.net) - Cracks for PC Software.
 - [ProFreeCrack](https://anonym.to/?hhttps://profreecrack.com) - Provides cracks for various programs.
+- [downloadha](https://anonym.to/?https://www.downloadha.com) - (`AR`) - Provides various software products, Adobe, Windows & more
 
 ## Software Repacks
 

@@ -1,11 +1,5 @@
 ---
 permalink: /books-and-magazines/
-tags:
-  - pdf
-  - read
-  - library
-  - articles
-  - epub
 ---
 
 # Books and Magazines
@@ -72,7 +66,7 @@ tags:
 - [GetFreeEBooks](http://www.getfreeebooks.com/) - This website has free ebooks in categories from writing to environment to fiction to business, plus features and reviews.
 - [Globusz](http://www.globusz.com/) - There are no limits on the number of free books you can download on this online publishing site.
 - [Guide to Copy Kindle Content to PDF via Calibre](https://www.removeddit.com/r/Piracy/comments/7vc3uv/guide_to_copy_kindle_content_to_pdf_using_calibre/)
-- [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - Project Gutenberg was the first to supply free ebooks, and today they have over 30,000 free titles in stock.
+- [Gutenberg](http://www.gutenberg.org/wiki/Main_Page) - Project Gutenberg was the first to supply free ebooks, and today they have over 60,000 free titles in stock.
 - [How can I remove DRM from my ebooks?](https://github.com/apprenticeharper/DeDRM_tools/blob/master/FAQs.md#so-how-can-i-remove-drm-from-my-ebooks) - DeDRM tools provides a big FAQ and scripts, tools to remove DRM on eBooks.
 - [iBiblio](http://www.ibiblio.org/) - Find archives, ebooks, tutorials, language books, and more from iBiblio.
 - [Internet Archive](https://archive.org/details/texts) - Over 15 mio free books & texts.

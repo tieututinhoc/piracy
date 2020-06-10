@@ -1,13 +1,5 @@
 ---
 permalink: /academic-papers-and-textbook/
-tags:
-  - science
-  - school
-  - pdf
-  - college
-  - books
-  - university
-  - articles
 ---
 
 # Academic papers and Textbooks

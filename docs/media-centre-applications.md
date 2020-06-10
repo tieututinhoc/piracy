@@ -1,17 +1,5 @@
 ---
 permalink: /media-centre-applications/
-tags:
-  - streaming
-  - hosting
-  - sharing
-  - movies
-  - tv shows
-  - music
-  - podcast
-  - library
-  - home
-  - theater
-  - server
 ---
 
 # Media Centre Applications

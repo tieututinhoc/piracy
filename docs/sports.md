@@ -1,15 +1,5 @@
 ---
 permalink: /sports/
-tags:
-  - games
-  - wwe
-  - mma
-  - wrestling
-  - football
-  - cricket
-  - live
-  - tv
-  - download
 ---
 
 # Sports

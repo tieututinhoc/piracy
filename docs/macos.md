@@ -1,14 +1,5 @@
 ---
 permalink: /macos/
-tags:
-  - osx
-  - apple
-  - crack
-  - forums
-  - hackintosh
-  - iso
-  - operating
-  - system
 ---
 
 ## macOS

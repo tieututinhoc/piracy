@@ -1,9 +1,5 @@
 ---
 permalink: /security/
-tags:
-  - privacy
-  - protection
-  - safety
 ---
 
 # Security

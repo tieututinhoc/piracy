@@ -1,11 +1,5 @@
 ---
 permalink: /music-and-podcasts/
-tags:
-  - mp3
-  - flac
-  - audio
-  - songs
-  - playlist
 ---
 
 # Music and podcasts

@@ -34,7 +34,7 @@ Research purposes... :wink:
 
 > Is this a biased list?
 
-Somewhat. I do not know everything about digital piracy and can be a little resistive while adding new links.
+Somewhat. I don't know everything about piracy and can be a little resistive while adding new links.
 
 > Why can't I do a full text search on the website?
 

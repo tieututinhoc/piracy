@@ -1,12 +1,5 @@
 ---
 permalink: /iptv/
-tags:
-  - streaming
-  - shows
-  - dvr
-  - digital
-  - video
-  - recording
 ---
 
 # IPTV

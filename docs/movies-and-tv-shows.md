@@ -1,24 +1,5 @@
 ---
 permalink: /movies-and-tv-shows/
-tags:
-  - netflix
-  - hbo
-  - hulu
-  - amazon
-  - prime
-  - hotstar
-  - disney
-  - plus
-  - full
-  - hd
-  - download
-  - mkv
-  - srt
-  - mp4
-  - hdrip
-  - cam
-  - blueray
-  - remux
 ---
 
 # Movies and TV shows
@@ -361,6 +342,7 @@ tags:
 - [Viooz](https://vioozgo.org/) - (RU) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
 - [MX Player](https://www.mxplayer.in/) - Movies and Databases regarding movies, tv series and other shows.
 - [Rapid Moviez (RMZ)](https://rmz.cr/) - Movies and TV shows.
+- [60 FPS Movies](https://anonym.to/?https://60-fps.org/) - Russian site for 60 fps Movies only.
 
 ## Specialty Sites
 

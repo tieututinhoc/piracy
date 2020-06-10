@@ -1,9 +1,5 @@
 ---
 permalink: /userscripts/
-tags:
-  - browser
-  - extentions
-  - greasemonkey
 ---
 
 # Userscripts

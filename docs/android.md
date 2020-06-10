@@ -1,14 +1,5 @@
 ---
 permalink: /android/
-tags:
-  - root
-  - play store
-  - romote
-  - phone
-  - mobile
-  - apps
-  - operating
-  - system
 ---
 
 # Android
@@ -210,3 +201,4 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [GraphenOS](https://grapheneos.org/) - Hardened OS for e.g. Google Pixel.
 - [LineageOS](https://lineageos.org/) - LineageOS, one of the biggest an well maintained alternative to Google's AOSP. Google apps (short: gapps) - can be optionally installed.
 - [Replicaant](https://replicant.us/) - Replicant is a fully free Android distribution running on several devices, a free software mobile operating system putting the emphasis on freedom and privacy/security.
+- [CalyxOS](https://anonym.to/?https://calyxos.org/) - Similar like GraphenOS, supports some Google Pixel Devices.

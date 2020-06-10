@@ -1,11 +1,5 @@
 ---
 permalink: /usenet/
-tags:
-  - forum
-  - news
-  - board
-  - nzb
-  - discuss
 ---
 
 # Usenet

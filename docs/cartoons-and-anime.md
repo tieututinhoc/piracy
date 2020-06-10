@@ -1,7 +1,5 @@
 ---
 permalink: /cartoons-and-anime/
-tags:
-  - apps
 ---
 
 # Cartoons and Anime

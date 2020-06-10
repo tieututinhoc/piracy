@@ -1,12 +1,5 @@
 ---
 permalink: /telegram/
-tags:
-  - chat
-  - community
-  - discuss
-  - forums
-  - bots
-  - encrypted
 ---
 
 # Telegram
@@ -218,6 +211,7 @@ tags:
 - [Open Library](https://t.me/joinchat/AAAAAEUbZxqyCKxhZbf-PA)
 - [WiLd's Occult Ebook Dump](https://t.me/joinchat/AAAAAE07WyxZNFu5tLrjVA)
 - [Copy Left](https://anonym.to/?https://t.me/copy_left)
+- [@philosophybooks](https://anonym.to/?https://t.me/philosophybooks)
 
 ### Miscellaneous channels
 
@@ -227,6 +221,8 @@ tags:
 - [Private TD Mirror Group](https://anonym.to/?https://t.me/joinchat/LT_wQUWEdqkOLTfLicynGg)
 - [Transloader](https://anonym.to/?https://t.me/transload) - Community to transload files and provide information which services to use.
 - [requestinggroup](https://anonym.to/?https://t.me/requestinggroup)
+- [@HeadSpaceChannel](https://anonym.to/?https://t.me/HeadSpaceChannel) - HeadSpace mp3 files download.
+- [@MeditationHeadspaceMp3](https://anonym.to/?https://t.me/MeditationHeadspaceMp3) - HeadSpace mp3 files download.
 
 ## Bots
 
@@ -291,6 +287,7 @@ tags:
 - [@SubYabBot](https://t.me/SubYabBot)
 - [@SubHunterBot](https://t.me/SubHunterBot)
 - [@SubLandBot](https://t.me/SubLandBot) - You can download subtitle files in Persian and English Language directly from subscene.com.
+- [@evemovies_bot](https://anonym.to/?https://t.me/evemovies_bot) - Telegram bot that will help you to track your favourite movies.
 
 ### Google Drive Bots
 
@@ -329,6 +326,10 @@ tags:
 - [@twittervid_bot](https://t.me/twittervid_bot) - Download Twitter videos.
 - [@FBvidzBot](https://t.me/youtube) - Download Video From Facebook.
 - [@Instasave_bot](https://t.me/Instasave_bot) - Save Instagram photos.
+- [@YtbDownBot](https://anonym.to/?https://t.me/YtbDownBot) - Social media download bot
+- [@redditdownloader_bot](https://anonym.to/?https://t.me/redditdownloader_bot) - Reddit media download bot
+- [@redditgrambot](https://anonym.to/?https://t.me/redditgrambot) - Reddit image download bot
+- [@redditvidbot](https://anonym.to/?https://t.me/redditvidbot) - Reddit video download bot
 
 ### Temporary Email Bots
 
@@ -337,6 +338,8 @@ tags:
 - [@etlgr_bot](https://t.me/etlgr_bot) - Get fake emails.
 - [@smtpbot](https://t.me/smtpbot) - Get fake emails.
 - [@temp_mail_bot](https://t.me/temp_mail_bot) - Get fake emails.
+- [@GmailBot](https://anonym.to/?https://t.me/GmailBot) - GMail management Bot.
+- [@TrashMailClient_Bot](https://anonym.to/?https://t.me/TrashMailClient_Bot) - It will generate a mail for you that will be valid for 15 minutes.
 
 ### Torrent bots
 
@@ -353,6 +356,9 @@ tags:
 ### Miscellaneous bots
 
 - [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
+- [@el_monitorro](https://anonym.to/?https://t.me/el_monitorro_bot) - el_monitorro is RSS, Atom and JSON feed reader written in Rust.
+- [@eventsaggregatorbot](https://anonym.to/?https://t.me/eventsaggregatorbot) - Forward your favorite Twitter, Instagram, RSS, Reddit, YouTube, Twitch accounts in Telegram.
+- [@TheDigestBot](https://anonym.to/?https://t.me/TheDigestBot) - The bot collects all news from your channel subscriptions and sends to you a Digest with all news once a day.
 - [@markdownrobot](https://t.me/markdownrobot)
 - [@HideItBot](https://t.me/HideItBot) - Hide Text in Chat.
 - [@bing](https://t.me/bing) - Bing is search engine, this Bot let's you search for photos.

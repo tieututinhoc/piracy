@@ -1,18 +1,5 @@
 ---
 permalink: /torrents/
-tags:
-  - file
-  - charing
-  - movies
-  - tv
-  - shows
-  - anime
-  - p2p
-  - peer
-  - magnet
-  - pirate
-  - 1337
-  - seed
 ---
 
 # Torrents
@@ -41,9 +28,7 @@ tags:
 - [Filestream.me](https://filestream.me/) - (needs VPN to visit the page) - Free user of Filestream are being entitled and limited to a maximum of 5 GB file size for each torrent download and the file will stay on the server for 3 days only.
 - [Furk](https://www.furk.net/) - (Needs invite) Offers an unlimited storage time for fetched file as long as the file is from a public sources such as the Pirate Bay.
 - [Seedr](https://seedr.cc/) - Essentially a seedbox you can paste torrents into which returns a streamable direct link.
-  - [streamza](https://streamza.com/) - Seedr mirror.
 - [Streamza](https://streamza.com/)
-- [ZBIgZ](https://www.zbigz.com/) - ZBIGZ anonymous torrent cloud client #1.
 
 ## Torrent Search Engine
 
@@ -119,6 +104,7 @@ tags:
 - [Torrenteros](https://anonym.to/?http://www.torrenteros.net/signup.php) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HDCity](https://anonym.to/?https://hdcity.li/) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HD-Spain](https://anonym.to/?https://www.hd-spain.com/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [Telly.CC](https://anonym.to/?hhttps://telly.cc/login) - Movie tracker website.
 
 ### Semi-Private Trackers
 
@@ -334,9 +320,8 @@ tags:
 - [JSTorrent](https://anonym.to/?https://www.jstorrent.com/) - Chrome WebTorrent Client.
 - [bitford](https://anonym.to/?https://github.com/astro/bitford) - Open Source WebTorrent Client for Chrome.
 - [Magnet Player](https://anonym.to/?https://ferrolho.github.io/magnet-player/) - Stream Torrents via Browser.
-- [zbigz](https://anonym.to/?https://zbigz.com/) - Anonymous file downloads.
-- [Torrents Time](https://anonym.to/?https://torrents-time.com/)
-- [TorrentSafe](https://anonym.to/?https://www.torrentsafe.com/)
+- [Torrents Time](https://anonym.to/?https://torrents-time.com/) - Download and Watch Torrents Directly From Your Browser.
+- [TorrentSafe](https://anonym.to/?https://www.torrentsafe.com/) -
 
 ### Web-based Cloud Seedboxes
 

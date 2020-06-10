@@ -1,10 +1,5 @@
 ---
 permalink: /discord/
-tags:
-  - chat
-  - community
-  - discuss
-  - forums
 ---
 
 # Discord

@@ -1,10 +1,5 @@
 ---
 permalink: /courses-and-tutorials/
-tags:
-  - class
-  - udemy
-  - skillshare
-  - edx
 ---
 
 # Courses and Tutorials

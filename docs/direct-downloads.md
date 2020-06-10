@@ -1,9 +1,5 @@
 ---
 permalink: /direct-downloads/
-tags:
-  - mega
-  - jdownloader
-  - index of
 ---
 
 # Direct Downloads
@@ -245,6 +241,11 @@ tags:
 - [Oboom](https://www.oboom.com/) - (_free/paid_) - Provides up to 50 GB free space, Swiss made!
 - [Smoozed](https://www.smoozed.biz/) - Claims to be the biggest multihoster, encrypted files and fast up-downloads.
 - [globalupload.io](https://globalupload.io/) - IPFS and hash based services foryour files, a multi hosting option is planned.
+- [uploadfiles](https://anonym.to/?https://uploadfiles.io/) - From files, images, music, video and more – Uploadfiles is a free and easy way to share your data
+- [GoFile](https://anonym.to/?https://gofile.io/welcome) - File sharing platform, anonymous and free.
+- [nofile](https://anonym.to/?http://nofile.io/) - File sharing platform, anonymous and free (GeoIP block).
+- [LetsUpload](https://anonym.to/?https://letsupload.co/) - Created around the times when Mega firstly appeared, one of the big stars under the trusted hosters. They do not comply with DMCA.
+- [Racaty.net](https://anonym.to/?https://racaty.net/) - Store, Sync & Share your own data securely.
 
 ## Open Directories
 

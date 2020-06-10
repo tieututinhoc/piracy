@@ -1,11 +1,5 @@
 ---
 permalink: /miscellaneous/
-tags:
-  - tools
-  - scripts
-  - information
-  - scene
-  - warez
 ---
 
 # Miscellaneous
@@ -67,6 +61,7 @@ tags:
 - [Hide Fake Torrent on ThePirateBay](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo?hl=en) - Browser extension to Hide Fake Torrent on The PirateBay.
 - [The Pirate Bay Tweaks](https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks) - (based on [this script](https://greasyfork.org/scripts/21980)) - Userscript to detect fake TPB uploaders/torrents.
 - [SCRIMTEC](https://anonym.to/?https://github.com/BELGRADE-OUTLAW/SCRIMTEC) - SCRIbd MPUB To EPUB Converter.
+- [TinyMediaManager](https://anonym.to/?https://www.tinymediamanager.org/) - tinyMediaManager is a media management tool written in Java/Swing. It is written to provide metadata for the Kodi Media Center.
 
 ## Website archiving tools
 
@@ -76,14 +71,6 @@ tags:
 - [monolith](https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
 - [Local Website Archive](https://www.aignes.com/lwa.htm) - Paid software to Archive online documents to your PC.
 - [httrack](https://www.httrack.com/) - Allows you to download a website to a local directory.
-
-## Transloading or (stream) - sharing Services
-
-- [Clouddebrid](https://clouddebrid.herokuapp.com/) - Supports more than 200 services, transload files easily.
-- [Furk.net](https://www.furk.net/) - Personal secure storage that fetches media files and lets you stream them immediately.
-- [Offcloud](https://offcloud.com/) - Cloud-based download manager.
-- [Bitport.io](https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
-- [Seedr](https://www.seedr.cc/) - Stream on any device, anytime, anywhere!.
 
 ## Unblock blocked Websites
 
