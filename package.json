@@ -1,20 +1,4 @@
 {
-    "name": "piracy",
-    "version": "1.0.0",
-    "description": "It's illegal cuz they can't tax you!",
-    "author": "Maximous Black <maximousblk@gmail.com>",
-    "license": "CC0-1.0",
-    "homepage": "https://piracy.now.sh/",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/maximousblk/piracy.git"
-    },
-    "bugs": {
-        "url": "https://github.com/maximousblk/piracy/issues"
-    },
-    "keywords": [
-        "gatsby"
-    ],
     "scripts": {
         "format": "prettier --write \"./**/*.*\"",
         "dev": "vuepress dev docs",

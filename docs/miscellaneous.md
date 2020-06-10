@@ -66,6 +66,7 @@ tags:
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 - [Hide Fake Torrent on ThePirateBay](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo?hl=en) - Browser extension to Hide Fake Torrent on The PirateBay.
 - [The Pirate Bay Tweaks](https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks) - (based on [this script](https://greasyfork.org/scripts/21980)) - Userscript to detect fake TPB uploaders/torrents.
+- [SCRIMTEC](https://anonym.to/?https://github.com/BELGRADE-OUTLAW/SCRIMTEC) - SCRIbd MPUB To EPUB Converter.
 
 ## Website archiving tools
 
