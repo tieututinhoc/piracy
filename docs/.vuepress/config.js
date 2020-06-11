@@ -1,5 +1,5 @@
 module.exports = {
-    title: "Piracy",
+    title: "Piracy@next",
     description: "It's illegal cuz they can't tax you!",
     dest: "dist",
     head: [
