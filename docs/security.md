@@ -1,8 +1,7 @@
 ---
-permalink: /security/
+title: Security
+sidebar_label: Security
 ---
-
-# Security
 
 - [That One Privacy Site](https://thatoneprivacysite.net/) - VPN and email service comparisons.
 - [privacytools.io](https://www.privacytools.io/) - "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.

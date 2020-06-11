@@ -1,8 +1,7 @@
 ---
-permalink: /browser-extensions/
+title: Browser Extensions
+sidebar_label: Browser Extensions
 ---
-
-# Browser Extensions
 
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [Add-Art](https://add-art.org/) - Replaces ads with art.

@@ -1,8 +1,7 @@
 ---
-permalink: /miscellaneous/
+title: Miscellaneous
+sidebar_label: Misc
 ---
-
-# Miscellaneous
 
 - [xBrowserSync](https://github.com/xbrowsersync/app) - An open source alternative to Mozilla's, Google's, Vivalid's integrated sync feature, it does work on all platforms.
 - [r/ProshotMusicals](https://www.reddit.com/r/ProShotMusicals) - Subreddit for all those theatre obsessed people who want pro shots instead of bootlegs to be seen.

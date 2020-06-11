@@ -1,8 +1,7 @@
 ---
-permalink: /usenet/
+title: Usenet
+sidebar_label: Usenet
 ---
-
-# Usenet
 
 - [Usenet](https://en.wikipedia.org/wiki/Usenet) - Usenet is a worldwide distributed discussion system available on computers.
 - [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) - A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.

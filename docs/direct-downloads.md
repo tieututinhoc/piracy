@@ -1,8 +1,7 @@
 ---
-permalink: /direct-downloads/
+title: Direct Downloads
+sidebar_label: DDL
 ---
-
-# Direct Downloads
 
 - [Zippyshare.sh](https://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
 - [Plowshare](http://github.com/mcrapet/plowshare) - Command-line tool & engine for managing sharing websites.

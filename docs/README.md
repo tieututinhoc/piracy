@@ -1,16 +1,10 @@
-<div align="center">
-  <a href="https://piracy.now.sh"><img width="200" src="https://piracy.now.sh/logo.svg" alt="arrrr!"></a>
-  <h1 align="center">Piracy</h1>
-  <h3 align="center">It's illegal cuz they can't tax you!</h3>
-</div>
+---
+id: home
+title: Home
+sidebar_label: Home
+---
 
-<div align="center">
-  <a href="https://web.archive.org/web/*/https://piracy.now.sh/"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/maximousblk/piracy/archive?label=Internet%20Archive&logo=github%20actions&logoColor=fff&style=for-the-badge"></a>
-  <a href="https://github.com/maximousblk/piracy"><img src="https://img.shields.io/github/stars/maximousblk/piracy?color=555&logo=github&style=for-the-badge" alt="GitHub stars"></a>
-  <a href="https://twitter.com/intent/tweet?text=Head over to https://piracy.now.sh/ for amazing %23piracy links and resources!"><img src="https://img.shields.io/badge/-tweet%20about%20this-1da1f2?logoColor=fff&logo=twitter&labelColor=1da1f2&style=for-the-badge" alt="Tweet"></a>
-</div>
-
-This list is an attempt to add structure to the resources you need to get started on your pirate voyage.
+This website is a collection of the best digital piracy resources. This will help you get started on your pirate voyage.
 
 ## Mirrors
 
@@ -35,15 +29,6 @@ Research purposes... :wink:
 > Is this a biased list?
 
 Somewhat. I don't know everything about piracy and can be a little resistive while adding new links.
-
-> Why can't I do a full text search on the website?
-
-A full-text search function is planned.
-The website uses vuepress for easy maintainance and deployment.
-Vuepress currently only supports header search and algolia pluggin.
-I don't know how to integrate algolia in the current workflow.
-Any help regarding this will be much appreciated.
-Untill then you will have to search via GitHub or GitLab repository search.
 
 ## Contribute
 

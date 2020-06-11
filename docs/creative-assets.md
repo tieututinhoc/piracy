@@ -1,8 +1,7 @@
 ---
-permalink: /creative-assets/
+title: Creative assets
+sidebar_label: Creative assets
 ---
-
-# Creative assets
 
 - [Get the Font](https://www.getthefont.com/) - Searches through GitHub for free fonts.
 - [GFxtra](https://www.gfxtra.com/) - DDL-links for graphics, icons, 3D models, and more!.

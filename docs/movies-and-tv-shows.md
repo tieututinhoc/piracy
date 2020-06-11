@@ -1,8 +1,7 @@
 ---
-permalink: /movies-and-tv-shows/
+title: Movies and TV shows
+sidebar_label: Movies and TV shows
 ---
-
-# Movies and TV shows
 
 - [TVRaven](https://www.onetvraven.pro/) - Large TV collection, friendly UI.
 - [WatchSeries](http://dwatchseries.to/) - TV series, multiple links/backups to different streaming hosts.

@@ -1,8 +1,7 @@
 ---
-permalink: /music-and-podcasts/
+title: Music and podcasts
+sidebar_label: Music and podcasts
 ---
-
-# Music and podcasts
 
 - [Lidarr](https://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [Headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.

@@ -1,8 +1,7 @@
 ---
-permalink: /iptv/
+title: IPTV
+sidebar_label: IPTV
 ---
-
-# IPTV
 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
 - [fastocloud](https://github.com/fastogt/fastocloud) - IPTV/Video cloud admin panel for servers.

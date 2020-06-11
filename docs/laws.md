@@ -1,8 +1,7 @@
 ---
-permalink: /laws/
+title: Laws
+sidebar_label: Laws
 ---
-
-# Laws
 
 - [Senate Votes to Allow FBI to Look at Your Web Browsing History Without a Warrant](https://www.vice.com/en_us/article/jgxxvk/senate-votes-to-allow-fbi-to-look-at-your-web-browsing-history-without-a-warrant)
 - [Burn, drown, or smash your phone: Forensics can extract data anyway](https://www.zdnet.com/article/burn-drown-or-smash-your-phone-forensics-can-extract-data-anyway/)

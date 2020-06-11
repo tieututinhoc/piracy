@@ -1,8 +1,7 @@
 ---
-permalink: /audiobooks/
+title: Audiobooks
+sidebar_label: Audiobooks
 ---
-
-# Audiobooks
 
 - [The Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) - A few publicly accessible audiobooks hosted by The Eye.
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) - Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.

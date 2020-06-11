@@ -1,8 +1,7 @@
 ---
-permalink: /cartoons-and-anime/
+title: Cartoons and Anime
+sidebar_label: Anime
 ---
-
-# Cartoons and Anime
 
 - [r/animepiracy](https://www.reddit.com/r/animepiracy) - This sub is about streaming and torrent websites for anime.
   - [r/animepiracy wiki](https://www.reddit.com/r/animepiracy/wiki/index) - Lists for sourcing Anime streaming sites, manga sites, and more.

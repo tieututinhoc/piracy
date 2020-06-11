@@ -1,8 +1,7 @@
 ---
-permalink: /userscripts/
+title: Userscripts
+sidebar_label: Userscripts
 ---
-
-# Userscripts
 
 - [www.icourse163.org Downloader](https://greasyfork.org/en/scripts/389496-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6mooc%E6%85%95%E8%AF%BE-www-icourse163-org-%E4%B8%8B%E8%BD%BD%E5%99%A8) - Add download button on www.icourse163.org to download videos.
 - [AdsBypasser](https://adsbypasser.github.io/) - This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.

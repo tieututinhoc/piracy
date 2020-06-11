@@ -1,8 +1,7 @@
 ---
-permalink: /bypass-paywalls/
+title: Bypassing Paywalls
+sidebar_label: Paywalls
 ---
-
-# Bypassing Paywalls
 
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
 - [Burlesco](https://burles.co/en/) - Userscript which allows you to read & annotate without distractions.

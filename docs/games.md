@@ -1,8 +1,7 @@
 ---
-permalink: /games/
+title: Games
+sidebar_label: Games
 ---
-
-# Games
 
 - [How to break IGG-GAMES's DRM](https://www.removeddit.com/r/Piracy/comments/dn4t2e/how_to_break_igggamess_drm_repost_since_deleted/) - A guide to bypass IGG motherf\*cking DRM.
 - [Playing The Outer Worlds on Linux without the Epic Games Launcher](https://www.removeddit.com/r/Piracy/comments/drspy4/playing_the_outer_worlds_on_linux_without_the/)

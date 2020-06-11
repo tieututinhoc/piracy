@@ -1,8 +1,7 @@
 ---
-permalink: /cloud-storage/
+title: Cloud Storage
+sidebar_label: Cloud Storage
 ---
-
-# Cloud Storage
 
 - [Connect Your Plex Server To Your Google Drive](https://bytesized-hosting.com/pages/plexdrive) - This tutorial will help you connect your Google Drive to your Plex server using Plexdrive.
 - [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive.

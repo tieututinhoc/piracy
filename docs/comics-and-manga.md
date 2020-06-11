@@ -1,8 +1,7 @@
 ---
-permalink: /comics-manga-and-light-novels/
+title: Comics and Manga
+sidebar_label: Comics and Manga
 ---
-
-# Comics, Manga and Light novels
 
 - [Armaell Library](http://armaell-library.net/) - Free, fansubs and no ads.
 - [Baka Tsuki](https://www.baka-tsuki.org/) - Free, multilangual, no ads.

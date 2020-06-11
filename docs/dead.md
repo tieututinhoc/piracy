@@ -1,8 +1,7 @@
 ---
-permalink: /dead/
+title: Dead
+sidebar_label: Dead
 ---
-
-# Dead
 
 ::: tip Heads up!
 

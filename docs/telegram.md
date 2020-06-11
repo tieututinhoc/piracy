@@ -1,8 +1,7 @@
 ---
-permalink: /telegram/
+title: Telegram
+sidebar_label: Telegram
 ---
-
-# Telegram
 
 - [Nekogram](https://github.com/Nekogram/Nekogram) - Nekogram is an unofficial telegram app with a focus on speed and security. adds some extra features to official Telegram app.
 - [Telegram proxy](https://telegram.ind.in/) - Telegram unblock proxy for countries with Telegram banned.

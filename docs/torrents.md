@@ -1,8 +1,7 @@
 ---
-permalink: /torrents/
+title: Torrents
+sidebar_label: Torrents
 ---
-
-# Torrents
 
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) - A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [magent2torrent.me](http://magnet2torrent.me/) - Converts magnet links to torrent files.

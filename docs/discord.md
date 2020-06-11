@@ -1,8 +1,7 @@
 ---
-permalink: /discord/
+title: Discord
+sidebar_label: Discord
 ---
-
-# Discord
 
 - [BetterDiscord](http://betterdiscord.net/home/) - Pimp Discord with better Themes and add some nice Plugins/Scripts.
 - [Discord Channel scraper](http://github.com/simon987/Discord-Channel-scraper) - Scrapes an arbitrary number of lines from a Discord channel.
