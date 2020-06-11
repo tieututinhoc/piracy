@@ -24,10 +24,6 @@ module.exports = {
                 },
             ],
         },
-        footer: {
-            // style: "dark",
-            copyright: `Copyright © ${new Date().getFullYear()} Maximous Black.`,
-        },
         algolia: {
             apiKey: "5470eae5ca52eb07867cedc3fdd33424",
             indexName: "maximousblk_piracy",
@@ -51,10 +47,10 @@ module.exports = {
                     showReadingTime: true,
                     feedOptions: {
                         type: "all",
-                        copyright: `Copyright © ${new Date().getFullYear()} Maximous Black`,
+                        copyright: "It's free real estate! (CC0)",
                     },
                     editUrl:
-                        "https://github.com/maximousblk/piracy/edit/master/blog/",
+                        "https://github.com/maximousblk/piracy/edit/master/",
                 },
                 theme: {
                     customCss: require.resolve("./src/css/custom.css"),
