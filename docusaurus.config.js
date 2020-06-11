@@ -13,7 +13,7 @@ module.exports = {
             logo: {
                 alt: "Arrr!",
                 src: "img/logo.svg",
-                srcDark: "img/logo.svg",
+                srcDark: "img/darklogo.svg",
             },
             links: [
                 { to: "blog", label: "Blog", position: "left" },
