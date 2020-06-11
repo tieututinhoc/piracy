@@ -47,7 +47,7 @@ module.exports = {
         searchMaxSuggestions: 10,
         searchPlaceholder: "Search...",
         sidebar: [
-            ["/", "Piracy"],
+            ["/", "Home"],
             ["/security", "Security"],
             ["/laws", "Laws"],
             ["/cartoons-and-anime", "Cartoons and Anime"],
