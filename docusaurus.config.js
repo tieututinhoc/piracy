@@ -1,7 +1,7 @@
 module.exports = {
     title: "Piracy",
     tagline: "It's illegal cuz they can't tax you!",
-    url: "https://piracy-git-next.maximousblk.now.sh/",
+    url: "https://warez.now.sh/",
     baseUrl: "/",
     favicon: "img/favicon.ico",
     organizationName: "maximousblk",
