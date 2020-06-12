@@ -368,7 +368,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 
 
 <details>
-  <summary><h4>Secure Enclave key for iPhone and iPad</h4></summary>
+  <summary><b>Secure Enclave key for iPhone and iPad</b></summary>
   <pre>
 iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347bc1897bdd66b11815f036e94c951250c4dda916c00
   </pre>
