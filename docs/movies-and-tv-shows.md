@@ -123,8 +123,8 @@ sidebar_label: Movies and TV shows
 - [YourPTFlixMovies](https://yourptflixmovies.com/) - A forum dedicated to share or talk about any streaming material.
 - [Movie-Forum](https://movie-forum.co/forum.php) - Forum to share stream links of movies and TV shows.
 - [filmyzilla1](https://filmyzilla1.com/genre/animation/) - Animated Hindi movies.
-- [puretoons](https://anonym.to/?https://puretoons.me/) - Animated Hindi movies.
-- [deadtoonsindia](https://anonym.to/?https://deadtoonsindia.ne) - Animated Hindi movie & tv shows.
+- [puretoons](https://puretoons.me/) - Animated Hindi movies.
+- [deadtoonsindia](https://deadtoonsindia.ne) - Animated Hindi movie & tv shows.
 
 ### Streaming 1080p
 
@@ -190,15 +190,15 @@ sidebar_label: Movies and TV shows
 - [Dramaday](https://dramaday.net/) - A website dedicated to drama based movies and OST.
 - [Enthus1ast](http://enthus1ast.com/) - Movie sharing community.
 - [magellantv](https://www.magellantv.com/featured) - Watch thousands of great documentaries on MagellanTV. Unlimited streaming, no ads, and 4K streaming are all great reasons to check out MagellanTV.
-- [HEVCBay](https://anonym.to/?https://hevcbay.com/) - Provides Movies.
-- [x265 Movies](https://anonym.to/?https://x265movies.co/) - x265 Movies provides Movies and TV shows.
-- [HugeWarez](https://anonym.to/?http://hugewarez.net/movie/) - HugeWarez provides not only Movies but TV Shows and bunch of other things.
-- [MKVBee](https://anonym.to/?https://mkvbee.com/) - High Quality movies and TV shows.
-- [YourSerie](https://anonym.to/?https://www.yourserie.com/) - High Quality movies and TV shows.
-- [Crazy4tv](https://anonym.to/?https://crazy4tv.com/)
-- [MoviesWBB](https://anonym.to/?http://movieswbb.com/)
-- [GDriveDL](https://anonym.to/?https://gdrivedl.com/) - Movies and TV shows via Google Drive.
-- [megaDDL](https://anonym.to/?https://megaddl.co/) - megaDDL provides mainly TV shows and Movies.
+- [HEVCBay](https://hevcbay.com/) - Provides Movies.
+- [x265 Movies](https://x265movies.co/) - x265 Movies provides Movies and TV shows.
+- [HugeWarez](http://hugewarez.net/movie/) - HugeWarez provides not only Movies but TV Shows and bunch of other things.
+- [MKVBee](https://mkvbee.com/) - High Quality movies and TV shows.
+- [YourSerie](https://www.yourserie.com/) - High Quality movies and TV shows.
+- [Crazy4tv](https://crazy4tv.com/)
+- [MoviesWBB](http://movieswbb.com/)
+- [GDriveDL](https://gdrivedl.com/) - Movies and TV shows via Google Drive.
+- [megaDDL](https://megaddl.co/) - megaDDL provides mainly TV shows and Movies.
 
 ### Streaming 720p
 
@@ -267,7 +267,7 @@ sidebar_label: Movies and TV shows
 - [ask4movie](https://ask4movie.co/) - (`needs adblocker`) - Netflix like UI. Stream series and movies.
 - [Seriesvault](https://seriesvault.org/) - TV Series that we all love.
 - [O2TvSeries.CO](https://o2tvseries.co/) - Download & stream your all favorite Movies, TV Series and K-Dramas in High Quality.
-- [OK.ru](https://anonym.to/?https://ok.ru/videos/) - Legal and other videos, differnt quality, mostly 720p.
+- [OK.ru](https://ok.ru/videos/) - Legal and other videos, differnt quality, mostly 720p.
 
 ### Stream Sharing
 
@@ -308,7 +308,7 @@ sidebar_label: Movies and TV shows
 - [VidFlix](https://vidflix.net/) - No ads, clean Movies and TV shows in high quality.
 - [Tigole Release](https://tigolerelease.blogspot.com/) - HQ Movies, mostly 1080 and 4k.
 - [nima4k](https://nima4k.org) - A well-known platform for ducmentations, series & movies.
-- [FreeMovie4kOnline](https://anonym.to/?https://www.freemovie4konline.com/) - HQ Movies and TV shows.
+- [FreeMovie4kOnline](https://www.freemovie4konline.com/) - HQ Movies and TV shows.
 
 ## Big Media Libraries
 
@@ -341,7 +341,7 @@ sidebar_label: Movies and TV shows
 - [Viooz](https://vioozgo.org/) - (RU) - Discover thousands of movies, watch your favorite movies online for free on VZM, Viooz.
 - [MX Player](https://www.mxplayer.in/) - Movies and Databases regarding movies, tv series and other shows.
 - [Rapid Moviez (RMZ)](https://rmz.cr/) - Movies and TV shows.
-- [60 FPS Movies](https://anonym.to/?https://60-fps.org/) - Russian site for 60 fps Movies only.
+- [60 FPS Movies](https://60-fps.org/) - Russian site for 60 fps Movies only.
 
 ## Specialty Sites
 

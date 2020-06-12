@@ -14,7 +14,7 @@ sidebar_label: Anime
 - [Alternatives to Kiss websites](https://www.removeddit.com/r/KissCartoon/wiki/alternatives) - Wiki page of r/KissCartoon with lots of anime sites.
 - [anime-sharing](http://www.anime-sharing.com/forum/) - Forum for sharing anime.
 - [AniDex](https://anidex.info) - Torrent tracker and indexer, primarily for English fansub groups of anime.
-- [Search via Google for new Animes](https://anonym.to/?https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)
+- [Search via Google for new Animes](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8)
 - [r/AnimePiracy BCSE Search](https://ui.customsearch.ai/hosted-page?customconfig=12619b8a-0cac-4a38-b20b-04c79ddb616d&version=latest&market=en-US&q=) - A custom search engine for Anime content.
 - [HakuNeko](https://github.com/manga-download/hakuneko) - A cross-platform downloader for manga and anime from +400 websites. Manga and anime in multiple languages and formats (cbz, folder with images, epub).
 - [YMP4](https://ymp4.download/) - Download videos from YouTube to mp4 & mp3 files, including from places like e.g. Crunchroll.

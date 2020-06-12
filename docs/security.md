@@ -108,15 +108,15 @@ sidebar_label: Security
 - [Digitale Gesellschaft](https://www.digitale-gesellschaft.ch/dns) - Another uncensored DNS servers.
 - [AppliedPrivacy](https://appliedprivacy.net/de/services/dns/) - A privacy conscious DNS service.
 - [NixNet](https://nixnet.xyz/dns/) - Uncensored DNS that doesn't keep logs.
-- [DNSCrypt](https://anonym.to/?https://www.dnscrypt.org/) - A protocol to improve DNS security.
+- [DNSCrypt](https://www.dnscrypt.org/) - A protocol to improve DNS security.
 - [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS).
-- [YogaDNS](https://anonym.to/?https://yogadns.com/docs/) - YogaDNS automatically intercepts DNS requests at the system level and allows you to process them over user-defined DNS servers using modern protocols and flexible rules.
+- [YogaDNS](https://yogadns.com/docs/) - YogaDNS automatically intercepts DNS requests at the system level and allows you to process them over user-defined DNS servers using modern protocols and flexible rules.
 
 ### Cloud based
 
 - [Blockchain-DNS.info](https://blockchain-dns.info/) - First step towards the uncensored Internet.
 - [NextDNS](https://www.nextdns.io/) - Cloud-based private DNS service that gives you full control over what is allowed and what is blocked on the Internet.
-- [NixNet DNS](https://anonym.to/?https://docs.nixnet.services/DNS)
+- [NixNet DNS](https://docs.nixnet.services/DNS)
 
 ## VPN
 

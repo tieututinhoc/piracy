@@ -40,15 +40,15 @@ sidebar_label: Software
 - [UltraTrack](http://uraltrack.net/) - (`RU`) - A forum for various repacks and in general a good place for software discussions.
 - [Underver.se](https://underver.se/) - (`RU`).
 - [Uniondht](http://uniondht.org/) - (`RU`).
-- [Digiboy](https://anonym.to/?https://www.digiboy.ir/) - (`AR`) - Provides Windows software, macOS and various other software related products.
+- [Digiboy](https://www.digiboy.ir/) - (`AR`) - Provides Windows software, macOS and various other software related products.
 - [Pro Design Tools](https://prodesigntools.com) - Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) - Website with a plethora of development tools and engineering focused software, including video tutorials, and some eBooks.
-- [OnHaxCrack](https://anonym.to/?https://www.onhaxcrack.me) - A website dedicated to provide cracks for various types of Software.
-- [PirateCity](https://anonym.to/?https://www.piratecity.net) - Various Software releases.
-- [CrackHomes](https://anonym.to/?https://crackhomes.com) - Yet another release page.
-- [Ask4PC](https://anonym.to/?https://www.ask4pc.net) - Cracks for PC Software.
-- [ProFreeCrack](https://anonym.to/?hhttps://profreecrack.com) - Provides cracks for various programs.
-- [downloadha](https://anonym.to/?https://www.downloadha.com) - (`AR`) - Provides various software products, Adobe, Windows & more
+- [OnHaxCrack](https://www.onhaxcrack.me) - A website dedicated to provide cracks for various types of Software.
+- [PirateCity](https://www.piratecity.net) - Various Software releases.
+- [CrackHomes](https://crackhomes.com) - Yet another release page.
+- [Ask4PC](https://www.ask4pc.net) - Cracks for PC Software.
+- [ProFreeCrack](hhttps://profreecrack.com) - Provides cracks for various programs.
+- [downloadha](https://www.downloadha.com) - (`AR`) - Provides various software products, Adobe, Windows & more
 
 ## Software Repacks
 
@@ -154,7 +154,7 @@ sidebar_label: Software
 - [nMac.to](https://nmac.to) - Tutorials, Apps, Games via P2P or sharehoster for macOS.
 - [Sanet](https://sanet.st/) - Windows and uncracked software as well as macOS cracked software.
 - [GetIntoPC](https://getintopc.com/) - Last place to look for macOS software.
-- [Olarila](https://anonym.to/?http://Olarila.com) - Provides MacOS ISOs for VM among several other stuff.
+- [Olarila](http://Olarila.com) - Provides MacOS ISOs for VM among several other stuff.
 
 ## Android
 
@@ -282,7 +282,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [Trireme for Deluge](https://f-droid.org/en/packages/org.deluge.trireme/) - A Deluge thin client for Android. Written in Flutter.
 - [Vuze](https://play.google.com/store/apps/details?id=com.vuze.torrent.downloader) - Lightweight & powerful BitTorrent app.
 - [iTorrent Search](https://play.google.com/store/apps/details?id=com.icodelife.itorrentsearch) - A torrent search engine with multiple torrent providers and beautiful ui.
-- [TorrSE](https://anonym.to/?https://seedboxs.me/) - Torrent Search Android app.
+- [TorrSE](https://seedboxs.me/) - Torrent Search Android app.
 
 ### Download Manegers
 
@@ -312,7 +312,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [YouTube Vanced](https://vanced.app/) - Vanced is a well known modded version of YouTube with many features such as adblocking and background playback and many more.
 - [AdAway](https://adaway.org/) - An open-source ad blocker for Android using the hosts file. It needs ROOT access.
 - [InstaGrapper](https://gitlab.com/AwaisKing/instagrabber) - A simple yet advanced Instagram post downloader that works with private acounts.
-- [Movie Updates](https://anonym.to/?https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
+- [Movie Updates](https://play.google.com/store/apps/details?id=com.tashila.movieupdates)
 
 ### MagisK Modules
 
@@ -355,7 +355,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [GraphenOS](https://grapheneos.org/) - Hardened OS for e.g. Google Pixel.
 - [LineageOS](https://lineageos.org/) - LineageOS, one of the biggest an well maintained alternative to Google's AOSP. Google apps (short: gapps) - can be optionally installed.
 - [Replicaant](https://replicant.us/) - Replicant is a fully free Android distribution running on several devices, a free software mobile operating system putting the emphasis on freedom and privacy/security.
-- [CalyxOS](https://anonym.to/?https://calyxos.org/) - Similar like GraphenOS, supports some Google Pixel Devices.
+- [CalyxOS](https://calyxos.org/) - Similar like GraphenOS, supports some Google Pixel Devices.
 
 ## iOS
 

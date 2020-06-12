@@ -8,7 +8,7 @@ sidebar_label: Misc
 - [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices.
 - [How to use eMule in 2018](https://www.reddit.com/r/Piracy/comments/9p82e1/how_to_use_emule_in_2018/) - An up-to-date guide detailing how to use eMule to download rare content from the eDonkey and Kad P2P networks.
 - [Movie Release Types](https://i.imgur.com/kEOrKJT.png) - Table of common movie release types, their labels, and descriptions.
-- [h-gen](https://anonym.to/?https://www.h-gen.xyz/) - A website which offers a free service to get Accounts for various services, Minecraft, Origin etc.
+- [h-gen](https://www.h-gen.xyz/) - A website which offers a free service to get Accounts for various services, Minecraft, Origin etc.
 - [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) - Post by /u/idoideas listing all available DVDSCR releases for 2019.
 - [iNFekt](https://infekt.ws/) - A text viewer application that has been carefully designed around its main task: viewing and presenting NFO files.
 - [NFForce](http://nfforce.temari.fr/) - Another NFO viewer.
@@ -59,8 +59,8 @@ sidebar_label: Misc
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 - [Hide Fake Torrent on ThePirateBay](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo?hl=en) - Browser extension to Hide Fake Torrent on The PirateBay.
 - [The Pirate Bay Tweaks](https://greasyfork.org/en/scripts/27293-the-pirate-bay-tweaks) - (based on [this script](https://greasyfork.org/scripts/21980)) - Userscript to detect fake TPB uploaders/torrents.
-- [SCRIMTEC](https://anonym.to/?https://github.com/BELGRADE-OUTLAW/SCRIMTEC) - SCRIbd MPUB To EPUB Converter.
-- [TinyMediaManager](https://anonym.to/?https://www.tinymediamanager.org/) - tinyMediaManager is a media management tool written in Java/Swing. It is written to provide metadata for the Kodi Media Center.
+- [SCRIMTEC](https://github.com/BELGRADE-OUTLAW/SCRIMTEC) - SCRIbd MPUB To EPUB Converter.
+- [TinyMediaManager](https://www.tinymediamanager.org/) - tinyMediaManager is a media management tool written in Java/Swing. It is written to provide metadata for the Kodi Media Center.
 
 ## Website archiving tools
 

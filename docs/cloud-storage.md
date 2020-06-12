@@ -20,7 +20,7 @@ sidebar_label: Cloud Storage
 - [Cloud storage table](https://nafanz.github.io/cloudstorage.html) - Regularly updated table of information about top cloud storage providers.
 - [CloudBox](http://cloudbox.works/) - An All-In-One, Cloud Centric & Media Server Solution.
 - [A python script to bypass the download limit of google drive files (w executable&source code)](https://www.reddit.com/r/Piracy/comments/eikrl3/a_python_script_to_bypass_the_download_limit_of/)
-- [Multcloud](https://anonym.to/?https://www.multcloud.com/) - Transfer and manage your multiple cloud files with one app. 100% Free.
+- [Multcloud](https://www.multcloud.com/) - Transfer and manage your multiple cloud files with one app. 100% Free.
 - [ownCloud](http://owncloud.com/client/) - The goal of ownCloud is to give you access to your files wherever you are.
 - [nextCloud](http://nextcloud.com/) - An actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services.
 - [Syncthing](http://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
@@ -28,7 +28,7 @@ sidebar_label: Cloud Storage
 
 ## Google Team Drives
 
-- [A complete guide of Google Shared drive (Team drive)](https://anonym.to/?hhttps://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
+- [A complete guide of Google Shared drive (Team drive)](hhttps://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
 - [Create Free TeamDrive](https://ihaxk.com/2020/03/09/free-google-team-drive/) - Allows you to easily create a free Google Team Drive account.
 - [Google Team Drive](https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
 - [GDIndex](https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
@@ -58,17 +58,17 @@ sidebar_label: Cloud Storage
 
 ## Transloading
 
-- [Clouddebrid](https://anonym.to/?https://clouddebrid.herokuapp.com/) - Supports more than 200 services, transload files easily.
-- [Furk.net](https://anonym.to/?https://www.furk.net/) - Personal secure storage that fetches media files and lets you stream them immediately.
-- [Offcloud](https://anonym.to/?https://offcloud.com/) - Cloud-based download manager
-- [Bitport.io](https://anonym.to/?https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
-- [Seedr](https://anonym.to/?https://www.seedr.cc/) - Stream on any device, anytime, anywhere!
-- [Webtor](https://anonym.to/?https://webtor.io/) - Similar like Seedr.
-- [JSTorrent](https://anonym.to/?https://www.jstorrent.com/) - Chrome WebTorrent Client.
-- [bitford](https://anonym.to/?https://github.com/astro/bitford) - Open Source based Client for Chrome.
-- [Multcloud](https://anonym.to/?https://www.multcloud.com/) - Similar like Offcloud. Transfer and manage your multiple cloud files with one app. 100% Free.
-- [Transfercloud](https://anonym.to/?hhttps://transfercloud.io/) - Download Torrents, Magnets and Links directly to your Cloud: Dropbox, Google Drive, Amazon Cloud, OneDrive, OpenDrive or FTP server.
-- [Put.io](https://anonym.to/?https://put.io/) - We fetch files from many public places at very high speeds, then put them into downloads.
-- [Boxopus](https://anonym.to/?https://boxopus.com/) - Fast and easy online torrent downloader. Download torrents to Dropbox or Google Drive.
-- [Cloudload](https://anonym.to/?https://www.cloudload.com/login) - Safely stream and download with Cloudload. Movies, music, software and documents; from the web to your secure cloud account in seconds.
-- [zbigz](https://anonym.to/?https://zbigz.com/) - Any content available for download. Anonymous downloads: Safe & Secure. Download torrent easy on our site directly to Google Drive.
+- [Clouddebrid](https://clouddebrid.herokuapp.com/) - Supports more than 200 services, transload files easily.
+- [Furk.net](https://www.furk.net/) - Personal secure storage that fetches media files and lets you stream them immediately.
+- [Offcloud](https://offcloud.com/) - Cloud-based download manager
+- [Bitport.io](https://bitport.io/welcome) - Download files to a secured cloud. Anonymously. Fast. Online.
+- [Seedr](https://www.seedr.cc/) - Stream on any device, anytime, anywhere!
+- [Webtor](https://webtor.io/) - Similar like Seedr.
+- [JSTorrent](https://www.jstorrent.com/) - Chrome WebTorrent Client.
+- [bitford](https://github.com/astro/bitford) - Open Source based Client for Chrome.
+- [Multcloud](https://www.multcloud.com/) - Similar like Offcloud. Transfer and manage your multiple cloud files with one app. 100% Free.
+- [Transfercloud](hhttps://transfercloud.io/) - Download Torrents, Magnets and Links directly to your Cloud: Dropbox, Google Drive, Amazon Cloud, OneDrive, OpenDrive or FTP server.
+- [Put.io](https://put.io/) - We fetch files from many public places at very high speeds, then put them into downloads.
+- [Boxopus](https://boxopus.com/) - Fast and easy online torrent downloader. Download torrents to Dropbox or Google Drive.
+- [Cloudload](https://www.cloudload.com/login) - Safely stream and download with Cloudload. Movies, music, software and documents; from the web to your secure cloud account in seconds.
+- [zbigz](https://zbigz.com/) - Any content available for download. Anonymous downloads: Safe & Secure. Download torrent easy on our site directly to Google Drive.

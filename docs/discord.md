@@ -23,7 +23,7 @@ sidebar_label: Discord
 
 ## Discord servers
 
-- [Freemediaheckyeah](https://anonym.to/?https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server.
+- [Freemediaheckyeah](https://discord.com/invite/vgnaeka) - The official FreeMediaHeckYeah Discord server.
 - [Snahp.it](https://discord.gg/ypyKZCj) - Official Discord server for snahp.it.
 - [f/MEGAlinks](https://discordapp.com/invite/xk7HEE3) - Official f/MEGAlinks Discord server.
 - [/hbg/ Homebrew General](https://discord.io/homebrew) - A Discord server that shares _newer_ Nintendo Switch Games.
@@ -44,4 +44,4 @@ sidebar_label: Discord
 - [The Ratio](https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
 - [WarezNX](https://discord.gg/d6xxuPq) - Nintendo Switch Warez community server.
 - [KissCommunity Discord](https://discordapp.com/invite/eCzUxNB) - Community based Discord server.
-- [TopNow.se](https://anonym.to/?https://discord.gg/marBA97) - Provides Movies, TV shows and Anime.
+- [TopNow.se](https://discord.gg/marBA97) - Provides Movies, TV shows and Anime.
