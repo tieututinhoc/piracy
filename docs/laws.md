@@ -43,7 +43,7 @@ sidebar_label: Laws
 
 ### Countries where piracy is permitted
 
-::: warning
+:::caution
 For personal use only. Publishing & sharing it is always illegal!
 :::
 

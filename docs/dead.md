@@ -3,7 +3,7 @@ title: Dead
 sidebar_label: Dead
 ---
 
-::: tip Heads up!
+:::note Heads up!
 
 This basically graveyard for all the dead links. None the links here are active anymore. These are all [Internet archive](https://web.archive.org/web/*/archive.org/) links. There is a chance that some links were never archived.
 

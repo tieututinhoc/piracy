@@ -75,7 +75,7 @@ sidebar_label: Security
 
 ## Password Managers
 
-::: warning
+:::caution
 
 [LastPass security issues](https://en.wikipedia.org/wiki/LastPass#Security_issues) - Wikipedia
 
@@ -206,7 +206,7 @@ sidebar_label: Security
 
 - [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis.
 
-::: warning
+:::caution
 
 I'm not responsible for the links, domains, it's content or if the provided `.onion` links are really the ones advertised. It's impossible for me as individual person to check every single page every second and monitor it's content.
 
@@ -214,19 +214,27 @@ Also be very carefull of scams. you can find the links to some scam sites on [`t
 
 :::
 
-::: tip Something to consider
+:::note Something to consider
 
 [Judge Recommends to Deny Summary Judgment Against Tor Exit Node Operator in Piracy Case](https://torrentfreak.com/judge-recommends-to-deny-summary-judgment-against-tor-exit-node-operator-in-piracy-case-190907/) - TorrentFreak
 
 :::
 
-::: warning
+:::caution
 
 [Bittorrent over Tor isn't a good idea](https://blog.torproject.org/bittorrent-over-tor-isnt-good-idea) - Tor Blog
 
 :::
 
-::: tip
+:::info
+If you suspect your access to the Tor network is being blocked, you may want to use bridges.
+
+You can get latest Tor bridges from [bridges.torproject.org](https://bridges.torproject.org/)
+
+:::
+
+
+:::tip
 
 Just replace .onion with .onion.ws or any other domain made available by volounteers [Tor2web](https://www.tor2web.org/) operators.
 
@@ -413,80 +421,6 @@ This connects you with Tor2web, which then talks to the onion service via Tor an
 | Gateway to Freenet | [`2vlqpcqpjlhmd5r2.onion`](http://2vlqpcqpjlhmd5r2.onion/) |
 | Tor links          | [`torlinkbgs6aabns.onion`](http://torlinkbgs6aabns.onion/) |
 
-#### Tor bridges
-
-::: tip
-
-You can get latest Tor bridges from [bridges.torproject.org](https://bridges.torproject.org/)
-
-:::
-
-```
-208.64.36.75:9001 AD2B08A94882F2042B5E2365073DEE9FD6B8F21E
-```
-
-```
-107.161.114.161:443 FFAFCB7340AF55888382F8BE58B92AD0908B5CC1
-```
-
-```
-38.229.33.152:443 AEDC774CF21732E86F233869469CD8E5EEFC7765
-```
-
-```
-14.207.13.229:110 A4E9DEF65B299AF7D21EAA9CDA90603CCF3AD22D
-```
-
-##### Tor obfs4 bridges
-
-```
-obfs4 71.33.251.73:35539 0BBFEF1B86046EB311DCD6CB2938D1D888134C7D cert=pPCJl+5Sw5d/vXxtTbepFqLXWgBHAEoW6lCKsqfZhvf/YhsrHZXNJAyZiRYa+p1vQyBoVA iat-mode=0
-```
-
-```
-obfs4 88.145.167.188:40515 6D4F889A4EECDC4BEA029EDD39938E936B35B0C2 cert=MjM81wMTwVuifsJu7dJULvgBEhKpOg/GWhJ4lYoWWtRx4JnS1JRwufzXGySdQeQViYbuYw iat-mode=0
-```
-
-```
-obfs4 38.229.33.142:35837 AA2CF60086709B7A3DD3B0A0F17887D36C7CF1D6 cert=mh7+9ZFcFYhUkmfU6qOn/xhSMOwkIRymOsWVuouEI8MBhlSHE/Wmd1rFf/F9aAAa3EpxKA iat-mode=1
-```
-
-```
-obfs4 185.175.58.149:46731 9E8D11F4054531C466B7145E050B00D23F972E4D cert=5Fqmi9Tryg02hsUAdWrZraUjCVNK9kYi+rgWxEHASDMApZZdw2rZEXUbgqVNiqMPtj67Yg iat-mode=0
-```
-
-```
-obfs4 92.223.72.163:443 B632C28E777383BFC3A51EDBB9C3A4F3FAE4D0A6 cert=VyXAXtzY4dvkFVN1J0Y/t9ab1Vry7DDmY+R9Pggl8PgRif3F35wN8FygnZmGnqiWxyDLGg iat-mode=0
-```
-
-```
-obfs4 67.6.166.1:37491 A10929E8DC3D6CE9AF2BE3A579A3053A67621933 cert=xFZMOe4a5LIcDduir9J0n9n6xEhto4bk9n1T8pSKYzxus1uafYOlx7mOUlcsD7oYHl9TXA iat-mode=0
-```
-
-```
-obfs4 139.59.57.170:37090 E1057ADD52BD02E503A540A3ABBA89DD2C9A6DD4 cert=l3Dsk9hcbCnfFCBjQahWgabSxqxn6O6eRbdrwdmU7kWRab58CFT+yCCVLGKpJMd3A7BKFA iat-mode=0
-```
-
-```
-obfs4 194.135.88.138:443 9F0BC3AA3CC72F17DC7789D7ABC7A763038F82CB cert=lINVQVt8EQS5q9DWz3S+RHLosgiRVXueHlMfY3qtas1qHhGXvg7MOu6jECDZ0mbrS7tQLA iat-mode=0
-```
-
-```
-obfs4 216.105.171.49:443 AEF4ACFD531A6612DA160A2191DCF13A14EDFADC cert=IOphnU1HNW4x0uqplDCCyW+KPLgSDtNdNGZbNDYCGOEp2Pcg/aRjHxAkrLcga47VAL4aLw iat-mode=0
-```
-
-```
-obfs4 185.198.57.215:443 9615531C2517AF54C44C99A69C4F69D053DAE585 cert=zNqqg8vzF7HnkhCcVmvPLXoaWLumk2oYqsS2xYy5tZI1A4iO70iPqjtKPzdtsx95DKLrcA iat-mode=0
-```
-
-```
-obfs4 112.213.34.5:7481 0999D3BF2AE56369164D87F73D250EE3AFFF8CBE cert=qMfSEga3wHim0bQzpresNpc3/nOD1oCh+p0nmrb83iLx9F9lluNab2FKnFN5oY5E/w6bPg iat-mode=0
-```
-
-```
-obfs4 93.217.197.170:5732 54B40AB7C7F0003FE10ED3C571955D202B52F9BD cert=h1LLrOlMGg5sV+j14+pvX9eiRw5ja576tr0D2xlT/eAsCMsUlZQIwSYqXrOB8/V9jXKTMw iat-mode=0
-```
-
 ### P2P Networks
 
 - [eDonkey network](https://en.wikipedia.org/wiki/EDonkey_network) - A decentralized, mostly server-based, peer-to-peer file-sharing network.
@@ -498,7 +432,7 @@ obfs4 93.217.197.170:5732 54B40AB7C7F0003FE10ED3C571955D202B52F9BD cert=h1LLrOlM
 
 ## Proxy
 
-::: warning
+:::caution
 
 [Why You Shouldn’t Use a Free Proxy](https://www.vpnmentor.com/blog/why-you-shouldnt-use-free-proxies/) - VpnMentor
 [Proxy Services Are Not Safe. Try These Alternatives](https://www.wired.com/2015/07/proxy-services-totally-unsecure-alternatives/) - WIRED
@@ -554,7 +488,7 @@ obfs4 93.217.197.170:5732 54B40AB7C7F0003FE10ED3C571955D202B52F9BD cert=h1LLrOlM
 
 ### Windows
 
-::: warning
+:::caution
 "[Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)" - Privacy tools
 :::
 
@@ -606,7 +540,7 @@ obfs4 93.217.197.170:5732 54B40AB7C7F0003FE10ED3C571955D202B52F9BD cert=h1LLrOlM
 
 ## Antivirus
 
-::: tip Overall Strategy
+:::tip Overall Strategy
 
 - Diversify your analysis approach.
 - Don't rely on the results from a single tool.

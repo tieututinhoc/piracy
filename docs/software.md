@@ -158,7 +158,7 @@ sidebar_label: Software
 
 ## Android
 
-::: warning
+:::caution
 
 You can't download paid android apps for free from the official Google Play Store. Paid apps are bound to your Google Account. If an app/website tells you otherwise, it is most probably a lie.
 
@@ -366,13 +366,14 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [How to add HackYouriPhone Repo in Cydia](http://repo.hackyouriphone.org/add)
 - [iOS: How to crack your apps (IPA) - and share it with people! (Working versions past iOS 9!)](https://www.removeddit.com/r/Piracy/comments/e6r80n/ios_how_to_crack_your_apps_ipa_and_share_it_with/)
 
-::: details Secure Enclave key for iPhone and iPad
 
-```
+<details>
+  <summary><h4>Secure Enclave key for iPhone and iPad</h4></summary>
+  <pre>
 iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347bc1897bdd66b11815f036e94c951250c4dda916c00
-```
+  </pre>
+</details>
 
-:::
 
 ### JailBreak
 
