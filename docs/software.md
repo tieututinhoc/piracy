@@ -367,12 +367,13 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [iOS: How to crack your apps (IPA) - and share it with people! (Working versions past iOS 9!)](https://www.removeddit.com/r/Piracy/comments/e6r80n/ios_how_to_crack_your_apps_ipa_and_share_it_with/)
 
 <details>
+
   <summary><b>Secure Enclave key for iPhone and iPad</b></summary>
-  <p>
-    <pre>
+
+```
 iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347bc1897bdd66b11815f036e94c951250c4dda916c00
-    </pre>
-  </p>
+```
+
 </details>
 
 ### JailBreak
