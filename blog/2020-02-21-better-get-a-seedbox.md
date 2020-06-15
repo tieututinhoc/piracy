@@ -10,15 +10,13 @@ BitTorrent is a great technology that has really revolutionized how we share fil
 
 <!--truncate-->
 
-The go-to answer for anonymous torrenting seems to be a good VPN service. Actually, *there is another*. Seedboxes, and it can also boost your torrenting speeds to whatever your connection can handle.
-
+The go-to answer for anonymous torrenting seems to be a good VPN service. Actually, _there is another_. Seedboxes, and it can also boost your torrenting speeds to whatever your connection can handle.
 
 ### WHAT’S A SEEDBOX?
 
 Being a dedicated seeder isn’t the easiest thing to do from a home connection. For one thing, it eats up your upstream bandwidth like it’s nobody’s business. The longer you seed the bigger a target you are as well. Frankly, most people on public trackers end up being “leechers” who download a file and then immediately leave.
 
 In order to solve this problem, the “seedbox” was invented. This is a dedicated online server that has the sole job of seeding torrents. People who belong to fancy elite private trackers use them as a way to maintain incredibly good ratios. In turn this mean they get fantastic download speeds and bandwidth.
-
 
 ### PRIVACY
 
@@ -28,11 +26,9 @@ This means that nothing about you is directly connected to the seedbox itself. J
 
 Of course, you still need to get the files from the seedbox to your own local computer, but seedboxes have that covered too. You can download the file as normal HTTPS traffic or in some cases use an SFTP client. In either case it’s normal web-traffic that doesn’t get throttles and no one knows what you’ve downloaded. All they know is that you’re connected to the seedbox itself.
 
-
 ### FAVOURABLE LOCATIONS
 
 Many seedboxes are hosted in countries that have a favorable legal framework when it comes to file sharing via P2P technology. It provides an extra layer of privacy, as long as the seedbox provider itself has a good personal information policy.
-
 
 ### SAVING BANDWIDTH
 
@@ -40,23 +36,19 @@ Torrenting uses significant up- and down- stream bandwidth. Even if you’re on 
 
 With a seedbox that’s not your problem anymore. The seedbox does its thing until it’s ready to provide you with the actual files. Until then your bandwidth remains completely untouched.
 
-
 ### CONVENIENCE
 
 Since a seedbox is a remote computer you can access it from anywhere you are. This means that you can use your phone, for example, to load torrent links into the seedbox and they’ll download while you’re away. When you come back home you can quickly download them to your local computer or your media server.
 
 Many seedboxes have very useful web interfaces with all sorts of tools to make torrenting and file management easy no matter where you are.
 
-
 ### THEY WORK WHERE VPNS DON’T
 
 Sometimes it’s just not possible to use a VPN. It could be because of ISP blocking or simply because your speeds suffer too much. Whatever the reason you can’t use a VPN for torrents, a seedbox is a good alternative to maintain your privacy and still enjoy top speeds. Even if you’re happy with your VPN, seedboxes offer such a good torrenting experience you might want one anyway.
 
-
 ### AS A PRIVATE STREAMING SERVER
 
 While it’s not universal, many seedboxes offer the ability to stream content directly from the box itself. Some offer extensions to your media server applications. However you set it up, it means you can have a private high-speed streaming server from which you can access your content anywhere there’s an internet connection. Pretty cool, right?
-
 
 ### SHARED SEEDBOXES
 
@@ -84,20 +76,17 @@ The most straightforward way is to download them directly via HTTPS. Just like d
 
 The best way is most likely to use SFTP, which is an encrypted FTP connection. To use this you need an SFTP client. Just put in the provided SFTP login details and you can manage files in both directions using a client.
 
-
 ### ADVANCED SEEDBOX OPTIONS
 
 There are two other seedbox types that are better for more advances users. A Virtual Private Server (VPS) is still a solution which provides you a share of a larger physical server. However, all users aren’t running on the same machine with an account-based system. Instead you get a virtual machine with root access so you can customize it. It’s not for the faint-hearted, but provides a good balance between the control of a dedicated physical server and the cost of a shared seedbox.
 
 Speaking of which, the ultimate (and most expensive) option is to rent a dedicated physical server which you can configure yourself while having full performance available 24/7. This is an option suitable for people whose business is basically seeding torrents.
 
-
 ### GETTING A GOOD DEAL
 
-How much should you pay for a seedbox? Well obviously that depends on how much speed and capacity you need. An average torrent user who just wants to get torrents onto their computer doesn’t have to worry much about total storage capacity. If you delete data you’ve already downloaded then something between 50 and 100 GB should be plenty. If that’s the ballpark storage size you’re looking for there are many shared seedboxes for about $10 (or less!) that will do nicely.
+How much should you pay for a seedbox? Well obviously that depends on how much speed and capacity you need. An average torrent user who just wants to get torrents onto their computer doesn’t have to worry much about total storage capacity. If you delete data you’ve already downloaded then something between 50 and 100 GB should be plenty. If that’s the ballpark storage size you’re looking for there are many shared seedboxes for about \$10 (or less!) that will do nicely.
 
 The prices don’t go much north from there, unless you decide to switch from a shared seedbox to something fancier.
-
 
 ### CONCLUSION
 

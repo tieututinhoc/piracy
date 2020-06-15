@@ -16,18 +16,15 @@ The speed of this worldwide network is astonishing. Within minutes a release can
 
 It's not all one big happy family. The warez scene consists of several layers.
 
-
 ### HIERARCHY
 
 Not all these 'layers' are considered as a part of the scene by everyone. In fact, the release groups and the people on the topsites hate these other groups. The reason for this is that they bring the scene in danger. The "sceners" want to keep the releases for a limited amount of people.
 
 We'll start at the top and work our way down.
 
-
 #### THE PEOPLE
 
 There are basically three ranks in site trading: site-ops, affiliates and racers.
-
 
 ##### SITE-OPS (SITE-OPERATORS)
 
@@ -35,16 +32,13 @@ These are the administrators. One of them is often the supplier of the site, ano
 
 One or more of the site-ops will be the nuker. It is his job to nuke any releases that are old or fake.
 
-
 ##### AFFILIATES
 
 They are the release groups who post their releases there right after they are finished.
 
-
-##### RACERS 
+##### RACERS
 
 Racers usually have access to a number of sites and will use FXP to race releases between sites as soon as they're released. Using FXP for a release will gain credits. The race is to upload the most parts of the release at the fastest speed. Racing happens shortly after a release is finished.
-
 
 #### THE SITES
 
@@ -52,11 +46,9 @@ These sites have very fast internet connections and huge hard disk drives. These
 
 The sites run a bot with various scripts installed. The bot will make an annoucement on an IRC channels when an upload is completed. It will also give race information for the site traders trying to send a release as quick as possible to another site. From which they earn credits. The more credits, the more one can download.
 
-
 #### TOPSITES
 
 Site trading is basically sending releases from one site to another. Release groups publish their releases on these sites, so they are the first stadium in the distribution of warez. From there on, a release will be spread all over the world.
-
 
 #### FXP BOARDS
 
@@ -66,11 +58,9 @@ The FXP boards layer in the piracy food chain is quite unknown and therefore rat
 
 The boards usually don't work with a credit system. The board's members consist of scanners, hackers, and fillers. They each have their own tasks:
 
-
 ##### THE SCANNER
 
 The Scanner's job is to scan IP ranges that have fast internet connections, like universities, companies, etc. They brute force passwords or scan for certain programs which contain bugs. The scanner will often use slow previously hacked computers for scanning (known as scanstros), using remote scan programs. Once the scanner gets the results, it is posted on the board. This is where the Hacker comes into play.
-
 
 ##### THE HACKER
 
@@ -78,13 +68,11 @@ Hackers break in to the computers listed by scanners using an exploit to get in 
 
 Depending on the speed of the compromised computers' internet connection and the hard drive space, it will be used either by a filler or a scanner.
 
-
 ##### THE FILLER
 
 Now if the server is fast enough and has enough hard drive space, it's the filler's job to "fill" it with the latest warez. The filler gets his warez from other FTP servers. People who are in sites and in FXP boards are considered corrupt, and if other sceners find out, they will be banned.
 
 Once done filling, the filler goes back to the board and posts leech logins for all to use. Fillers try to post a release first. It's kinda like a race, who ever wins it get the most credit. The speed of these pubstros depend on how fast the computer is that they hacked.
-
 
 ##### PUB/PUBBING
 
@@ -95,7 +83,6 @@ So instead of breaking into a computer, they would scan for servers with write a
 Once found, a pub would be tagged by a folder with a special name. The idea was that if a pub was already "tagged" other pubbers would leave it alone. This apparently worked for a while, with people respecting other people's tags and leaving the pubs alone. But it certainly hasn't worked for a very long time.
 
 A method against retagging is directory locking. This is used in pubbing to stop people who are not allowed to use the directory of the tagger and slowing the server down.
-
 
 #### IRC TRADING
 
@@ -109,13 +96,11 @@ Then there are server-to-user channels. These are usually run by people who are 
 
 There is a limited amount of people allowed to download a release at once, so when a release is popular you are placed into a waiting line. That way good download speeds will be guaranteed.
 
-
 #### NEWS GROUPS
 
 When the internet was still young there were special interest groups that shared information and kept in touch by using a bulletin board type system. A while later, the users of certain news groups thought that this system would be ideal to share files with each other.
 
 It's easy to access news groups but unless you are familiar with them, navigating and downloading files from the news groups takes more effort than P2P software. You can download from newsgroups using a news reader. There are also paid news servers, these are faster and can hold up the files longer than free news servers.
-
 
 #### PEER-TO-PEER (P2P)
 
@@ -127,11 +112,9 @@ The download speeds are quite low since you download from other users. Most P2P 
 
 A special kind of P2P system is BitTorrent. It is widely used and also fairly accessible, although it's rather insecure.
 
-
 ### THE SCENE SYSTEM
 
 The Scene isn't just a distribution network, it's far more than that. There are the Scene rules which are there to guarantee good quality releases. The Scene relies on strict release standards, or rules, which are written and signed by various warez groups.
-
 
 #### COMMUNICATION
 
@@ -143,20 +126,17 @@ Second, the channels are often protected with addons which encrypt the messages 
 
 Also there is a site bot, which will make annoucements when a release group publishes a new release on the site, or a member starts to upload a release.
 
-
 #### CREDIT SYSTEM
 
 The site works with a credit system. Site-ops and affiliates are usually exempt from this system, they have a free leech account. This credit system works according to a ratio. When a member doesn't pass the minimum monthly required amount of upload, he'll automatically be removed.
 
 Credits can be lost by uploading a bad release which gets nuked. Nuke multiplier affects the amount of lost credits.
 
-
 #### AFFILIATES
 
 Each affiliate has access to a private, hidden directory on the topsite. This directory is used for uploading new releases before they are made available to other users. When a new release has finished uploading on each of the group's sites, a command is executed to simultaneously copy it into a directory accessible by other users, and trigger an announcement in the topsite IRC channel. This command is called the PRE command. "To pre" refers to executing this command.
 
 PRE releases may be also relayed to external channels to inform other users from FXP boards that a new release is available for racing.
-
 
 #### RELEASE DATABASE
 
@@ -166,13 +146,11 @@ Release databases are maintained to provide release groups with a service for ch
 
 Release databases are updated by automatic processes that either search selected topsites for new releases (spidering), or catch PRE release announcements from site IRC channels.
 
-
 #### NUKES
 
 If a group publishes a release which already has been released by another release group or is of bad quality, it's labled a dupe. Then the release will be nuked. This means that it's marked as a bad release and removed. Release groups try to avoid nukes, since this will give them a bad reputation. Except for dupe, releases can be nuked for other reasons too.
 
 There are 2 types of nuke:
-
 
 ##### GLOBAL NUKE
 
@@ -188,18 +166,15 @@ Common nuke causes:
 - Bad process of converting framerates
 - Interlaced
 
-
 ##### LOCAL NUKE
 
 Individual sites nuke releases for breaking their rules, for example: dvd's subbed in languages other than english, camrip, lower bitrate, etc. So because there is nothing wrong with the release and are nuked locally, they can still be traded on other sites.
-
 
 ### SCENE RULES
 
 The scene rules are the standards for releasing warez. These standards are the minimum requirements for a release. The scene rules are defined by large and mature groups. In organized warez distribution, all releases must follow these standards to avoid nukes.
 
 The committee usually cycles several drafts and finally decides which is best suited for the purpose, and then releases the draft for approval. Once the draft has been signed by several bigger groups, it becomes the new standard. There are separate standards for each category of releases.
-
 
 > Why these rules?
 
@@ -212,7 +187,6 @@ The scene rules may seem a little strict, but they certainly are not there to bo
 - The rules lead to a standarized way of sharing, which the user benefits from. You can recognize a good release and spare the inconvenience of poorly ripped movies by amatures. Also it's much easier to compare releases to eachother.
 
 - Scene releases always contain all the information about how it's ripped, what the quality is etc. This way you always know what you're downloading.
-
 
 ### CONCLUSION
 

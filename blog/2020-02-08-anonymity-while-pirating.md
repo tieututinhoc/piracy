@@ -14,7 +14,7 @@ Let's get this straight, there is NO way to prevent yourself from being tracked,
 
 A VPN, or a Virtual Private Network, is a way of cloaking your IP and encrypting all of your internet traffic so your Internet Service Provider and snoopers at coffeeshops can't see what you do online.
 
-Many people regard VPNs as an excellent, and easy way of protecting yourself, especially on public trackers such as 1337x, The Pirate Bay and RarBG. In some cases, they also allow you to bypass ISP throttling for torrents. 
+Many people regard VPNs as an excellent, and easy way of protecting yourself, especially on public trackers such as 1337x, The Pirate Bay and RarBG. In some cases, they also allow you to bypass ISP throttling for torrents.
 
 While getting a VPN subscription, you should check for if the service:
 
@@ -64,7 +64,7 @@ You can also run your own VPN for using a cheap VPS and openVPN. You can also us
 
 Do NOT use super cheap or free VPN because they datamine/keep logs.
 
-***Incident:** [Topiary (Lulzsec), an international hacker, who was caught due to HideMyAss.](https://www.theatlantic.com/technology/archive/2011/09/lulzsec-hacker-exposed-service-he-thought-would-hide-him/337545/)*
+**\*Incident:** [Topiary (Lulzsec), an international hacker, who was caught due to HideMyAss.](https://www.theatlantic.com/technology/archive/2011/09/lulzsec-hacker-exposed-service-he-thought-would-hide-him/337545/)\*
 
 You will likely be caught if you choose a VPN provider that keeps logs and are under constant pressure from anti-piracy organizations.
 
