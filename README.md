@@ -32,35 +32,19 @@ Website mirrors:
 
 Research purposes... :wink:
 
+> But [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) already exists.
+
+It has been very inactive lately. You can think of this as a website version of awesome-piracy.
+
 > Is this a biased list?
 
 Somewhat. I don't know everything about piracy and can be a little resistive while adding new links.
-
-> Why can't I do a full text search on the website?
-
-A full-text search function is planned.
-The website uses vuepress for easy maintainance and deployment.
-Vuepress currently only supports header search and algolia pluggin.
-I don't know how to integrate algolia in the current workflow.
-Any help regarding this will be much appreciated.
-Untill then you will have to search via GitHub or GitLab repository search.
 
 ## Contribute
 
 Contributions are welcome! Read the [contribution guidelines](contributing.md) to make sure nothing goes wrong.
 
 For discussion, feedback or if you come across dead links please head over to [issues](https://github.com/maximousblk/piracy/issues/) page.
-
-## Project structure
-
-- [.github/](.github/) - Github Workflow files.
-- [docs/](docs/) - Main website Source code and lists.
-- [.gitignore](.gitignore) - gitignore file.
-- [LICENSE](LICENSE) - License file.
-- [now.json](docs/now.json) - Configuration file for Vercels Now.
-- [package-lock.json](docs/package-lock.json) - Lock file for package manager.
-- [package.json](docs/package.json) - Package manager configurations.
-- [README.md](README.md) - This file.
 
 ## Disclaimer
 
