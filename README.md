@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://piracy.now.sh"><img width="200" src="https://piracy.now.sh/logo.svg" alt="arrrr!"></a>
+  <a href="https://piracy.now.sh"><img width="200" src="https://piracy.now.sh/img/logo.svg" alt="arrrr!"></a>
   <h1 align="center">Piracy</h1>
   <h3 align="center">It's illegal cuz they can't tax you!</h3>
 </div>
