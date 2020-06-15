@@ -26,6 +26,10 @@ Website mirrors:
 
 Research purposes... :wink:
 
+> But [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) already exists.
+
+It has been very inactive lately. You can think of this as a website version of awesome-piracy.
+
 > Is this a biased list?
 
 Somewhat. I don't know everything about piracy and can be a little resistive while adding new links.
