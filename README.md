@@ -10,7 +10,7 @@
   <a href="https://twitter.com/intent/tweet?text=Head over to https://piracy.now.sh/ for amazing %23piracy links and resources!"><img src="https://img.shields.io/badge/-tweet%20about%20this-1da1f2?logoColor=fff&logo=twitter&labelColor=1da1f2&style=for-the-badge" alt="Tweet"></a>
 </div>
 
-This list is an attempt to add structure to the resources you need to get started on your pirate voyage.
+This website is a collection of the best digital piracy resources. This will help you get started on your pirate voyage.
 
 ## Mirrors
 

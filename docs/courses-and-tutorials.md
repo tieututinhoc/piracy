@@ -1,8 +1,7 @@
 ---
-permalink: /courses-and-tutorials/
+title: Courses and Tutorials
+sidebar_label: Courses
 ---
-
-# Courses and Tutorials
 
 - [FreeTutorials.eu](https://www.freetutorials.eu/) - Lots of Udemy courses for free; Has Adblock detector.
 - [GFXDomain.net Tutorials board](http://forum.gfxdomain.net/forums/others-tutorials.42/) - Forum with free tutorials for graphic design, mostly via premium file hosts but some torrents.

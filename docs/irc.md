@@ -1,8 +1,7 @@
 ---
-permalink: /irc/
+title: IRC
+sidebar_label: IRC
 ---
-
-# IRC
 
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) - A plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
 - [XDCC Tutorial](http://theloadguru.com/xdcc-irc-beginners-guide/) - XDCC Downloading For Beginners: Do It Like A Pro!.

@@ -1,8 +1,7 @@
 ---
-permalink: /torrents/
+title: Torrents
+sidebar_label: Torrents
 ---
-
-# Torrents
 
 - [A Simple Guide To A Better Ratio](https://www.reddit.com/r/trackers/comments/fthja/a_simple_guide_to_a_better_ratio/) - A good tracker requires you to upload what you download. This guide explains many of the methods involved with keeping on top of this sometimes difficult task.
 - [magent2torrent.me](http://magnet2torrent.me/) - Converts magnet links to torrent files.
@@ -99,40 +98,40 @@ permalink: /torrents/
 - [WorldOfP2P](https://worldofp2p.net) - (WOP) - Private tracker for Movies, TV and general P2P stuff.
 - [Bitspyder](http://bitspyder.net/) - (BS) - Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audiobooks.
 - [MySpleen](http://www.myspleen.org/login.php) - (MS) - MySpleen is a private tracker which specialises in comedy, animation, and TV series.
-- [xbytes](https://anonym.to/?http://www.xbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
-- [HDBytes](https://anonym.to/?https://www.hdbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
-- [Torrenteros](https://anonym.to/?http://www.torrenteros.net/signup.php) - (`ES`) - Spanish tracker for movies and TV shows.
-- [HDCity](https://anonym.to/?https://hdcity.li/) - (`ES`) - Spanish tracker for movies and TV shows.
-- [HD-Spain](https://anonym.to/?https://www.hd-spain.com/) - (`ES`) - Spanish tracker for movies and TV shows.
-- [Telly.CC](https://anonym.to/?hhttps://telly.cc/login) - Movie tracker website.
+- [xbytes](http://www.xbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [HDBytes](https://www.hdbytes.li/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [Torrenteros](http://www.torrenteros.net/signup.php) - (`ES`) - Spanish tracker for movies and TV shows.
+- [HDCity](https://hdcity.li/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [HD-Spain](https://www.hd-spain.com/) - (`ES`) - Spanish tracker for movies and TV shows.
+- [Telly.CC](hhttps://telly.cc/login) - Movie tracker website.
 
 ### Semi-Private Trackers
 
-- [ArenaBG](https://anonym.to/?https://arenabg.com/) - A Bulgarian tracker with an English translation available.
-- [NoNaMe Club](https://anonym.to/?https://nnmclub.to/) - (`RU`) - Russian semi-private tracker and forum.
-- [ruTracker](https://anonym.to/?https://rutracker.org/forum/index.php) - RuTracker is a huge Russian torrent site with a thriving file-sharing community.
-- [MetalArea](https://anonym.to/?https://metalarea.org/) - Russian tracker for obscure metal and dungeon synth.
-- [Zamunda.net](https://anonym.to/?https://zamunda.net/) - A Bulgarian tracker with English and Russian translations available.
-- [sktorrent](https://anonym.to/?https://sktorrent.org/)
-- [kaztorka](https://anonym.to/?https://kaztorka.org/) - (`RU`) - 0day & general
-- [Films.club](https://anonym.to/?https://films.club/) - (`RU`) - Russian Tracker for Movies and TV Shows.
-- [erzsebet](https://anonym.to/?https://erzsebet.org/) - (`RU`) - Russian adult torrent website
-- [extremlymtorrents](https://anonym.to/?https://extremlymtorrents.ws/) - General content, movies, tv series
-- [muziekfabriek](https://anonym.to/?https://www.muziekfabriek.org/) - (`DU`) - Semi-private Dutch torrent tracker for Dutch audio.
-- [dxp](https://anonym.to/?https://dxp.ru/) - (`RU`) - DXP.ru is a Rusian Semi-Private Torrent Tracker for MOVIES & TV.
-- [tribalmixes](https://anonym.to/?https://www.tribalmixes.com/signup.php) - TribalMixes is a ratioless Private Torrent Tracker for DJ MIXES.
-- [Torrent Explosiv](https://anonym.to/?https://torrent-explosiv.eu/) - (`Ger`) - German Tracker for various content.
-- [EniaHD](https://anonym.to/?https://eniahd.com/) - (`RU`) - Russian tracker for music, movies and tv shows.
-- [Underverse](https://anonym.to/?https://underverse.su/) - (`RU`)
-- [booktracker](https://anonym.to/?https://booktracker.org/) - (`RU`)
-- [Alexfilm](https://anonym.to/?https://alexfilm.cc/)
-- [Marine Tracke](https://anonym.to/?https://seatracker.ru/) - (`RU`)
-- [ScenePalace.info](https://anonym.to/?https://scenepalace.info/signup.php)
-- [torrents-local.xyz](https://anonym.to/?https://torrents-local.xyz/)
-- [toloka](https://anonym.to/?https://toloka.to/) - (`UR`) - Ukrainian Semi-private forum, requires registration to download.
-- [xktorrent](https://anonym.to/?https://xktorrent.com/) - (`FR`) - Movie/TV/General.
-- [ShareWood](https://anonym.to/?https://www.sharewood.tv/login) - (`FR`) - Movie/TV/General.
-- [aussierul](https://anonym.to/?https://aussierul.es/)
+- [ArenaBG](https://arenabg.com/) - A Bulgarian tracker with an English translation available.
+- [NoNaMe Club](https://nnmclub.to/) - (`RU`) - Russian semi-private tracker and forum.
+- [ruTracker](https://rutracker.org/forum/index.php) - RuTracker is a huge Russian torrent site with a thriving file-sharing community.
+- [MetalArea](https://metalarea.org/) - Russian tracker for obscure metal and dungeon synth.
+- [Zamunda.net](https://zamunda.net/) - A Bulgarian tracker with English and Russian translations available.
+- [sktorrent](https://sktorrent.org/)
+- [kaztorka](https://kaztorka.org/) - (`RU`) - 0day & general
+- [Films.club](https://films.club/) - (`RU`) - Russian Tracker for Movies and TV Shows.
+- [erzsebet](https://erzsebet.org/) - (`RU`) - Russian adult torrent website
+- [extremlymtorrents](https://extremlymtorrents.ws/) - General content, movies, tv series
+- [muziekfabriek](https://www.muziekfabriek.org/) - (`DU`) - Semi-private Dutch torrent tracker for Dutch audio.
+- [dxp](https://dxp.ru/) - (`RU`) - DXP.ru is a Rusian Semi-Private Torrent Tracker for MOVIES & TV.
+- [tribalmixes](https://www.tribalmixes.com/signup.php) - TribalMixes is a ratioless Private Torrent Tracker for DJ MIXES.
+- [Torrent Explosiv](https://torrent-explosiv.eu/) - (`Ger`) - German Tracker for various content.
+- [EniaHD](https://eniahd.com/) - (`RU`) - Russian tracker for music, movies and tv shows.
+- [Underverse](https://underverse.su/) - (`RU`)
+- [booktracker](https://booktracker.org/) - (`RU`)
+- [Alexfilm](https://alexfilm.cc/)
+- [Marine Tracke](https://seatracker.ru/) - (`RU`)
+- [ScenePalace.info](https://scenepalace.info/signup.php)
+- [torrents-local.xyz](https://torrents-local.xyz/)
+- [toloka](https://toloka.to/) - (`UR`) - Ukrainian Semi-private forum, requires registration to download.
+- [xktorrent](https://xktorrent.com/) - (`FR`) - Movie/TV/General.
+- [ShareWood](https://www.sharewood.tv/login) - (`FR`) - Movie/TV/General.
+- [aussierul](https://aussierul.es/)
 
 ### Public Trackers
 
@@ -209,7 +208,7 @@ permalink: /torrents/
 - [Rock Box](https://rawkbawx.rocks/) - Metal music tracker.
 - [Music Torrent](http://music-torrent.net) - General music tracker.
 - [Torrent Paradise](https://torrent-paradise.ml/) - (`needs ad-blocker`) - A torrent site which does not offer much information appart from the title and seeders.
-- [Redtopic](https://anonym.to/?https://git.fuwafuwa.moe/cairn/Redtopia) - Redtopia was a private music tracker that was shutdown. This repository contains torrents for downloading its content.
+- [Redtopic](https://git.fuwafuwa.moe/cairn/Redtopia) - Redtopia was a private music tracker that was shutdown. This repository contains torrents for downloading its content.
 
 ## Tracker Proxies
 
@@ -316,12 +315,12 @@ permalink: /torrents/
 - [Seedbox Guide](https://seedboxgui.de/) - Comparison tool to help you find the best fitting Seedbox.
 - [swizzin](https://swizzin.ltd/) - A light, modular package management suite for media-oriented servers.
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) - Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with a Nginx proxy.
-- [Webtor](https://anonym.to/?https://webtor.io/) - Watch torrents online.
-- [JSTorrent](https://anonym.to/?https://www.jstorrent.com/) - Chrome WebTorrent Client.
-- [bitford](https://anonym.to/?https://github.com/astro/bitford) - Open Source WebTorrent Client for Chrome.
-- [Magnet Player](https://anonym.to/?https://ferrolho.github.io/magnet-player/) - Stream Torrents via Browser.
-- [Torrents Time](https://anonym.to/?https://torrents-time.com/) - Download and Watch Torrents Directly From Your Browser.
-- [TorrentSafe](https://anonym.to/?https://www.torrentsafe.com/) -
+- [Webtor](https://webtor.io/) - Watch torrents online.
+- [JSTorrent](https://www.jstorrent.com/) - Chrome WebTorrent Client.
+- [bitford](https://github.com/astro/bitford) - Open Source WebTorrent Client for Chrome.
+- [Magnet Player](https://ferrolho.github.io/magnet-player/) - Stream Torrents via Browser.
+- [Torrents Time](https://torrents-time.com/) - Download and Watch Torrents Directly From Your Browser.
+- [TorrentSafe](https://www.torrentsafe.com/) -
 
 ### Web-based Cloud Seedboxes
 

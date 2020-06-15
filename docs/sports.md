@@ -1,8 +1,7 @@
 ---
-permalink: /sports/
+title: Sports
+sidebar_label: Sports
 ---
-
-# Sports
 
 - [r/MLBstreams](https://www.reddit.com/r/MLBstreams/) - MLB streams.
 - [r/NHLstreams](https://www.reddit.com/r/NHLstreams/) - NHL streams.

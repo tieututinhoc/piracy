@@ -1,8 +1,7 @@
 ---
-permalink: /documentaries/
+title: Documentaries
+sidebar_label: Documentaries
 ---
-
-# Documentaries
 
 - [r/Documentaries](https://www.removeddit.com/r/documentaries) - Popular documentaries subreddit.
 - [Documentary.su](http://documentary.su/) - International board for audiobooks & documentaries.

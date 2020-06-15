@@ -1,8 +1,7 @@
 ---
-permalink: /browser-extensions/
+title: Browser Extensions
+sidebar_label: Browser Extensions
 ---
-
-# Browser Extensions
 
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [Add-Art](https://add-art.org/) - Replaces ads with art.
@@ -52,3 +51,30 @@ permalink: /browser-extensions/
 - [AudioContext Fingerprint Defender](hhttps://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en) - Defending against AudioContext fingerprinting by reporting a fake value.
 - [Telegram Media Downloader](https://chrome.google.com/webstore/detail/telegram-media-downloader/ffhhcekaaamffjnapdckmnkllkmmpfnh) - Bypass the 1.5 GB download limit and scrape channels/groups.
 - [netflix-1080p](https://github.com/truedread/netflix-1080p/) - Chrome extension to play Netflix in 5.1 and 1080p.
+
+### Browser Extensions for YouTube
+
+- [Iridium](https://github.com/ParticleCore/Iridium) - Iridium is an extension built to improve your experience with the new YouTube Material layout.
+- [YouTube Skip intro (Chrome)](https://chrome.google.com/webstore/detail/youtube-skip-intro/pkfnooichbjhhoajcoffiggbckfbflbg) - Define the intro time to skip it each time you play a video on YouTube helpful when you watching a series or any many episodes shows.
+- [YouTube: Age Verification Bypass](https://greasyfork.org/scripts/375525) - Watch restricted videos without having to log in.
+- [Invidition](https://addons.mozilla.org/en-US/firefox/addon/invidition/) - Redirects YouTube and Twitter to their alternative ads-free, privacy-friendly, interfaces.
+
+## Misc Browser Extensions
+
+- [RSS Subscription Extension by Google](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?hl=en) - Adds one-click subscription to your toolbar and brings back the posability to read RSS Feeds in Chrome.
+- [Containerise](https://addons.mozilla.org/en-US/firefox/addon/containerise/) - Automatically open websites in a dedicated container. Simply add rules to map domain or subdomain to your container.
+- [Image Search Options](https://saucenao.com/tools/) - Add search options to the right-click context menu.
+- [MegaLinks & Snahp.it Forum Link Solver](https://github.com/samvk/snahp-it-forum-link-solver) - Simplify opening forum.snahp.it links.
+- [Remote Torrent Adder](https://chrome.google.com/webstore/detail/remote-torrent-adder/oabphaconndgibllomdcjbfdghcmenci?hl=en) - Allows you to send torrent files from your browser to your remote or local Bittorrent client's web interface.
+- [SABconnect++](https://github.com/gboudreau/sabconnectplusplus) - Chrome extension which adds one-click 'Send to SABnzbd' buttons to many popular NZB index sites.
+- [Save To The Wayback Machine](https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk) - Quickly save web pages to the Internet Archive's Wayback Machine.
+- [Stylus](https://github.com/openstyles/stylus/) - Redesign your favorite websites with Stylus, an actively developed and community driven userstyles manager.
+- [Onion Browser Button](https://chrome.google.com/webstore/detail/onion-browser-button/fockhhgebmfjljjmjhbdgibcmofjbpca?hl=en)
+  - [source code](https://github.com/jeremy-jr-benthum/tor-button)
+- [Save to the Wayback Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
+- [Search by Image](https://github.com/dessant/search-by-image) - Enables you to initiate a reverse image search from the context menu or the browser toolbar, and supports more than 30 search engines.
+- [2read](https://2read.net/) - Convert article in current tab to readable form and upload it to IPFS.
+- [User-Agent Switcher](https://github.com/ray-lothian/UserAgent-Switcher) - A User-Agent spoofer browser extension that is highly configurable.
+- [Simple Translate](https://github.com/sienori/simple-translate) - Quickly translate selected text on web page.
+- [h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos.
+- [SponsorBlock](https://sponsor.ajay.app/) - SponsorBlock is a crowdsourced browser extension to skip sponsor segments in YouTube videos.

@@ -1,8 +1,7 @@
 ---
-permalink: /media-centre-applications/
+title: Media Centre Applications
+sidebar_label: Media Centre Applications
 ---
-
-# Media Centre Applications
 
 - [Emby](https://emby.media/) - A personal media server with apps on just about every device.
   - [r/EmbyShares](https://www.removeddit.com/r/EmbyShares) - This subreddit is dedicated to the sharing of Emby servers.

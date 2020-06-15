@@ -1,8 +1,7 @@
 ---
-permalink: /games/
+title: Games
+sidebar_label: Games
 ---
-
-# Games
 
 - [How to break IGG-GAMES's DRM](https://www.removeddit.com/r/Piracy/comments/dn4t2e/how_to_break_igggamess_drm_repost_since_deleted/) - A guide to bypass IGG motherf\*cking DRM.
 - [Playing The Outer Worlds on Linux without the Epic Games Launcher](https://www.removeddit.com/r/Piracy/comments/drspy4/playing_the_outer_worlds_on_linux_without_the/)
@@ -26,7 +25,7 @@ permalink: /games/
 - [Is Cracked?](https://iscracked.info/) - Similar likle Crackwatch, provides Infos if the game was already cracked or not, among Game information and release date.
 - [Goldberg Steam Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) - The project is an attempt to make a generic Steam ddl that lets you play multiplayer games on a LAN without any internet connection.
 - [SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) - A Steam emulator.
-- [Scenegames](https://anonym.to/?https://scenegames.to/) - GoD scene releases.
+- [Scenegames](https://scenegames.to/) - GoD scene releases.
 - [GOD Games](https://god-games.com/) - GOD is alive.
 - [GOD Project](http://god.freevar.com) - A work in Progress Project which aims to reboot the old GOD project.
 - [Torminatorr.com](https://www.forum.torrminatorr.com/viewforum.php?f=13) - Collection of GOG, scene, 0day Games.
@@ -57,7 +56,7 @@ permalink: /games/
 - [Steamunlocked](https://steamunlocked.net) - Pre-installed/cracked steam games - just hit start and play.
 - [VseTop](https://vsetop.org/) - (RU) - Yet another russian website which buy their own games and release it to the mass.
 - [Warmane](https://www.warmane.com/) - Hosts private WoW Servers.
-- [Mabandonware](https://anonym.to/?hhttps://www.myabandonware.com/) - Older Video games.
+- [Mabandonware](hhttps://www.myabandonware.com/) - Older Video games.
 
 ### Steam
 
@@ -277,7 +276,7 @@ permalink: /games/
 - [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) - List of Xbox, Nintendo etc games.
 - [Old Games Finder](http://www.oldgamesfinder.com/) - Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
 - [Retro Archive](https://anonym.to/https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Collection of all retro based ROM's.
-- [ROM Center paste](https://anonym.to/?https://ybin.me/p/f120dd883deb63e4#iTLATNEVQsWc9ph77hnFRJRkf10SNyJyCTcJBuhJEz4=) - An archive collection of various game console ROMs.
+- [ROM Center paste](https://ybin.me/p/f120dd883deb63e4#iTLATNEVQsWc9ph77hnFRJRkf10SNyJyCTcJBuhJEz4=) - An archive collection of various game console ROMs.
 - [Rom Links Megathread - 1Fichier, GDrive, Mega](https://reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) - Nintendo, Sony, Microsoft, Romsets, Arcade and other ROM collections.
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - Wiki page from gametechwiki.com with more links to ROM and ISO websites.
 - [ROMNation](https://anonym.to/https://www.romnation.net/) - Lots of ROMs.

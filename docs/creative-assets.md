@@ -1,8 +1,7 @@
 ---
-permalink: /creative-assets/
+title: Creative assets
+sidebar_label: Creative assets
 ---
-
-# Creative assets
 
 - [Get the Font](https://www.getthefont.com/) - Searches through GitHub for free fonts.
 - [GFxtra](https://www.gfxtra.com/) - DDL-links for graphics, icons, 3D models, and more!.
@@ -52,11 +51,11 @@ permalink: /creative-assets/
 - [MinimalFreaks](https://minimalfreaks.pw/) - As the website url tells, Minimal Music.
 - [Xoamoelmosh Blogspot](https://yoamoelmosh.blogspot.com/) - Hardcore, Metal & Beatdown etc.
 - [24Flac](https://24flac.net/) - FLAC Music including .CUE.
-- [Orpheus](https://anonym.to/?https://emetsbank.xyz/ops/) - Music Archive for mainly MP3 files.
-- [SongsLover](https://anonym.to/?https://songslover.cam/) - Blog around music, provides MP3s.
-- [FreshRemix](https://anonym.to/?http://freshremix.ru/) - A Blog about MP3s.
-- [NoData](https://anonym.to/?https://nodata.tv/) - Yet another Blog for MP3s.
-- [ccMixter](https://anonym.to/?https://ccmixter.org/) - DL Mp3s.
-- [dig ccMixter](https://anonym.to/?http://dig.ccmixter.org/dig) - Archive for MP3s.
-- [Archive.org Music Archive](https://anonym.to/?https://archive.org/details/audio) - Public Repositry for archiving music.
-- [Videomaker free sound effects](https://anonym.to/?https://www.videomaker.com/downloads/free-sound-effects/)
+- [Orpheus](https://emetsbank.xyz/ops/) - Music Archive for mainly MP3 files.
+- [SongsLover](https://songslover.cam/) - Blog around music, provides MP3s.
+- [FreshRemix](http://freshremix.ru/) - A Blog about MP3s.
+- [NoData](https://nodata.tv/) - Yet another Blog for MP3s.
+- [ccMixter](https://ccmixter.org/) - DL Mp3s.
+- [dig ccMixter](http://dig.ccmixter.org/dig) - Archive for MP3s.
+- [Archive.org Music Archive](https://archive.org/details/audio) - Public Repositry for archiving music.
+- [Videomaker free sound effects](https://www.videomaker.com/downloads/free-sound-effects/)

@@ -1,8 +1,7 @@
 ---
-permalink: /books-and-magazines/
+title: Books and Magazines
+sidebar_label: eBooks
 ---
-
-# Books and Magazines
 
 - [Guide to Copy Kindle Content to PDF using Calibre](https://www.reddit.com/r/Piracy/comments/bm837l/guide_to_copy_kindle_content_to_pdf_using_calibre/)
 - [Calibre DRM Removal Plugins 2019 — Remove eBook DRM with Calibre](https://medium.com/@angeldan1989/calibre-drm-removal-plugins-2019-remove-ebook-drm-with-calibre-4ec9c07cae80) - DeDRM removal guide for Calibre.

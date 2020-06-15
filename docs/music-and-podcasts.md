@@ -1,8 +1,7 @@
 ---
-permalink: /music-and-podcasts/
+title: Music and podcasts
+sidebar_label: Music and podcasts
 ---
-
-# Music and podcasts
 
 - [Lidarr](https://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [Headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
@@ -70,7 +69,7 @@ permalink: /music-and-podcasts/
 - [VGMLoader](https://github.com/TheLastZombie/VGMLoader) - Tool for bulk downloading from KHInsider.
 - [Free MPS Download.net](https://free-mp3-download.net/) - Search engine with streamable samples and download links.
 - [chimera](https://notabug.org/Aesir/chimera) - Multiple source terminal-based music downloader with audio search engine.
-- [Plus Premieres](https://anonym.to/?https://www.pluspremieres.nz/) - iTunes M4A Music.
+- [Plus Premieres](https://www.pluspremieres.nz/) - iTunes M4A Music.
 
 ### Tidal
 
@@ -106,7 +105,7 @@ permalink: /music-and-podcasts/
 - [Spotify modded APK](https://forum.mobilism.org/viewtopic.php?f=1332&t=2950704) - Modded APK with no ads.
 - [Downtify](https://github.com/Superhackman/downtify-premium) - Downtify is an open-source Spotify downloader which makes it possible to download all your favourite songs and/or playlists directly from Spotify.
 - [BlockTheSpot](https://github.com/mrpond/BlockTheSpot) - Video, audio & banner AdBlock/skip for Spotify
-  - [master131/BlockTheSpot](https://anonym.to/?https://github.com/master131/BlockTheSpot) - Original outdated version.
+  - [master131/BlockTheSpot](https://github.com/master131/BlockTheSpot) - Original outdated version.
 - [MuteSpotifyAds](https://github.com/simonmeusel/MuteSpotifyAds) - Mutes audio/video ads, however you still need to wait 30 sec.
 - [Spotifree](https://github.com/ArtemGordinsky/Spotifree) - An macOS app that automatically mutes ads on Spotify (not supported).
 - [Spotify Ad-Free](https://github.com/CHEF-KOCH/Spotify-Ad-free) - Modified Client(s), Information, etc.

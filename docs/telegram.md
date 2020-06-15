@@ -1,8 +1,7 @@
 ---
-permalink: /telegram/
+title: Telegram
+sidebar_label: Telegram
 ---
-
-# Telegram
 
 - [Nekogram](https://github.com/Nekogram/Nekogram) - Nekogram is an unofficial telegram app with a focus on speed and security. adds some extra features to official Telegram app.
 - [Telegram proxy](https://telegram.ind.in/) - Telegram unblock proxy for countries with Telegram banned.
@@ -18,14 +17,14 @@ permalink: /telegram/
 - [TelegramBotsList](http://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
 - [Telegram XP Bot](http://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
 - [Telegram CrackWatch tracker Bot](http://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
-- [chatter](https://anonym.to/?https://github.com/visualbasic6/chatter) - Internet monitoring osint telegram bot for windows.
-- [smart-tv-telegram](https://anonym.to/?https://github.com/andrew-ld/smart-tv-telegram) - Stream movies from telegram to smart tv over http using upnp and dlna (and chromecast).
+- [chatter](https://github.com/visualbasic6/chatter) - Internet monitoring osint telegram bot for windows.
+- [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream movies from telegram to smart tv over http using upnp and dlna (and chromecast).
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) - A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
-- [python-aria-mirror-bot](https://anonym.to/?https://github.com/lzzy12/python-aria-mirror-bot/) - A telegram bot for all your mirror needs.
+- [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot/) - A telegram bot for all your mirror needs.
 - [ppmusicbot - Spotify playlist bot](https://github.com/kimmobrunfeldt/ppmusicbot) - Telegram bot which adds all linked Spotify track links to a shared playlist.
 - [Userge](https://github.com/UsergeTeam/Userge/) - Userge is a Powerful , Pluggable Telegram UserBot written in Python using Pyrogram.
-- [Butter Bot](https://anonym.to/?https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection.
-- [Rclone-Telegram-Bot](https://anonym.to/?https://github.com/Shubham0Rajput/Rclone-Telegram-Bot) - This is Rclone Bot in Telegram made for your ease.
+- [Butter Bot](https://github.com/v1nc/butter_bot) - Butter Bot supports various unique features like log protection.
+- [Rclone-Telegram-Bot](https://github.com/Shubham0Rajput/Rclone-Telegram-Bot) - This is Rclone Bot in Telegram made for your ease.
 
 ## Bridges
 
@@ -64,7 +63,7 @@ permalink: /telegram/
 - [Free Udemy Courses](https://t.me/joinchat/AAAAAEOVydKcDYcTQPbvYg)
 - [Udemy deals](https://telegram.me/udemydeals) - Free udemy courses.
 - [Tech_You](https://t.me/udemydeals) - Tutorials, Logins, Course and other stuff via Mega links.
-- [udemydeals](https://anonym.to/?https://t.me/udemydeals) - Free udemy courses!
+- [udemydeals](https://t.me/udemydeals) - Free udemy courses!
 
 ### APK Channels
 
@@ -132,10 +131,10 @@ permalink: /telegram/
   - [Piracy • Main Discussion](https://t.me/joinchat/KNhdrlJyuDhsJy5dNEBoAg) - Intended to be the main chat for all piracy discussion at Raymond's Piracy Group, but very inactive.
   - [Piracy • Off Topic Discussion](https://t.me/joinchat/Djvt9BVVrrjQ_D_6L9XZxQ) - Off Topic chat for Raymond's Piracy Telegram group.
 - [Windows_Software](https://tele.me/telegram/groups/windows_softwares) - Windows software, cracked.
-- [@premiere_pro](https://anonym.to/?https://telegram.me/premiere_pro)
-- [@Premiere](https://anonym.to/?https://telegram.me/Premiere)
-- [Windows_Software](https://anonym.to/?https://t.me/windows_softwares) - Windows software, cracked.
-- [computersoftwar](https://anonym.to/?https://t.me/computersoftwar/3690) - Various software, mainly for Windows.
+- [@premiere_pro](https://telegram.me/premiere_pro)
+- [@Premiere](https://telegram.me/Premiere)
+- [Windows_Software](https://t.me/windows_softwares) - Windows software, cracked.
+- [computersoftwar](https://t.me/computersoftwar/3690) - Various software, mainly for Windows.
 
 ### eBooks Channels
 
@@ -210,19 +209,19 @@ permalink: /telegram/
 - [Meditation](https://t.me/joinchat/AAAAAE9u9noQ7odN2Ds1rw)
 - [Open Library](https://t.me/joinchat/AAAAAEUbZxqyCKxhZbf-PA)
 - [WiLd's Occult Ebook Dump](https://t.me/joinchat/AAAAAE07WyxZNFu5tLrjVA)
-- [Copy Left](https://anonym.to/?https://t.me/copy_left)
-- [@philosophybooks](https://anonym.to/?https://t.me/philosophybooks)
+- [Copy Left](https://t.me/copy_left)
+- [@philosophybooks](https://t.me/philosophybooks)
 
 ### Miscellaneous channels
 
-- [AutoRcloneEng](https://anonym.to/?https://t.me/AutoRcloneEng) - The official Rclone Telegram channel.
-- [rclone](https://anonym.to/?https://t.me/rclone) - A rclone help discussion channel.
-- [Bhadoo Cloud](https://anonym.to/?https://t.me/joinchat/Hp0WEVNQfcef7IkU-zecAQ)
-- [Private TD Mirror Group](https://anonym.to/?https://t.me/joinchat/LT_wQUWEdqkOLTfLicynGg)
-- [Transloader](https://anonym.to/?https://t.me/transload) - Community to transload files and provide information which services to use.
-- [requestinggroup](https://anonym.to/?https://t.me/requestinggroup)
-- [@HeadSpaceChannel](https://anonym.to/?https://t.me/HeadSpaceChannel) - HeadSpace mp3 files download.
-- [@MeditationHeadspaceMp3](https://anonym.to/?https://t.me/MeditationHeadspaceMp3) - HeadSpace mp3 files download.
+- [AutoRcloneEng](https://t.me/AutoRcloneEng) - The official Rclone Telegram channel.
+- [rclone](https://t.me/rclone) - A rclone help discussion channel.
+- [Bhadoo Cloud](https://t.me/joinchat/Hp0WEVNQfcef7IkU-zecAQ)
+- [Private TD Mirror Group](https://t.me/joinchat/LT_wQUWEdqkOLTfLicynGg)
+- [Transloader](https://t.me/transload) - Community to transload files and provide information which services to use.
+- [requestinggroup](https://t.me/requestinggroup)
+- [@HeadSpaceChannel](https://t.me/HeadSpaceChannel) - HeadSpace mp3 files download.
+- [@MeditationHeadspaceMp3](https://t.me/MeditationHeadspaceMp3) - HeadSpace mp3 files download.
 
 ## Bots
 
@@ -287,7 +286,7 @@ permalink: /telegram/
 - [@SubYabBot](https://t.me/SubYabBot)
 - [@SubHunterBot](https://t.me/SubHunterBot)
 - [@SubLandBot](https://t.me/SubLandBot) - You can download subtitle files in Persian and English Language directly from subscene.com.
-- [@evemovies_bot](https://anonym.to/?https://t.me/evemovies_bot) - Telegram bot that will help you to track your favourite movies.
+- [@evemovies_bot](https://t.me/evemovies_bot) - Telegram bot that will help you to track your favourite movies.
 
 ### Google Drive Bots
 
@@ -326,10 +325,10 @@ permalink: /telegram/
 - [@twittervid_bot](https://t.me/twittervid_bot) - Download Twitter videos.
 - [@FBvidzBot](https://t.me/youtube) - Download Video From Facebook.
 - [@Instasave_bot](https://t.me/Instasave_bot) - Save Instagram photos.
-- [@YtbDownBot](https://anonym.to/?https://t.me/YtbDownBot) - Social media download bot
-- [@redditdownloader_bot](https://anonym.to/?https://t.me/redditdownloader_bot) - Reddit media download bot
-- [@redditgrambot](https://anonym.to/?https://t.me/redditgrambot) - Reddit image download bot
-- [@redditvidbot](https://anonym.to/?https://t.me/redditvidbot) - Reddit video download bot
+- [@YtbDownBot](https://t.me/YtbDownBot) - Social media download bot
+- [@redditdownloader_bot](https://t.me/redditdownloader_bot) - Reddit media download bot
+- [@redditgrambot](https://t.me/redditgrambot) - Reddit image download bot
+- [@redditvidbot](https://t.me/redditvidbot) - Reddit video download bot
 
 ### Temporary Email Bots
 
@@ -338,27 +337,27 @@ permalink: /telegram/
 - [@etlgr_bot](https://t.me/etlgr_bot) - Get fake emails.
 - [@smtpbot](https://t.me/smtpbot) - Get fake emails.
 - [@temp_mail_bot](https://t.me/temp_mail_bot) - Get fake emails.
-- [@GmailBot](https://anonym.to/?https://t.me/GmailBot) - GMail management Bot.
-- [@TrashMailClient_Bot](https://anonym.to/?https://t.me/TrashMailClient_Bot) - It will generate a mail for you that will be valid for 15 minutes.
+- [@GmailBot](https://t.me/GmailBot) - GMail management Bot.
+- [@TrashMailClient_Bot](https://t.me/TrashMailClient_Bot) - It will generate a mail for you that will be valid for 15 minutes.
 
 ### Torrent bots
 
 - [@itorrentsearchbot](https://t.me/itorrentsearchbot) - Searchbot which finds torrent and magnet links on 1337x.to by keyword search.
 - [@torrentdrive_bot](https://t.me/torrentdrive_bot) - Gives you Google Drive link for the torrent files you send.
-- [@torrent_drive](https://anonym.to/?https://t.me/torrent_drive) - Torrent to GDrive Bot.
-- [@kltorrent](https://anonym.to/?https://t.me/kltorrent)
-- [@XtremeCloud](https://anonym.to/?https://t.me/XtremeCloud/10)
-- [@torrdriveheaven](https://anonym.to/?https://t.me/torrdriveheaven)
-- [@torrentbcloud](https://anonym.to/?https://t.me/torrentbcloud)
-- [@seedboxSL](https://anonym.to/?https://t.me/seedboxSL)
-- [Torrent Leecher List](https://anonym.to/?http://torrentleecherlist.xyz/) - A simple list for torrent leecher in telegram.
+- [@torrent_drive](https://t.me/torrent_drive) - Torrent to GDrive Bot.
+- [@kltorrent](https://t.me/kltorrent)
+- [@XtremeCloud](https://t.me/XtremeCloud/10)
+- [@torrdriveheaven](https://t.me/torrdriveheaven)
+- [@torrentbcloud](https://t.me/torrentbcloud)
+- [@seedboxSL](https://t.me/seedboxSL)
+- [Torrent Leecher List](http://torrentleecherlist.xyz/) - A simple list for torrent leecher in telegram.
 
 ### Miscellaneous bots
 
 - [@TheFeedReaderBot](https://t.me/TheFeedReaderBot)
-- [@el_monitorro](https://anonym.to/?https://t.me/el_monitorro_bot) - el_monitorro is RSS, Atom and JSON feed reader written in Rust.
-- [@eventsaggregatorbot](https://anonym.to/?https://t.me/eventsaggregatorbot) - Forward your favorite Twitter, Instagram, RSS, Reddit, YouTube, Twitch accounts in Telegram.
-- [@TheDigestBot](https://anonym.to/?https://t.me/TheDigestBot) - The bot collects all news from your channel subscriptions and sends to you a Digest with all news once a day.
+- [@el_monitorro](https://t.me/el_monitorro_bot) - el_monitorro is RSS, Atom and JSON feed reader written in Rust.
+- [@eventsaggregatorbot](https://t.me/eventsaggregatorbot) - Forward your favorite Twitter, Instagram, RSS, Reddit, YouTube, Twitch accounts in Telegram.
+- [@TheDigestBot](https://t.me/TheDigestBot) - The bot collects all news from your channel subscriptions and sends to you a Digest with all news once a day.
 - [@markdownrobot](https://t.me/markdownrobot)
 - [@HideItBot](https://t.me/HideItBot) - Hide Text in Chat.
 - [@bing](https://t.me/bing) - Bing is search engine, this Bot let's you search for photos.
@@ -377,13 +376,13 @@ permalink: /telegram/
 - [@ReadmeBot](https://t.me/ReadmeBot)
 - [@GmailBot](https://t.me/GmailBot) - GMail mangement Bot.
 - [@Calstars_Bot](https://t.me/Calstars_Bot) - A Token Tipping Bot.
-- [@lightzcloud](https://anonym.to/?https://t.me/lightzcloud)
-- [@torrenttodrivezone](https://anonym.to/?https://t.me/torrenttodrivezone)
-- [@publicdrive](https://anonym.to/?https://t.me/publicdrive)
-- [@ViperCloudOpen](https://anonym.to/?https://t.me/ViperCloudOpen)
-- [@vipercloud](https://anonym.to/?https://t.me/vipercloud)
-- [@MetaPublicLeech](https://anonym.to/?https://t.me/MetaPublicLeech)
-- [@RahiCloud](https://anonym.to/?https://t.me/RahiCloud)
-- [@APDSeedbox](https://anonym.to/?https://t.me/APDSeedbox)
-- [@LinkToFilesBot](https://anonym.to/?https://t.me/LinkToFilesBot) - Send any document to get a direct download link.
-- [udemy_link_bot](https://anonym.to/?https://t.me/udemy_link_bot) - Send `/download <course_link>` to download.
+- [@lightzcloud](https://t.me/lightzcloud)
+- [@torrenttodrivezone](https://t.me/torrenttodrivezone)
+- [@publicdrive](https://t.me/publicdrive)
+- [@ViperCloudOpen](https://t.me/ViperCloudOpen)
+- [@vipercloud](https://t.me/vipercloud)
+- [@MetaPublicLeech](https://t.me/MetaPublicLeech)
+- [@RahiCloud](https://t.me/RahiCloud)
+- [@APDSeedbox](https://t.me/APDSeedbox)
+- [@LinkToFilesBot](https://t.me/LinkToFilesBot) - Send any document to get a direct download link.
+- [udemy_link_bot](https://t.me/udemy_link_bot) - Send `/download <course_link>` to download.

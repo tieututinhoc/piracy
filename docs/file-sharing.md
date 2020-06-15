@@ -1,8 +1,7 @@
 ---
-permalink: /file-sharing/
+title: File Sharing
+sidebar_label: File Sharing
 ---
-
-# File Sharing
 
 - [File & Image Uploader](http://z-o-o-m.eu/) - The most comprehensive program to upload files and images to different file-/image-hoster.
 - [CrossFTP](http://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.

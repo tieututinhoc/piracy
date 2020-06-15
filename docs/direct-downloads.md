@@ -1,8 +1,7 @@
 ---
-permalink: /direct-downloads/
+title: Direct Downloads
+sidebar_label: DDL
 ---
-
-# Direct Downloads
 
 - [Zippyshare.sh](https://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
 - [Plowshare](http://github.com/mcrapet/plowshare) - Command-line tool & engine for managing sharing websites.
@@ -54,7 +53,7 @@ permalink: /direct-downloads/
 - [FlixGrab](http://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
 - [Massivedl](http://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
 - [instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
-- [drivedl](https://anonym.to/?https://github.com/architdate/drivedl) - Download files from Google Drive (inclusive of teamdrives, shared with me and my drive) concurrently.
+- [drivedl](https://github.com/architdate/drivedl) - Download files from Google Drive (inclusive of teamdrives, shared with me and my drive) concurrently.
 
 ## RapidLeech
 
@@ -241,11 +240,11 @@ permalink: /direct-downloads/
 - [Oboom](https://www.oboom.com/) - (_free/paid_) - Provides up to 50 GB free space, Swiss made!
 - [Smoozed](https://www.smoozed.biz/) - Claims to be the biggest multihoster, encrypted files and fast up-downloads.
 - [globalupload.io](https://globalupload.io/) - IPFS and hash based services foryour files, a multi hosting option is planned.
-- [uploadfiles](https://anonym.to/?https://uploadfiles.io/) - From files, images, music, video and more – Uploadfiles is a free and easy way to share your data
-- [GoFile](https://anonym.to/?https://gofile.io/welcome) - File sharing platform, anonymous and free.
-- [nofile](https://anonym.to/?http://nofile.io/) - File sharing platform, anonymous and free (GeoIP block).
-- [LetsUpload](https://anonym.to/?https://letsupload.co/) - Created around the times when Mega firstly appeared, one of the big stars under the trusted hosters. They do not comply with DMCA.
-- [Racaty.net](https://anonym.to/?https://racaty.net/) - Store, Sync & Share your own data securely.
+- [uploadfiles](https://uploadfiles.io/) - From files, images, music, video and more – Uploadfiles is a free and easy way to share your data
+- [GoFile](https://gofile.io/welcome) - File sharing platform, anonymous and free.
+- [nofile](http://nofile.io/) - File sharing platform, anonymous and free (GeoIP block).
+- [LetsUpload](https://letsupload.co/) - Created around the times when Mega firstly appeared, one of the big stars under the trusted hosters. They do not comply with DMCA.
+- [Racaty.net](https://racaty.net/) - Store, Sync & Share your own data securely.
 
 ## Open Directories
 

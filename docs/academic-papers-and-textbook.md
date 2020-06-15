@@ -1,8 +1,7 @@
 ---
-permalink: /academic-papers-and-textbook/
+title: Academic papers and Textbooks
+sidebar_label: Education
 ---
-
-# Academic papers and Textbooks
 
 - [All IT eBooks](http://www.allitebooks.com/) - A big database of free, direct links for IT and programming ebooks.
 - [forcoder](https://forcoder.su/) - Ebooks & Elearning for Programming.
