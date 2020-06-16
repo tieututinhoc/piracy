@@ -8,10 +8,12 @@ on:
 jobs:
   archive:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: denolib/setup-deno@master
+      - name: Install Deno
+        uses: denolib/setup-deno@master
         with:
           deno-version: v1.1.0
+
       - name: Archive Repository
-        run: deno run --allow-net https://archivegh.now.sh/ maximousblk/piracy -v
-        
+        run: deno run --allow-net https://archivegh.now.sh/ maximousblk/piracy -v -d 3
