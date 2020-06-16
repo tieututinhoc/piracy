@@ -1,0 +1,17 @@
+name: Archive Repository
+
+on: 
+  push:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: denolib/setup-deno@master
+        with:
+          deno-version: v1.1.0
+      - name: Archive Repository
+        run: deno run --allow-net https://archivegh.now.sh/ maximousblk/piracy -v
+        
