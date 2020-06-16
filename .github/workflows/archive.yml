@@ -8,8 +8,6 @@ jobs:
   archive:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
