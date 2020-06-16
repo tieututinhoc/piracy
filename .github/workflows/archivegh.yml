@@ -16,4 +16,4 @@ jobs:
           deno-version: v1.1.0
 
       - name: Archive Repository
-        run: deno run --allow-net https://archivegh.now.sh/ maximousblk/piracy -v -d 3
+        run: deno run --allow-net https://archivegh.now.sh/ maximousblk/piracy -v -d 5
