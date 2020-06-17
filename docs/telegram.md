@@ -38,7 +38,7 @@ sidebar_label: Telegram
 
 - [Telegram Channels](https://telegramchannels.me/channels) - A telegram channel indexer with over 1500 channels.
 - [@piratebazaar](https://t.me/piratebazaar) - Telegram Channel to request warez information, lists, software & more.
-- [original313](hhttps://t.me/original313) - Gaming and Software based accounts for sale.
+- [original313](https://t.me/original313) - Gaming and Software based accounts for sale.
 - [evileaks](https://t.me/evileaks) - Evilleaks.su official Telegram channel.
 - [丂ㄥ乃ㄖㄒ丂 ✪ 丂乇乇 ᗪ 乃ㄖ乂](https://t.me/joinchat/IbIIb0Yga4pKYCOu7LajYg) - Seedbox fans have a home here.
 - [slbotsbugs](https://t.me/slbotsbugs) - TeamDrive, Bot discussion place.
@@ -83,7 +83,7 @@ sidebar_label: Telegram
 - [@flacmusics](https://t.me/flacmusics) - FLAC Music (Lossless) - (Hi-Res).
 - [@FLACSong](https://t.me/FLACSong) - Lossless music, various albums, songs and artists.
 - [@Flacssongss](https://t.me/flacsongss) - Other Than Indian Language Songs Will Be Posted here.
-- [@HDaudio](hhttps://t.me/hdaudio) - High Definition Audio, 24 bit 48 kHz and up.
+- [@HDaudio](https://t.me/hdaudio) - High Definition Audio, 24 bit 48 kHz and up.
 - [@highreschannell](https://t.me/highreschannell) - High resolution music!.
 - [@indianflacsongs](https://t.me/indianflacsongs) - `HI` - Flac Songs Of Telugu, Malayalam, Hindi, Kannada & Many Other Languages Will Be Posted Here.
 - [@JioDLBot](https://t.me/JioDLBot) - Search and Download Music inside Telegram.
@@ -110,9 +110,9 @@ sidebar_label: Telegram
 - [@offstream_media](https://t.me/offstream_media) - TV Shows, Movies and more!.
 - [@Qualitymovies](https://t.me/Qualitymovies) - Lots of 720p Blu-Ray movie releases.
 - [@RickyChristanto](https://t.me/RickyChristanto) - Movie releases channel provides usually stuff from YTS.
-- [Antrips](hhttps://t.me/antrips) - Anthrapper's Encoding Library.
+- [Antrips](https://t.me/antrips) - Anthrapper's Encoding Library.
 - [gdrivemovielink](https://t.me/gdrivemovielink) - Google drive movies linked into Telegram.
-- [hamil_movies](hhttps://t.me/hamil_movies) - CT movies Family provides links to movies directly in Telegram.
+- [hamil_movies](https://t.me/hamil_movies) - CT movies Family provides links to movies directly in Telegram.
 - [TV Updates](https://telegram.me/joinchat/ACzuljvGFUjzJf4ambpzTA) - A large collection of TV shows, downloadable in Telegram, updated daily!.
 - [Netflix_originals](https://t.me/Netflix_originals) - Daily new Netflix episodes.
 - [@movies_inc](https://t.me/movies_inc) - Another Telegram channel for downloading movies.
@@ -225,7 +225,7 @@ sidebar_label: Telegram
 
 ## Bots
 
-- [Botlist](hhttps://botlist.co/) - A botlist for various messenger (including Telegram).
+- [Botlist](https://botlist.co/) - A botlist for various messenger (including Telegram).
 - [@BotListBot](https://t.me/BotListBot) - The official bot for botlist.co to list bots in Telegram.
 - [telegram-list](https://github.com/goq/telegram-list/) - `RU` - GitHub overview list of useful Telgram Bots.
 - [@Proytdlbot](https://t.me/Proytdlbot) - Simple bot to download YouTube Videos. You can't invite the bot into groups.
@@ -274,7 +274,7 @@ sidebar_label: Telegram
 
 ### Movies and TV Shows Bots
 
-- [@utubebot](hhttps://t.me/utubebot) - Video Downloader with MP3 Conversion support.
+- [@utubebot](https://t.me/utubebot) - Video Downloader with MP3 Conversion support.
 - [@imdb](https://t.me/scsht_bot) - This bot automatically works in all your chats and groups, no need to add it anywhere. Simply type @imdb in any chat.
 - [@piracy_bot](https://t.me/piracy_bot) - A simple bot which will give you subtitles from various Streaming sites e.g. Zee5.com and Jiocinema.com.
 - [@JaredMovieRuBot](https://t.me/JaredMovieRuBot) - Monitor and get notified about upcoming movies and tv series.

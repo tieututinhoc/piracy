@@ -26,6 +26,8 @@ sidebar_label: Tools
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - An easy way to publish uncensorable essays on IPFS.
 - [File Search Utility](https://www.getlazarus.org/apps/filesearch/) - A portable and open source cross platform visual file search tool.
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name on Windows instantly.
+- [crt](https://crt.sh/) - Open source Domain age/certificate checker.
+- [Aegisub](https://github.com/TypesettingTools/Aegisub) - Cross-platform advanced subtitle editor.
 
 ## NFO viewers
 
@@ -46,7 +48,7 @@ sidebar_label: Tools
 
 ## Website archiving tools
 
-- [Wikipedia's List of Web archiving initiatives](hhttps://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
+- [Wikipedia's List of Web archiving initiatives](https://en.wikipedia.org/wiki/List_of_Web_archiving_initiatives)
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete web page as a single HTML file.
 - [ArchiveBox](https://github.com/pirate/ArchiveBox) - The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more.
 - [monolith](https://github.com/Y2Z/monolith) - CLI tool for saving complete web pages as a single HTML file.
@@ -67,6 +69,8 @@ sidebar_label: Tools
 - [Online Video Converter](https://www.onlinevideoconverter.com/) - Free online video conversion tool.
 - [Twitter Video Downloader](http://twittervideodownloader.com/error) - Twitter Video Downloader.
 - [PornHub Video Downloader](https://phdownloader.com/) - Download PornHub videos in best quality available.
+- [YMP4](https://ymp4.download/) - Download videos to mp4 & mp3 files, including from places like e.g. Youtube,Crunchroll.
+- [mp3pro.xyz](https://mp3pro.xyz/) - Rip Audio from YouTube withot ads or trackers
 
 ## File Renaming and Tagging
 

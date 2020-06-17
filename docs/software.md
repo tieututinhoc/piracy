@@ -47,7 +47,7 @@ sidebar_label: Software
 - [PirateCity](https://www.piratecity.net) - Various Software releases.
 - [CrackHomes](https://crackhomes.com) - Yet another release page.
 - [Ask4PC](https://www.ask4pc.net) - Cracks for PC Software.
-- [ProFreeCrack](hhttps://profreecrack.com) - Provides cracks for various programs.
+- [ProFreeCrack](https://profreecrack.com) - Provides cracks for various programs.
 - [downloadha](https://www.downloadha.com) - (`AR`) - Provides various software products, Adobe, Windows & more
 
 ## Software Repacks
@@ -63,6 +63,7 @@ sidebar_label: Software
 - [PiratedHub](https://piratedhub.com/) - Internation Repack website.
 - [RePack Club](https://repacks.club/) - (RU) - Russian repack portal.
 - [Repacks.NET](https://repacks.net/) - A well-known repack website mostly for Windows software.
+- [The House of Portable](https://thehouseofportable.com/) - Portable versions of various Software.
 
 ## Keygens & Serials
 
@@ -97,6 +98,12 @@ sidebar_label: Software
 - [ToolBase](https://www.toolbase.me/board) - Tools, scripts and forum discussions around nulled software.
 - [WSC-Scriptz](https://support.wsc-scriptz.org) - Sometimes online, mostly blocked by ISP, provides a lot info around the nulled scene.
 - [XenFiles.co](https://xenfiles.co) - Yet another german forum for nulled scripts.
+
+## Drivers
+- [Station-Drivers](https://www.station-drivers.com/index.php?lang=en)
+- [driveroff](http://driveroff.net/)
+- [touslesdrivers.com](https://www.touslesdrivers.com/)
+- [WinRaid Forum](https://www.win-raid.com/forum.php)
 
 ## Windows
 
@@ -141,6 +148,7 @@ sidebar_label: Software
 - [Windows and Office Genuine ISO Verifier](https://genuineisoverifier.weebly.com/) - Freeware tool to verify Windows & Office images.
 - [Windows ISO Downloader](https://www.heidoc.net/php/Windows%20ISO%20Downloader.exe) - Allows an easy and comfortable way to download genuine Windows 7, 8.1 and 10 disk images (ISO) - directly from Microsoft's servers (tool contains ads).
 - [All Windows LTSC download links incl. N](https://gist.github.com/CHEF-KOCH/a9a70744d79e335e4b4512cbb9588982)
+- [msdn.hackerc.at](https://msdn.hackerc.at/) - Unofficial mirror of The Eye's Windows Software dump.
 
 ## macOS
 
@@ -256,6 +264,7 @@ You can only do the "[refund trick](https://www.androidauthority.com/how-to-get-
 - [Streaming Apps Official Links / How to use Trakt & Real Debrid (self.TTVreborn)](https://reddit.com/r/TTVreborn/comments/9xxng0/streaming_apps_official_links_how_to_use_trakt/)
 - [TeaTV](https://teatv.net/) - App for Android, Windows, and macOS for watching 1080p movies and TV shows for free.
 - [Terrarium TV Reborn sub reddit](https://reddit.com/r/TTVreborn) - A place to talk about streaming apps.
+- [Cyberflix](https://cybercloud.media/) - Yet another Terrarium clone.
 - [TVPato2](https://tvpato2.com/) - (es-ES) - Spanish Live TV App.
 - [TVZion](https://zionapp.live/) - One app to stream them all.
   - [r/TVZionApp](https://www.reddit.com/r/TVZionApp/)
@@ -390,9 +399,10 @@ iPhone11,8 17C5053a sepi 9f974f1788e615700fec73006cc2e6b533b0c6c2b8cf653bdbd347b
 
 ### Apps
 
-- [Cinema Time](https://itunes.apple.com/us/app/cinema-time-tv-shows-tracker/id1437347902?mt=8) - Similar like Popcorn Time.
-- [HDX Online](https://itunes.apple.com/us/app/hdx-online/id1386799497?mt=8) - Another alternative for Cinema Time.
-- [Total files](https://itunes.apple.com/us/app/total-files/id557285579?mt=8) - Basically the IDM under the iOS Download Manager.
+- [MoviesDiary](https://itunes.apple.com/us/app/movies-diary/id1331405996) - Free Movies and TV shows streaming app with tracking feature.
+- [Cinema Time](https://itunes.apple.com/us/app/cinema-time-tv-shows-tracker/id1437347902) - Similar like Popcorn Time.
+- [HDX Online](https://itunes.apple.com/us/app/hdx-online/id1386799497) - Another alternative for Cinema Time.
+- [Total files](https://itunes.apple.com/us/app/total-files/id557285579) - Basically the IDM under the iOS Download Manager.
 
 ### Stores
 

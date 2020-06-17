@@ -33,6 +33,7 @@ module.exports = {
       "file-sharing",
       "cloud-storage",
       "media-centre-applications",
+      "alt-google",
       "tools",
       "misc",
       "dead",

@@ -103,7 +103,7 @@ sidebar_label: Torrents
 - [Torrenteros](http://www.torrenteros.net/signup.php) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HDCity](https://hdcity.li/) - (`ES`) - Spanish tracker for movies and TV shows.
 - [HD-Spain](https://www.hd-spain.com/) - (`ES`) - Spanish tracker for movies and TV shows.
-- [Telly.CC](hhttps://telly.cc/login) - Movie tracker website.
+- [Telly.CC](https://telly.cc/login) - Movie tracker website.
 
 ### Semi-Private Trackers
 

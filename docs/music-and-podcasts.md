@@ -34,7 +34,7 @@ sidebar_label: Music and podcasts
 - [Block Spotify Updates on macOS](https://donotupdatespotify.sh/) - A guide is avbl. [here](https://reddit.com/r/Piracy/comments/d2z6kc/guide_spotify_free_without_ads_for_mac_os/)
 - [How to Remove DRM From iTunes Movies and TV Shows](https://www.howtogeek.com/291612/how-to-remove-drm-from-itunes-movies-and-tv-shows/) - HowToGeek article on how to use TunesKit and Requiem.
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format. Comes with some pretty nifty features too.
-- [Hindi-lossless](hhttps://hindi-lossless.blogspot.com/) - Losssless (flac) Hindi Music.
+- [Hindi-lossless](https://hindi-lossless.blogspot.com/) - Losssless (flac) Hindi Music.
 
 ## Album Art
 
@@ -131,5 +131,5 @@ sidebar_label: Music and podcasts
 - [mrwnwttk/scdl](https://github.com/mrwnwttk/scdl) - [Tutorial](https://www.removeddit.com/r/Piracy/comments/euhd77/scdl_a_256_kbps_soundcloud_downloader_now_with/) - New 256 Kbps Soundcloud Downloader.
 - [Soundcloud-Download](https://github.com/linnit/Soundcloud-Downloader) - Download songs from SoundCloud.com even if the download button is not available.
 - [scddlr.com](https://www.scddlr.com/) - SoundCloud To Mp3 Converter Online.
-- [Local SoundCloud Downloader](hhttps://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) - Download SoundCloud without external service.
+- [Local SoundCloud Downloader](https://greasyfork.org/en/scripts/394837-local-soundcloud-downloader) - Download SoundCloud without external service.
 - [kawai-scripts/soundcloud-downloader](https://greasyfork.org/de/scripts/396057-kawai-scripts-soundcloud-downloader)

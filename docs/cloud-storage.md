@@ -25,17 +25,18 @@ sidebar_label: Cloud Storage
 - [nextCloud](http://nextcloud.com/) - An actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services.
 - [Syncthing](http://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 - [Seafile](http://www.seafile.com/en/home/) - Seafile is an enterprise file hosting platform with high reliability and performance.
+- [GDBypass](https://gdbypass.host/) - Bypass the Google drive download bandwidth limit.
 
 ## Google Team Drives
 
-- [A complete guide of Google Shared drive (Team drive)](hhttps://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
+- [A complete guide of Google Shared drive (Team drive)](https://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
 - [Create Free TeamDrive](https://ihaxk.com/2020/03/09/free-google-team-drive/) - Allows you to easily create a free Google Team Drive account.
 - [Google Team Drive](https://teamdrive.mfoxx.workers.dev/) - Create Google Team Drive where you can share your files with others.
 - [GDIndex](https://github.com/ParveenBhadooOfficial/GDIndex) - Team drive for _googledri.ve.workers.dev_ . You also can create your own TeamDrive.
 - [TeamDrive Software for Win, Linux, Android and iOS](https://forum.teamdrive.net/viewforum.php?f=2) - Software with AES encryption to work across multiple PC's and keep your files update.
 - [Get Free Google Shared Drive](http://leon.educationhost.cloud) - Create your own TeamDrive for free.
 - [How to join LK Torrent TeamDrive](https://telegra.ph/How-to-Join-Kl-Torrent-TeamDrive-02-08)
-- [whatintheworld](hhttps://whatintheworld.xyz/) - Search Team Drives resources.
+- [whatintheworld](https://whatintheworld.xyz/) - Search Team Drives resources.
 
 ### Google Team Drives Groups and Discussions
 
@@ -68,7 +69,7 @@ sidebar_label: Cloud Storage
 - [JSTorrent](https://www.jstorrent.com/) - Chrome WebTorrent Client.
 - [bitford](https://github.com/astro/bitford) - Open Source based Client for Chrome.
 - [Multcloud](https://www.multcloud.com/) - Similar like Offcloud. Transfer and manage your multiple cloud files with one app. 100% Free.
-- [Transfercloud](hhttps://transfercloud.io/) - Download Torrents, Magnets and Links directly to your Cloud: Dropbox, Google Drive, Amazon Cloud, OneDrive, OpenDrive or FTP server.
+- [Transfercloud](https://transfercloud.io/) - Download Torrents, Magnets and Links directly to your Cloud: Dropbox, Google Drive, Amazon Cloud, OneDrive, OpenDrive or FTP server.
 - [Put.io](https://put.io/) - We fetch files from many public places at very high speeds, then put them into downloads.
 - [Boxopus](https://boxopus.com/) - Fast and easy online torrent downloader. Download torrents to Dropbox or Google Drive.
 - [Cloudload](https://www.cloudload.com/login) - Safely stream and download with Cloudload. Movies, music, software and documents; from the web to your secure cloud account in seconds.

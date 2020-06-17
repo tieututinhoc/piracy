@@ -41,15 +41,15 @@ sidebar_label: Sports
 - [Stream2Watch](https://www.stream2watch.ws/)
 - [Streamwoop](https://streamwoop.net/)
 - [VIPBox](https://www.vipbox.live/) - (Spanish) - Many sport streams, TV which with an friendly UI.
-- [NBAFullHD](hhttps://www.nbafullhd.com/) - Full NBA games.
-- [NBAHDReplay](hhttps://nbahdreplay.com/) - Full NBA games.
+- [NBAFullHD](https://www.nbafullhd.com/) - Full NBA games.
+- [NBAHDReplay](https://nbahdreplay.com/) - Full NBA games.
 - [WatchRaw](hhttp://watchraw.com/) - Various Sports replays.
 - [WatchWrestling24](hhttp://watchwrestling24.net/) - Replays for MMA, WWE.
 - [Allwrestling](hhttp://www.allwrestling.live/) - Replays for MMA, WWE.
-- [WatchWrestling](hhttps://watchwrestling.in/) - Replays for MMA, WWE.
+- [WatchWrestling](https://watchwrestling.in/) - Replays for MMA, WWE.
 - [Bbellator](hhttp://www.bellator.com/events) - Replays for MMA, WWE.
-- [Highlightstore](hhttps://www.highlightstore.me/) - Replays for multiple sports.
-- [MMACore](hhttps://www.mma-core.com/videos/home)
+- [Highlightstore](https://www.highlightstore.me/) - Replays for multiple sports.
+- [MMACore](https://www.mma-core.com/videos/home)
 - [GOMOSTREAM.com](https://gomostream.com/) - Free Live Local TV Channels Sky Sports 12345, Btsports 123 ESPN, Eurosports 12, Star Sports 123, ITV beIN, Fox, Ten, Digi, PTV Sports Online Streaming.
 - [Best Sport Streaming](https://www.bestsportstreaming.com/) - Site that rates sport streaming services.
 - [Cricfree](https://crickfree.org/) - Offers popular sports streams.

@@ -48,7 +48,7 @@ sidebar_label: Browser Extensions
 - [Video Downloader PLUS](https://chrome.google.com/webstore/detail/video-downloader-plus/fhplmmllnpjjlncfjpbbpjadoeijkogc) - Downloads most popular media types from ANY website.
 - [Video DownloadHelper](https://chrome.google.com/webstore/detail/video-downloadhelper/lmjnegcaeklhafolokijcfjliaokphfk) - The most complete Web video downloader ! The popular Video DownloadHelper Firefox extension is now available for Chrome.
 - [Keyboard Privacy](https://chrome.google.com/webstore/detail/keyboard-privacy/aoeboeflhhnobfjkafamelopfeojdohk) - Prevents behavioral profiling by randomizing the rate at which characters reach the DOM.
-- [AudioContext Fingerprint Defender](hhttps://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en) - Defending against AudioContext fingerprinting by reporting a fake value.
+- [AudioContext Fingerprint Defender](https://chrome.google.com/webstore/detail/audiocontext-fingerprint/pcbjiidheaempljdefbdplebgdgpjcbe?hl=en) - Defending against AudioContext fingerprinting by reporting a fake value.
 - [Telegram Media Downloader](https://chrome.google.com/webstore/detail/telegram-media-downloader/ffhhcekaaamffjnapdckmnkllkmmpfnh) - Bypass the 1.5 GB download limit and scrape channels/groups.
 - [netflix-1080p](https://github.com/truedread/netflix-1080p/) - Chrome extension to play Netflix in 5.1 and 1080p.
 

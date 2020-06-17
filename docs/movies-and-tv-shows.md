@@ -37,6 +37,7 @@ sidebar_label: Movies and TV shows
 - [Streaming pirated media in 2019 (seedbox + Sonarr + Plex)](https://ryanlue.com/posts/2019-03-29-paying-money-to-steal-movies) - Paying Money to Steal Movies & Music on the Internet.
 - [Episodes](https://github.com/guptachetan1997/Episodes) - Self Hosted TV show Episode tracker and recommender.
 - [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)
+- [Streaming Sites](https://streamingsites.com/) - List of best free and premium streaming sites for movies and TV shows.
 
 ## Content Discovery
 
@@ -62,6 +63,7 @@ sidebar_label: Movies and TV shows
 
 ## Streaming
 
+- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - Reddit with all types of Streaming Links.
 - [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player.
   - [Streamlink-Twitch-GUI](https://github.com/streamlink/streamlink-twitch-gui) - A multi platform Twitch.tv browser for Streamlink.
   - [Streamlink-Portable](https://github.com/streamlink/streamlink-portable) - A portable version of Streamlink for Windows.
@@ -85,7 +87,6 @@ sidebar_label: Movies and TV shows
 - [DP Stream](https://www.dpstream.net/) - Films/Series/Animés a votre dispositions sur différents herbergeurs. dpstream.net.
 - [Daxiv Video](https://daxiv.com/) - Movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more. Primarily Chinese content.
 - [FMOVIES](https://fmovies.to/) - Just a better place for watching online movies for free!.
-- [FilmXY](https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & more.
 - [Filmz.cc](https://www.filmz.cc/) - French streaming website.
 - [Flixanity](https://flixanity.xyz/) - Watch movies and TV shows online. Watch from devices like iOS, Android, PC, PS4, Xbox One and more. Registration is 100% free and easy.
 - [HD MOVIES](https://hdm.to/) - Watch free movies online in 1080p at HDM.to - Stream & download the latest HD movies online for free without registration.
@@ -125,6 +126,7 @@ sidebar_label: Movies and TV shows
 - [filmyzilla1](https://filmyzilla1.com/genre/animation/) - Animated Hindi movies.
 - [puretoons](https://puretoons.me/) - Animated Hindi movies.
 - [deadtoonsindia](https://deadtoonsindia.ne) - Animated Hindi movie & tv shows.
+- [reelgood](https://reelgood.com/) -Legal Multi Service provider for Netflix, Hulu & Co.
 
 ### Streaming 1080p
 
@@ -135,7 +137,6 @@ sidebar_label: Movies and TV shows
 - [crawler](https://crawler.to/)
 - [Daxiv](https://daxiv.com/)
 - [Fembed](https://fembed.com/)
-- [Filmxy](https://www.filmxy.one/)
 - [Goldesel.to](https://goldesel.to/) - You can ignore the Google Safe Bbrowsing warning. Movies, TV shows & more since over 15 years.
 - [HD Europix](https://europixhd.net/)
   - [Mirror](https://topeuropix.net/)
@@ -199,6 +200,12 @@ sidebar_label: Movies and TV shows
 - [MoviesWBB](http://movieswbb.com/)
 - [GDriveDL](https://gdrivedl.com/) - Movies and TV shows via Google Drive.
 - [megaDDL](https://megaddl.co/) - megaDDL provides mainly TV shows and Movies.
+- [streamingita.live](https://streamingita.live/series/) - Yet another streaming service for Movies and Series.
+- [solarmoviez.to](https://solarmoviez.to/)
+- [123movies.is](https://123movies.is/)
+- [dirtywarez.org](https://dirtywarez.org/cat/streaming)
+- [hdmovie8](https://hdmovie8.com/)
+- [hindimoviesonline](https://www.hindimoviesonline.club/)
 
 ### Streaming 720p
 
@@ -268,6 +275,8 @@ sidebar_label: Movies and TV shows
 - [Seriesvault](https://seriesvault.org/) - TV Series that we all love.
 - [O2TvSeries.CO](https://o2tvseries.co/) - Download & stream your all favorite Movies, TV Series and K-Dramas in High Quality.
 - [OK.ru](https://ok.ru/videos/) - Legal and other videos, differnt quality, mostly 720p.
+- [tuga.tv](https://tuga.tv/) - Sistema PLEX - Cinema + Netflix + HBO + PrimeVideo + Disney + HULU
+- [mrpiracy](https://v1.mrpiracy.xyz/) - (`GeoIP block`) - Lots of movies and TV shows.
 
 ### Stream Sharing
 
@@ -310,9 +319,8 @@ sidebar_label: Movies and TV shows
 - [nima4k](https://nima4k.org) - A well-known platform for ducmentations, series & movies.
 - [FreeMovie4kOnline](https://www.freemovie4konline.com/) - HQ Movies and TV shows.
 
-## Big Media Libraries
+## Downloading
 
-- [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - Reddit with all types of Streaming Links.
 - [5Movies](http://5movies.to/) - Large collection dating as far back as 1990.
 - [Solarmovie.fm](http://www.solarmovie.fm/) - or [Solarmovies.cc](https://solamovies.cc/) - Plenty of movies and TV shows.
 - [WorldSrc](https://worldsrc.org) - Movies, software, apps, games, music, and images available for fast direct download + torrents.
@@ -342,6 +350,7 @@ sidebar_label: Movies and TV shows
 - [MX Player](https://www.mxplayer.in/) - Movies and Databases regarding movies, tv series and other shows.
 - [Rapid Moviez (RMZ)](https://rmz.cr/) - Movies and TV shows.
 - [60 FPS Movies](https://60-fps.org/) - Russian site for 60 fps Movies only.
+- [FilmXY](https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & more.
 
 ## Specialty Sites
 
@@ -397,7 +406,6 @@ sidebar_label: Movies and TV shows
 - [MegaShare](http://megashare9.su)
 - [XMovies8](https://xmovies8.ru/) - FServer, PTServer.
 - [IceFilms](http://www.icefilms.info/) - FileUpload.
-- [FilmXY](https://www.filmxy.nl/) - RapidVideo, Vidoza, Uptostream (offers download links).
 - [1Movies](http://1movies.nl) - FServer.
 - [WatchFullMovie](http://watchfullmovie.co)
 - [FMOVIES](https://www3.fmovies.to/) - MyCloud, RapidVideo.
