@@ -55,6 +55,7 @@ sidebar_label: Cloud Storage
 - [goindex](https://github.com/K-E-N-W-A-Y/goindex)
 - [BhadooDriveIndex](https://github.com/ParveenBhadooOfficial/BhadooDriveIndex)
 - [krat0si-ndex](https://github.com/420tushar/krat0si-ndex)
+- [goindex-drive](https://github.com/CHEF-KOCH/goindex-drive)
 
 ## Transloading
 

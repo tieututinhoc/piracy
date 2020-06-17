@@ -18,7 +18,7 @@ module.exports = {
       links: [
         { to: "blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/maximousblk/piracy",
+          href: "https://github.com/maximousblk/piracy#:~:text=star",
           label: "GitHub",
           position: "right",
         },

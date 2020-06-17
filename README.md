@@ -16,8 +16,8 @@ This website is a collection of the best digital piracy resources. This will hel
 
 Repo mirrors:
 
-- [maximousblk/piracy@github](https://github.com/maximousblk/piracy) - official
-- [maximousblk/piracy@gitlab](https://gitlab.com/maximousblk/piracy)
+- [maximousblk/piracy@github](https://github.com/maximousblk/piracy#:~:text=star) - official
+- [maximousblk/piracy@gitlab](https://gitlab.com/maximousblk/piracy#:~:text=star)
 
 Website mirrors:
 
