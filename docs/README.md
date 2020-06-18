@@ -46,6 +46,6 @@ If you are a copyright owner or an agent thereof, and you believe that your work
 
 ## License
 
-[![License](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)](https://github.com/maximousblk/piracy/blob/master/LICENSE)
 
-To the extent possible under law, [Maximous Black](https://maximousblk.github.io/) has waived all copyright and related or neighboring rights to this project.
+To the extent possible under law, [Maximous Black](https://maximousblk.now.sh/) has waived all copyright and related or neighboring rights to this project.

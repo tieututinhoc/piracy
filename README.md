@@ -42,13 +42,13 @@ Somewhat. I don't know everything about piracy and can be a little resistive whi
 
 ## Contribute
 
-Contributions are welcome! Read the [contribution guidelines](contributing.md) to make sure nothing goes wrong.
+Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) to make sure nothing goes wrong.
 
 For discussion, feedback or if you come across dead links please head over to [issues](https://github.com/maximousblk/piracy/issues/) page.
 
 ## Disclaimer
 
-All the information on this website is purely for informational purposes and is not intended to support copyright infringement. I, [Maximous Black](https://maximousblk.github.io/), the owner of this project is not responsible for and in no way associated to any external links or their content. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. I have no control over the nature, content and availability of other websites. If you dislike the information this website provides then please contact the corresponding website's owner/webmaster/hoster directly and fill a DMCA takedown request.
+All the information on this website is purely for informational purposes and is not intended to support copyright infringement. I, [Maximous Black](https://maximousblk.now.sh/), the owner of this project is not responsible for and in no way associated to any external links or their content. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them. I have no control over the nature, content and availability of other websites. If you dislike the information this website provides then please contact the corresponding website's owner/webmaster/hoster directly and fill a DMCA takedown request.
 
 If you are a copyright owner or an agent thereof, and you believe that your work is accessible through this project in a way that constitutes copyright infringement, you may [create a GitHub issue](https://github.com/maximousblk/piracy/issues/new) to notify me.
 
@@ -56,4 +56,4 @@ If you are a copyright owner or an agent thereof, and you believe that your work
 
 [![License](https://img.shields.io/github/license/maximousblk/piracy?style=for-the-badge)](LICENSE)
 
-To the extent possible under law, [Maximous Black](https://maximousblk.github.io/) has waived all copyright and related or neighboring rights to this project.
+To the extent possible under law, [Maximous Black](https://maximousblk.now.sh/) has waived all copyright and related or neighboring rights to this project.
