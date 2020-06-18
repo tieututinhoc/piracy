@@ -42,7 +42,7 @@ module.exports = {
         announcementBar: {
             id: 'star', // Any value that will identify this message.
             content:
-                '<a target="_blank" href="https://github.com/maximousblk/piracy#:~:text=star">PLEASE LEAVE A STAR ON GITHUB</a>',
+                '<b><a target="_blank" href="https://github.com/maximousblk/piracy#:~:text=star">PLEASE LEAVE A STAR ON GITHUB</a></b>',
             backgroundColor: 'var(--ifm-background-surface-color)', // Defaults to `#fff`.
             textColor: 'var(--ifm-color-primary)', // Defaults to `#000`.
         },
