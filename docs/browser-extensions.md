@@ -15,14 +15,13 @@ sidebar_label: Browser Extensions
 - [WebRTC Network Limiter](https://chrome.google.com/webstore/detail/webrtc-network-limiter/npeicpdbkakmehahjeeohfdhnlpdklia?hl=en) - Configures how WebRTC's network traffic is routed by changing Chrome's privacy settings.
 - [ScriptSafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) - A browser extension that gives users control of the web and more secure browsing while emphasizing simplicity and intuitiveness.
 - [NoScript](https://noscript.net/getit) - Allow active content to run only from sites you trust, and protect yourself against XSS and clickjacking attacks. Firefox only.
-- [Universal Bypass](https://chrome.google.com/webstore/detail/universal-bypass/aihomhdbhpnpmcnnbckjjcebjoikpihj) - Universal Bypass automatically skips annoying link shorteners.
+- [Universal Bypass](https://universal-bypass.org/) - Universal Bypass automatically skips annoying link shorteners.
 - [Violentmonkey](https://violentmonkey.github.io/) - An open-source userscript manager.
 - [Anti-Paywall](https://github.com/nextgens/anti-paywall) - A browser extension that maximizes the chances of bypassing paywalls.
 - [Google unlocked](https://github.com/Ibit-to/google-unlocked) - Google Unlocked Chrome extension unlocks hidden google search results.
   - [Website](https://ibit.uno/)
 - [Hide Fake Torrents on TPB](https://chrome.google.com/webstore/detail/hide-fake-torrents-on-tpb/fkdhkcpmifehkmadpldbbdadepgplcmo) - Hide fake torrents on TPB.
 - [Reddit Enhancement Suite](http://redditenhancementsuite.com/) - Community-driven unofficial browser extension for reddit.
-- [Browser Plugs](https://www.browserplugs.com/) - A Chrome "all-in-one" anti-fingerprinting protection extensions.
 - [CanvasBlocker](https://github.com/kkapsner/CanvasBlocker) - Alters some JS APIs to prevent fingerprinting.
 - [Canvas Fingerprint Blocker](https://github.com/joue-quroi/canvas-fingerprint-blocker) - Block HTML canvas element from being used for fingerprinting purposes.
 - [Chameleon](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/) - Spoof your Firefox browser profile. Includes a few privacy enhancing options.

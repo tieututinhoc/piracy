@@ -5,7 +5,7 @@ sidebar_label: Dead
 
 :::note Heads up!
 
-This basically graveyard for all the dead links. None the links here are active anymore. These are all [Internet archive](https://web.archive.org/web/*/archive.org/) links. There is a chance that some links were never archived.
+This basically graveyard for all the dead links. None the links here are active anymore. These are all [Internet archive](https://archive.org/) links. There is a chance that some links were never archived.
 
 :::
 
@@ -19,3 +19,4 @@ This basically graveyard for all the dead links. None the links here are active 
 - [Grabber](https://web.archive.org/web/*/grabber.co.in/) - Download stock images from Shutterstock.
 - [6box](https://web.archive.org/web/*/6box.me/) - A recently revived free Usenet indexing service with a generous API.
 - [CracksNow](https://web.archive.org/web/*/cracksnow.com/) - Cracks for Android, Windows, and macOS applications.
+- [Browser Plugs](https://web.archive.org/web/*/browserplugs.com/) - A Chrome "all-in-one" anti-fingerprinting protection extensions.
