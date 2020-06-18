@@ -1,0 +1,25 @@
+name: Check Links
+
+on:
+  schedule: 
+    - cron: "0 0 0 * *"
+  push:
+    paths:
+      - '.github/workflows/links.yml'
+jobs:
+    claim:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Setup repo
+              uses: actions/checkout@v2
+
+            - name: Check Links
+              uses: peter-evans/link-checker@v1.2.2
+
+            - name: Create Issue From report
+              uses: peter-evans/create-issue-from-file@v2
+              with:
+                title: Link Checker Report
+                content-filepath: ./link-checker/out.md
+                labels: auto report
