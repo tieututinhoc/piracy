@@ -16,6 +16,8 @@ jobs:
 
             - name: Check Links
               uses: peter-evans/link-checker@v1.2.2
+              with:
+                args: -r *
 
             - name: Create Issue From report
               uses: peter-evans/create-issue-from-file@v2
