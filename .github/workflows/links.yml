@@ -1,11 +1,10 @@
 name: Check Links
 
 on:
+  push:
   schedule: 
     - cron: "0 0 1 * *"
-  push:
-    paths:
-      - '.github/workflows/links.yml'
+
 jobs:
     check:
         runs-on: ubuntu-latest
