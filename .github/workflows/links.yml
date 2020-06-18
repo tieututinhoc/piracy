@@ -22,12 +22,12 @@ jobs:
             - name: Close Old Issue
               uses: bdougie/close-issues-based-on-label@master
               env:
-                LABEL: auto report
+                LABEL: broken-links
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-            - name: Create Issue From report
+            - name: Create New Issue
               uses: peter-evans/create-issue-from-file@v2
               with:
-                title: Link Checker Report
+                title: Broken Links
                 content-filepath: ./link-checker/out.md
                 labels: broken-links
