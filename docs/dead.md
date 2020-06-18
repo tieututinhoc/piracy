@@ -20,3 +20,5 @@ This basically graveyard for all the dead links. None the links here are active 
 - [6box](https://web.archive.org/web/*/6box.me/) - A recently revived free Usenet indexing service with a generous API.
 - [CracksNow](https://web.archive.org/web/*/cracksnow.com/) - Cracks for Android, Windows, and macOS applications.
 - [Browser Plugs](https://web.archive.org/web/*/browserplugs.com/) - A Chrome "all-in-one" anti-fingerprinting protection extensions.
+- [Discord NSWDBot](https://web.archive.org/web/*/github.com/HunterKing/NSWDBot) - Discord bot to scrape NSWDB.com for scene releases.
+- [piratesonline](https://web.archive.org/web/*/discord.me/piratesonline) - Official piratesonline.us Discord Server.

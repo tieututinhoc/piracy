@@ -3,14 +3,13 @@ title: Discord
 sidebar_label: Discord
 ---
 
-- [BetterDiscord](http://betterdiscord.net/home/) - Pimp Discord with better Themes and add some nice Plugins/Scripts.
+- [BetterDiscord](https://github.com/JsSucks/BetterDiscordApp) - Pimp Discord with better Themes and add some nice Plugins/Scripts.
 - [Discord Channel scraper](http://github.com/simon987/Discord-Channel-scraper) - Scrapes an arbitrary number of lines from a Discord channel.
-- [Discord NSWDBot](http://github.com/HunterKing/NSWDBot) - Discord bot to scrape NSWDB.com for scene releases.
 - [Discord WarezBot](http://github.com/enzobes/WarezBot) - Public Version of Discord bot for scene release.
 - [Discord notifications 1: Sonarr, Radarr and Lidarr](http://blog.tiga.tech/discord-notifications-for-sonarr-radarr-and-lidarr/) - A short tutorial to work with Sonarr which notificatesDiscord Users about new releases.
 - [Discord toolkit](http://notabug.org/johndoe5436/discord-toolkit) - Discord batch account creator.
 - [DiscordCrypt](http://gitlab.com/leogx9r/DiscordCrypt) - Encrypt Discord - there is also [Simple DiscordCrypt](http://gitlab.com/An0/SimpleDiscordCrypt) - which works with the Web version of Discord (both are not compatible to each another!).
-- [Do Not Track for Discord](http://betterdocs.us/plugins/do-not-track/) - A plugin for BD to prevent Discord tracking.
+- [Do Not Track for Discord](https://github.com/rauenzi/BetterDiscordAddons/tree/master/Plugins/DoNotTrack) - A plugin for BetterDiscord to prevent Discord tracking.
 - [Running a full deletion](http://github.com/c-edw/discord-delete/wiki/Running-a-full-deletion) - Powerful script to delete full Discord message history.
 - [cache-monkey](https://github.com/jamiepine/cache-monkey) - Cachemonkey, for viewing images stored in the discord cache, works for recovering images that were loaded by the discord client but were deleted. It also has a feature to purge the cache too.
 
@@ -38,7 +37,6 @@ sidebar_label: Discord
 - [DreamTV](https://discordapp.com/invite/FQkQz6g) - A Discord server for the official DreamTV Android app.
 - [legal acquisition club](https://discordapp.com/invite/UmWJVvH) - A piracy server to discuss and share movies, tv and apps.
 - [Morph TV (Morpheus Fork)](https://discordapp.com/invite/gVxP2Gq) - Morph TV (Morpheus Fork) - official Discord server.
-- [piratesonline](https://discord.me/piratesonline) - Official piratesonline.us Discord Server.
 - [PlayStation Homebrew](https://discord.gg/JJnvEN8) - Home of /r/ps3homebrew and /r/ps4homebrew.
 - [The Eye](https://discordapp.com/invite/py3kX3Z) - Official Discord server for The-Eye.eu.
 - [The Ratio](https://discordapp.com/invite/wab3Qag) - A community of seedbox enthusiasts. Buying advice, application setup, and automation help.
