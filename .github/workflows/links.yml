@@ -19,9 +19,15 @@ jobs:
               with:
                 args: -r *
 
+            - name: Close Old Issue
+              uses: bdougie/close-issues-based-on-label@master
+              env:
+                LABEL: auto report
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
             - name: Create Issue From report
               uses: peter-evans/create-issue-from-file@v2
               with:
                 title: Link Checker Report
                 content-filepath: ./link-checker/out.md
-                labels: auto report
+                labels: broken-links
