@@ -13,6 +13,14 @@ jobs:
             - name: Setup repo
               uses: actions/checkout@v2
 
+            - name: Setup Node
+              uses: actions/setup-node@v1
+              with:
+                node-version: '12'
+
+            - name: Install link checker
+              run: npm i -g markdown-link-check
+
             # - name: Check Links
             #   uses: peter-evans/link-checker@v1.2.2
             #   with:
