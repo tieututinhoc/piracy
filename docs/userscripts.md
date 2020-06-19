@@ -3,7 +3,7 @@ title: Userscripts
 sidebar_label: Userscripts
 ---
 
-- [www.icourse163.org Downloader](https://greasyfork.org/en/scripts/389496-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6mooc%E6%85%95%E8%AF%BE-www-icourse163-org-%E4%B8%8B%E8%BD%BD%E5%99%A8) - Add download button on www.icourse163.org to download videos.
+- [icourse163 Downloader](https://greasyfork.org/en/scripts/372684-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%AD%A6-mooc-%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E9%9C%80%E9%85%8D%E5%90%88aria2%E4%BD%BF%E7%94%A8) - add download button on icourse163.org to download videos.
 - [AdsBypasser](https://adsbypasser.github.io/) - This user script helps you to skip countdown ads or continue pages and prevent ad pop-up windows.
 - [AntiAdware](https://greasyfork.org/en/scripts/4294-antiadware) - Remove forced download accelerators, managers, and adware on supported websites.
 - [AdGuard Popup Blocker](https://github.com/AdguardTeam/PopupBlocker) - Popup Blocker by AdGuard is a userscript that blocks all unwanted pop-up windows in different browsers.
@@ -31,11 +31,10 @@ sidebar_label: Userscripts
 - [RYM google current album](https://greasyfork.org/en/scripts/5966-rym-google-current-album) - Places buttons and dropdowns below the album title on a release page that will conduct searches in many warez, torrent, and music info sites.
 - [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button) - Add sci-hub button after article link. Support Google scholar, bing academic and baidu xueshu. Jump CNKI English article to Chinese article.
 - [Sci-Hub downloader](https://greasyfork.org/de/scripts/398689-sci-hub-downloader) - This script automatically detects if the current page is an article downloadable from Sci-Hub and display a banner at the top of the website to download it from Sci-Hub.
-- [Scribd downloader](https://greasyfork.org/scripts/14503) - Downloads from Scribd.
+- [Scribd Print and Download](https://greasyfork.org/en/scripts/14655-scribd-print-and-download) - Changes "Upload" link to open a printable viewer (print to PDF).
 - [Torrentz2 Magnet](https://greasyfork.org/en/scripts/21547-torrentz2-magnet) - Add magnet link to torrentz2.
 - [XZ Pixiv Batch Downloader](https://greasyfork.org/scripts/24252) - Batch download original works of artists such as artists, bookmarks, leaderboards, search pages, etc.; view popular works; create folders; convert moving images.
 - [Local YouTube Downloader](https://greasyfork.org/en/scripts/369400-local-youtube-downloader) - Download YouTube Videos without youtube-dl or external websites/tools.
-- [Encrypt Discord Token](https://greasyfork.org/en/scripts/370576-encrypt-discord-token) - Encrypts your Discord token to prevent trojans from reading your localStorage files and finding your token. However, there are no guarantees that your account cannot get hacked.
 - [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - Allows you to retrieve your user token for reference.
 - [YouTube to Invidious](https://greasyfork.org/en/scripts/375264-youtube-to-invidious) - Scan page for YouTube embeds and urls and replace with Invidious.
 

@@ -34,7 +34,7 @@ sidebar_label: Usenet
 - [Newsgroup Ninja](https://www.newsgroup.ninja/en) - \$7.99 per month, SSL encryption, Unmetered usage, Unlimited speeds.
 - [Premiumizer](https://github.com/piejanssens/premiumizer) - A download management tool for premiumize.me cloud downloads.
 - [Tweaknews](https://www.tweaknews.eu/en/landing/best-deal?a_aid=greycoder) - Dutch Usenet provider that offers a [Highwinds](https://highwinds.com/) - news feed.
-- [Usenet Crawler](www.usenet-crawler.com) - Movies, eBooks, TV Series, Anime & more.
+- [Usenet Crawler](https://www.usenet-crawler.com) - Movies, eBooks, TV Series, Anime & more.
 - [Usenet Providers and Backbones](https://commons.wikimedia.org/wiki/File:Usenet_Providers_and_Backbones.svg) - This is a simple overview of the current companies, backbones, providers and resellers in the Usenet landscape.
 - [Usenet.Farm](https://usenet.farm/) - Usenet reseller with 1000+ days retention.
 - [WorldSrc](https://worldsrc.org) - Movies, software, apps, games, music, and images available for fast direct download + torrents.
@@ -46,7 +46,7 @@ sidebar_label: Usenet
 
 ### Paid Indexers
 
-- [DOGnzb](https://dognzb.cr/login) - Invite-only NZB site (although they do have a [registration page](https://dognzb.cr/register) - at the moment).
+- [DOGnzb](https://dognzb.cr/login) - Invite-only NZB site (although they do have a [registration page](https://dognzb.cr/register) that occasionally opens up while maintenance).
 - [DrunkenSlug](https://drunkenslug.com/) - Popular NZB indexer with a free tier and decent retention.
 - [NZBCat](https://nzb.cat/) - NZBCat is an invite-only nZEDb NZB indexer.
 - [NZBFinder](https://nzbfinder.ws/) - Usenet indexer and newznab API with a clean UI and 8+ year backlog of NZBs.

@@ -16,17 +16,17 @@ jobs:
             - name: Check Links
               uses: peter-evans/link-checker@v1.2.2
               with:
-                args: -r *
+                args: -c 128 -r *
 
             - name: Close Old Issue
               uses: bdougie/close-issues-based-on-label@master
               env:
-                LABEL: broken-links
+                LABEL: bad links
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
             - name: Create New Issue
               uses: peter-evans/create-issue-from-file@v2
               with:
-                title: Broken Links
+                title: Bad Links
                 content-filepath: ./link-checker/out.md
-                labels: broken-links
+                labels: bad links

@@ -30,14 +30,13 @@ sidebar_label: Misc
 ## Unblock blocked Websites
 
 - [AvoidCensorship](https://avoidcensorship.org/) - Unblock ThePirateBay (TPB).
-- [ByPassed](https://bypassed.wtf/) - ByPassed is an all-in-one solution to unblock censored websites including thepiratebay, kickass, eztv, yts, extratorrent & more.
 - [hola-proxy](https://github.com/Snawoot/hola-proxy) - A standalone Hola proxy client which allows access via residental proxies.
 - [CroxyProxy](https://www.croxyproxy.com/) - Free web proxy site to bypass filters and unblock blocked websites anonymously.
   - [Mirror](https://www.croxyproxy.rocks/)
 - [netflix-proxy](https://github.com/ab77/netflix-proxy/) - Smart DNS proxy to unblock Netflix streams.
 - [k8s-usenet](https://github.com/aldoborrero/k8s-usenet) - Helm (Kubernetes based) - collection of charts related to different Usenet services (sabnzbd, radarr, sonarr etc).
-- [Unblocked](https://unblocked-pw.github.io/) - A Proxy site for accessing your favorite blocked sites.
-
+- [Unblocked](https://unblockit.pw/) - A Proxy site for accessing your favorite blocked sites.
+  - [unblocked-pw.github.io](https://unblocked-pw.github.io/) - Mirror on Github.
 ## Piracy News & Forums
 
 - [r/privacy](https://www.reddit.com/r/privacy/) - The intersection of technology, privacy, and freedom in a digital world.
@@ -76,7 +75,6 @@ sidebar_label: Misc
 - [FLVTO](https://www.flvto.biz/) - Another YouTube ripper website.
 - [Sconverter.com](http://sconverter.com/) - Online YouTube Video Downloader.
 - [YouTubeNow.com](http://www.youtubnow.com/) - Claims to be the best online YouTube downloader 2019.
-- [onlinevideoconverter](http://www.onlinevideoconverter.com/youtube-converter) - Convert YouTube video links to MP4, MP3, AVI with our YouTube Converter & Downloader.
 - [gramophy](https://github.com/dubbadhar/gramophy) - A JavaFX based Open-Source YouTube Music Downloader/Player.
 - [y2mate.com](http://y2mate.com/) - Download Video and Audio from YouTube.
 - [youtube-dl](http://ytdl-org.github.io/youtube-dl/index.html) - A command-line program to download videos from YouTube.com and a few more sites.
@@ -95,6 +93,7 @@ sidebar_label: Misc
 
 ## Piracy archives
 
+- [The Eye](https://the-eye.eu/) - Open Directory Data Archive.
 - [130GB of flash games](http://bluemaxima.org/flashpoint/downloads/) - Almost all flash games archived.
 - [GOG Dump](http://web.archive.org/web/20190429144618/https://docs.google.com/spreadsheets/d/e/2PACX-1vSDj58h_xUDPoz9n12x_kZvQW1VKO4AQOaNGaUmEtpFmL5q0R05Pr4qVZxxzH8CZT3ZLX6_ZX8muYzm/pubhtml)
 - [Nintendo Games Collection](http://web.archive.org/web/20190429144531/https://docs.google.com/spreadsheets/d/e/2PACX-1vSSmcqtzUguH-tlJ2sr6_v5rTwnlZI1wlsjnyH3Zyy4VKo-TbkHFuW_m3FjpTc3ApQxAL13lOWY9gkm/pubhtml)
@@ -153,7 +152,6 @@ sidebar_label: Misc
 - [DirtyWarez Top Sites](https://dirtywarez.org) - Toplist for forums, download-sites, warez blogs and sharehoster.
 - [LinkR](https://www.linkr.top/index.php) - A good looking toplist, gets regularily updates.
 - [Nydus Toplist](https://top.nydus.org) - Yet another good looking toplist.
-- [Querverweis](https://www.querverweis.net) - A big german toplist with lots of entries.
 - [RaidRush](https://toplist.raidrush.ws) - (NFSW Ads)- One of the oldest german toplist provider.
 - [Toplist Warez](https://www.toplist.cz/warez) - (PL) - Polish warez toplist.
 - [Uscene](https://www.uscene.net/warez.html) - A small but fine warez toplist.

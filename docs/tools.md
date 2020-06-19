@@ -90,7 +90,6 @@ sidebar_label: Tools
 
 ## eBook Readers
 
-- [Abacci eBooks](http://www.abacci.com/msreader/default.aspx) - All the books here are for Microsoft Reader.
 - [Amazon Kindle](http://www.amazon.com/Kindle-Amazons-Original-Wireless-generation/dp/B000FI73MA) - Learn about, shop, and discover titles for the Kindle here.
 - [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients.
   - [BicBucStriim](http://projekte.textmulch.de/bicbucstriim/) - Provides web-based access to your Calibre Library's e-book collection.
@@ -118,7 +117,6 @@ sidebar_label: Tools
 - [FilePizza](https://file.pizza/) - Free peer-to-peer file transfers in your browser.
 - [DBREE](https://dbr.ee/) - DBREE is a simplistic and easy way to upload and share any type of file.
 - [WeTransfer](https://wetransfer.com/) - WeTransfer was founded in 2009 as the simplest way to send big files around the world.
-- [dmca.gripe](https://dmca.gripe/) - A DMCA-resistant, permanent file hosting service.
 - [FileBin](https://filebin.net/) - Convenient file sharing on the web, without registration.
 
 ## Audio Editing

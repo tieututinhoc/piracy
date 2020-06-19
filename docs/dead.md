@@ -22,3 +22,11 @@ This basically graveyard for all the dead links. None the links here are active 
 - [Browser Plugs](https://web.archive.org/web/*/browserplugs.com/) - A Chrome "all-in-one" anti-fingerprinting protection extensions.
 - [Discord NSWDBot](https://web.archive.org/web/*/github.com/HunterKing/NSWDBot) - Discord bot to scrape NSWDB.com for scene releases.
 - [piratesonline](https://web.archive.org/web/*/discord.me/piratesonline) - Official piratesonline.us Discord Server.
+- [[Guide] Bypassing paywalls on iOS apps](https://web.archive.org/web/*/zero-day.io/bypassing-paywalls-on-ios-apps/) - Bypassing paywalls on iOS apps.
+- [Encrypt Discord Token](https://web.archive.org/web/*/greasyfork.org/en/scripts/370576-encrypt-discord-token) - Encrypts your Discord token to prevent trojans from reading your localStorage files and finding your token. However, there are no guarantees that your account cannot get hacked.
+- [Querverweis](https://web.archive.org/web/*/querverweis.net) - A big german toplist with lots of entries.
+- [Abacci eBooks](https://web.archive.org/web/*/abacci.com/msreader/default.aspx) - All the books here are for Microsoft Reader.
+- [dmca.gripe](https://web.archive.org/web/*/dmca.gripe/) - A DMCA-resistant, permanent file hosting service.
+- [PDF-Giant](https://web.archive.org/web/*/pdf-giant.com/) - Provides a lot of different magazines.
+- [Lit Answers](https://web.archive.org/web/*/litanswers.org/) - Find homework answers.
+- [RealMVP](https://web.archive.org/web/*/realmvp.org/) - New eBooks, video and written tutorials.

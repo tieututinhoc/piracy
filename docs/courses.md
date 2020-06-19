@@ -27,7 +27,6 @@ sidebar_label: Courses
 - [Gigacourse](https://gigacourse.com/) - Gigacourse provides coding courses.
 - [NulledPremium](https://nulledpremium.com/) - Paid Graphics, Themes, Plugins, Music For Free – Premium Graphics, Themes, Plugins, Music for free.
 - [O’Reilly](http://www.oreilly.com/?cmp=af-npa--home_cj_11246204_7018660) - A platform to download books, magazines, and tutorials for free.
-- [RealMVP](https://realmvp.org/) - New eBooks, video and written tutorials.
 - [s10 BitDownload](http://s10.bitdownload.ir/Learning.2/) - Tutorials, Udemy & and others.
 - [ScanLibs](https://scanlibs.com/) - Provides Android, Assembler, Books, C & other courses.
 - [The Online Books Page](http://digital.library.upenn.edu/books/) - You'll be able to access over 35,000 free ebooks from this site, powered by the University of Pennsylvania.
@@ -35,8 +34,9 @@ sidebar_label: Courses
 - [udemy-dl](https://github.com/r0oth3x49/udemy-dl) - Udemy course downloader script.
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A cross platform (Windows, Mac, Linux) - desktop application for downloading Udemy Courses.
 - [Tut4dl](https://tut4dl.com/) - Download tutorial and training courses from many paid MOOCs, with categories ranging from Cuisine to Cryptography.
-- [brilliant-dump_wip](https://github.com/mrwnwttk/brilliant-dump_wip) - An unfinished tool to dump courses from [brilliant](https://brilliant.org)
-- [skillshare-dl](https://github.com/mrwnwttk/skillshare-dl) - Download courses from Skillshare.com, works on all platforms!.
+- [Skillshare-DL](https://github.com/K-E-N-W-A-Y/Skillshare-DL) - Download courses from Skillshare.
+- [skillshare-downloader](https://github.com/kallqvist/skillshare-downloader) - Download courses from Skillshare.
+- [Skill-Share-Crawler---DL](https://github.com/tharyckgusmao/Skill-Share-Crawler---DL) - Crawler to Download videos from the skillshare platform Suport Automatic auth and Manual.
 - [Haxnode](https://haxnode.com/) - Replacement for TutsGalaxy, learn HTML5 and CSS3 fundamentals.
 - [BookFlare](https://bookflare.org/) - Replacement for TutsGalaxy, learn HTML5 and CSS3 fundamentals.
 - [Traning Circle](https://trainingcircle.in/) - (EN-US) - Coding, reversing & other tutorials.
