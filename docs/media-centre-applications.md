@@ -32,24 +32,24 @@ sidebar_label: Media Centre Applications
 
 ### Plex Plugins
 
-- [Audiobooks.bundle](http://github.com/macr0dev/Audiobooks.bundle) - Plex metadata scraper for Audiobooks.
-- [ExportTools.bundle](http://github.com/ukdtom/ExportTools.bundle) - Export Plex Library to a csv, xlsx or m3u8 file.
-- [FMoviesPlus.bundle](http://github.com/coder-alpha/FMoviesPlus.bundle) - Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
-- [HDGrandSlam.bundle](http://github.com/jumpmanjay/HDGrandSlam.bundle) - Interfaces with HDHomeRun tuners and DVRs.
-- [HDHRViewerV2.bundle](http://github.com/zynine-/HDHRViewerV2.bundle) - HDHomeRun + Plex.
-- [IPTV.bundle](http://github.com/Cigaras/IPTV.bundle) - The website plays live streams (like IPTV) - from an M3U playlist.
-- [lmwt-kiss.bundle](http://github.com/Twoure/lmwt-kiss.bundle) - Creates a new channel within Plex Media Server (PMS) - to view content from PrimeWire.
+- [Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle) - Plex metadata scraper for Audiobooks.
+- [ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle) - Export Plex Library to a csv, xlsx or m3u8 file.
+- [FMoviesPlus.bundle](https://github.com/coder-alpha/FMoviesPlus.bundle) - Plex Media Server plug-in designed for FMovies, G2G, Primewire and more.
+- [HDGrandSlam.bundle](https://github.com/jumpmanjay/HDGrandSlam.bundle) - Interfaces with HDHomeRun tuners and DVRs.
+- [HDHRViewerV2.bundle](https://github.com/zynine-/HDHRViewerV2.bundle) - HDHomeRun + Plex.
+- [IPTV.bundle](https://github.com/Cigaras/IPTV.bundle) - The website plays live streams (like IPTV) - from an M3U playlist.
+- [lmwt-kiss.bundle](https://github.com/Twoure/lmwt-kiss.bundle) - Creates a new channel within Plex Media Server (PMS) - to view content from PrimeWire.
 - [Moviemania.bundle](http://www.reddit.com/r/MoviemaniaHQ/comments/6znf6b/plex_pluginagent_beta_1/) - Textless movie posters from Moviemania.io.
-- [Official Plex Plugins](http://github.com/plexinc-plugins) - Repos for every official Plex Inc. plugin.
-- [Plex-Trakt-Scrobbler](http://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv.
-- [PlexTools.bundle](http://github.com/jwdempsey/PlexTools.bundle) - Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play.
-- [RequestChannel.bundle](http://github.com/ngovil21/RequestChannel.bundle) - A Plex Channel to create requests.
-- [SRT2UTF-8.bundle](http://github.com/ukdtom/SRT2UTF-8.bundle) - Plex Agent that'll convert sidecar subtitle files into UTF-8.
+- [Official Plex Plugins](https://github.com/plexinc-plugins) - Repos for every official Plex Inc. plugin.
+- [Plex-Trakt-Scrobbler](https://github.com/trakt/Plex-Trakt-Scrobbler) - Add what you are watching on Plex to trakt.tv.
+- [PlexTools.bundle](https://github.com/jwdempsey/PlexTools.bundle) - Downloads subtitles for any videos in your library from OpenSubtitles and modifies them to work with Roku clients, and converts videos to MP4 for direct play.
+- [RequestChannel.bundle](https://github.com/ngovil21/RequestChannel.bundle) - A Plex Channel to create requests.
+- [SRT2UTF-8.bundle](https://github.com/ukdtom/SRT2UTF-8.bundle) - Plex Agent that'll convert sidecar subtitle files into UTF-8.
 - [SS Plex](http://mikew.github.io/ss-plex.bundle/) - Imagine if all the media scattered around the internet could be found in one collection.
-- [Sub-Zero.bundle](http://github.com/pannal/Sub-Zero.bundle) - Subtitles for Plex, as good you would expect them to be. (_read_: [plans for a world without Plex plugins](http://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/)).
+- [Sub-Zero.bundle](https://github.com/pannal/Sub-Zero.bundle) - Subtitles for Plex, as good you would expect them to be. (_read_: [plans for a world without Plex plugins](http://www.reddit.com/r/PleX/comments/9n9qjl/subzero_the_future/)).
 - [SuperPLEX](http://normantheidiot.neocities.org/superplex/) - A website dedicated to Plex plugins.
-- [TvplexendChannel.bundle](http://github.com/pgaubatz/TvplexendChannel.bundle) - A Tvheadend Channel Plugin for PLEX Media Server.
-- [WebTools.bundle](http://github.com/ukdtom/WebTools.bundle) - A collection of several tools for Plex Media Server. Like the Unsupported AppStore (UAS).
+- [TvplexendChannel.bundle](https://github.com/pgaubatz/TvplexendChannel.bundle) - A Tvheadend Channel Plugin for PLEX Media Server.
+- [WebTools.bundle](https://github.com/ukdtom/WebTools.bundle) - A collection of several tools for Plex Media Server. Like the Unsupported AppStore (UAS).
 - [SyncLounge](https://synclounge.tv/) - Enjoy Plex with your friends. In Sync. Together.
 
 ### Plex Requests
@@ -112,9 +112,9 @@ sidebar_label: Media Centre Applications
 
 ### Plex Clients
 
-- [go-plex-client](http://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client.
-- [PlexConnect](http://github.com/iBaa/PlexConnect) - Unofficial Plex app for Apple TV devices.
-- [RasPlex](http://github.com/RasPlex/RasPlex) - Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi.
+- [go-plex-client](https://github.com/jrudio/go-plex-client) - A Plex.tv and Plex Media Server Go client.
+- [PlexConnect](https://github.com/iBaa/PlexConnect) - Unofficial Plex app for Apple TV devices.
+- [RasPlex](https://github.com/RasPlex/RasPlex) - Rasplex is a community driven port of Plex Home Theater for the Raspberry Pi.
 
 ## Kodi
 

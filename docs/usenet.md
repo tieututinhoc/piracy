@@ -83,6 +83,6 @@ sidebar_label: Usenet
 - [NZBGet](http://nzbget.net/) - Efficient Usenet downloader written in C++ which is bit lighter on system resources than SABNZBd.
 - [PowerNZB](http://powernzb.co.uk/) - The Ultimate Binary Usenet Client for Android.
 - [SABnzbd](http://sabnzbd.org/) - SABnzbd is an open-source binary Newsreader written in Python.
-- [spotweb](http://github.com/spotweb/spotweb) - Spotweb is a decentralized Usenet community based on the Spotnet protocol.
+- [spotweb](https://github.com/spotweb/spotweb) - Spotweb is a decentralized Usenet community based on the Spotnet protocol.
 - [Unison](http://panic.com/blog/the-future-of-unison/) - macOS app for accessing Usenet Newsgroups and the many wonders and mysteries contained within (discontinued).
 - [Usenetic](http://www.usenetic.com/) - The full-featured Usenet client for macOS.

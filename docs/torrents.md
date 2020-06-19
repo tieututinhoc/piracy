@@ -259,7 +259,7 @@ sidebar_label: Torrents
 ### qBittorrent
 
 - [qBittorrent](http://www.qbittorrent.org/) - The qBittorrent project aims to provide an open-source software alternative to µTorrent.
-- [Plugin list for qBittorrent](http://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) - Plugins for Public sites (requires Python).
+- [Plugin list for qBittorrent](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) - Plugins for Public sites (requires Python).
 - [qBitTorrent search function](http://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) - Allows you to search popular torrent trackers and download rss/torrents.
 - [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) - Allows you to search popular trackers directly from qBittorrent.
 - [qBitTorrent plugins for public sites](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) - List of qBitTorrent plugins for searching public torrent sites.
@@ -275,7 +275,7 @@ sidebar_label: Torrents
 
 - [rTorrent](https://rakshasa.github.io/rtorrent/) - rTorrent is a text-based ncurses BitTorrent client written in C++.
 - [ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent.
-  - [rutorrent-all-seeders](http://github.com/AkdM/rutorrent-all-seeders) - This ruTorrent plugin adds the columns 'All Seeders' the torrents list.
+  - [rutorrent-all-seeders](https://github.com/AkdM/rutorrent-all-seeders) - This ruTorrent plugin adds the columns 'All Seeders' the torrents list.
   - [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) - A collection of default and new, original themes for ruTorrent.
 - [rTorrent Community wiki](https://github.com/rtorrent-community/rtorrent-community.github.io/wiki) - GitHub wiki for rTorrent.
 - [rTorrent Docs](https://rtorrent-docs.readthedocs.io/en/latest/) - Comprehensive manual and user guide for the rTorrent bittorrent client.

@@ -429,20 +429,20 @@ sidebar_label: Movies and TV shows
 - [Radarr](http://radarr.video/) - A fork of Sonarr to work with movies ala Couchpotato.
 - [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) - Syncs two Radarr servers through web API.
 - [Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and BitTorrent users.
-- [Pulsarr](http://github.com/roboticsound/Pulsarr) - Browser extension for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
-- [traktarr](http://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
+- [Pulsarr](https://github.com/roboticsound/Pulsarr) - Browser extension for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
+- [traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Medusa](http://pymedusa.com/) - Automatic Video Library Manager for TV Shows.
 - [SickBeard](http://sickbeard.com/) - The ultimate PVR application that searches for and manages your TV shows.
 - [SickChill](http://sickchill.github.io/) - An automatic Video Library Manager for TV Shows.
-- [SickGear](http://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
-- [SickRage](http://github.com/SiCKRAGE/SiCKRAGE) - Automatic Video Library Manager for TV Shows.
+- [SickGear](https://github.com/SickGear/SickGear) - SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation.
+- [SickRage](https://github.com/SiCKRAGE/SiCKRAGE) - Automatic Video Library Manager for TV Shows.
 - [TV Overlord](http://www.tvoverlord.com/) - TV Overlord is a semi automatic command line tool to download and manage TV shows from newsgroups or Bittorent.
 - [TVShows 2](http://tvshowsapp.com/) - TVShows is the easiest way to download your favorite shows automatically in your Mac.
 - [CouchPotato](http://couchpota.to/) - Download movies automatically, easily and in the best quality as soon as they are available.
-- [Watcher](http://github.com/nosmokingbandit/Watcher3) - Watcher is an automated movie NZB & Torrent searcher and snatcher.
-- [Snahp tool](http://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
+- [Watcher](https://github.com/nosmokingbandit/Watcher3) - Watcher is an automated movie NZB & Torrent searcher and snatcher.
+- [Snahp tool](https://github.com/Rawnly/snahp-tool) - Client for download movies from snahp lists.
 - [Nefarious](http://lardbit.github.io/nefarious/) - Nefarious is a web application that helps you download movies and TV shows.
-- [MacGuffin](http://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases.
+- [MacGuffin](https://github.com/hwkns/macguffin) - Automated tools for handling Scene and P2P film releases.
 
 ## Subtitles
 
@@ -458,12 +458,12 @@ sidebar_label: Movies and TV shows
 ### Subtitles Automation
 
 - [nzb-subliminal](https://github.com/caronc/nzb-subliminal) - Fetches subtitles for the videos it's provided. It can be easily integrated into NZBGet and SABnzbd too.
-- [Bazarr](http://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
+- [Bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements.
 - [HorribleSubs Bulkd Download](http://anonembed.xyz/horriblesubs/) - 9anime bulk subs download website.
 - [JustDubs](http://ww5.justdubs.me/) - Watch English Dubbed Anime And Movies For Free Online.
 - [SubScenes](http://subscene.com/) - Subtitle Scene, provdes subtitles and tools.
 - [WonderfulSubs](http://www.wonderfulsubs.com/) - Subs and dubs, no ads, still in beta stage.
-- [autosub](http://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition.
-- [vlsub](http://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
+- [autosub](https://github.com/agermanidis/autosub) - Command-line utility for auto-generating subtitles for any video file using speech recognition.
+- [vlsub](https://github.com/exebetche/vlsub) - VLC extension to download subtitles from opensubtitles.org.
 - [ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
 - [Sublight.me](http://sublight.me/) - Automatically batch download subtitles in a monitored folder.

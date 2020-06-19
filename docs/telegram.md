@@ -15,7 +15,7 @@ sidebar_label: Telegram
 - [Manybot](http://manybot.io/) - Create your own telegram bot without coding skills.
 - [Overview of Telegram Bots](http://www.qwasap.com/en/bots.php) - There are many Telegram bots, but here are only the best.
 - [TelegramBotsList](http://danyspin97.github.io/TelegramBotsList/) - A list of Telegram bots with open source code in alphabetical order.
-- [Telegram XP Bot](http://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
+- [Telegram XP Bot](https://github.com/terorie/xpbot-telegram) - Block spam + XP leaderboard for Telegram.
 - [Telegram CrackWatch tracker Bot](http://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) - Tracks CrackWatch website.
 - [chatter](https://github.com/visualbasic6/chatter) - Internet monitoring osint telegram bot for windows.
 - [smart-tv-telegram](https://github.com/andrew-ld/smart-tv-telegram) - Stream movies from telegram to smart tv over http using upnp and dlna (and chromecast).

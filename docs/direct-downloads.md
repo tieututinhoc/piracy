@@ -4,7 +4,7 @@ sidebar_label: DDL
 ---
 
 - [Zippyshare.sh](https://github.com/myspaghetti/zippyshare) - Bash script for batch downloading files from Zippyshare.
-- [Plowshare](http://github.com/mcrapet/plowshare) - Command-line tool & engine for managing sharing websites.
+- [Plowshare](https://github.com/mcrapet/plowshare) - Command-line tool & engine for managing sharing websites.
 - [pyLoad](https://pyload.net/) - Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to.
 - [WFDownloader App](http://www.wfdownloader.xyz/) - Batch downloader ultility.
 - [wget - a noob's guide](https://the-eye.eu/public/Wget_Linux_Guide.pdf) - Beginner guide on how to use `wget`.
@@ -31,27 +31,27 @@ sidebar_label: DDL
 - [wget](http://www.gnu.org/software/wget/) - `wget` is a free and open source tool for downloading files using HTTP, HTTPS, FTP and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
   - [wget for Windows](http://eternallybored.org/misc/wget/) - A command-line utility for retrieving files using HTTP, HTTPS and FTP protocols.
 - [MEGAsync](http://mega.nz/sync) - Easy automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
-  - [MegaCrypt.js](http://github.com/JohnDeved/megacrypt.js) - MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
-  - [megabasterd](http://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
+  - [MegaCrypt.js](https://github.com/JohnDeved/megacrypt.js) - MegaCrypt.js lets you share your Mega.nz files without actually having to share any Mega.nz links by encrypting them to create a secure proxy to your files.
+  - [megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
   - [megadown](https://github.com/tonikelope/megadown) - Bash script for download files from mega.nz and megacrypter.
-  - [megatools](http://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
-- [annie](http://github.com/iawia002/annie) - Fast, simple and clean video downloader.
+  - [megatools](https://github.com/megous/megatools) - Open-source command line tools and C library (libmega) - for accessing Mega.co.nz cloud storage.
+- [annie](https://github.com/iawia002/annie) - Fast, simple and clean video downloader.
 - [aria2](http://aria2.github.io/) - A lightweight multi-protocol & multi-source command-line download utility.
 - [Photon](https://github.com/alanzhangzm/Photon) - A lightweight multi-threaded downloader based on aria2.
-- [axel](http://github.com/axel-download-accelerator/axel) - Light command line download accelerator.
+- [axel](https://github.com/axel-download-accelerator/axel) - Light command line download accelerator.
 - [curl](http://en.wikipedia.org/wiki/CURL) - `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
-- [get_iplayer](http://github.com/get-iplayer/get_iplayer) - A utility for downloading TV and radio programmes from BBC iPlayer.
+- [get_iplayer](https://github.com/get-iplayer/get_iplayer) - A utility for downloading TV and radio programmes from BBC iPlayer.
 - [grayhatwarfare S3 bucket search](http://buckets.grayhatwarfare.com/) - Not likely to find much with this one but interesting nonetheless.
 - [Leonflix](http://leonflix.net/) - A multi-platform desktop app for finding movies and TV shows.
 - [Google Drive direct download link generator](http://maulvi.github.io/)
-- [netclix](http://github.com/ston3o/netclix) - A simple cli tool to get movie streaming premium links from VodLocker's API.
+- [netclix](https://github.com/ston3o/netclix) - A simple cli tool to get movie streaming premium links from VodLocker's API.
 - [Persepolis](http://persepolisdm.github.io/) - Front-end for aria2.
-- [rdcli](http://github.com/ston3o/rdcli) - The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid.
-- [ripme](http://github.com/RipMeApp/ripme) - A album/video downloader with support for over 80 sites.
+- [rdcli](https://github.com/ston3o/rdcli) - The simple way to download and unrestrict DDL files, torrents and magnets using Real-Debrid.
+- [ripme](https://github.com/RipMeApp/ripme) - A album/video downloader with support for over 80 sites.
 - [Swiss Transfer](http://www.swisstransfer.com/en) - Share Files up to 25GB.
 - [YouTube MP3 Rip](http://youtubemp3.rip/) - Download YouTube music videos as MP3 files without registration.
 - [FlixGrab](http://freegrabapp.com/product/flixgrab/) - Unique and powerful application for downloading NetFlix videos fast and for free.
-- [Massivedl](http://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
+- [Massivedl](https://github.com/dimkouv/massivedl) - A command line tool which helps to download a large number of files from the web in a short time.
 - [instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [drivedl](https://github.com/architdate/drivedl) - Download files from Google Drive (inclusive of teamdrives, shared with me and my drive) concurrently.
 
@@ -104,7 +104,7 @@ sidebar_label: DDL
 ## FTP
 
 - [glFTPd](http://glftpd.io/) - A great FTP server for anyone on a \*NIX platform.
-- [DrFTPD](http://github.com/drftpd-ng/drftpd3) - Distributed Daemon FTP Server v3.
+- [DrFTPD](https://github.com/drftpd-ng/drftpd3) - Distributed Daemon FTP Server v3.
 - [FlashFXP](http://www.flashfxp.com/) - Windows FTP Client. Supports FTP, FXP, FTPS, and SFTP file transfers. Free trial download.
 - [ioFTPD](http://www.flashfxp.com/forum/ioftpd/ioftpd/) - Fast & Lightweight FTP Daemon for Windows.
 - [RaidenFTPD](http://www.raidenftpd.com/en/) - FTP server software for Windows 7: RaidenFTPD is a widely used FTP server software. It works with Windows/Mac/Linux FTP clients and IE.

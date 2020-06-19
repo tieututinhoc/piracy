@@ -50,11 +50,11 @@ sidebar_label: Security
 ### eMail Clients
 
 - [Confidant](https://www.confidantmail.org/) - Another secure eMail provider, apps are planned.
-- [ElectronMail](http://github.com/vladimiry/ElectronMail) - Electron based wrapper for ProtonMail & Tutanota.
+- [ElectronMail](https://github.com/vladimiry/ElectronMail) - Electron based wrapper for ProtonMail & Tutanota.
 - [Lavabit](https://lavabit.com/) - Those guys are back and they are now developing their own mail protocol for secure communication.
 - [Mozilla Thunderbird](http://www.thunderbird.net/en-US/) - Well-known open source eMail Client from Mozilla.
 - [p=p](http://www.pep.security/) - Pretty Easy Privacy (p=p) - email client encrypts all communications in your email without the need for you to create new accounts.
-- [Tutanota](http://github.com/tutao/tutanota) - Email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.
+- [Tutanota](https://github.com/tutao/tutanota) - Email client with a strong focus on security and privacy that lets you encrypt emails on all your devices.
 
 ## Data leak checking
 
@@ -498,11 +498,11 @@ This connects you with Tor2web, which then talks to the onion service via Tor an
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - An in-depth guide on purging Windows 10 of Microsoft's attempts to track you.
 - [Windows 10 hardening by CHEF-KOCH](https://github.com/CHEF-KOCH/Windows-10-hardening) - Windows 10 hardening without gimmicks.
 - [BlackBird](http://www.getblackbird.net/) - Blocks telemetry, Ads etc.
-- [DisableWinTracking](http://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to disable tracking in Windows 10.
+- [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) - Uses some known methods that attempt to disable tracking in Windows 10.
 - [O&O ShutUp10](http://www.oo-software.com/en/shutup10) - Have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
-- [Tallow - Transparent Tor for Windows](http://github.com/basil00/TorWall) - Tallow is a small program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
+- [Tallow - Transparent Tor for Windows](https://github.com/basil00/TorWall) - Tallow is a small program that redirects all outbound traffic from a Windows machine via the Tor anonymity network.
 - [W10Privacy](http://www.winprivacy.de/english-home/) - Yet another little utility similar to O&O ShutUp.
-- [Win10-Initial-Setup-Script](http://github.com/Disassembler0/Win10-Initial-Setup-Script) - A customizable script to setup script via PowerShell/CMD.
+- [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - A customizable script to setup script via PowerShell/CMD.
 - [Winaero](http://winaero.com/download.php) - Free, small and useful software for Windows.
 - [Windows Privacy Tweaker](http://www.phrozen.io/freeware/windows-privacy-tweaker/) - Freeware app from phrozen.io.
 - [WPD](http://wpd.app/) - The real privacy dashboard for Windows.
@@ -659,10 +659,10 @@ This connects you with Tor2web, which then talks to the onion service via Tor an
 - [Forget](http://forget.codl.fr/about/) - Automatically deletes your old posts that everyone has forgotten about.
 - [Keybase](http://keybase.io/docs/extension) - Keybase Extension Brings End-to-End Encrypted Chat To Twitter, Reddit & GitHub.
 - [Reddit PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - Delete old reddit posts.
-- [Nuke Reddit History](http://github.com/sr33/Nuke-Reddit-History) - [Firefox add-on](http://addons.mozilla.org/en-US/firefox/addon/nukereddithistory/) - + [Chrome extension](http://chrome.google.com/webstore/detail/nuke-reddit-history/aclagjkmidmkcdhkhlicmgkgmpgccaod/)
+- [Nuke Reddit History](https://github.com/sr33/Nuke-Reddit-History) - [Firefox add-on](http://addons.mozilla.org/en-US/firefox/addon/nukereddithistory/) - + [Chrome extension](http://chrome.google.com/webstore/detail/nuke-reddit-history/aclagjkmidmkcdhkhlicmgkgmpgccaod/)
 - [Random AI generated profile pictures](http://notarealhuman.com/) - Random AI generated profile pictures.
 - [ShadowCrypt](http://shadowcrypt-release.weebly.com/about.html) - Chrome extension that brings encrypted messaging to Internet sites such as Reddit, Facebook or Twitter., it is a bit outdated but still works. (Keep in mind that this extension has a security hole which might reveal your encrypted messages).
-- [Social Amnesia](http://github.com/Nick-Gottschlich/Social-Amnesia) - Deletes Twitter and Reddit content based on your terms.
+- [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) - Deletes Twitter and Reddit content based on your terms.
 - [TweetDelete](http://www.tweetdelete.net/) - Protect your privacy by automatically deleting posts older than a specified age from your Twitter feed.
 - [Framapiaf](https://framapiaf.org/about/) - Mastodon instance of [Framasoft](https://framasoft.org) - A nonprofit organization focusing on free-software alorisation.
 - [Mamot](https://mamot.fr/about/) - Mastodon instance of the [La Quadrature du Net](https://www.laquadrature.net/en/) - A French advocacy group that promotes digital rights and freedoms of citizens.

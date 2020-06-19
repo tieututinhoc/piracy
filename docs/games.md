@@ -154,7 +154,7 @@ sidebar_label: Games
 
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - Retro video game emulation for macOS.
 - [higan](http://higan.byuu.org/) - Originally called "bsnes", the emulator supports Mega Drive, SNES, GBC & other systems.
-- [RetroArch](http://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API (supports multiple cores/systems).
+- [RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API (supports multiple cores/systems).
 
 ### Amiga
 
@@ -162,7 +162,7 @@ sidebar_label: Games
 
 ### Arcade
 
-- [MAME](http://github.com/mamedev/mame) - Multiple Arcade Machine Emulator (MAME) - is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.
+- [MAME](https://github.com/mamedev/mame) - Multiple Arcade Machine Emulator (MAME) - is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms.
 
 ### Atari
 
@@ -170,28 +170,28 @@ sidebar_label: Games
 
 ### xBox 360
 
-- [Xenia](http://github.com/xenia-project/xenia) - Xbox 360 emulator.
+- [Xenia](https://github.com/xenia-project/xenia) - Xbox 360 emulator.
 
 ### SNES
 
-- [Mesen](http://github.com/SourMesen/Mesen-S) - Mesen-S is a cross-platform (Windows & Linux) - SNES emulator built in C++ and C#. Mesen claims to be the most accurate SNES emulator.
-- [Snes9x](http://github.com/snes9xgit/snes9x) - SNES emulator written in C++ with official ports for DOS, Linux, Microsoft Windows, AmigaOS 4, macOS, MorphOS, Xbox, PSP, PS3, Nintendo GameCube, Nintendo Wii, iOS, and Android.
+- [Mesen](https://github.com/SourMesen/Mesen-S) - Mesen-S is a cross-platform (Windows & Linux) - SNES emulator built in C++ and C#. Mesen claims to be the most accurate SNES emulator.
+- [Snes9x](https://github.com/snes9xgit/snes9x) - SNES emulator written in C++ with official ports for DOS, Linux, Microsoft Windows, AmigaOS 4, macOS, MorphOS, Xbox, PSP, PS3, Nintendo GameCube, Nintendo Wii, iOS, and Android.
 
 ### NES (Super NES/Famicom)
 
-- [fceux](http://github.com/TASVideos/fceux) - FCEUX, a NES Emulator.
-- [nes](http://github.com/fogleman/nes) - NES emulator written in Go.
-- [JsNES](http://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
+- [fceux](https://github.com/TASVideos/fceux) - FCEUX, a NES Emulator.
+- [nes](https://github.com/fogleman/nes) - NES emulator written in Go.
+- [JsNES](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 
 ### Nintendo 64
 
-- [1964](http://github.com/schibo/1964js) - One of the oldest and most popular N64 emulators written in C++.
+- [1964](https://github.com/schibo/1964js) - One of the oldest and most popular N64 emulators written in C++.
 - [Mupen64Plus (Mupen64-64bit/Mupen64-amd64)](http://mupen64plus.org/) - Written in C, C++, allows users to play Nintendo 64 games on a computer by reading ROM images.
 - [parallel-n64](https://github.com/libretro/parallel-n64) - Optimized/rewritten Nintendo 64 emulator made specifically for Libretro. Originally based on Mupen64 Plus.
 
 ### GameCube/Wii
 
-- [Dolphin](http://github.com/dolphin-emu/dolphin) - Supports Windows, Linux, macOS and Android.
+- [Dolphin](https://github.com/dolphin-emu/dolphin) - Supports Windows, Linux, macOS and Android.
 
 ### Wii U
 
@@ -227,12 +227,12 @@ sidebar_label: Games
 
 ### PlayStation 3
 
-- [RPCS3](http://github.com/rpcs3/rpcs3/) - Video game console emulator and debugger for the Sony PlayStation 3 written in C++.
+- [RPCS3](https://github.com/rpcs3/rpcs3/) - Video game console emulator and debugger for the Sony PlayStation 3 written in C++.
 
 ### PlayStation Portable
 
-- [PPSSPP](http://github.com/hrydgard/ppsspp/) - Free and open-source PSP emulator for Windows, macOS, Linux, iOS, Android, BlackBerry 10 and SymbianOS.
-- [PCSX-Reloaded](http://github.com/iCatButler/pcsxr) - Supports Microsoft Windows, macOS and Linux.
+- [PPSSPP](https://github.com/hrydgard/ppsspp/) - Free and open-source PSP emulator for Windows, macOS, Linux, iOS, Android, BlackBerry 10 and SymbianOS.
+- [PCSX-Reloaded](https://github.com/iCatButler/pcsxr) - Supports Microsoft Windows, macOS and Linux.
 - [ePSXe](http://www.epsxe.com/) - PlayStation video game console emulator for x86-based PC hardware with Microsoft Windows or Linux.
 
 ## DOS games

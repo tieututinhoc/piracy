@@ -19,10 +19,10 @@ sidebar_label: File Sharing
 - [OnionShare](http://onionshare.org/) - Securely and anonymously share a file of any size.
 - [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [Muwire](https://muwire.com/) - I2P based file-sharing program.
-- [Plowshare](http://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites.
+- [Plowshare](https://github.com/mcrapet/plowshare) - Command-line tool and engine for managing sharing websites.
 - [PushBullet for desktop](http://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
 - [PushBullet](http://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
 - [Quazaa](http://sourceforge.net/projects/quazaa/) - A cross platform multi-network peer-to-peer (P2P) - file-sharing client.
-- [Wormhole](http://github.com/warner/magic-wormhole) - Get arbitrary-sized files and directories (or short pieces of text) - from one computer to another safely.
+- [Wormhole](https://github.com/warner/magic-wormhole) - Get arbitrary-sized files and directories (or short pieces of text) - from one computer to another safely.
 - [aria2](http://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
-- [uds](http://github.com/stewartmcgown/uds) - Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.
+- [uds](https://github.com/stewartmcgown/uds) - Open source utility to split your files into babse64 parts which are small enough to be uploaded to Google Doc's.

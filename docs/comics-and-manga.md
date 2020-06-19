@@ -52,4 +52,4 @@ sidebar_label: Comics and Manga
 - [n1mo/manga](https://github.com/n1mo/manga) - A open source mangareader.net downloader written in python.
 - [mangadex-dl](https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org.
 - [HakuNeko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & macOS.
-- [Mylar](http://github.com/evilhero/mylar) - An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents.
+- [Mylar](https://github.com/evilhero/mylar) - An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents.

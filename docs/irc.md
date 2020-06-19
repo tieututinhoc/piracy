@@ -19,10 +19,10 @@ sidebar_label: IRC
 - [HexChat](http://hexchat.github.io/) - HexChat is an IRC client based on XChat, but unlike XChat it is completely free for both Windows and Unix-like systems.
 - [irssi](http://irssi.org/) - Your text mode chatting application since 1999.
 - [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support.
-- [KVIrc](http://github.com/kvirc/KVIrc) - Yet another graphical IRC client.
-- [Shout](http://github.com/erming/shout) - The self-hosted web IRC client.
+- [KVIrc](https://github.com/kvirc/KVIrc) - Yet another graphical IRC client.
+- [Shout](https://github.com/erming/shout) - The self-hosted web IRC client.
 - [The Lounge](http://hub.docker.com/r/linuxserver/thelounge/) - TheLounge (a fork of shoutIRC) - is a web IRC client that you host on your own server.
-- [weechat](http://github.com/weechat/weechat) - The extensible chat client.
+- [weechat](https://github.com/weechat/weechat) - The extensible chat client.
 - [Convos](http://convos.by/) - Always online web IRC client.
 - [InspIRCd](https://www.inspircd.org/) - Modular IRC server written in C++ for Linux, BSD, Windows, and macOS.
 - [Dispatch](https://github.com/khlieng/dispatch) - Self-hosted web IRC client written in Go.

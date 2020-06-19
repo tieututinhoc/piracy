@@ -91,8 +91,8 @@ sidebar_label: Music and podcasts
 
 - [Athame](https://github.com/fuzzybabybunny/Athame) - An extensible music download tool written in C#.
 - [Chimera](https://notabug.org/Aesir/chimera) - Download music from Deezer, Tidal, Qobuz, Napster, Spotify (sourced from Tidal or Deezer), Google Play Music, SoundCloud.
-- [Headphones](http://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
-- [Lidarr](http://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+- [Headphones](https://github.com/rembo10/headphones) - Automatic music downloader for SABnzbd.
+- [Lidarr](https://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 - [betanin](https://github.com/sentriz/betanin/) - Music organization man-in-the-middle of your torrent client and music player, based on beets.io, similar to Sonarr and Radarr.
 - [Qo-DL](https://github.com/vvaidy/Qo-DL) - Tool written in Python to download MP3s & FLACs from Qobuz.
   - [Qo-DL-Reborn](https://github.com/badumbass/Qo-DL-Reborn) - Tool written in Python to download streamable tracks from Qobuz.
