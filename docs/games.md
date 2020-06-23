@@ -260,6 +260,7 @@ sidebar_label: Games
 - [Tapochek](http://tapochek.net/) - Official R.G Mechanics repacks can be found here.
 - [Xatab Repacks](https://xatab-repack.net) - (RU) - Russian game repacker, provides primarily torrents.
 - [Zorro](https://zorro.thebitbrine.com/) - Search engine for repacks from FitGirl, Xatab, Skidrow & more...
+- [TorrentGames](https://anonym.to/?https://utorrentgames.org/) - (`RU`) - Russian game repacker site, delivers the games via torrent.
 
 ## ROMs
 

@@ -44,6 +44,7 @@ sidebar_label: Torrents
 - [Search Torrents](https://search.torrents.io/)
 - [Toorgle](http://www.toorgle.com/) - `insecure`.
 - [Magnetico](https://github.com/boramalper/magnetico) - Autonomous and self-hosted BitTorrent DHT search engine suite.
+- [idope](https://anonym.to/?https://idope.se/) - A torrent seatch engine and a tribute to KickAss Torrents.
 
 ## Torrent Trackers
 
@@ -132,6 +133,7 @@ sidebar_label: Torrents
 - [xktorrent](https://xktorrent.com/) - (`FR`) - Movie/TV/General.
 - [ShareWood](https://www.sharewood.tv/login) - (`FR`) - Movie/TV/General.
 - [aussierul](https://aussierul.es/)
+- [demonoid](https://www.demonoid.is/)
 
 ### Public Trackers
 
