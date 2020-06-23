@@ -21,16 +21,9 @@ jobs:
 
             - run: echo ${{ steps.check.outputs.result }} > link-checker.log
 
-            - name: Close Old Issue
-              uses: bdougie/close-issues-based-on-label@master
-              env:
-                LABEL: bad links
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-            - name: Create New Issue
-              uses: peter-evans/create-issue-from-file@v2
+            - name: Update gist
+              uses: popsiclestick/gist-sync-action@v1.0.0
               with:
-
                   auth: ${{ secrets.GH_TOKEN }}
                   gist_url: https://gist.github.com/maximousblk/4d3af38b6491002d93fab464ad6a9e00
                   gist_title: link-checker.log
