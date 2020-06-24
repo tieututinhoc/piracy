@@ -24,3 +24,4 @@ sidebar_label: Academics
 - [voteforbrooke](http://voteforbrooke.com) - (`insecure`) - Various eBooks including sci-fi and academic papers and books.
 - [scribd-downloader](https://github.com/Phoenix124/scribd-downloader) - Tools to download documents from scribd.
 - [dlscrib](https://dlscrib.com/) - Search and download from scribd.
+- [dezoomify-rs](https://lovasoa.github.io/dezoomify-rs/) - Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and more.

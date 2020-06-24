@@ -44,7 +44,7 @@ sidebar_label: Torrents
 - [Search Torrents](https://search.torrents.io/)
 - [Toorgle](http://www.toorgle.com/) - `insecure`.
 - [Magnetico](https://github.com/boramalper/magnetico) - Autonomous and self-hosted BitTorrent DHT search engine suite.
-- [idope](https://anonym.to/?https://idope.se/) - A torrent seatch engine and a tribute to KickAss Torrents.
+- [idope](https://idope.se/) - A torrent seatch engine and a tribute to KickAss Torrents.
 
 ## Torrent Trackers
 
@@ -161,7 +161,7 @@ sidebar_label: Torrents
 - [KickAss Torrents](https://katcr.co/) - Community-made reincarnation launched in 2016.
 - [LBRY](https://beta.lbry.tv/) - & [source code](https://github.com/lbryio/lbrytv) - Search engine for games, videos, music & more.
 - [LimeTorrents](https://www.limetorrents.info/) - LimeTorrents has been around for more than half a decade.
-- [MagnetDL](https://anonym.to/https://www.magnetdl.com) - Find your download by searching thousands of magnet links using our search engine.
+- [MagnetDL](https://www.magnetdl.com) - Find your download by searching thousands of magnet links using our search engine.
 - [Monitor Shodan](https://monitor.shodan.io/) - Keep track of the devices that you have exposed to the Internet. Setup notifications, launch scans and gain complete visibility into what you have connected.
 - [MKVCage](https://www.mkvcage.nl/) - (warning) - Rebooted (unofficial) - MKVCage website. It's not in any relationship with the original _project_.
 - [Mp4ba.cc](http://mp4ba.cc/) - (CN _insecure_) - Videos, TV series and animes.

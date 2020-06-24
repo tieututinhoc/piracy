@@ -260,7 +260,7 @@ sidebar_label: Games
 - [Tapochek](http://tapochek.net/) - Official R.G Mechanics repacks can be found here.
 - [Xatab Repacks](https://xatab-repack.net) - (RU) - Russian game repacker, provides primarily torrents.
 - [Zorro](https://zorro.thebitbrine.com/) - Search engine for repacks from FitGirl, Xatab, Skidrow & more...
-- [TorrentGames](https://anonym.to/?https://utorrentgames.org/) - (`RU`) - Russian game repacker site, delivers the games via torrent.
+- [TorrentGames](https://utorrentgames.org/) - (`RU`) - Russian game repacker site, delivers the games via torrent.
 
 ## ROMs
 
@@ -276,11 +276,11 @@ sidebar_label: Games
 - [myabandonware](https://www.myabandonware.com/) - More than 14,000 old games to download, for free!.
 - [No Intro DAT-o-MATIC](https://datomatic.no-intro.org/) - List of Xbox, Nintendo etc games.
 - [Old Games Finder](http://www.oldgamesfinder.com/) - Old Games Finder is an automated old games search engine. (avoid ISO Zone links, as that site is dead).
-- [Retro Archive](https://anonym.to/https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Collection of all retro based ROM's.
+- [Retro Archive](https://archive.org/download/No-Intro-Collection_2016-01-03_Fixed) - Collection of all retro based ROM's.
 - [ROM Center paste](https://ybin.me/p/f120dd883deb63e4#iTLATNEVQsWc9ph77hnFRJRkf10SNyJyCTcJBuhJEz4=) - An archive collection of various game console ROMs.
 - [Rom Links Megathread - 1Fichier, GDrive, Mega](https://reddit.com/r/Roms/comments/9jmmhi/rom_links_megathread_1fichier_gdrive_mega/) - Nintendo, Sony, Microsoft, Romsets, Arcade and other ROM collections.
 - [ROM/ISO sites](http://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) - Wiki page from gametechwiki.com with more links to ROM and ISO websites.
-- [ROMNation](https://anonym.to/https://www.romnation.net/) - Lots of ROMs.
+- [ROMNation](https://www.romnation.net/) - Lots of ROMs.
 - [Romsmania](https://romsmania.cc/) - Another great ROMs collection with a decent UI to find stuff quick.
 - [Romulation.net](https://www.romulation.net/) - Collection of over ~28,000 console game ROMs.
 - [WowroMs](https://wowroms.com/) - Various ROMs collection.
