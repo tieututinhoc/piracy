@@ -1,32 +1,32 @@
-name: Check Links
+# name: Check Links
 
-on:
-    push:
-    schedule:
-        - cron: "0 0 1 */2 *"
+# on:
+#     push:
+#     schedule:
+#         - cron: "0 0 1 */2 *"
 
-jobs:
-    check:
-        runs-on: ubuntu-latest
+# jobs:
+#     check:
+#         runs-on: ubuntu-latest
 
-        steps:
-            - name: Setup repo
-              uses: actions/checkout@v2
+#         steps:
+#             - name: Setup repo
+#               uses: actions/checkout@v2
 
-            - uses: gaurav-nelson/github-action-markdown-link-check@v1
-              id: check
-              with:
-                  use-quiet-mode: "yes"
-                  folder-path: "docs"
+#             - uses: gaurav-nelson/github-action-markdown-link-check@v1
+#               id: check
+#               with:
+#                   use-quiet-mode: "yes"
+#                   folder-path: "docs"
 
-            - run: echo ${{ steps.check.outputs.result }} > link-checker.log
+#             - run: echo ${{ steps.check.outputs.result }} > link-checker.log
 
-            - name: Update gist
-              uses: popsiclestick/gist-sync-action@v1.0.0
-              with:
-                  auth: ${{ secrets.GH_TOKEN }}
-                  gist_url: https://gist.github.com/maximousblk/4d3af38b6491002d93fab464ad6a9e00
-                  gist_title: link-checker.log
-                  gist_description: Piracy list Link Checker Report
-                  github_file: ./link-checker.log
+#             - name: Update gist
+#               uses: popsiclestick/gist-sync-action@v1.0.0
+#               with:
+#                   auth: ${{ secrets.GH_TOKEN }}
+#                   gist_url: https://gist.github.com/maximousblk/4d3af38b6491002d93fab464ad6a9e00
+#                   gist_title: link-checker.log
+#                   gist_description: Piracy list Link Checker Report
+#                   github_file: ./link-checker.log
 
