@@ -127,6 +127,8 @@ sidebar_label: Tools
 - [REW](https://www.roomeqwizard.com/) - Free room acoustics analysis software for measuring and analysing room and loudspeaker responses (needs Java).
 - [RightMark Audio Analyzer (RMAA)](https://www.softpedia.com/get/System/Benchmarks/RightMark-Audio-Analyzer.shtml) - Check sound quality of your audio hardware.
 - [fre:ac](https://www.freac.org/) - Free audio converter and CD ripper with support for various popular formats and encoders.
+- [Evano](https://evano.com/online-audio-converter) - Free audio converter and editor with support for various popular formats and encoders such as MP3 WAV M4A OGG.
+
 
 ## Video Editing
 
@@ -137,6 +139,8 @@ sidebar_label: Tools
 - [Virtualdub2](http://sourceforge.net/projects/vdfiltermod/files/) - An enhanced version of the original VirtualDub.
 - [XMedia Recode](http://www.xmedia-recode.de/en/) - Freeware video and audio transcoding program.
 - [lossless-cut](https://github.com/mifi/lossless-cut) - Save space by quickly and losslessly trimming video and audio files.
+- [Evano](https://evano.com/online-video-converter) - Free video converter and editor with support for various popular formats and encoders such as MP4 WMV AVI MKV.
+
 
 ## Shell Script Development Tools
 
