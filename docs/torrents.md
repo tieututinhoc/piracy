@@ -67,7 +67,7 @@ sidebar_label: Torrents
 - [Audionews](https://audionews.org/) - (AN) - Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps etc) - Open signups on the 1st-2nd every month.
 - [Awesome HD](https://awesome-hd.me/) - (AHD) - Awesome-HD is a private tracker for quality enthusiasts.
 - [BakaBT](https://bakabt.me/) - (BBT) - a torrent tracker which specializes in serving anime fans.
-- [BeyondHD](https://beyondhd.xyz/) - (BHD) - BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
+- [BeyondHD](https://beyond-hd.me/) - (BHD) - BeyondHD is a ratioless torrent tracker dedicated to HD movies and TV shows in High Definition.
 - [Bibliotik](https://bibliotik.me/) - (BI) - Popular ebooks/audiobooks private tracker.
 - [Blutopia](https://blutopia.xyz) - (BLU) - Blutopia is a private tracker for HD movies (Blu-Ray) - and HD TV shows.
 - [CGPeers](https://www.cgpeers.com/) - (CGP) - CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.

@@ -30,3 +30,4 @@ This basically graveyard for all the dead links. None the links here are active 
 - [PDF-Giant](https://web.archive.org/web/*/pdf-giant.com/) - Provides a lot of different magazines.
 - [Lit Answers](https://web.archive.org/web/*/litanswers.org/) - Find homework answers.
 - [RealMVP](https://web.archive.org/web/*/realmvp.org/) - New eBooks, video and written tutorials.
+- [BaconFeet](https://web.archive.org/web/*/baconfeet.com/) - "Bringing a difference in streaming to the masses." ([r/BaconFeet](https://web.archive.org/web/*/www.reddit.com/r/BaconFeet/)).

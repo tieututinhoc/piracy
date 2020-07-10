@@ -57,6 +57,8 @@ sidebar_label: Games
 - [VseTop](https://vsetop.org/) - (RU) - Yet another russian website which buy their own games and release it to the mass.
 - [Warmane](https://www.warmane.com/) - Hosts private WoW Servers.
 - [Mabandonware](https://www.myabandonware.com/) - Older Video games.
+- [IGG-GAMES](https://igg-games.com/) - A popular DDL site that aggregates repacked and GOG games.
+- [GAMESTORRENT](https://pcgamestorrents.com/) - Hosts the same content as IGG-GAMES for users who prefer torrents.
 
 ### Steam
 
