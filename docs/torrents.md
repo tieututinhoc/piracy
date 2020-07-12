@@ -197,7 +197,7 @@ sidebar_label: Torrents
 - [PaHe.me](https://pahe.me/) - HQ Movies at Affordable Size.
 - [rutor.info](http://rutor.info/) - (`RU`) - Largest Russian language torrent website.
 - [ilcorsaronero.info](https://ilcorsaronero.xyz/) - (`It`) - Popular Italian torrent directory.
-- [yggtorrent.se](https://yggtorrent.se/) - (`FR`) - Popular French torrent directory.
+- [yggtorrent](https://yggtorrent.si/) - (`FR`) - Popular French torrent directory.
 - [Torrents9](https://vww.torrentz9.fr/) - (`FR`) - Yet another popular French torrent directory.
 - [Zone Annuaire](http://zone-annuaire.com/) - (`FR`) - Yet another popular French torrent directory.
 - [EZTV](https://eztv.io/) - EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
