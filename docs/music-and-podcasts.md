@@ -70,6 +70,8 @@ sidebar_label: Music and podcasts
 - [Free MPS Download.net](https://free-mp3-download.net/) - Search engine with streamable samples and download links.
 - [chimera](https://notabug.org/Aesir/chimera) - Multiple source terminal-based music downloader with audio search engine.
 - [Plus Premieres](https://www.pluspremieres.nz/) - iTunes M4A Music.
+- [Ontiva.com](https://ontiva.com/en) - Youtube to MP3 MP4 WAV FLAC converter and downloader.
+- [Evano.com](https://evano.com) - MP3 MP4 Converter and Editor, Audio and Video Recording.
 
 ### Tidal
 
