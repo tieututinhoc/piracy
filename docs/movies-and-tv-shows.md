@@ -351,6 +351,7 @@ sidebar_label: Movies and TV shows
 - [Rapid Moviez (RMZ)](https://rmz.cr/) - Movies and TV shows.
 - [60 FPS Movies](https://60-fps.org/) - Russian site for 60 fps Movies only.
 - [FilmXY](https://www.filmxy.one/) - Download Free Unlimited Movies Online From Filmxy At Great Quality! Here You Can Download Movies in Bluray, 1080p, 720p, HD, HDTV, Web-dl, DvD-rip & more.
+- [Ontiva.com](https://ontiva.com/en) - Youtube to MP3 MP4 WAV FLAC converter and downloader.
 
 ## Specialty Sites
 
@@ -423,6 +424,8 @@ sidebar_label: Movies and TV shows
 - [MakeMKV](https://www.makemkv.com/) - MakeMKV is your one-click solution to convert video that you own into free and patents-unencumbered format that can be played everywhere.
 - [sickbeard_mp4_automator](https://github.com/mdhiggins/sickbeard_mp4_automator) - Automatically convert video files to a standardized mp4 format with proper metadata tagging to create a beautiful and uniform media library.
 - [The Encoding Guide](https://encoding-guide.neocities.org/) - An in-depth guide on video encoding.
+- [Evano.com](https://evano.com) - MP3 MP4 Converter and Editor, Audio and Video Recording.
+
 
 ## Automation
 
