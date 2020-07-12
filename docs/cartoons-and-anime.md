@@ -131,6 +131,9 @@ sidebar_label: Anime
 - [AnimeKaizoku](https://animekaizoku.com/) - Onclick pop-up ads (NSFW), banner ads, no torrents, GDrive as download source (encodes for donators), has torrent version on nyaa.si tagged as `[AnimeKaizoku]`.
 - [Anime Dimension](https://animedimension.me/)
 - [Animes.so](https://www.animes.so) - (needs registration to see content) - Downloads, DL-Links for all sorts of Animes.
+- [Ontiva.com](https://ontiva.com/en) - Youtube to MP3 MP4 WAV FLAC converter and downloader.
+- [Evano.com](https://evano.com) - MP3 MP4 Converter and Editor, Audio Recording.
+
 
 ## Apps and Tools
 
